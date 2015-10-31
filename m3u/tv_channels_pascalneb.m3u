@@ -59,76 +59,8 @@ mms://213.142.142.213/turkmenelitv
 #EXTINF:-1,[COLOR yellow]--- SKY Deutschland ---[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,MGM 
-http://151.80.30.185:8000/live/bruce/bruce/220.m3u8
-
-#EXTINF:-1,Krimi 
-http://151.80.30.185:8000/live/bruce/bruce/224.m3u8
-
-#EXTINF:-1,Fox 
-http://151.80.30.185:8000/live/bruce/bruce/222.m3u8
-
-#EXTINF:-1,Disney Cinemagic 
-http://151.80.30.185:8000/live/bruce/bruce/227.m3u8
-
-#EXTINF:-1,Discovery Channel 
-http://151.80.30.185:8000/live/bruce/bruce/225.m3u8
-
-#EXTINF:-1,Animal Planet 
-http://151.80.30.185:8000/live/bruce/bruce/226.m3u8
-
-#EXTINF:-1,13th Street 
-http://151.80.30.185:8000/live/bruce/bruce/221.m3u8
-
-#EXTINF:-1,NickJr 
-http://151.80.30.185:8000/live/bruce/bruce/244.m3u8
-
-
-#EXTINF:-1,Sky TNT Serie 
-http://151.80.30.185:8000/live/bruce/bruce/364.m3u8
-
-#EXTINF:-1,Sky SyFy 
-http://151.80.30.185:8000/live/bruce/bruce/363.m3u8
-
-#EXTINF:-1,Sky Sport Austria 
-http://151.80.30.185:8000/live/bruce/bruce/362.m3u8
-
-#EXTINF:-1,Sky Sport 1 
-http://151.80.30.185:8000/live/bruce/bruce/360.m3u8
-
-#EXTINF:-1,Sky Sport 2 
-http://151.80.30.185:8000/live/bruce/bruce/361.m3u8
-
-
-#EXTINF:-1,Sky Passion 
-http://151.80.30.185:8000/live/bruce/bruce/359.m3u8
-
-#EXTINF:-1,Sky Krimi 
-http://151.80.30.185:8000/live/bruce/bruce/357.m3u8
-
-#EXTINF:-1,Sky Comedy 
-http://151.80.30.185:8000/live/bruce/bruce/353.m3u8
-
-#EXTINF:-1,Sky Cinema 
-http://151.80.30.185:8000/live/bruce/bruce/352.m3u8
-
-#EXTINF:-1,Sky Atlantic 
-http://151.80.30.185:8000/live/bruce/bruce/350.m3u8
-
-#EXTINF:-1,Sky Action 
-http://151.80.30.185:8000/live/bruce/bruce/349.m3u8
-
-#EXTINF:-1,Nat Geo Wild 
-http://151.80.30.185:8000/live/bruce/bruce/358.m3u8
-
-#EXTINF:-1,Fox  Backup
-http://151.80.30.185:8000/live/bruce/bruce/356.m3u8
-
-#EXTINF:-1,Disney XD 
-http://151.80.30.185:8000/live/bruce/bruce/355.m3u8
-
-#EXTINF:-1,Discovery 
-http://151.80.30.185:8000/live/bruce/bruce/354.m3u8
+#EXTINF:-1,[COLOR yellow]--- Yakinda Belki ---[/COLOR]
+http://0.0.0.0:1234
 
 
 #EXTINF:-1,[COLOR yellow]--- Deutsch-Kanale ---[/COLOR]

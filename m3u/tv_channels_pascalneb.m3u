@@ -55,31 +55,29 @@ http://tvlive.web.tv.streamprovider.net/akamairtmp/2daa5524735b98a7ab51ddd48663a
 http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
 #EXTINF:0,TÜRKMENELI TV  
 mms://213.142.142.213/turkmenelitv
-#EXTINF:-1,[COLOR yellow]--- Türkiye 2 ---[/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1,MAV› KARADEN›Z TV
+#EXTINF:0,MAV› KARADEN›Z TV
 rtmp://stream.taksimbilisim.com/mavikaradeniz//bant1
-#EXTINF:-1,MUZ TV(AZERBAYCAN)
+#EXTINF:0,MUZ TV(AZERBAYCAN)
 rtmp://85.132.78.6/live//muztv.stream
-#EXTINF:-1,NUMBER ONE T‹RK
+#EXTINF:0,NUMBER ONE T‹RK
 rtmp://mn-l.mncdn.com/birnumaramedya_live//nr1_turk.sdp
-#EXTINF:-1,S‹PER TV
+#EXTINF:0,S‹PER TV
 rtmp://balgurup.garantisistem.com/Super_Tv//Super_Tv
-#EXTINF:-1,TMB TV
+#EXTINF:0,TMB TV
 http://origin.live.web.tv.streamprovider.net/streams/d9e6fa870f10971af4d586baa96cbcd6_live_0_0/index.m3u8
-#EXTINF:-1,TRT M‹Z›K
+#EXTINF:0,TRT M‹Z›K
 http://sol.trtcdn.com/tv/trtmuzik/smil:trtmuzik.smil/playlist.m3u8
-#EXTINF:-1,TURKISH TV
+#EXTINF:0,TURKISH TV
 http://origin.live.web.tv.streamprovider.net/streams/f6da8d03b961bfc324c0c6d4de550d4c_live_0_0/index.m3u8
-#EXTINF:-1,VATAN TV
+#EXTINF:0,VATAN TV
 rtmp://188.124.1.135/vatan//vatan
-#EXTINF:-1,V›ZYONT‹RK TV
+#EXTINF:0,V›ZYONT‹RK TV
 http://yayin3.canlitv.com:1935/live/vizyonturktv/chunklist_w1232086360.m3u8
-#EXTINF:-1,YURDUM TV
+#EXTINF:0,YURDUM TV
 http://origin.live.web.tv.streamprovider.net/streams/9c332525d11e8af026616ef6999099bc/index.m3u8
-#EXTINF:-1,ZEYNO TV
+#EXTINF:0,ZEYNO TV
 http://origin2.live.web.tv.streamprovider.net/streams/f9804150295e0d67755899b3e55134e1/index.m3u8
-#EXTINF:-1,TRT BELGESEL HD
+#EXTINF:0,TRT BELGESEL HD
 rtmp://si.trtcdn.com/tv/trtbelgesel/mp4:trtbelgesel_3
 
 

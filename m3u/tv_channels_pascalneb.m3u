@@ -836,9 +836,4 @@ http://origin.live.web.tv.streamprovider.net/streams/f6da8d03b961bfc324c0c6d4de5
 rtmp://188.124.1.135/vatan//vatan
 #EXTINF:-1,V›ZYONT‹RK TV
 http://yayin3.canlitv.com:1935/live/vizyonturktv/chunklist_w1232086360.m3u8
-#EXTINF:-1,YURDUM TV
-http://origin.live.web.tv.streamprovider.net/streams/9c332525d11e8af026616ef6999099bc/index.m3u8
-#EXTINF:-1,ZEYNO TV
-http://origin2.live.web.tv.streamprovider.net/streams/f9804150295e0d67755899b3e55134e1/index.m3u8
-#EXTINF:-1,TRT BELGESEL HD
-rtmp://si.trtcdn.com/tv/trtbelgesel/mp4:trtbelgesel_3
+

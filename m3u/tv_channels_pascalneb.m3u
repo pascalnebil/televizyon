@@ -2,7 +2,7 @@
 #EXTINF:-1,[COLOR blue][I][B]--- 24-10-2015 ---[/B][/I][/COLOR]
 #EXTINF:-1, [COLOR green] --REDENEOBUX.COM 24-10-2015--[/COLOR]
 
-#EXTINF:-1,[COLOR yellow]--- Turkiye 1 ---[/COLOR]
+#EXTINF:-1,[COLOR yellow]--- Türkiye 1 ---[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0,TRT HD
@@ -55,6 +55,8 @@ http://tvlive.web.tv.streamprovider.net/akamairtmp/2daa5524735b98a7ab51ddd48663a
 http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
 #EXTINF:0,TÜRKMENELI TV  
 mms://213.142.142.213/turkmenelitv
+#EXTINF:-1,[COLOR yellow]--- Türkiye 2 ---[/COLOR]
+http://0.0.0.0:1234
 #EXTINF:-1,MAV› KARADEN›Z TV
 rtmp://stream.taksimbilisim.com/mavikaradeniz//bant1
 #EXTINF:-1,MUZ TV(AZERBAYCAN)

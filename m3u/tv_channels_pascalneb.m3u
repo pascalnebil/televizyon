@@ -55,6 +55,7 @@ http://tvlive.web.tv.streamprovider.net/akamairtmp/2daa5524735b98a7ab51ddd48663a
 http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
 #EXTINF:0,TÜRKMENELI TV  
 mms://213.142.142.213/turkmenelitv
+#EXTM3U
 #EXTINF:0,MAV› KARADEN›Z TV
 rtmp://stream.taksimbilisim.com/mavikaradeniz//bant1
 #EXTINF:0,MUZ TV(AZERBAYCAN)

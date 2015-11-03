@@ -15,8 +15,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
 #EXTINF:0,TRT Muzik Music
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:0,TRT cocuk Kid
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:0,TRT AVAZ
 http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
 #EXTINF:0,TRT EL ARABIA
@@ -61,8 +59,6 @@ http://tvlive.web.tv.streamprovider.net/akamairtmp/2daa5524735b98a7ab51ddd48663a
 http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
 #EXTINF:0,TÜRKMENELI TV  
 mms://213.142.142.213/turkmenelitv
-#EXTINF:-1,PLANET «OCUK
-http://origin.live.web.tv.streamprovider.net/streams/852843e69184bd2c2146ae50e7aba5c3_live_0_0/index.m3u8
 #EXTINF:-1,A SPOR
 http://origin2.live.web.tv.streamprovider.net/streams/a6784af7d08a9c91dbfa0e4eab17e3bf_live_0_0/index.m3u8
 #EXTINF:-1,BURSASPOR TV
@@ -137,8 +133,6 @@ http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
 http://stream.gostream.nl/ulketvhq/ulketvhq.m3u8
 #EXTINF:-1 group-title="TÜRKİYE FAVORI",ZAMANTV.m3u8
 http://hasbahcaiptv.com/iptv/tr/HasBahCa_ZAMANTV.m3u8
-#EXTINF:-1 group-title="TURK_ULUSAL",4 Karamel
-http://trt-i.mncdn.com:1935/karamel/karamel/chunklist_w59601545.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",zzz CINE 5 m3u8
 http://cine5.mobil.cubecdn.net/cine5/stream_1.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",BELGESEL TV MMS -480*384
@@ -151,12 +145,18 @@ http://yayin8.canliyayin.org:1935/hilaltv/hilaltv/HasBahCa.m3u8
 http://livetr.gostream.nl/mekke/mekke/HasBahCa.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",MEDINE TV
 http://livede.gostream.nl/medine/medine/playlist.m3u8
+#EXTINF:0,TRT cocuk Kid
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:-1 group-title="TÜRKİYE YEDEK",MİNİKA ÇOCUK m3u8 origin.live 640*360
 http://origin.live.web.tv.streamprovider.net/streams/f79e39a0979af7718cf4828779c7ef26_live_0_0/index.m3u8
 #EXTINF:-1 group-title="TÜRKİYE YEDEK",MİNİKA GO m3u8 origin.live 640*360
 http://origin.live.web.tv.streamprovider.net/streams/24b429ab889afc37becb9e59ff84820c_live_0_0/index.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",DISNEY  Türk
 http://212.224.108.83/S2/HLS_LIVE/disney/track_4_1000/playlist.m3u8
+#EXTINF:-1 group-title="TURK_ULUSAL",4 Karamel
+http://trt-i.mncdn.com:1935/karamel/karamel/chunklist_w59601545.m3u8
+#EXTINF:-1,PLANET «OCUK
+http://origin.live.web.tv.streamprovider.net/streams/852843e69184bd2c2146ae50e7aba5c3_live_0_0/index.m3u8
 #EXTINF:-1 group-title="DTURK_DSMART",SUPERLI G MAC YAYINLARI
 http://92.222.205.40:8080/superlig
 #EXTINF:-1 group-title="Turki",AZ TV Azerbaycan

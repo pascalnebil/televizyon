@@ -170,11 +170,270 @@ http://hasbahcaiptv.com/iptv/tr/HasBahCa_7-24TV.m3u8
 
 
 
-#EXTINF:-1,[COLOR yellow]--- SKY Deutschland ---[/COLOR]
+#EXTINF:-1,[COLOR yellow]--- SKY DE & EU Sport ---[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,[COLOR red]— Yakinda Belki ---[/COLOR]
+#EXTINF:-1,[COLOR red]— Fadini Cikarin Simdilik ---[/COLOR]
 http://0.0.0.0:1234
+#EXTM3U
+EXTINF:-1,------SKY-DE------
+http://iptv.electro-clair.net:8000/live/saleh/saleh/1513.m3u8
+#EXTINF:-1,DE:Sky-Cinema
+http://iptv.electro-clair.net:8000/live/saleh/saleh/176.m3u8
+#EXTINF:-1,DE--Sky-Cinema
+http://iptv.electro-clair.net:8000/live/saleh/saleh/323.m3u8
+#EXTINF:-1,DE:Sky-Emotion
+http://iptv.electro-clair.net:8000/live/saleh/saleh/179.m3u8
+#EXTINF:-1,DE SKY.Emotion
+http://iptv.electro-clair.net:8000/live/saleh/saleh/436.m3u8
+#EXTINF:-1,DE:SKY.EMOTION
+http://iptv.electro-clair.net:8000/live/saleh/saleh/317.m3u8
+#EXTINF:-1,DE:Sky.Comedy
+http://iptv.electro-clair.net:8000/live/saleh/saleh/314.m3u8
+#EXTINF:-1,DE:Sky.ComedyHD
+http://iptv.electro-clair.net:8000/live/saleh/saleh/434.m3u8
+#EXTINF:-1,DE:SKY.ACTION
+http://iptv.electro-clair.net:8000/live/saleh/saleh/318.m3u8
+#EXTINF:-1,DE:Sky_action
+http://iptv.electro-clair.net:8000/live/saleh/saleh/437.m3u8
+#EXTINF:-1,DE,Sky:Action
+http://iptv.electro-clair.net:8000/live/saleh/saleh/180.m3u8
+#EXTINF:-1,DE:SKY.CINEMA.1
+http://iptv.electro-clair.net:8000/live/saleh/saleh/1130.m3u8
+#EXTINF:-1,DE:Sky.Germany.Cinema1
+http://iptv.electro-clair.net:8000/live/saleh/saleh/313.m3u8
+#EXTINF:-1,DE:Sky.Cinema.24HD
+http://iptv.electro-clair.net:8000/live/saleh/saleh/315.m3u8
+#EXTINF:-1,DE:SKY.CINEMA.COMEDY
+http://iptv.electro-clair.net:8000/live/saleh/saleh/319.m3u8
+#EXTINF:-1,DE:Sky-Hits
+http://iptv.electro-clair.net:8000/live/saleh/saleh/178.m3u8
+#EXTINF:-1,DE:Sky.National.GeographicHD
+http://iptv.electro-clair.net:8000/live/saleh/saleh/316.m3u8
+#EXTINF:-1,DE:Sky_Bundesliga
+http://iptv.electro-clair.net:8000/live/saleh/saleh/438.m3u8
+#EXTINF:-1,DE:Sky.Bundesliga1HD
+http://iptv.electro-clair.net:8000/live/saleh/saleh/322.m3u8
+#EXTINF:-1,DE,SkySport1;HD
+http://iptv.electro-clair.net:8000/live/saleh/saleh/185.m3u8
+#EXTINF:-1,DE:SKY.SPORT.HD1
+http://iptv.electro-clair.net:8000/live/saleh/saleh/1127.m3u8
+#EXTINF:-1,DE-Sky-Sport-1HD
+http://iptv.electro-clair.net:8000/live/saleh/saleh/321.m3u8
+#EXTINF:-1,DE:Sky.Select1
+http://iptv.electro-clair.net:8000/live/saleh/saleh/427.m3u8
+#EXTINF:-1,DE;Sky;Sport2;HD
+http://iptv.electro-clair.net:8000/live/saleh/saleh/186.m3u8
+#EXTINF:-1,DE:sky.select2.HD
+http://iptv.electro-clair.net:8000/live/saleh/saleh/428.m3u8
+#EXTINF:-1,DE:sky.select3.HD
+http://iptv.electro-clair.net:8000/live/saleh/saleh/429.m3u8
+#EXTINF:-1,DE:sky.select4.HD
+http://iptv.electro-clair.net:8000/live/saleh/saleh/430.m3u8
+#EXTINF:-1,DE:sky.select5.HD
+http://iptv.electro-clair.net:8000/live/saleh/saleh/431.m3u8
+
+#EXTINF:-1,----------Germania---------
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1509.m3u8
+#EXTINF:-1,DE - Sky Sport 1 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1433.m3u8
+#EXTINF:-1,DE - Sky Sport 2 Hd
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1432.m3u8
+#EXTINF:-1,DE - Sky Sport 3 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1539.m3u8
+#EXTINF:-1,DE - Sky Sport 4 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1540.m3u8
+#EXTINF:-1,DE - Sky Sport 5 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1541.m3u8
+#EXTINF:-1,DE - Sky Sport 6 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1542.m3u8
+#EXTINF:-1,DE - Sky Sport 7 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1543.m3u8
+#EXTINF:-1,DE - Sky Sport 8 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1544.m3u8
+#EXTINF:-1,DE - Sky Sport 9 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1545.m3u8
+#EXTINF:-1,DE - Sky Sport 10 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1546.m3u8
+#EXTINF:-1,DE - Sky Bundesliga 1 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1444.m3u8
+#EXTINF:-1,DE - Sky Bundesliga 2 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1480.m3u8
+#EXTINF:-1,DE - Sky Bundesliga 3 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1481.m3u8
+#EXTINF:-1,DE - Sky Bundesliga 4 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1482.m3u8
+#EXTINF:-1,DE - Sky Bundesliga 5 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1547.m3u8
+#EXTINF:-1,DE - Sky Bundesliga 6 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1548.m3u8
+#EXTINF:-1,DE - Sky Bundesliga 7 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1549.m3u8
+#EXTINF:-1,DE - Sky Bundesliga 8 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1550.m3u8
+#EXTINF:-1,DE - Sky Bundesliga 9 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1551.m3u8
+#EXTINF:-1,DE - Sky Bundesliga 10 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1552.m3u8
+#EXTINF:-1,DE - Sport 1  HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1431.m3u8
+#EXTINF:-1,--------Svizzeri---------
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1515.m3u8
+#EXTINF:-1,Teleclub Sport1
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/399.m3u8
+#EXTINF:-1,Teleclub Sport2
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/400.m3u8
+#EXTINF:-1,Teleclub Sport3
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/401.m3u8
+#EXTINF:-1,-----------Spagna----------
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1512.m3u8
+#EXTINF:-1,ES: Canal  Liga HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1400.m3u8
+#EXTINF:-1,-----------UK-------------
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1513.m3u8
+#EXTINF:-1,UK: Sky Uk Sport 1 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1391.m3u8
+#EXTINF:-1,UK: Sky Uk Sport 2 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1392.m3u8
+#EXTINF:-1,UK: Sky Uk Sport 3 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1393.m3u8
+#EXTINF:-1,UK: Sky Uk Sport 4 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1394.m3u8
+#EXTINF:-1,UK: Sky Uk Sport 5 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1395.m3u8
+#EXTINF:-1,----------Balkan----------
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1510.m3u8
+#EXTINF:-1,EX-YU: ARENA Sport 1 (SRB)
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1387.m3u8
+#EXTINF:-1,EX-YU: ARENA Sport 2 (SRB)
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1388.m3u8
+#EXTINF:-1,EX-YU: ARENA Sport 3 (SRB)
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1389.m3u8
+#EXTINF:-1,EX-YU: ARENA Sport 4 (SRB)
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1390.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 1 HR
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1382.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 2 HR
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1383.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 3 HR
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1384.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 4 HR
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1385.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 5 HR
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1386.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 1 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1379.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 2 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1380.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 3 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1381.m3u8
+#EXTINF:-1,EX-YU: SPORTKLUB 2
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1377.m3u8
+#EXTINF:-1,EX-YU: SPORTKLUB 3
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1378.m3u8
+#EXTINF:-1,NL: Sport1 Voetbal HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1405.m3u8
+#EXTINF:-1,----------Olanda---------
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1511.m3u8
+#EXTINF:-1,NL: Fox Sports 1 Eredivisie HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1407.m3u8
+#EXTINF:-1,NL: Fox Sports 2 International
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1408.m3u8
+#EXTINF:-1,NL: Fox Sports 3 Eredivisie
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1409.m3u8
+#EXTINF:-1,NL: Fox Sports 4 Internationaal
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1410.m3u8
+#EXTINF:-1,------------------Germania------------------
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/124.m3u8
+#EXTINF:-1,DE - ARD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1473.m3u8
+#EXTINF:-1,DE - ZDF
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1420.m3u8
+#EXTINF:-1,DE - WDR HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1421.m3u8
+#EXTINF:-1,DE - 3SAT HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1474.m3u8
+#EXTINF:-1,DE - Sat 1 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1449.m3u8
+#EXTINF:-1,DE - RTL HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1451.m3u8
+#EXTINF:-1,DE - VOX HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1422.m3u8
+#EXTINF:-1,DE - RTL 2 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1452.m3u8
+#EXTINF:-1,DE - Pro 7
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1455.m3u8
+#EXTINF:-1,DE - Kabel1 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1463.m3u8
+#EXTINF:-1,DE - Sixx HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1448.m3u8
+#EXTINF:-1,DE - RTL Nitro
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1450.m3u8
+#EXTINF:-1,DE - Super RTL HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1428.m3u8
+#EXTINF:-1,DE - KIKA HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1462.m3u8
+#EXTINF:-1,DE - N24 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1459.m3u8
+#EXTINF:-1,DE - N-TV
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1460.m3u8
+#EXTINF:-1,DE - Sky Cinema HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1443.m3u8
+#EXTINF:-1,DE - Sky Germany Cinema  1
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1438.m3u8
+#EXTINF:-1,DE - Sky Germany Cinema  24
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1439.m3u8
+#EXTINF:-1,DE - Sky Action HD de
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1446.m3u8
+#EXTINF:-1,DE - Sky Cinema Hits HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1442.m3u8
+#EXTINF:-1,DE - SKY EMOTION
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1440.m3u8
+#EXTINF:-1,DE - Sky Comedy
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1441.m3u8
+#EXTINF:-1,DE - Sky 3D
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1447.m3u8
+#EXTINF:-1,DE - Eurosport HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1466.m3u8
+#EXTINF:-1,DE - TNT SERIE
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1423.m3u8
+#EXTINF:-1,DE - TNT FILM
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1424.m3u8
+#EXTINF:-1,DE - Sky Nat Geo Wild
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1434.m3u8
+#EXTINF:-1,DE - SKY KRIMI
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1435.m3u8
+#EXTINF:-1,DE - Sky Germany MGM HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1437.m3u8
+#EXTINF:-1,DE - Pro 7 Maxx
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1454.m3u8
+#EXTINF:-1,DE - Romance TV
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1453.m3u8
+#EXTINF:-1,DE - Fox HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1464.m3u8
+#EXTINF:-1,DE - DMAX
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1467.m3u8
+#EXTINF:-1,DE - 13TH  STREET
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1475.m3u8
+#EXTINF:-1,DE - Arte HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1472.m3u8
+#EXTINF:-1,DE - Discovery Channel HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1468.m3u8
+#EXTINF:-1,DE - NATIONAL GEO CHANNEL HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1458.m3u8
+#EXTINF:-1,-------Canali Svizzeri---------
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1514.m3u8
+#EXTINF:-1,DE - SRF 1 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1430.m3u8
+#EXTINF:-1,DE - SRF 2 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1429.m3u8
+#EXTINF:-1,DE - ORF 1 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1457.m3u8
+#EXTINF:-1,DE - ORF 2
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1456.m3u8
+#EXTINF:-1,DE - Teleclub Cinema
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1427.m3u8
+
 
 
 #EXTINF:-1,[COLOR yellow]--- Deutsch-Kanale ---[/COLOR]
@@ -314,418 +573,4 @@ http://mn-l.mncdn.com/showtv//showtv2/playlist.m3u8
 http://stream.gostream.nl/kanal7hq/kanal7hq.m3u8
 #EXTINF:-1,KANAL7 HD SE«ENEK 2
 http://mobil.gostream.nl/kanal7iphone/_definst_/3kanal7iphone.sdp/chunklist_w118061532.m3u8
-
-#EXTM3U
-EXTINF:-1,------SKY-DE------
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1513.m3u8
-#EXTINF:-1,DE:Sky-Cinema
-http://iptv.electro-clair.net:8000/live/saleh/saleh/176.m3u8
-#EXTINF:-1,DE--Sky-Cinema
-http://iptv.electro-clair.net:8000/live/saleh/saleh/323.m3u8
-#EXTINF:-1,DE:Sky-Emotion
-http://iptv.electro-clair.net:8000/live/saleh/saleh/179.m3u8
-#EXTINF:-1,DE SKY.Emotion
-http://iptv.electro-clair.net:8000/live/saleh/saleh/436.m3u8
-#EXTINF:-1,DE:SKY.EMOTION
-http://iptv.electro-clair.net:8000/live/saleh/saleh/317.m3u8
-#EXTINF:-1,DE:Sky.Comedy
-http://iptv.electro-clair.net:8000/live/saleh/saleh/314.m3u8
-#EXTINF:-1,DE:Sky.ComedyHD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/434.m3u8
-#EXTINF:-1,DE:SKY.ACTION
-http://iptv.electro-clair.net:8000/live/saleh/saleh/318.m3u8
-#EXTINF:-1,DE:Sky_action
-http://iptv.electro-clair.net:8000/live/saleh/saleh/437.m3u8
-#EXTINF:-1,DE,Sky:Action
-http://iptv.electro-clair.net:8000/live/saleh/saleh/180.m3u8
-#EXTINF:-1,DE:SKY.CINEMA.1
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1130.m3u8
-#EXTINF:-1,DE:Sky.Germany.Cinema1
-http://iptv.electro-clair.net:8000/live/saleh/saleh/313.m3u8
-#EXTINF:-1,DE:Sky.Cinema.24HD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/315.m3u8
-#EXTINF:-1,DE:SKY.CINEMA.COMEDY
-http://iptv.electro-clair.net:8000/live/saleh/saleh/319.m3u8
-#EXTINF:-1,DE:Sky-Hits
-http://iptv.electro-clair.net:8000/live/saleh/saleh/178.m3u8
-#EXTINF:-1,DE;Sky;AtlanticHD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/181.m3u8
-#EXTINF:-1,DE:Sky.Germany.AXN
-http://iptv.electro-clair.net:8000/live/saleh/saleh/435.m3u8
-#EXTINF:-1,DE-Sky.Discovery.Channel.HD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1327.m3u8
-#EXTINF:-1,DE:Sky.National.GeographicHD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/316.m3u8
-#EXTINF:-1,DE:Sky_Bundesliga
-http://iptv.electro-clair.net:8000/live/saleh/saleh/438.m3u8
-#EXTINF:-1,DE:Sky.Bundesliga1HD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/322.m3u8
-#EXTINF:-1,DE,SkySport1;HD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/185.m3u8
-#EXTINF:-1,DE:SKY.SPORT.HD1
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1127.m3u8
-#EXTINF:-1,DE:SKY.SPORT.HD2
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1128.m3u8
-#EXTINF:-1,DE-Sky-Sport-1HD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/321.m3u8
-#EXTINF:-1,DE:Sky.Select1
-http://iptv.electro-clair.net:8000/live/saleh/saleh/427.m3u8
-#EXTINF:-1,DE;Sky;Sport2;HD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/186.m3u8
-#EXTINF:-1,DE:sky.select2.HD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/428.m3u8
-#EXTINF:-1,DE:sky.select3.HD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/429.m3u8
-#EXTINF:-1,DE:sky.select4.HD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/430.m3u8
-#EXTINF:-1,DE:sky.select5.HD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/431.m3u8
-
-#EXTINF:-1,------SKY-UK------
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1506.m3u8
-#EXTINF:-1,UK:Sky.Movies.Family
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1192.m3u8
-#EXTINF:-1,UK:Sky.Movies.Comedy
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1193.m3u8
-#EXTINF:-1,UK:Sky.Movies.Action
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1194.m3u8
-#EXTINF:-1,UK:Movies.Modern.HD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1189.m3u8
-#EXTINF:-1,UK:Sky.Movies.Select
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1190.m3u8
-#EXTINF:-1,UK:Sky.Movies.Sci-Fi
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1191.m3u8
-#EXTINF:-1,UK:VH1
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1796.m3u8
-#EXTINF:-1,UK:Sony-Movies
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1797.m3u8
-#EXTINF:-1,UK:SKY-Sports-F1-HD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1800.m3u8
-#EXTINF:-1,UK:Setanta-Ireland
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1799.m3u8
-#EXTINF:-1,UK:Premier-Sports
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1795.m3u8
-#EXTINF:-1,UK:Sky.Movies.Premiere
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1702.m3u8
-#EXTINF:-1,UK:Sky.Movies.Greats
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1703.m3u8
-#EXTINF:-1,UK:Sky.Movies.Drama
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1704.m3u8
-#EXTINF:-1,UK:Sky.Movies.Disney
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1705.m3u8
-#EXTINF:-1,UK:Sky.Movies.Comedy.Central
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1706.m3u8
-#EXTINF:-1,SKYUK:Sky-One
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1362.m3u8
-#EXTINF:-1,Uk:Gold
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1762.m3u8
-#EXTINF:-1,UK:Drama
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1763.m3u8
-#EXTINF:-1,UK:Disney.Junior
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1764.m3u8
-#EXTINF:-1,UK:Disney.Channel
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1765.m3u8
-#EXTINF:-1,SKYUK:Sky-Arts1
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1363.m3u8
-#EXTINF:-1,UK:BBC.TWO
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1707.m3u8
-#EXTINF:-1,UK:BBC.Three
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1708.m3u8
-#EXTINF:-1,UK:BBC.One
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1709.m3u8
-#EXTINF:-1,UK:BBC.Four
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1711.m3u8
-#EXTINF:-1,UK:Nat.Geo
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1761.m3u8
-#EXTINF:-1,UK:NATIONAL-GEO
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1793.m3u8
-#EXTINF:-1,UK:ANIMAL-PLANET
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1794.m3u8
-#EXTINF:-1,UK:Discovery.Science
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1766.m3u8
-#EXTINF:-1,UK:Discovery.History
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1767.m3u8
-#EXTINF:-1,UK.DiscoveryHD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1768.m3u8
-#EXTINF:-1,UK:Discovery
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1403.m3u8
-#EXTINF:-1,UK:National.Geography.Wild
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1402.m3u8
-#EXTINF:-1,UK:Sport-News
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1798.m3u8
-#EXTINF:-1,UK:BT-Sport 1
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1789.m3u8
-#EXTINF:-1,UK:BT-Sport 2
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1790.m3u8
-#EXTINF:-1,UK:BT-Sport-EU
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1791.m3u8
-#EXTINF:-1,UK:ITV1.HD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1396.m3u8
-#EXTINF:-1,UK:ITV2.HD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1397.m3u8
-#EXTINF:-1,UK:ITV3.HD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1398.m3u8
-#EXTINF:-1,UK:ITV4.HD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1399.m3u8
-#EXTINF:-1,UK:Sky.Sports.News
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1760.m3u8
-#EXTINF:-1,UK:SKY.SPORTS1.HD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1756.m3u8
-#EXTINF:-1,UK:SKY.SPORTS2-HD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1757.m3u8
-#EXTINF:-1,UK:SKY.SPORTS3-HD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1758.m3u8
-#EXTINF:-1,UK:SKY.SPORTS4-HD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1759.m3u8
-#EXTINF:-1,UK:SKY.SPORTS1
-http://iptv.electro-clair.net:8000/live/saleh/saleh/425.m3u8
-#EXTINF:-1,UK-SKY.SPORTS1
-http://iptv.electro-clair.net:8000/live/saleh/saleh/311.m3u8
-#EXTINF:-1,UK-SKY.SPORTS2
-http://iptv.electro-clair.net:8000/live/saleh/saleh/312.m3u8
-#EXTINF:-1,UK:Sky.Sports2.HD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1392.m3u8
-#EXTINF:-1,UK:Sky.Sports3.HD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1393.m3u8
-#EXTINF:-1,UK:Sky.Sports4.HD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1394.m3u8
-#EXTINF:-1,UK:Sky.Sports5.HD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1395.m3u8
-#EXTINF:-1,UK:Eurosport1.HD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1400.m3u8
-#EXTINF:-1,UK:Eurosport2.HD
-http://iptv.electro-clair.net:8000/live/saleh/saleh/1401.m3u8
-
-#EXTINF:-1,----------Germania---------
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1509.m3u8
-#EXTINF:-1,DE - Sky Sport 1 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1433.m3u8
-#EXTINF:-1,DE - Sky Sport 2 Hd
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1432.m3u8
-#EXTINF:-1,DE - Sky Sport 3 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1539.m3u8
-#EXTINF:-1,DE - Sky Sport 4 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1540.m3u8
-#EXTINF:-1,DE - Sky Sport 5 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1541.m3u8
-#EXTINF:-1,DE - Sky Sport 6 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1542.m3u8
-#EXTINF:-1,DE - Sky Sport 7 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1543.m3u8
-#EXTINF:-1,DE - Sky Sport 8 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1544.m3u8
-#EXTINF:-1,DE - Sky Sport 9 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1545.m3u8
-#EXTINF:-1,DE - Sky Sport 10 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1546.m3u8
-#EXTINF:-1,DE - Sky Bundesliga 1 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1444.m3u8
-#EXTINF:-1,DE - Sky Bundesliga 2 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1480.m3u8
-#EXTINF:-1,DE - Sky Bundesliga 3 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1481.m3u8
-#EXTINF:-1,DE - Sky Bundesliga 4 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1482.m3u8
-#EXTINF:-1,DE - Sky Bundesliga 5 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1547.m3u8
-#EXTINF:-1,DE - Sky Bundesliga 6 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1548.m3u8
-#EXTINF:-1,DE - Sky Bundesliga 7 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1549.m3u8
-#EXTINF:-1,DE - Sky Bundesliga 8 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1550.m3u8
-#EXTINF:-1,DE - Sky Bundesliga 9 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1551.m3u8
-#EXTINF:-1,DE - Sky Bundesliga 10 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1552.m3u8
-#EXTINF:-1,DE - Sport 1  HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1431.m3u8
-#EXTINF:-1,--------Svizzeri---------
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1515.m3u8
-#EXTINF:-1,Teleclub Sport1
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/399.m3u8
-#EXTINF:-1,Teleclub Sport2
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/400.m3u8
-#EXTINF:-1,Teleclub Sport3
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/401.m3u8
-#EXTINF:-1,-----------Spagna----------
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1512.m3u8
-#EXTINF:-1,ES: Canal  Liga HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1400.m3u8
-#EXTINF:-1,ES: Canal  Futbol HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1401.m3u8
-#EXTINF:-1,ES: Canal  Deportes HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1402.m3u8
-#EXTINF:-1,-----------UK-------------
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1513.m3u8
-#EXTINF:-1,UK: Sky Sports News HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1399.m3u8
-#EXTINF:-1,UK: Sky Uk BT Sport 1
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1396.m3u8
-#EXTINF:-1,UK: Sky Uk BT Sport 2
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1397.m3u8
-#EXTINF:-1,UK: Sky Uk Sport 1 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1391.m3u8
-#EXTINF:-1,UK: Sky Uk Sport 2 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1392.m3u8
-#EXTINF:-1,UK: Sky Uk Sport 3 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1393.m3u8
-#EXTINF:-1,UK: Sky Uk Sport 4 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1394.m3u8
-#EXTINF:-1,UK: Sky Uk Sport 5 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1395.m3u8
-#EXTINF:-1,----------Balkan----------
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1510.m3u8
-#EXTINF:-1,EX-YU: ARENA Sport 1 (SRB)
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1387.m3u8
-#EXTINF:-1,EX-YU: ARENA Sport 2 (SRB)
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1388.m3u8
-#EXTINF:-1,EX-YU: ARENA Sport 3 (SRB)
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1389.m3u8
-#EXTINF:-1,EX-YU: ARENA Sport 4 (SRB)
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1390.m3u8
-#EXTINF:-1,EX-YU: Arena Sport 1 HR
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1382.m3u8
-#EXTINF:-1,EX-YU: Arena Sport 2 HR
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1383.m3u8
-#EXTINF:-1,EX-YU: Arena Sport 3 HR
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1384.m3u8
-#EXTINF:-1,EX-YU: Arena Sport 4 HR
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1385.m3u8
-#EXTINF:-1,EX-YU: Arena Sport 5 HR
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1386.m3u8
-#EXTINF:-1,EX-YU: Sport Klub 1 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1379.m3u8
-#EXTINF:-1,EX-YU: Sport Klub 2 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1380.m3u8
-#EXTINF:-1,EX-YU: Sport Klub 3 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1381.m3u8
-#EXTINF:-1,EX-YU: SPORTKLUB 1
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1376.m3u8
-#EXTINF:-1,EX-YU: SPORTKLUB 2
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1377.m3u8
-#EXTINF:-1,EX-YU: SPORTKLUB 3
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1378.m3u8
-#EXTINF:-1,NL: Sport1 Voetbal HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1405.m3u8
-#EXTINF:-1,----------Olanda---------
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1511.m3u8
-#EXTINF:-1,NL: Sport1 Select
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1406.m3u8
-#EXTINF:-1,NL: Fox Sports 1 Eredivisie HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1407.m3u8
-#EXTINF:-1,NL: Fox Sports 2 International
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1408.m3u8
-#EXTINF:-1,NL: Fox Sports 3 Eredivisie
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1409.m3u8
-#EXTINF:-1,NL: Fox Sports 4 Internationaal
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1410.m3u8
-#EXTINF:-1,NL: Fox Sports 5 Eredivisie
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1411.m3u8
-#EXTINF:-1,------------------Germania------------------
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/124.m3u8
-#EXTINF:-1,DE - ARD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1473.m3u8
-#EXTINF:-1,DE - ZDF
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1420.m3u8
-#EXTINF:-1,DE - WDR HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1421.m3u8
-#EXTINF:-1,DE - 3SAT HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1474.m3u8
-#EXTINF:-1,DE - Sat 1 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1449.m3u8
-#EXTINF:-1,DE - RTL HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1451.m3u8
-#EXTINF:-1,DE - VOX HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1422.m3u8
-#EXTINF:-1,DE - RTL 2 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1452.m3u8
-#EXTINF:-1,DE - Pro 7
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1455.m3u8
-#EXTINF:-1,DE - Kabel1 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1463.m3u8
-#EXTINF:-1,DE - Sixx HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1448.m3u8
-#EXTINF:-1,DE - RTL Nitro
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1450.m3u8
-#EXTINF:-1,DE - MTV GERMANY
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1461.m3u8
-#EXTINF:-1,DE - Super RTL HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1428.m3u8
-#EXTINF:-1,DE - CARTOON NETWORK
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1469.m3u8
-#EXTINF:-1,DE - BOOMERANG
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1470.m3u8
-#EXTINF:-1,DE - KIKA HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1462.m3u8
-#EXTINF:-1,DE - N24 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1459.m3u8
-#EXTINF:-1,DE - N-TV
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1460.m3u8
-#EXTINF:-1,DE - Sky Cinema HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1443.m3u8
-#EXTINF:-1,DE - Sky Germany Cinema  1
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1438.m3u8
-#EXTINF:-1,DE - Sky Germany Cinema  24
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1439.m3u8
-#EXTINF:-1,DE - Sky Action HD de
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1446.m3u8
-#EXTINF:-1,DE - Sky Cinema Hits HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1442.m3u8
-#EXTINF:-1,DE - Sky Atlantik Hd
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1445.m3u8
-#EXTINF:-1,DE - SKY EMOTION
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1440.m3u8
-#EXTINF:-1,DE - Sky Comedy
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1441.m3u8
-#EXTINF:-1,DE - Sky 3D
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1447.m3u8
-#EXTINF:-1,DE - Eurosport HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1466.m3u8
-#EXTINF:-1,DE - TNT SERIE
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1423.m3u8
-#EXTINF:-1,DE - TNT FILM
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1424.m3u8
-#EXTINF:-1,DE - Sky Nat Geo Wild
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1434.m3u8
-#EXTINF:-1,DE - SKY KRIMI
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1435.m3u8
-#EXTINF:-1,DE - Sky History HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1436.m3u8
-#EXTINF:-1,DE - Sky Germany MGM HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1437.m3u8
-#EXTINF:-1,DE - Pro 7 Maxx
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1454.m3u8
-#EXTINF:-1,DE - Romance TV
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1453.m3u8
-#EXTINF:-1,DE - Fox HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1464.m3u8
-#EXTINF:-1,DE - DMAX
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1467.m3u8
-#EXTINF:-1,DE - 13TH  STREET
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1475.m3u8
-#EXTINF:-1,DE - AXN HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1471.m3u8
-#EXTINF:-1,DE - Arte HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1472.m3u8
-#EXTINF:-1,DE - Discovery Channel HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1468.m3u8
-#EXTINF:-1,DE - NATIONAL GEO CHANNEL HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1458.m3u8
-#EXTINF:-1,-------Canali Svizzeri---------
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1514.m3u8
-#EXTINF:-1,DE - SRF 1 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1430.m3u8
-#EXTINF:-1,DE - SRF 2 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1429.m3u8
-#EXTINF:-1,DE - ORF 1 HD
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1457.m3u8
-#EXTINF:-1,DE - ORF 2
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1456.m3u8
-#EXTINF:-1,DE - Teleclub Cinema
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1427.m3u8
-#EXTINF:-1,DE - Teleclub Crime
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1426.m3u8
-#EXTINF:-1,DE - Teleclub Star
-http://juventus4ever.ddns.net:8000/live/dennis/dennis/1425.m3u8
 

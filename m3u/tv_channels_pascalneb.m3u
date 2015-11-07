@@ -2,13 +2,15 @@
 #EXTINF:-1,[COLOR blue][I][B]--- 24-10-2015 ---[/B][/I][/COLOR]
 #EXTINF:-1, [COLOR green] --REDENEOBUX.COM 24-10-2015--[/COLOR]
 
-#EXTINF:-1,[COLOR yellow]--- Türkiye 1 ---[/COLOR]
+#EXTINF:-1,[COLOR yellow]=== Turkey ===[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0,TRT HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
 #EXTINF:0,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1,TRT SPOR HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1185.m3u8
 #EXTINF:0,TRT HABER HD News
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
 #EXTINF:0,TRT BELGESEL HD Documentary
@@ -41,6 +43,8 @@ http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 http://origin2.live.web.tv.streamprovider.net/streams/725528006e858fe951867f4e2436843f_live_0_0/index.m3u8
 #EXTINF:0,NTV Spor
 http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
+#EXTINF:-1,BEYAZ TV
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1172.m3u8
 #EXTINF:0,FOX HD
 http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
 #EXTINF:0,KANALTuRK HD News
@@ -131,6 +135,8 @@ http://origin2.live.web.tv.streamprovider.net/streams/bff43380440cfe9d5b937f4a61
 http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
 #EXTINF:-1,ULKE TV HD
 http://stream.gostream.nl/ulketvhq/ulketvhq.m3u8
+#EXTINF:-1,SAMANYOLU TV
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1182.m3u8
 #EXTINF:-1 group-title="TÜRKİYE FAVORI",ZAMANTV.m3u8
 http://hasbahcaiptv.com/iptv/tr/HasBahCa_ZAMANTV.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",zzz CINE 5 m3u8
@@ -165,104 +171,401 @@ http://origin2.live.web.tv.streamprovider.net/streams/7646c80bc1b8b8b007e7649c1f
 http://149.255.152.72/hls-live/livepkgr/idman/idman/idman.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",7-24TV.m3u8
 http://hasbahcaiptv.com/iptv/tr/HasBahCa_7-24TV.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://31.186.24.233:8002/65
+#EXTINF:-1,CINE MAX TV
+http://31.186.24.233:8009/9
+#EXTINF:-1,CINE MAX TV -
+http://31.186.24.233:8009/15
+#EXTINF:-1,CINEMAX
+http://31.186.24.233:8009/2
+#EXTINF:-1,CINEMAX -
+http://31.186.24.233:8009/4
+#EXTINF:-1,DOST TV
+http://31.186.24.234:8000/40
+#EXTINF:-1,FULL ACTION TV
+http://31.186.24.233:8009/11
+#EXTINF:-1,FULL ACTION TV  -
+http://31.186.24.233:8009/21
+#EXTINF:-1,FULL ACTION TV  -
+http://31.186.24.233:8009/23
+#EXTINF:-1,KABE(CANLI) AL QURAN
+http://31.186.24.233:8005/6
+#EXTINF:-1,KANAL D
+http://31.186.24.233:8002/62
+#EXTINF:-1,KANALTURK
+http://31.186.24.234:8000/36
+#EXTINF:-1,KARADENIZTURK TV
+http://31.186.24.233:8003/96
+#EXTINF:-1,KARDELEN TV
+http://31.186.24.234:8000/38
+#EXTINF:-1,KIDZ/ANIMEZ
+http://31.186.24.233:8004/2
+#EXTINF:-1,KOCAELİ TV
+http://31.186.24.233:8002/71
+#EXTINF:-1,KOY TV
+http://31.186.24.233:8010/3
+#EXTINF:-1,KUDUS TV
+http://31.186.24.234:8000/90
+#EXTINF:-1,STAR SINEM-A TV
+http://31.186.24.233:8001/58
+#EXTINF:-1,TRT SPOR
+http://31.186.24.234:8000/33
 
 
 
 
-
-#EXTINF:-1,[COLOR yellow]--- SKY DE & EU Sport ---[/COLOR]
+#EXTINF:-1,[COLOR yellow]=== Full Sport SKY Arena Nova Fox ===[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,[COLOR red]— Tadini Cikarin Simdilik ---[/COLOR]
+#EXTINF:-1,[COLOR red]= Tadini Cikarin Simdilik =[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1,Eurosport 1 GREEK
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/1323.m3u8
+#EXTINF:-1,Eurosport 2 GREEK
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/1324.m3u8
+#EXTINF:-1,BT Sport Europe, UK
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/972.m3u8
+#EXTINF:-1,BT Sport Extra UK
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/1320.m3u8
+#EXTINF:-1,Sky Sport 1 UK
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/59.m3u8
+#EXTINF:-1,Sky Sport 2 UK
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/60.m3u8
+#EXTINF:-1,Sky Sport 3 UK
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/61.m3u8
+#EXTINF:-1,Sky Sport 4 UK
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/62.m3u8
+#EXTINF:-1,Sky Sport 5 UK
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/63.m3u8
+#EXTINF:-1,Premier Sports UK
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/854.m3u8
+#EXTINF:-1,Setanta Ireland, UK
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/921.m3u8
+#EXTINF:-1,Eurosport 1 UK
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/667.m3u8
+#EXTINF:-1,Eurosport 2 UK
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/646.m3u8
+#EXTINF:-1,Sky F1 UK
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/64.m3u8
+#EXTINF:-1,Sky Sport News UK
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/660.m3u8
+#EXTINF:-1,At The Races UK
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/659.m3u8
+#EXTINF:-1,Sport TV PORTUGAL 1
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/902.m3u8
+#EXTINF:-1,Sport TV 2 PORTUGAL
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/903.m3u8
+#EXTINF:-1,Sport TV PORTUGAL 3
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/904.m3u8
+#EXTINF:-1,Sport TV 4 PORTUGAL
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/905.m3u8
+#EXTINF:-1,Sport TV 5 PORTUGAL
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/906.m3u8
+#EXTINF:-1,Benfica TV 1 PORTUGAL
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/907.m3u8
+#EXTINF:-1,Benfica TV 2 PORTUGAL
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/908.m3u8
+#EXTINF:-1,Digi Sport 1 ROMANİA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/1011.m3u8
+#EXTINF:-1,Digi Sport 2 ROMANİA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/1012.m3u8
+#EXTINF:-1,Digi Sport 3 ROMANİA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/1013.m3u8
+#EXTINF:-1,Arena Sport 1 SERBİA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/52.m3u8
+#EXTINF:-1,Arena Sport 2 SERBİA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/53.m3u8
+#EXTINF:-1,Arena Sport 3 SERBİA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/54.m3u8
+#EXTINF:-1,Arena Sport 4 SERBİA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/55.m3u8
+#EXTINF:-1,Arena Sport 5 SERBİA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/56.m3u8
+#EXTINF:-1,Ma Chaine Sports FRANCE
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/849.m3u8
+#EXTINF:-1,Beın Sport 1 FRANCE
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/819.m3u8
+#EXTINF:-1,Beın Sport 2 FRANCE
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/820.m3u8
+#EXTINF:-1,Sky Sport 1 ITALY
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/99.m3u8
+#EXTINF:-1,Sky Sport 2 ITALY
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/100.m3u8
+#EXTINF:-1,Sky Sport 3 ITALY
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/758.m3u8
+#EXTINF:-1,Moviestar F1 SPAİN
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/1069.m3u8
+#EXTINF:-1,C+ Liga SPAİN
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/84.m3u8
+#EXTINF:-1,Canal Futbol SPAİN
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/909.m3u8
+#EXTINF:-1,Canal Deportes SPAİN
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/910.m3u8
+#EXTINF:-1,Barca TV SPAİN
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/911.m3u8
+#EXTINF:-1,Arena Sport 1 KROATİA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/824.m3u8
+#EXTINF:-1,Arena Sport 2 KROATİA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/825.m3u8
+#EXTINF:-1,Arena Sport 3 KROATİA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/333.m3u8
+#EXTINF:-1,Arena Sport 4 KROATİA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/334.m3u8
+#EXTINF:-1,Sport Klub 1 KROATİA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/88.m3u8
+#EXTINF:-1,Sport Klub 2 KROATİA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/89.m3u8
+#EXTINF:-1,Sport Klub 3 KROATİA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/90.m3u8
+#EXTINF:-1,Sky Sport 1 GERMANY
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/93.m3u8
+#EXTINF:-1,Sky Sport 2 GERMANY
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/94.m3u8
+#EXTINF:-1,Sport 1 Voetbal NETHERLAND
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/985.m3u8
+#EXTINF:-1,Fox Sports 1 NETHERLAND
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/986.m3u8
+#EXTINF:-1,Fox Sports 2 NETHERLAND
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/987.m3u8
+#EXTINF:-1,Fox Sports 3 NETHERLAND
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/988.m3u8
+#EXTINF:-1,Fox Sports 4 NETHERLAND
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/989.m3u8
+#EXTINF:-1,Fox Sports 5 NETHERLAND
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/990.m3u8
+#EXTINF:-1,Sport 1 Voetball NETHERLAND
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/1066.m3u8
+#EXTINF:-1,Sport 1 Select NETHERLAND
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/1065.m3u8
+#EXTINF:-1,Nash Football
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/993.m3u8
+#EXTINF:-1,Football 1 RUSSİA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/994.m3u8
+#EXTINF:-1,Football 2 RUSSİA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/995.m3u8
+#EXTINF:-1,Football 3 RUSSİA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/996.m3u8
+#EXTINF:-1,KHL / RUSYA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/827.m3u8
+#EXTINF:-1,Sport RUSSİA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/959.m3u8
+#EXTINF:-1,Auto Plus RUSSİA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/956.m3u8
+#EXTINF:-1,Eurosport 1 RUSSİA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/957.m3u8
+#EXTINF:-1,Eurosport 2 RUSSİA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/958.m3u8
+#EXTINF:-1,Nova Sport BULGARİA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/111.m3u8
+#EXTINF:-1,Motorsport 7 AUSTRALİA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/954.m3u8
+#EXTINF:-1,Tsn 1 USA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/654.m3u8
+#EXTINF:-1,Tsn 2 USA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/655.m3u8
+#EXTINF:-1,Tsn 3 USA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/656.m3u8
+#EXTINF:-1,Tsn 4 USA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/657.m3u8
+#EXTINF:-1,Tsn 5 USA
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/658.m3u8
+#EXTINF:-1,MBC Sports Pro 1 ARABİC
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/315.m3u8
+#EXTINF:-1,MBC Sports Pro 2 ARABİC
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/316.m3u8
+#EXTINF:-1,MBC Sports Pro 3 ARABİC
+http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/317.m3u8
 
-#EXTINF:-1,[COLOR yellow]--- Deutsch-Kanale ---[/COLOR]
-http://0.0.0.0:1234
+#EXTINF:-1,=== SKY GERMANY===
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1141.m3u8
+#EXTINF:-1,DE: Sky 3D
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/828.m3u8
+#EXTINF:-1,DE: Sky Germany National Geographic HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/323.m3u8
+#EXTINF:-1,DE: Sky Germany TNT Serie HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/216.m3u8
+#EXTINF:-1,DE: Sky Germany TNT Film HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/217.m3u8
+#EXTINF:-1,DE: Sky Germany MGM HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/201.m3u8
+#EXTINF:-1,DE: Sky Germany History Channel
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/202.m3u8
+#EXTINF:-1,DE: Sky Germany Fox HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/204.m3u8
+#EXTINF:-1,DE: Sky Germany Discovery Channel HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/203.m3u8
+#EXTINF:-1,DE: SyFy HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/964.m3u8
+#EXTINF:-1,DE: Sky Germany AXN HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/205.m3u8
+#EXTINF:-1,DE: Sky Germany 13 Street HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/206.m3u8
+#EXTINF:-1,DE: Sky Gemany Cinema HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/218.m3u8
+#EXTINF:-1,DE: Sky Germany Hits HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/2.m3u8
+#EXTINF:-1,DE: Sky Germany Action HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/76.m3u8
+#EXTINF:-1,DE: Sky Germany Cinema +24 HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/160.m3u8
+#EXTINF:-1,DE: Sky Germany Comedy
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/161.m3u8
+#EXTINF:-1,DE: Sky Germany Emotion
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/241.m3u8
+#EXTINF:-1,DE: Sky Germany Atlantic HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/159.m3u8
+#EXTINF:-1,DE: Sky Germany Krimi
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/162.m3u8
+#EXTINF:-1,DE: Sky Germany NatGeo Wild HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/6.m3u8
+#EXTINF:-1,DE: Sky Kino Welt TV
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/981.m3u8
+#EXTINF:-1,DE: Sky Planet HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1191.m3u8
+#EXTINF:-1,DE: Sky Universal HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1165.m3u8
+#EXTINF:-1,DE: Sky Germany Disney Channel HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1164.m3u8
+#EXTINF:-1,DE: Sky Disney Cinemagic HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1166.m3u8
+#EXTINF:-1,====SKY GERMANY SPORT===
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1143.m3u8
+#EXTINF:-1,DE: Sport 1 HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/673.m3u8
+#EXTINF:-1,DE: Sport 1+ HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1162.m3u8
+#EXTINF:-1,DE: Sport 1 US HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1125.m3u8
+#EXTINF:-1,DE: Sky Germany Sport 1 HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/7.m3u8
+#EXTINF:-1,DE: Sky Germany Sport 2 HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/179.m3u8
+#EXTINF:-1,DE: Sky Germany Sport 3 HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1068.m3u8
+#EXTINF:-1,DE: Sky Germany Sport 4 HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1069.m3u8
+#EXTINF:-1,DE: Sky Germany Sport 5 HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1070.m3u8
+#EXTINF:-1,DE: Sky Germany Sport 6 HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1071.m3u8
+#EXTINF:-1,DE: Sky Germany Sport 7 HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1072.m3u8
+#EXTINF:-1,DE: Sky Germany Sport 8 HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1073.m3u8
+#EXTINF:-1,DE: Sky Germany Sport 9 HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1074.m3u8
+#EXTINF:-1,DE: Sky Germany Sport 10 HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1075.m3u8
+#EXTINF:-1,DE: Sky Germany Sport 11 HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1076.m3u8
+#EXTINF:-1,DE: Sky Germany Sport News HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/864.m3u8
+#EXTINF:-1,===SKY BUNDESLIGA===
+#EXTINF:-1,DE:Sky_Bundesliga
+http://iptv.electro-clair.net:8000/live/saleh/saleh/438.m3u8
+#EXTINF:-1,DE:Sky.Bundesliga1HD
+http://iptv.electro-clair.net:8000/live/saleh/saleh/322.m3u8
+#EXTINF:-1,DE - Sky Bundesliga 1 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1444.m3u8
+#EXTINF:-1,DE - Sky Bundesliga 2 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1480.m3u8
+#EXTINF:-1,DE - Sky Bundesliga 3 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1481.m3u8
+#EXTINF:-1,DE - Sky Bundesliga 4 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1482.m3u8
+#EXTINF:-1,DE - Sky Bundesliga 5 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1547.m3u8
+#EXTINF:-1,DE - Sky Bundesliga 6 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1548.m3u8
+#EXTINF:-1,DE - Sky Bundesliga 7 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1549.m3u8
+#EXTINF:-1,DE - Sky Bundesliga 8 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1550.m3u8
+#EXTINF:-1,DE - Sky Bundesliga 9 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1551.m3u8
+#EXTINF:-1,DE - Sky Bundesliga 10 HD
+http://juventus4ever.ddns.net:8000/live/dennis/dennis/1552.m3u8
 
-#EXTINF:-1,ZDF
-http://zdf-hds-de-f.zdf.de/i/de14_v1@147090/index_1456_av-b.m3u8
-#EXTINF:-1,ZDF_NEO
-http://zdf-hds-de-f.zdf.de/i/de13_v1@147090/index_1456_av-b.m3u8
-#EXTINF:-1,ZDF iNFO
-http://zdf-hds-de-f.zdf.de/i/de12_v1@87013/index_1456_av-b.m3u8
-#EXTINF:-1 group-title="DEUTSCH",3SAT
-http://zdf-hds-dach-f.zdf.de/i/dach10_v1@87031/index_710_av-p.m3u8?sd=10&dw=0&b=0-710&rebase=on
-#EXTINF:-1 group-title="DEUTSCH",Anixe HD
-http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
-#EXTINF:-1 group-title="DEUTSCH",ARD
-http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/index_2692_av-b.m3u8
-#EXTINF:-1 group-title="DEUTSCH",arte
-http://delive.artestras.cshls.lldns.net/artestras/contrib/delive/delive_925.m3u8
-#EXTINF:-1 group-title="DEUTSCH",DAF
-http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/chunklist_w1422058425.m3u8
-#EXTINF:-1 group-title="DEUTSCH",DELUXE MUSIC
-http://flash.cdn.deluxemusic.tv/deluxemusic.tv-live/web_850.stream/playlist.m3u8
-#EXTINF:-1 group-title="DEUTSCH",hr
-http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3128_av-b.m3u8
-#EXTINF:-1 group-title="DEUTSCH",NDR HD
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/index_3776_av-b.m3u8
-#EXTINF:-1 group-title="DEUTSCH",n-tv
-http://hlsntv-i.akamaihd.net/hls/live/218889/ntv/1500/prog_index.m3u8
-#EXTINF:-1 group-title="DEUTSCH",Servus TV
-http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="DEUTSCH",WDR HD
-http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-b.m3u8
-#EXTM3U
-#EXTINF:-1,vevo
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1,Joiz
-http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/index_2528_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,DELUXE MUSIC
-http://flash.cdn.deluxemusic.tv/deluxemusic.tv-live/web_850.stream/playlist.m3u8
-#EXTINF:-1,BEATZ TV
-http://rtmp.infomaniak.ch/livecast/beatz_3/playlist.m3u8
-#EXTINF:-1,ARD
-http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/index_2692_av-b.m3u8
-#EXTINF:-1,3SAT
-http://zdf-hds-dach-f.zdf.de/i/dach10_v1@87031/index_710_av-p.m3u8?sd=10&dw=0&b=0-710&rebase=on
-#EXTINF:-1,WDR HD
-http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-b.m3u8
-#EXTINF:-1,NDR HD
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/index_3776_av-b.m3u8
-#EXTINF:-1,hr
-http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3128_av-b.m3u8
-#EXTINF:-1,SR
-http://live2_sr-lh.akamaihd.net/i/sr_universal02@107595/index_1128_av-p.m3u8
-#EXTINF:-1,Servus TV
-http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,N24
-http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream2.m3u8
-#EXTINF:-1,N24
-http://nextnews2webtv-live.hls.adaptive.level3.net/n24/nextnews/NewsHLS1000.m3u8
-#EXTINF:-1,n-tv
-http://hlsntv-i.akamaihd.net/hls/live/218889/ntv/1500/prog_index.m3u8
-#EXTINF:-1,arte
-http://delive.artestras.cshls.lldns.net/artestras/contrib/delive/delive_925.m3u8
-#EXTINF:-1,MDR
-http://mdr_sa_hls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@106901/index_1728_av-p.m3u8
-#EXTINF:-1,BR
-http://livestreams.br.de/i/bfssued_germany@119890/index_3776_av-b.m3u8
-#EXTINF:-1,BR-alpha
-http://livestreams.br.de/i/bralpha_germany@119899/index_3776_av-b.m3u8
-#EXTINF:-1,rbb
-http://rbb_live-lh.akamaihd.net/i/rbb_berlin@108248/index_1728_av-p.m3u8
-#EXTINF:-1,Blizz TV
-http://lb.hd-livestream.de/live/DasneueTV/chunklist_w1995293930.m3u8
-#EXTINF:-1,Family TV
-http://83.169.58.38:1935/live/Stream3/chunklist_w1828558504.m3u8
-#EXTINF:-1,DAF
-http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/chunklist_w1422058425.m3u8
-#EXTINF:-1,Disney Channel
-https://delivestream-lh.akamaihd.net/i/live_1@320996/master.m3u8
-#EXTINF:-1,KiKA
-http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/index_3776_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,RiC
-http://83.169.58.38/live/3fb1c9c9-09c8-404a-8c0f-56b27617ab89/playlist.m3u8
-#EXTINF:-1,Anixe HD
-http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
-#EXTINF:-1,abc NEWS
-http://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,===HD+ GERMANY===
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1144.m3u8
+#EXTINF:-1,DE: Viva
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/980.m3u8
+#EXTINF:-1,DE: Eurosport
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1018.m3u8
+#EXTINF:-1,DE: Sat1 Gold
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/976.m3u8
+#EXTINF:-1,DE: Phoenix HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/973.m3u8
+#EXTINF:-1,DE: NTV HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/971.m3u8
+#EXTINF:-1,DE: HR HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/970.m3u8
+#EXTINF:-1,DE: DMAX
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/969.m3u8
+#EXTINF:-1,DE: Deluxe Music
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/968.m3u8
+#EXTINF:-1,DE: BR HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/966.m3u8
+#EXTINF:-1,DE: ProSieben Max
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/324.m3u8
+#EXTINF:-1,DE: Servus TV HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/977.m3u8
+#EXTINF:-1,DE: Sixx HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/853.m3u8
+#EXTINF:-1,DE: ZDF Info HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/632.m3u8
+#EXTINF:-1,DE: ZDF Neo HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1022.m3u8
+#EXTINF:-1,DE: RTL Nitro HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/975.m3u8
+#EXTINF:-1,DE: TV 24 HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/978.m3u8
+#EXTINF:-1,DE: RBB HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/974.m3u8
+#EXTINF:-1,DE: SWR HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/631.m3u8
+#EXTINF:-1,DE: MDR HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/626.m3u8
+#EXTINF:-1,DE: Wdr HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/586.m3u8
+#EXTINF:-1,DE: Eins Plus HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/584.m3u8
+#EXTINF:-1,DE: Arte HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/585.m3u8
+#EXTINF:-1,DE: ORF 1 HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/528.m3u8
+#EXTINF:-1,DE: ORF 2 HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/583.m3u8
+#EXTINF:-1,DE: N24 HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/322.m3u8
+#EXTINF:-1,DE: Kika HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/320.m3u8
+#EXTINF:-1,DE: ARD HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/318.m3u8
+#EXTINF:-1,DE: 3Sat HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/317.m3u8
+#EXTINF:-1,DE: ZDF HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/316.m3u8
+#EXTINF:-1,DE: Sat 1 HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/164.m3u8
+#EXTINF:-1,DE: ProSieben HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/163.m3u8
+#EXTINF:-1,DE: VOX HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/8.m3u8
+#EXTINF:-1,DE: Super RTL HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/11.m3u8
+#EXTINF:-1,DE: RTL HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/9.m3u8
+#EXTINF:-1,DE: RTL 2 HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/10.m3u8
+#EXTINF:-1,DE: Kabel 1 HD
+http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/21.m3u8
+
+
+
+
 
 #EXTINF:-1,[COLOR yellow]--- ARABIC IPTV ---[/COLOR]
 http://0.0.0.0:1234
@@ -271,47 +574,3 @@ http://0.0.0.0:1234
 
 #EXTINF:-1,Iqraatv
 http://fl1.viastreaming.net:1935/iqraatv/livestream/BratuMarian.m3u8
-
-#EXTINF:-1,[COLOR yellow]--- TTR Made in KWH byP-N ---[/COLOR]
-http://0.0.0.0:1234
-
-
-
-#EXTM3U
-#EXTINF:-1,TRT1 HD
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_900_av-p.m3u8
-#EXTINF:-1,TRT1 HD SE«ENEK 2
-http://trt-live.ercdn.com/trt/trt1hd_720p.m3u8
-#EXTINF:-1,TRT1 SE«ENEK 3
-http://origin.live.web.tv.streamprovider.net/streams/b5306512cde2565f1566ad35c241674c_live_0_0/index.m3u8
-#EXTINF:-1,TRTHABER HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
-#EXTINF:-1,TRTHABER HD SE«ENEK 2
-rtmp://re.trtcdn.com:1935/tv/trthaber_2
-#EXTINF:-1,TRTHABER SE«ENEK 2
-http://origin2.live.web.tv.streamprovider.net/streams/eb12d2b839521cfd9d6d215c34f41868_live_0_0/index.m3u8
-#EXTINF:-1,TRT T‹RK
-http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1200_av-p.m3u8
-#EXTINF:-1,HABERT‹RK
-http://live-ciner.mncdn.net/haberturk/haberturk2/chunklist_w1452765031.m3u8
-#EXTINF:-1,HABERT‹RK SE«ENEK 2
-http://yayin26.canlitvlive.com/haberturk/live.m3u8?tkn=o81XxZs85mfIcIwDF19yyA&tms=1435403759
-#EXTINF:-1,KANALURFA
-rtmp://stream.taksimbilisim.com/kanalurfa//bant1
-#EXTINF:-1,G‹NEYDO–U TV
-rtmp://stream2.taksimbilisim.com/gtv/bant1
-#EXTINF:-1,EDESSA TV
-rtmp://185.8.33.25/edessatv//edessatv
-#EXTINF:-1,STARTV
-http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
-#EXTINF:-1,STARTV SE«ENEK 2
-http://yayin5.canlitv.com:1935/live/startv/chunklist_w660917226.m3u8
-#EXTINF:-1,SHOWTV
-http://origin2.live.web.tv.streamprovider.net/streams/1c3194be3e42b53e3b61831517eb972a_live_0_0/index.m3u8
-#EXTINF:-1,SHOWTV SE«ENEK 2
-http://mn-l.mncdn.com/showtv//showtv2/playlist.m3u8
-#EXTINF:-1,KANAL7 HD
-http://stream.gostream.nl/kanal7hq/kanal7hq.m3u8
-#EXTINF:-1,KANAL7 HD SE«ENEK 2
-http://mobil.gostream.nl/kanal7iphone/_definst_/3kanal7iphone.sdp/chunklist_w118061532.m3u8
-

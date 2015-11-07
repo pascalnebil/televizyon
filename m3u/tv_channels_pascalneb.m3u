@@ -5,6 +5,24 @@
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1,TR:Lig_1
+http://iptv.tjurk.com:8000/live/pascalneb/XSTI7Slsdo/23.ts
+#EXTINF:-1,TR:Lig_1_HD
+http://iptv.tjurk.com:8000/live/pascalneb/XSTI7Slsdo/24.ts
+#EXTINF:-1,TR:Lig_2
+http://iptv.tjurk.com:8000/live/pascalneb/XSTI7Slsdo/25.ts
+#EXTINF:-1,TR:Lig_3
+http://iptv.tjurk.com:8000/live/pascalneb/XSTI7Slsdo/26.ts
+#EXTINF:-1,TR:Smart_Spor_1
+http://iptv.tjurk.com:8000/live/pascalneb/XSTI7Slsdo/28.ts
+#EXTINF:-1,TR:Smart_Spor_2
+http://iptv.tjurk.com:8000/live/pascalneb/XSTI7Slsdo/29.ts
+#EXTINF:-1,TR:Tivibu_Spor_1
+http://iptv.tjurk.com:8000/live/pascalneb/XSTI7Slsdo/27.ts
+#EXTINF:-1,TR:Tivibu_Spor_2
+http://iptv.tjurk.com:8000/live/pascalneb/XSTI7Slsdo/322.ts
+#EXTINF:-1,TR:Tivibu_Spor_3
+http://iptv.tjurk.com:8000/live/pascalneb/XSTI7Slsdo/438.ts
 #EXTINF:0,TIVIBU SPOR
 http://85.187.218.30:5334
 #EXTINF:0,TRT HD

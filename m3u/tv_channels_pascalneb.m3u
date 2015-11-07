@@ -2,7 +2,7 @@
 #EXTINF:-1,[COLOR blue][I][B]--- 24-10-2015 ---[/B][/I][/COLOR]
 #EXTINF:-1, [COLOR green] --REDENEOBUX.COM 24-10-2015--[/COLOR]
 
-#EXTINF:-1,[COLOR yellow]=== Turkey ===[/COLOR]
+#EXTINF:-1,[COLOR yellow]===§§§=== Turkey ===§§§===[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0,TRT HD
@@ -137,15 +137,15 @@ http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
 http://stream.gostream.nl/ulketvhq/ulketvhq.m3u8
 #EXTINF:-1,SAMANYOLU TV
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1182.m3u8
-#EXTINF:-1 group-title="TÜRKİYE FAVORI",ZAMANTV.m3u8
+#EXTINF:-1 group-title="TÜRKİYE FAVORI",ZAMANTV
 http://hasbahcaiptv.com/iptv/tr/HasBahCa_ZAMANTV.m3u8
-#EXTINF:-1 group-title="TURK_ULUSAL",zzz CINE 5 m3u8
+#EXTINF:-1 group-title="TURK_ULUSAL", CINE 5
 http://cine5.mobil.cubecdn.net/cine5/stream_1.m3u8
-#EXTINF:-1 group-title="TURK_ULUSAL",BELGESEL TV MMS -480*384
+#EXTINF:-1 group-title="TURK_ULUSAL",BELGESEL TV
 mms://yayin.networkbil.com/belgeseltv
-#EXTINF:-1 group-title="TURK_ULUSAL",DOCUMANTARY TR http
+#EXTINF:-1 group-title="TURK_ULUSAL",DOCUMANTARY TR
 http://188.165.239.200:7088/
-#EXTINF:-1 group-title="TURK_ULUSAL",HİLAL TV m3u8 720*576
+#EXTINF:-1 group-title="TURK_ULUSAL",HİLAL TV
 http://yayin8.canliyayin.org:1935/hilaltv/hilaltv/HasBahCa.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",KANAL KABE MEKKE
 http://livetr.gostream.nl/mekke/mekke/HasBahCa.m3u8
@@ -153,23 +153,23 @@ http://livetr.gostream.nl/mekke/mekke/HasBahCa.m3u8
 http://livede.gostream.nl/medine/medine/playlist.m3u8
 #EXTINF:0,TRT cocuk Kid
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:-1 group-title="TÜRKİYE YEDEK",MİNİKA ÇOCUK m3u8 origin.live 640*360
+#EXTINF:-1 group-title="TÜRKİYE YEDEK",MİNİKA ÇOCUK
 http://origin.live.web.tv.streamprovider.net/streams/f79e39a0979af7718cf4828779c7ef26_live_0_0/index.m3u8
-#EXTINF:-1 group-title="TÜRKİYE YEDEK",MİNİKA GO m3u8 origin.live 640*360
+#EXTINF:-1 group-title="TÜRKİYE YEDEK",MİNİKA GO
 http://origin.live.web.tv.streamprovider.net/streams/24b429ab889afc37becb9e59ff84820c_live_0_0/index.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",DISNEY  Türk
 http://212.224.108.83/S2/HLS_LIVE/disney/track_4_1000/playlist.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",4 Karamel
 http://trt-i.mncdn.com:1935/karamel/karamel/chunklist_w59601545.m3u8
-#EXTINF:-1,PLANET «OCUK
+#EXTINF:-1,PLANET COCUK
 http://origin.live.web.tv.streamprovider.net/streams/852843e69184bd2c2146ae50e7aba5c3_live_0_0/index.m3u8
-#EXTINF:-1 group-title="DTURK_DSMART",SUPERLI G MAC YAYINLARI
+#EXTINF:-1 group-title="DTURK_DSMART",SUPER LIG MAC YAYINLARI
 http://92.222.205.40:8080/superlig
 #EXTINF:-1 group-title="Turki",AZ TV Azerbaycan
 http://origin2.live.web.tv.streamprovider.net/streams/7646c80bc1b8b8b007e7649c1f1a1204/index.m3u8
 #EXTINF:-1 group-title="Turki",idman
 http://149.255.152.72/hls-live/livepkgr/idman/idman/idman.m3u8
-#EXTINF:-1 group-title="TURK_ULUSAL",7-24TV.m3u8
+#EXTINF:-1 group-title="TURK_ULUSAL",7-24TV
 http://hasbahcaiptv.com/iptv/tr/HasBahCa_7-24TV.m3u8
 #EXTINF:-1,CARTOON NETWORK
 http://31.186.24.233:8002/65
@@ -218,7 +218,7 @@ http://31.186.24.234:8000/33
 #EXTINF:-1,[COLOR yellow]=== Full Sport SKY Arena Nova Fox ===[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,[COLOR red]= Tadini Cikarin Simdilik =[/COLOR]
+#EXTINF:-1,[COLOR red]§§§ Tadini Cikarin Simdilik §§§[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1,Eurosport 1 GREEK
@@ -378,7 +378,8 @@ http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/316.m3u8
 #EXTINF:-1,MBC Sports Pro 3 ARABİC
 http://swebstreamer.hopto.me:2709/live/PNGyZTmokJ/iawpaILoZf/317.m3u8
 
-#EXTINF:-1,=== SKY GERMANY===
+
+#EXTINF:-1,[COLOR yellow]=== SKY GERMANY===[/COLOR]
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1141.m3u8
 #EXTINF:-1,DE: Sky 3D
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/828.m3u8
@@ -430,7 +431,9 @@ http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1165.m3u8
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1164.m3u8
 #EXTINF:-1,DE: Sky Disney Cinemagic HD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1166.m3u8
-#EXTINF:-1,====SKY GERMANY SPORT===
+
+
+#EXTINF:-1,[COLOR yellow]====SKY GERMANY SPORT===[/COLOR]
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1143.m3u8
 #EXTINF:-1,DE: Sport 1 HD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/673.m3u8
@@ -462,7 +465,9 @@ http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1075.m3u8
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1076.m3u8
 #EXTINF:-1,DE: Sky Germany Sport News HD
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/864.m3u8
-#EXTINF:-1,===SKY BUNDESLIGA===
+
+
+#EXTINF:-1,[COLOR yellow]===SKY BUNDESLIGA===[/COLOR]
 #EXTINF:-1,DE:Sky_Bundesliga
 http://iptv.electro-clair.net:8000/live/saleh/saleh/438.m3u8
 #EXTINF:-1,DE:Sky.Bundesliga1HD
@@ -488,7 +493,8 @@ http://juventus4ever.ddns.net:8000/live/dennis/dennis/1551.m3u8
 #EXTINF:-1,DE - Sky Bundesliga 10 HD
 http://juventus4ever.ddns.net:8000/live/dennis/dennis/1552.m3u8
 
-#EXTINF:-1,===HD+ GERMANY===
+
+#EXTINF:-1,[COLOR yellow]===HD+ GERMANY===[/COLOR]
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1144.m3u8
 #EXTINF:-1,DE: Viva
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/980.m3u8

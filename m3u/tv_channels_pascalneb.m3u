@@ -543,13 +543,6 @@ mms://100automoto.tv/channel_italy
 #EXTINF:0, Cars & Sports
 mms://100automoto.tv/100livesport
 
-
-#EXTINF:-1, SPORTTV 1 Portugal
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c pageUrl=http://sharecast.to/
- 
-#EXTINF:-1, SPORTTV 2 Portugal
-rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr pageUrl=http://sharecast.to/
-
 #EXTINF:0, KAZSPORT
 http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
 

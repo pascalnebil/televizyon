@@ -210,19 +210,6 @@ http://91.204.214.106:23311/stolen/436t/backdoor.hfs
 #EXTINF:-1,[COLOR yellow]••• Sky Sport •••[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,Dolce Sport 1
-http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
-#EXTINF:-1,Dolce Sport 2
-http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
-#EXTINF:-1,Dolce Sport 3
-http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport3/playlist.m3u8
-#EXTINF:-1, Sport TV 1
-http://31.204.128.112:8081/live/portugal1/playlist.m3u8
-#EXTINF:-1, Sport TV 2
-http://31.204.128.112:8081/live/portugal2/playlist.m3u8
-#EXTINF:-1, Sport TV 3
-http://31.204.128.112:8081/live/portugal3/playlist.m3u8
-
 #EXTINF:-1,SKYSPORTS1
  http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports1.stream/chunklist.m3u8
 
@@ -247,6 +234,14 @@ http://juventus4ever.ddns.net:8000/live/dennis/dennis/1393.m3u8
 http://juventus4ever.ddns.net:8000/live/dennis/dennis/1394.m3u8
 #EXTINF:-1,Sky Uk Sport 5 HD
 http://juventus4ever.ddns.net:8000/live/dennis/dennis/1395.m3u8
+
+#EXTINF:-1,Dolce Sport 1
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
+#EXTINF:-1,Dolce Sport 2
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
+#EXTINF:-1, Sport TV 1
+http://31.204.128.112:8081/live/portugal1/playlist.m3u8
+
 #EXTINF:-1,[COLOR yellow]••• Balkan Sport •••[/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,EX-YU: ARENA Sport 1 (SRB)

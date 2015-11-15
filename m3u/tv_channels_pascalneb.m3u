@@ -24,13 +24,13 @@ http://hls.tv.iptv.ink/trtkurditr@707556.m3u8|X-Forwarded-For=37.34.18.55
 http://hls.tv.iptv.ink/trtokultr@976101.m3u8|X-Forwarded-For=37.34.18.55
 #EXTINF:0808 tvg-id="trt3.tr" group-title="TR Genel Kanallar" tvg-logo="370171.png", [COLOR orange]TRT 3 - TBMM TV[/COLOR]
 http://hls.tv.iptv.ink/trt3tr@370171.m3u8|X-Forwarded-For=37.34.18.55
-#EXTINF:0,TRT BELGESEL HD Documentary
+#EXTINF:0,[COLOR blue]TRT BELGESEL HD Documentary[/COLOR]
 http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
-#EXTINF:0,TRT Muzik Music
+#EXTINF:0,[COLOR blue]TRT Muzik HD[/COLOR]
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:0,TRT AVAZ
+#EXTINF:0,[COLOR blue]TRT AVAZ HD[/COLOR]
 http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
-#EXTINF:0,TRT EL ARABIA
+#EXTINF:0,[COLOR blue]TRT EL ARABIA HD[/COLOR]
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 #EXTINF:0,KANAL D HD
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8

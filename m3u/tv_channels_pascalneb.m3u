@@ -10,10 +10,22 @@ http://0.0.0.0:1234
 http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
 #EXTINF:0,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:-1,TRT SPOR HD
+#EXTINF:-1,TRT SPOR
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1185.m3u8
+#EXTINF:0834 tvg-id="trtspor.tr" group-title="TR Spor Kanalları" tvg-logo="371098.png", [COLOR orangered]TRT SPOR HD[/COLOR]
+http://hls.tv.iptv.ink/trtsportr@371098.m3u8|X-Forwarded-For=37.34.18.55
 #EXTINF:0,TRT HABER HD News
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:0802 tvg-id="trt1.tr" group-title="TR Genel Kanallar" tvg-logo="108209.png", [COLOR orange]TRT 1[/COLOR]
+http://hls.tv.iptv.ink/trt1tr@108209.m3u8|X-Forwarded-For=37.34.18.55
+#EXTINF:0803 tvg-id="trtavaz.tr" group-title="TR Genel Kanallar" tvg-logo="800602.png", [COLOR orangered]TRT AVAZ HD[/COLOR]
+http://hls.tv.iptv.ink/trtavaztr@800602.m3u8|X-Forwarded-For=37.34.18.55
+#EXTINF:0804 tvg-id="trtkurdi.tr" group-title="TR Genel Kanallar" tvg-logo="707556.png", [COLOR orangered]TRT KURDÎ HD[/COLOR]
+http://hls.tv.iptv.ink/trtkurditr@707556.m3u8|X-Forwarded-For=37.34.18.55
+#EXTINF:0805 tvg-id="trtokul.tr" group-title="TR Genel Kanallar" tvg-logo="976101.png", [COLOR orangered]TRT OKUL HD[/COLOR]
+http://hls.tv.iptv.ink/trtokultr@976101.m3u8|X-Forwarded-For=37.34.18.55
+#EXTINF:0808 tvg-id="trt3.tr" group-title="TR Genel Kanallar" tvg-logo="370171.png", [COLOR orange]TRT 3 - TBMM TV[/COLOR]
+http://hls.tv.iptv.ink/trt3tr@370171.m3u8|X-Forwarded-For=37.34.18.55
 #EXTINF:0,TRT BELGESEL HD Documentary
 http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
 #EXTINF:0,TRT Muzik Music
@@ -30,6 +42,8 @@ http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd20
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 #EXTINF:0,SHOW TV HD
 http://live-ciner.mncdn.net/showtv/showtv2/master.m3u8
+#EXTINF:0815 tvg-id="showtv.tr" group-title="TR Genel Kanallar" tvg-logo="442251.png", [COLOR olivedrab]SHOW TV HD2[/COLOR]
+http://hls.tv.iptv.ink/showtvtr@442251.m3u8|X-Forwarded-For=37.34.18.55
 #EXTINF:0,ATV HD
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:-1,ATV SECENEK 2
@@ -44,6 +58,8 @@ http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 http://origin2.live.web.tv.streamprovider.net/streams/725528006e858fe951867f4e2436843f_live_0_0/index.m3u8
 #EXTINF:0,NTV Spor
 http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
+#EXTINF:0828 tvg-id="beyazittv.tr" group-title="TR Haber Kanalları" tvg-logo="536958.png", [COLOR olivedrab]Beyaz TV[/COLOR]
+http://hls.tv.iptv.ink/beyazittvtr@536958.m3u8|X-Forwarded-For=37.34.18.55
 #EXTINF:-1,BEYAZ TV
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1172.m3u8
 #EXTINF:0,FOX HD
@@ -52,6 +68,30 @@ http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
 http://kanalturk-live.ercdn.com/kanalturk1.m3u8
 #EXTINF:0,HABERTuRKNews
 http://live-ciner.mncdn.net/haberturk/haberturk2/master.m3u8
+#EXTINF:0819 tvg-id="acinema.tr" group-title="TR Sinema Kanalları" tvg-logo="500404.png", [COLOR olivedrab]A SINEMA TV[/COLOR]
+http://hls.tv.iptv.ink/acinematr@500404.m3u8|X-Forwarded-For=37.34.18.55
+#EXTINF:0820 tvg-id="cineramatv.tr" group-title="TR Sinema Kanalları" tvg-logo="178944.png", [COLOR olivedrab]CINERAMA TV[/COLOR]
+http://hls.tv.iptv.ink/cineramatvtr@178944.m3u8|X-Forwarded-For=37.34.18.55
+#EXTINF:0821 tvg-id="e2.tr" group-title="TR Sinema Kanalları" tvg-logo="451202.png", [COLOR olivedrab]e2[/COLOR]
+http://hls.tv.iptv.ink/e2tr@451202.m3u8|X-Forwarded-For=37.34.18.55
+#EXTINF:0822 tvg-id="sinematv.tr" group-title="TR Sinema Kanalları" tvg-logo="763208.png", [COLOR olivedrab]SINEMA TV[/COLOR]
+http://hls.tv.iptv.ink/sinematvtr@763208.m3u8|X-Forwarded-For=37.34.18.55
+#EXTINF:-1, [COLOR olivedrab]SINEMA HD[/COLOR]
+mms://yayin7.canliyayin.org/sinema
+#EXTINF:-1, [COLOR olivedrab]SINEMA Turk HD[/COLOR]
+mms://yayin7.canliyayin.org/sinematurk
+#EXTINF:-1, [COLOR olivedrab]Kanal M[/COLOR]
+mms://yayin.networkbil.com/kanalm
+#EXTINF:-1, [COLOR olivedrab]SINEMA 3 HD[/COLOR]
+mms://yayin7.canliyayin.org/sinema3
+#EXTINF:-1, [COLOR olivedrab]SINEMA 4 HD[/COLOR]
+mms://yayin7.canliyayin.org/sinema4
+#EXTINF:-1, [COLOR olivedrab]SINEMA 5 HD[/COLOR]
+mms://yayin7.canliyayin.org/sinema5
+#EXTINF:-1, [COLOR olivedrab]SINEMA 6 HD[/COLOR]
+mms://yayin7.canliyayin.org/sinema6
+#EXTINF:-1, [COLOR olivedrab]CIZGI FILM TV[/COLOR]
+mms://yayin.networkbil.com/cizgifilmtv
 #EXTINF:0,uLKE TV HD
 http://livetr.gostream.nl/ulketvhq/ulketvhq/master.m3u8
 #EXTINF:0,KANAL 7 HD
@@ -98,7 +138,7 @@ rtmp://stream.taksimbilisim.com/mavikaradeniz//bant1
 rtmp://85.132.78.6/live//muztv.stream
 #EXTINF:0,NUMBER ONE T‹RK
 rtmp://mn-l.mncdn.com/birnumaramedya_live//nr1_turk.sdp
-#EXTINF:0,S‹PER TV
+#EXTINF:0,SUPER TV
 rtmp://balgurup.garantisistem.com/Super_Tv//Super_Tv
 #EXTINF:0,TMB TV
 http://origin.live.web.tv.streamprovider.net/streams/d9e6fa870f10971af4d586baa96cbcd6_live_0_0/index.m3u8
@@ -136,10 +176,6 @@ http://origin2.live.web.tv.streamprovider.net/streams/bff43380440cfe9d5b937f4a61
 http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
 #EXTINF:-1,ULKE TV HD
 http://stream.gostream.nl/ulketvhq/ulketvhq.m3u8
-#EXTINF:-1,SAMANYOLU TV
-http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1182.m3u8
-#EXTINF:-1 group-title="TÜRKİYE FAVORI",ZAMANTV
-http://hasbahcaiptv.com/iptv/tr/HasBahCa_ZAMANTV.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL", CINE 5
 http://cine5.mobil.cubecdn.net/cine5/stream_1.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",BELGESEL TV
@@ -154,10 +190,10 @@ http://livetr.gostream.nl/mekke/mekke/HasBahCa.m3u8
 http://livede.gostream.nl/medine/medine/playlist.m3u8
 #EXTINF:0,TRT cocuk Kid
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:-1 group-title="TÜRKİYE YEDEK",MİNİKA ÇOCUK
-http://origin.live.web.tv.streamprovider.net/streams/f79e39a0979af7718cf4828779c7ef26_live_0_0/index.m3u8
-#EXTINF:-1 group-title="TÜRKİYE YEDEK",MİNİKA GO
-http://origin.live.web.tv.streamprovider.net/streams/24b429ab889afc37becb9e59ff84820c_live_0_0/index.m3u8
+#EXTINF:0832 tvg-id="minikacocuk.tr" group-title="TR Çocuk Kanalları" tvg-logo="326824.png", [COLOR olivedrab]MINIKA ÇOCUK[/COLOR]
+http://hls.tv.iptv.ink/minikacocuktr@326824.m3u8|X-Forwarded-For=37.34.18.55
+#EXTINF:0833 tvg-id="minikago.tr" group-title="TR Çocuk Kanalları" tvg-logo="452477.png", [COLOR olivedrab]MINIKA GO[/COLOR]
+http://hls.tv.iptv.ink/minikagotr@452477.m3u8|X-Forwarded-For=37.34.18.55
 #EXTINF:-1 group-title="TURK_ULUSAL",DISNEY  Türk
 http://212.224.108.83/S2/HLS_LIVE/disney/track_4_1000/playlist.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",4 Karamel
@@ -168,8 +204,8 @@ http://origin.live.web.tv.streamprovider.net/streams/852843e69184bd2c2146ae50e7a
 http://92.222.205.40:8080/superlig
 #EXTINF:-1 group-title="Turki",AZ TV Azerbaycan
 http://origin2.live.web.tv.streamprovider.net/streams/7646c80bc1b8b8b007e7649c1f1a1204/index.m3u8
-#EXTINF:-1 group-title="Turki",idman
-http://149.255.152.72/hls-live/livepkgr/idman/idman/idman.m3u8
+#EXTINF:-1,Idman tv
+http://91.204.214.106:23311/stolen/436t/backdoor.hfs
 #EXTINF:-1 group-title="TURK_ULUSAL",7-24TV
 http://hasbahcaiptv.com/iptv/tr/HasBahCa_7-24TV.m3u8
 #EXTINF:-1,KABE(CANLI) AL QURAN
@@ -186,15 +222,30 @@ http://31.186.24.234:8000/90
 http://31.186.24.233:8001/58
 #EXTINF:-1,TRT SPOR
 http://31.186.24.234:8000/33
+#EXTINF:0817 tvg-id="tvem.tr" group-title="TR Genel Kanallar" tvg-logo="320261.png", [COLOR olivedrab]TVEM[/COLOR]
+http://hls.tv.iptv.ink/tvemtr@320261.m3u8|X-Forwarded-For=37.34.18.55
 
 
 
 
-#EXTINF:-1,[COLOR yellow]••• Sky Sport UK •••[/COLOR]
+#EXTINF:-1,[COLOR yellow]••• Sky Sport •••[/COLOR]
 http://0.0.0.0:1234
 
 #EXxxxTINF:-1,[COLOR red]√√ Tadini Cikarin Simdilik √√[/COLOR]
 http://0.0.0.0:1234
+#EXTINF:-1,Dolce Sport 1
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
+#EXTINF:-1,Dolce Sport 2
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
+#EXTINF:-1,Dolce Sport 3
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport3/playlist.m3u8
+#EXTINF:-1, Sport TV 1
+http://31.204.128.112:8081/live/portugal1/playlist.m3u8
+#EXTINF:-1, Sport TV 2
+http://31.204.128.112:8081/live/portugal2/playlist.m3u8
+#EXTINF:-1, Sport TV 3
+http://31.204.128.112:8081/live/portugal3/playlist.m3u8
+
 #EXTINF:-1,SKYSPORTS1
  http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports1.stream/chunklist.m3u8
 

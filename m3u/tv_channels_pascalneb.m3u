@@ -202,6 +202,8 @@ http://vivisolivegrp01-lh.akamaihd.net/i/mctv_1@398169/index_270_av-b.m3u8?sd=10
 http://vivisolivegrp01-lh.akamaihd.net/i/mceutv_1@398167/index_270_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,YUMURCAK TV
 http://vivisolivegrp01-lh.akamaihd.net/i/yumurcak_1@398194/index_360_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,IRMAK TV HD
+http://cds.z2q7i5m7.hwcdn.net/asset/7uDFqi51/chunklist_720.m3u8
 
 
 #EXTINF:-1,[COLOR white][I][B]Die beiden anderen Links enthalt die Logos und das EPG der Kanale,[/B][/I][/COLOR]

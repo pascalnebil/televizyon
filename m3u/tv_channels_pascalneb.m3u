@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[COLOR yellow]26.11.2015: Samanyolu Grubu eklenmistir TRT-World TRT-Diyanet & Hilal-TV & Lalegül-TV eklenmistir Cartoon Network Eklenmistir[/COLOR]
+#EXTINF:-1,[COLOR red]26.11.2015: Kanal:93 Samanyolu Grubu eklenmistir TRT-World TRT-Diyanet & Hilal-TV & Lalegül-TV eklenmistir Cartoon Network Eklenmistir[/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
@@ -111,8 +111,6 @@ http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
 rtmp://stream.farm.cdnline.com:554/liveedge//tjk.stream_512k
 #EXTINF:-1,TAY TV
 http://live.netd.com.tr/S2/HLS_LIVE/tay/track_0_192/playlist.m3u8?
-#EXTINF:-1,TRT HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/index_1500_av-p.m3u8
 #EXTINF:0,MAVI KARADENIZ TV
 rtmp://stream.taksimbilisim.com/mavikaradeniz//bant1
 #EXTINF:0,NUMBER ONE TURK
@@ -121,8 +119,6 @@ rtmp://mn-l.mncdn.com/birnumaramedya_live//nr1_turk.sdp
 rtmp://balgurup.garantisistem.com/Super_Tv//Super_Tv
 #EXTINF:0,TMB TV
 http://origin.live.web.tv.streamprovider.net/streams/d9e6fa870f10971af4d586baa96cbcd6_live_0_0/index.m3u8
-#EXTINF:0,TRT MUZIK
-http://sol.trtcdn.com/tv/trtmuzik/smil:trtmuzik.smil/playlist.m3u8
 #EXTINF:0,TURKISH TV
 http://origin.live.web.tv.streamprovider.net/streams/f6da8d03b961bfc324c0c6d4de550d4c_live_0_0/index.m3u8
 #EXTINF:0,VATAN TV
@@ -133,8 +129,6 @@ http://yayin3.canlitv.com:1935/live/vizyonturktv/chunklist_w1232086360.m3u8
 http://origin.live.web.tv.streamprovider.net/streams/9c332525d11e8af026616ef6999099bc/index.m3u8
 #EXTINF:0,ZEYNO TV
 http://origin2.live.web.tv.streamprovider.net/streams/f9804150295e0d67755899b3e55134e1/index.m3u8
-#EXTINF:0,TRT BELGESEL HD
-rtmp://si.trtcdn.com/tv/trtbelgesel/mp4:trtbelgesel_3
 #EXTINF:-1,TV2
 http://212.224.80.79//S2/HLS_LIVE/tv2/track_4_1000/playlist.m3u8?
 #EXTINF:-1,SKYTURK 360

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[COLOR yellow]26.11.2015: Samanyolu Grubu eklenmistir, TRT-World TRT-Diyanet & Hilal-TV & Lalegül-TV eklenmistir, Cartoon Network Eklenmistir [/COLOR]
+#EXTINF:-1,[COLOR yellow]26.11.2015: Samanyolu Grubu eklenmistir TRT-World TRT-Diyanet & Hilal-TV & Lalegül-TV eklenmistir Cartoon Network Eklenmistir[/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
@@ -25,9 +25,9 @@ http://hls.tv.iptv.ink/trtavaztr@800602.m3u8|X-Forwarded-For=37.34.18.55
 http://hls.tv.iptv.ink/trtkurditr@707556.m3u8|X-Forwarded-For=37.34.18.55
 #EXTINF:0805 tvg-id="trtokul.tr" group-title="TR Genel Kanallar" tvg-logo="976101.png", [COLOR orangered]TRT OKUL HD[/COLOR]
 http://hls.tv.iptv.ink/trtokultr@976101.m3u8|X-Forwarded-For=37.34.18.55
-#EXTINF:-1,ratus42/TRT WORLD HD
+#EXTINF:-1,TRT WORLD HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1,ratus42/TRT DIYANET
+#EXTINF:-1,TRT DIYANET
 http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
 #EXTINF:0808 tvg-id="trt3.tr" group-title="TR Genel Kanallar" tvg-logo="370171.png", [COLOR orange]TRT 3 - TBMM TV[/COLOR]
 http://hls.tv.iptv.ink/trt3tr@370171.m3u8|X-Forwarded-For=37.34.18.55
@@ -147,9 +147,9 @@ http://origin.live.web.tv.streamprovider.net/streams/205a2db5a33b65589f22dd1c159
 http://origin2.live.web.tv.streamprovider.net/streams/0b41c2c2d34dafe38a1cf1a3f2cbaefe/index.m3u8
 #EXTINF:-1,HALK HABER
 http://37.77.2.236:1935/liveedge/live/chunklist_w1911960159.m3u8
-#EXTINF:-1,ratus42/LALEGUL TV
+#EXTINF:-1,LALEGUL TV
 http://yayin5.canliyayin.org:1935/live/lalegultvx2/playlist.m3u8
-#EXTINF:-1,ratus42/HILAL TV
+#EXTINF:-1,HILAL TV
 http://yayin8.canliyayin.org:1935/hilaltv/hilaltv/ratus42.m3u8
 #EXTINF:-1,AKiT TV
 http://origin2.live.web.tv.streamprovider.net/streams/bff43380440cfe9d5b937f4a61723bed/index.m3u8
@@ -169,7 +169,7 @@ http://livetr.gostream.nl/mekke/mekke/HasBahCa.m3u8
 http://livede.gostream.nl/medine/medine/playlist.m3u8
 #EXTINF:-1, [COLOR olivedrab]CIZGI FILM TV[/COLOR]
 mms://yayin.networkbil.com/cizgifilmtv
-#EXTINF:-1,ratus42/CARTOON NETWORK
+#EXTINF:-1,CARTOON NETWORK
 http://origin.live.web.tv.streamprovider.net/streams/e0abd0b3943ae7bbcff8e3b570ef4612_live_0_0/index.m3u8
 #EXTINF:0,TRT cocuk Kid
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8

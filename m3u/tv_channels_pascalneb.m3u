@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1,[COLOR blue][I][B]--- 24-10-2015 ---[/B][/I][/COLOR]
-#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 24-10-2015--[/COLOR]
-
+#EXTINF:-1,[COLOR yellow]26.11.2015: Samanyolu Grubu eklenmistir, TRT-World TRT-Diyanet & Hilal-TV & Lalegül-TV eklenmistir, Cartoon Network Eklenmistir [/COLOR]
+http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
 
@@ -14,24 +13,24 @@ http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 http://hls.tv.iptv.ink/trtsportr@371098.m3u8|X-Forwarded-For=37.34.18.55
 #EXTINF:0,TRT HABER HD News
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-#EXTINF:0802 tvg-id="trt1.tr" group-title="TR Genel Kanallar" tvg-logo="108209.png", [COLOR orange]TRT 1[/COLOR]
-http://hls.tv.iptv.ink/trt1tr@108209.m3u8|X-Forwarded-For=37.34.18.55
+#EXTINF:0,[COLOR blue]TRT BELGESEL HD Documentary[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+#EXTINF:0,[COLOR blue]TRT Muzik HD[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:0,[COLOR blue]TRT EL ARABIA HD[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 #EXTINF:0803 tvg-id="trtavaz.tr" group-title="TR Genel Kanallar" tvg-logo="800602.png", [COLOR orangered]TRT AVAZ HD[/COLOR]
 http://hls.tv.iptv.ink/trtavaztr@800602.m3u8|X-Forwarded-For=37.34.18.55
 #EXTINF:0804 tvg-id="trtkurdi.tr" group-title="TR Genel Kanallar" tvg-logo="707556.png", [COLOR orangered]TRT KURDÎ HD[/COLOR]
 http://hls.tv.iptv.ink/trtkurditr@707556.m3u8|X-Forwarded-For=37.34.18.55
 #EXTINF:0805 tvg-id="trtokul.tr" group-title="TR Genel Kanallar" tvg-logo="976101.png", [COLOR orangered]TRT OKUL HD[/COLOR]
 http://hls.tv.iptv.ink/trtokultr@976101.m3u8|X-Forwarded-For=37.34.18.55
+#EXTINF:-1,ratus42/TRT WORLD HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1,ratus42/TRT DIYANET
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
 #EXTINF:0808 tvg-id="trt3.tr" group-title="TR Genel Kanallar" tvg-logo="370171.png", [COLOR orange]TRT 3 - TBMM TV[/COLOR]
 http://hls.tv.iptv.ink/trt3tr@370171.m3u8|X-Forwarded-For=37.34.18.55
-#EXTINF:0,[COLOR blue]TRT BELGESEL HD Documentary[/COLOR]
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
-#EXTINF:0,[COLOR blue]TRT Muzik HD[/COLOR]
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:0,[COLOR blue]TRT AVAZ HD[/COLOR]
-http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
-#EXTINF:0,[COLOR blue]TRT EL ARABIA HD[/COLOR]
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 #EXTINF:0,KANAL D HD
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 #EXTINF:-1,KANAL D HD 2
@@ -114,24 +113,8 @@ rtmp://stream.farm.cdnline.com:554/liveedge//tjk.stream_512k
 http://live.netd.com.tr/S2/HLS_LIVE/tay/track_0_192/playlist.m3u8?
 #EXTINF:-1,TRT HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/index_1500_av-p.m3u8
-#EXTINF:-1,FANATIK TV
-http://fanatik.hls.cubecdn.net/fanatiktv/stream_720.m3u8
-#EXTINF:-1,ARABESK TV
-http://origin.live.web.tv.streamprovider.net/streams/03a1ac3df6a005d64b6e4b210de1b17b_live_0_0/index.m3u8
-#EXTINF:-1,BEST TV
-http://origin.live.web.tv.streamprovider.net/streams/86ebe1c298d11029a92cadd9ab24f337_live_0_0/index.m3u8
-#EXTINF:-1,DAMARIM TV
-http://origin.live.web.tv.streamprovider.net/streams/41d1630daf5a724edd7d057eed6fe147_live_0_0/index.m3u8
-#EXTINF:-1,DAMLA TV
-http://origin.live.web.tv.streamprovider.net/streams/8c4a5bd6d3c5d3c21c11deb333bd4b7d/index.m3u8
-#EXTINF:-1,GENC TV
-http://origin.live.web.tv.streamprovider.net/streams/45b3a774008e07aa0958f4c63addf718_live_0_0/index.m3u8
-#EXTINF:-1,GENC TURK TV
-http://origin.live.web.tv.streamprovider.net/streams/86d21f47598ca63b063558727a16ea86_live_0_0/index.m3u8
 #EXTINF:0,MAVI KARADENIZ TV
 rtmp://stream.taksimbilisim.com/mavikaradeniz//bant1
-#EXTINF:0,MUZ TV(AZERBAYCAN)
-rtmp://85.132.78.6/live//muztv.stream
 #EXTINF:0,NUMBER ONE TURK
 rtmp://mn-l.mncdn.com/birnumaramedya_live//nr1_turk.sdp
 #EXTINF:0,SUPER TV
@@ -164,6 +147,10 @@ http://origin.live.web.tv.streamprovider.net/streams/205a2db5a33b65589f22dd1c159
 http://origin2.live.web.tv.streamprovider.net/streams/0b41c2c2d34dafe38a1cf1a3f2cbaefe/index.m3u8
 #EXTINF:-1,HALK HABER
 http://37.77.2.236:1935/liveedge/live/chunklist_w1911960159.m3u8
+#EXTINF:-1,ratus42/LALEGUL TV
+http://yayin5.canliyayin.org:1935/live/lalegultvx2/playlist.m3u8
+#EXTINF:-1,ratus42/HILAL TV
+http://yayin8.canliyayin.org:1935/hilaltv/hilaltv/ratus42.m3u8
 #EXTINF:-1,AKiT TV
 http://origin2.live.web.tv.streamprovider.net/streams/bff43380440cfe9d5b937f4a61723bed/index.m3u8
 #EXTINF:-1,24 TV
@@ -182,6 +169,8 @@ http://livetr.gostream.nl/mekke/mekke/HasBahCa.m3u8
 http://livede.gostream.nl/medine/medine/playlist.m3u8
 #EXTINF:-1, [COLOR olivedrab]CIZGI FILM TV[/COLOR]
 mms://yayin.networkbil.com/cizgifilmtv
+#EXTINF:-1,ratus42/CARTOON NETWORK
+http://origin.live.web.tv.streamprovider.net/streams/e0abd0b3943ae7bbcff8e3b570ef4612_live_0_0/index.m3u8
 #EXTINF:0,TRT cocuk Kid
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:0832 tvg-id="minikacocuk.tr" group-title="TR Çocuk Kanalları" tvg-logo="326824.png", [COLOR olivedrab]MINIKA ÇOCUK[/COLOR]
@@ -202,6 +191,24 @@ http://92.222.205.40:8080/superlig
 http://origin2.live.web.tv.streamprovider.net/streams/7646c80bc1b8b8b007e7649c1f1a1204/index.m3u8
 #EXTINF:-1,Idman tv
 http://91.204.214.106:23311/stolen/436t/backdoor.hfs
+#EXTINF:-1,[COLOR yellow]--- Samanyolu Grubu ---[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1,SAMANYOLU TV
+http://vivisolivegrp01-lh.akamaihd.net/i/stv_1@398177/index_360_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,SAMANYOLU AVRUPA
+http://vivisolivegrp01-lh.akamaihd.net/i/stveu_1@398191/index_270_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,SAMANYOLU HABER
+http://vivisolivegrp01-lh.akamaihd.net/i/shabertv_1@398173/index_360_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,KURE TV MEKKE
+http://vivisolivegrp01-lh.akamaihd.net/i/mekketv_1@398171/index_270_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,MEHTAP TV
+http://vivisolivegrp01-lh.akamaihd.net/i/mehtaptv_1@398170/index_270_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,MC TV
+http://vivisolivegrp01-lh.akamaihd.net/i/mctv_1@398169/index_270_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,MC EU
+http://vivisolivegrp01-lh.akamaihd.net/i/mceutv_1@398167/index_270_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,YUMURCAK TV
+http://vivisolivegrp01-lh.akamaihd.net/i/yumurcak_1@398194/index_360_av-b.m3u8?sd=10&rebase=on
 
 
 #EXTINF:-1,[COLOR white][I][B]Die beiden anderen Links enthalt die Logos und das EPG der Kanale,[/B][/I][/COLOR]
@@ -1097,7 +1104,3 @@ http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2db
 rtmp://tv1.streampulse.eu/tilesport/movie1
 
 
-
-
-#EXTINF:-1,[COLOR yellow]--- World WebCam ---[/COLOR]
-http://0.0.0.0:1234

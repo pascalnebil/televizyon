@@ -206,148 +206,38 @@ http://vivisolivegrp01-lh.akamaihd.net/i/yumurcak_1@398194/index_360_av-b.m3u8?s
 http://cds.z2q7i5m7.hwcdn.net/asset/7uDFqi51/chunklist_720.m3u8
 
 
-#EXTINF:-1,[COLOR white][I][B]Die beiden anderen Links enthalt die Logos und das EPG der Kanale,[/B][/I][/COLOR]
-
-#EXTINF:-1,[COLOR white][I][B]und sollte in der PVR Simple Client platziert werden.[/B][/I][/COLOR]
-
-#EXTINF:-1,[COLOR white][I][B]Die Kanale sind unterschiedlicher Nationalitaten und sind in alphabetischer Reihenfolge geordnet.[/B][/I][/COLOR]
-
-#EXTINF:-1,[COLOR white][I][B]Leider ist es die einzige Moglichkeit, um die Kanale zu sehen.[/B][/I][/COLOR]
-
-#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
-
-#EXTINF:-1,[COLOR yellow]XBMC/KODI M3U Playlist URL:[/COLOR] [COLOR white]http://tiny.cc/xv3h3x[/COLOR]
-
-#EXTINF:-1,[COLOR yellow]XBMC/KODI XMLTV-EPG URL:[/COLOR] [COLOR white]http://tiny.cc/xgop5x[/COLOR]
-
-#EXTINF:-1,[COLOR yellow]XBMC/KODI CHANNELS LOGOS:[/COLOR] [COLOR white]http://logo.tvip.ga[/COLOR]
-
-#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
 
 
 #EXTINF:-1,[I][B][COLOR green]--- DEUTSCH-KANALE - Alternative Liste ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
-#EXTINF:-1,DE-VOX
-http://electro-tunis.biz:8000/live/apkandy16/74855/800.m3u8
-#EXTINF:-1,DE-SAT1
-http://electro-tunis.biz:8000/live/apkandy16/74855/797.m3u8
-#EXTINF:-1,DE-RTL
-http://electro-tunis.biz:8000/live/apkandy16/74855/795.m3u8
-#EXTINF:-1,DE-PROSIEBEN
-http://electro-tunis.biz:8000/live/apkandy16/74855/796.m3u8
-#EXTINF:-1,DE-KABEL_EINS
-http://electro-tunis.biz:8000/live/apkandy16/74855/794.m3u8
-#EXTINF:-1,DE-ARD
-http://electro-tunis.biz:8000/live/apkandy16/74855/902.m3u8
-#EXTINF:-1,DE-BADEN
-http://electro-tunis.biz:8000/live/apkandy16/74855/901.m3u8
-#EXTINF:-1,Tagesschau24
-http://electro-tunis.biz:8000/live/apkandy16/74855/905.m3u8
-#EXTINF:-1,DE-Super_RTL
-http://electro-tunis.biz:8000/live/apkandy16/74855/906.m3u8
-#EXTINF:-1,DE-ORF2
-http://electro-tunis.biz:8000/live/apkandy16/74855/915.m3u8
-#EXTINF:-1,RTL2_HD
-http://electro-tunis.biz:8000/live/apkandy16/74855/917.m3u8
-#EXTINF:-1,DE-Anlegerfernsehen
-http://electro-tunis.biz:8000/live/apkandy16/74855/922.m3u8
-#EXTINF:-1,DE-Europe_news
-http://electro-tunis.biz:8000/live/apkandy16/74855/925.m3u8
-#EXTINF:-1,DE-Famliy
-http://electro-tunis.biz:8000/live/apkandy16/74855/927.m3u8
-#EXTINF:-1,DE-Donau_TV
-http://electro-tunis.biz:8000/live/apkandy16/74855/928.m3u8
-#EXTINF:-1,DE-Salzwedel
-http://electro-tunis.biz:8000/live/apkandy16/74855/1153.m3u8
-#EXTINF:-1,DE-JOIZ
-http://electro-tunis.biz:8000/live/apkandy16/74855/1156.m3u8
-#EXTINF:-1,DE-DAF
-http://electro-tunis.biz:8000/live/apkandy16/74855/1166.m3u8
-
-#EXTINF:0002 tvg-id="daserste.de" group-title="DE Hauptsender" tvg-logo="609281.png", [COLOR gold]Das Erste[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=71565725
-#EXTINF:0003 tvg-id="zdf.de" group-title="DE Hauptsender" tvg-logo="520869.png", [COLOR gold]ZDF[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=89460817
-#EXTINF:0014 tvg-id="servustv.de" group-title="DE Hauptsender" tvg-logo="506777.png", [COLOR gold]ServusTV HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=91552152
-#EXTINF:0016 tvg-id="daf.de" group-title="DE Nachrichtensender" tvg-logo="133390.png", [COLOR gold]DAF[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=38226521
-#EXTINF:0017 tvg-id="ntv.de" group-title="DE Nachrichtensender" tvg-logo="323539.png", [COLOR gold]n-tv[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=36117276
-#EXTINF:0018 tvg-id="tagesschau24.de" group-title="DE Nachrichtensender" tvg-logo="420228.png", [COLOR gold]tagesschau24 HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=66943285
-#EXTINF:0019 tvg-id="n24.de" group-title="DE Nachrichtensender" tvg-logo="692106.png", [COLOR gold]N24[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=94565800
-#EXTINF:0023 tvg-id="ric.de" group-title="DE Kindersender" tvg-logo="548620.png", [COLOR gold]RIC[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=58895342
-#EXTINF:0028 tvg-id="joiz.de" group-title="DE Musik/Unterhaltung" tvg-logo="754941.png", [COLOR gold]Joiz HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=76444512
-#EXTINF:0029 tvg-id="ndrhh.de" group-title="DE Regionalsender" tvg-logo="345745.png", [COLOR gold]NDR Hamburg HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=97998370
-#EXTINF:0030 tvg-id="ndrmv.de" group-title="DE Regionalsender" tvg-logo="293767.png", [COLOR gold]NDR Meck.-Vorp. HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=37960481
-#EXTINF:0031 tvg-id="ndrns.de" group-title="DE Regionalsender" tvg-logo="686621.png", [COLOR gold]NDR Niedersachsen HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=66725953
-#EXTINF:0032 tvg-id="ndrsh.de" group-title="DE Regionalsender" tvg-logo="837900.png", [COLOR gold]NDR Schleswig-Hol. HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=68869115
-#EXTINF:0033 tvg-id="wdr.de" group-title="DE Regionalsender" tvg-logo="829753.png", [COLOR gold]WDR HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=86222576
-#EXTINF:0034 tvg-id="mdrsa.de" group-title="DE Regionalsender" tvg-logo="359097.png", [COLOR gold]mdr Sachsenanhalt[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=19246790
-#EXTINF:0035 tvg-id="mdrs.de" group-title="DE Regionalsender" tvg-logo="434439.png", [COLOR gold]mdr Sachsen[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=43846332
-#EXTINF:0036 tvg-id="mdrt.de" group-title="DE Regionalsender" tvg-logo="795294.png", [COLOR gold]mdr Thuringen[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=62127479
-#EXTINF:0038 tvg-id="br.de" group-title="DE Regionalsender" tvg-logo="282510.png", [COLOR gold]BR Nord HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=91032489
-#EXTINF:0038 tvg-id="br.de" group-title="DE Regionalsender" tvg-logo="282510.png", [COLOR gold]BR Sud HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=93405226
-#EXTINF:0039 tvg-id="swr.de" group-title="DE Regionalsender" tvg-logo="589366.png", [COLOR gold]SWR Rheinland-Pfalz HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=66994086
-#EXTINF:0039 tvg-id="swr.de" group-title="DE Regionalsender" tvg-logo="589366.png", [COLOR gold]SWR Baden-Wurt. HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=86487325
-#EXTINF:0040 tvg-id="hr.de" group-title="DE Regionalsender" tvg-logo="872109.png", [COLOR gold]hr HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=92038145
-#EXTINF:0042 tvg-id="sr.de" group-title="DE Regionalsender" tvg-logo="153584.png", [COLOR gold]SR[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=70352001
-#EXTINF:0043 tvg-id="munchen.de" group-title="DE Regionalsender" tvg-logo="465700.png", [COLOR gold]munchen.tv[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=87047525
-#EXTINF:0044 tvg-id="alexberlin.de" group-title="DE Regionalsender" tvg-logo="806954.png", [COLOR gold]Alex Berlin[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=65304965
-#EXTINF:0045 tvg-id="nrw.de" group-title="DE Regionalsender" tvg-logo="452899.png", [COLOR gold]NRW TV[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=23906919
-#EXTINF:0046 tvg-id="arte.de" group-title="DE Spartensender" tvg-logo="602298.png", [COLOR gold]arte[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=46301796
-#EXTINF:0047 tvg-id="3sat.de" group-title="DE Spartensender" tvg-logo="517353.png", [COLOR gold]3sat[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=20739466
-#EXTINF:0048 tvg-id="phoenix.de" group-title="DE Spartensender" tvg-logo="782023.png", [COLOR gold]Phoenix[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=86652639
-#EXTINF:0049 tvg-id="alpha.de" group-title="DE Spartensender" tvg-logo="535798.png", [COLOR gold]ARD Alpha HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=36929284
-#EXTINF:0051 tvg-id="blizz.de" group-title="DE Spartensender" tvg-logo="897815.png", [COLOR gold]blizz TV HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=72718361
-#EXTINF:0052 tvg-id="family.de" group-title="DE Spartensender" tvg-logo="693134.png", [COLOR gold]Family TV HD[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=12138379
-#EXTINF:0055 tvg-id="zdfneo.de" group-title="DE Spartensender" tvg-logo="698970.png", [COLOR gold]ZDFneo[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=83251092
-#EXTINF:0056 tvg-id="zdfkultur.de" group-title="DE Spartensender" tvg-logo="734448.png", [COLOR gold]ZDFkultur[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=70552908
-#EXTINF:0057 tvg-id="zdfinfo.de" group-title="DE Spartensender" tvg-logo="387164.png", [COLOR gold]ZDFinfo[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=46937073
-#EXTINF:0058 tvg-id="anixe.de" group-title="DE Spartensender" tvg-logo="581947.png", [COLOR gold]Anixe[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=70153119
-#EXTINF:0059 tvg-id="dw.de" group-title="DE Spartensender" tvg-logo="730024.png", [COLOR gold]Deutsche Welle[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=72519784
-#EXTINF:0061 tvg-id="weltderwunder.de" group-title="DE Spartensender" tvg-logo="729583.png", [COLOR gold]Welt der Wunder TV[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=84481021
-#EXTINF:0064 tvg-id="bibeltv.de" group-title="DE Religion" tvg-logo="206560.png", [COLOR gold]Bibel TV[/COLOR]
-http://api.iptv.ink/pl.m3u8?ch=40925356
-#EXTINF:0067 tvg-id="orf3.at" group-title="AT Spartensender" tvg-logo="510154.png", [COLOR orange]ORF III[/COLOR]
-http://hls.tv.iptv.ink/orf3at@510154.m3u8|X-Forwarded-For=93.82.18.55
-#EXTINF:0068 tvg-id="orfsportplus.at" group-title="AT Sport" tvg-logo="722628.png", [COLOR orange]ORF Sport+[/COLOR]
-http://hls.tv.iptv.ink/orfsportplusat@722628.m3u8|X-Forwarded-For=93.82.18.55
-
-
+EXTINF:-1,3SAT
+http://217.20.164.196:8080/3sat/index.m3u8
+#EXTINF:-1,ARD
+http://217.20.164.196:8080/ard/index.m3u8
+#EXTINF:-1,RBB
+http://217.20.164.196:8080/rbb/index.m3u8
+#EXTINF:-1,KIKA
+http://217.20.164.196:8080/kika/index.m3u8
+#EXTINF:-1,ZDF
+http://217.20.164.196:8080/zdf/index.m3u8
+#EXTINF:-1,VOX
+http://217.20.164.196:8080/vox/index.m3u8
+#EXTINF:-1,SAT1
+http://217.20.164.196:8080/sat1/index.m3u8
+#EXTINF:-1,RTL
+http://217.20.164.196:8080/rtl/index.m3u8
+#EXTINF:-1,N-TV
+http://217.20.164.196:8080/n-tv/index.m3u8
+#EXTINF:-1,Eurosport
+http://217.20.164.196:8080/eurosport/index.m3u8
+#EXTINF:-1,Euronews
+http://217.20.164.196:8080/euronews/index.m3u8
+#EXTINF:-1,MDR
+http://217.20.164.196:8080/mdr/index.m3u8
+#EXTINF:-1,NDR
+http://217.20.164.196:8080/ndr/index.m3u8
+#EXTINF:-1,SWR
+http://217.20.164.196:8080/swr/index.m3u8
 
 
 

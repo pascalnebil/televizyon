@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red]28.11.2015: Pro7 RTL vs.. Yüklenmistir ..Kanal:93 Samanyolu Grubu eklenmistir TRT-World TRT-Diyanet & Hilal-TV & Lalegül-TV eklenmistir Cartoon Network Eklenmistir[/COLOR]
+#EXTINF:-1,[COLOR red]02.12.2015: Vox RTL vs.. Yüklenmistir ..Kanal:93 Samanyolu Grubu eklenmistir TRT-World TRT-Diyanet & Hilal-TV & Lalegül-TV eklenmistir Cartoon Network Eklenmistir[/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
@@ -653,8 +653,6 @@ http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.str
 
 #EXTINF: -1 TVG-id = “sic.pt”-logo TVG = “SIC.png” grupo-title = “PORTUGAL”, SIC
 http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/playlist.m3u8
-#EXTINF: -1 TVG-id = “sic.pt”-logo TVG = “SIC.png” grupo-title = “PORTUGAL”, SIC
-http://213.13.26.7:1936/live/_definst_/sic/magellan.m3u8
 #EXTINF: -1 TVG-id = “sic.pt”-logo TVG = “SIC.png” grupo-title = “PORTUGAL”, SIC
 http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
 

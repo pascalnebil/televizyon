@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red]02.12.2015: Vox RTL vs.. Yüklenmistir ..Kanal:93 Samanyolu Grubu eklenmistir TRT-World TRT-Diyanet & Hilal-TV & Lalegül-TV eklenmistir Cartoon Network Eklenmistir[/COLOR]
+#EXTINF:-1,[COLOR red]02.12.2015: Sky DE Bazilari Yüklenmistir ..Kanal:93 Samanyolu Grubu eklenmistir TRT-World TRT-Diyanet & Hilal-TV & Lalegül-TV eklenmistir Cartoon Network Eklenmistir[/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
@@ -57,7 +57,7 @@ http://origin2.live.web.tv.streamprovider.net/streams/725528006e858fe951867f4e24
 #EXTINF:0,NTV Spor
 http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
 #EXTINF:0828 tvg-id="beyazittv.tr" group-title="TR Haber Kanalları" tvg-logo="536958.png", [COLOR olivedrab]Beyaz TV[/COLOR]
-http://hls.tv.iptv.ink/beyazittvtr@536958.m3u8|X-Forwarded-For=37.34.18.55
+http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8 |X-Forwarded-For=37.34.18.55
 #EXTINF:-1,BEYAZ TV
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1172.m3u8
 #EXTINF:0,FOX HD
@@ -208,8 +208,30 @@ http://cds.z2q7i5m7.hwcdn.net/asset/7uDFqi51/chunklist_720.m3u8
 
 
 
-#EXTINF:-1,[I][B][COLOR green]--- DEUTSCH-KANALE - Alternative Liste ---[/COLOR][/B][/I]
+#EXTINF:-1,[I][B][COLOR green]--- DEUTSCH-KANALE - SKY ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
+#EXTINF:-1,Sky Sport News HD
+http://9536086c.stream4k.cc/hls/ssnhd.m3u8
+#EXTINF:-1,Sky Sport HD 1
+http://9536086c.stream4k.cc/hls/sporthd1.m3u8
+#EXTINF:-1,Sky Sport HD 2
+http://9536086c.stream4k.cc/hls/sporthd2.m3u8
+#EXTINF:-1,Sky Bundesliga HD 1
+http://9536086c.stream4k.cc/hls/bund1.m3u8
+#EXTINF:-1,Sky Cinema
+http://9536086c.stream4k.cc/hls/cinema.m3u8
+#EXTINF:-1,Discovery HD
+http://9536086c.stream4k.cc/hls/discovery.m3u8
+#EXTINF:-1,Sport1 US HD
+http://9536086c.stream4k.cc/hls/sportus.m3u8
+#EXTINF:-1,National Geo Wild HD
+http://9536086c.stream4k.cc/hls/nationalwild.m3u8
+#EXTINF:-1,Sky Atlantic
+http://9536086c.stream4k.cc/hls/atlantic.m3u8
+#EXTINF:-1,National Geo HD
+http://9536086c.stream4k.cc/hls/national.m3u8
+#EXTINF:-1,Sky Select
+http://9536086c.stream4k.cc/hls/other1.m3u8
 #EXTINF:-1,3SAT
 http://217.20.164.196:8080/3sat/index.m3u8
 #EXTINF:-1,ARD

@@ -57,7 +57,7 @@ http://origin2.live.web.tv.streamprovider.net/streams/725528006e858fe951867f4e24
 #EXTINF:0,NTV Spor
 http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
 #EXTINF:0828 tvg-id="beyazittv.tr" group-title="TR Haber Kanalları" tvg-logo="536958.png", [COLOR olivedrab]Beyaz TV[/COLOR]
-http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8 |X-Forwarded-For=37.34.18.55
+http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
 #EXTINF:-1,BEYAZ TV
 http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1172.m3u8
 #EXTINF:0,FOX HD

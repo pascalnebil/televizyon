@@ -1389,3 +1389,310 @@ rtmp://tv1.streampulse.eu/tilesport/movie1
 
 #EXTINF:-1, TVA Sport Canada
 rtmp://cp39414.live.edgefcs.net/live/event1@9756
+
+#EXTINF:-1,Sky SyFy
+http://xs.best-tv.us:8000/live/Tony/Tony/2064.m3u8
+#EXTINF:-1,Sky Krimi
+http://xs.best-tv.us:8000/live/Tony/Tony/2063.m3u8
+#EXTINF:-1,Sky DE NatGeo Wild HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2060.m3u8
+#EXTINF:-1,Sky DE Nat Geo HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2059.m3u8
+#EXTINF:-1,Sky DE Hits HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2058.m3u8
+#EXTINF:-1,Sky DE Emotion
+http://xs.best-tv.us:8000/live/Tony/Tony/2057.m3u8
+#EXTINF:-1,Sky DE Discovery Channel HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2056.m3u8
+#EXTINF:-1,Sky DE Comedy
+http://xs.best-tv.us:8000/live/Tony/Tony/2055.m3u8
+#EXTINF:-1,Sky DE Cinema  24
+http://xs.best-tv.us:8000/live/Tony/Tony/2054.m3u8
+#EXTINF:-1,Sky DE Cinema  1
+http://xs.best-tv.us:8000/live/Tony/Tony/2053.m3u8
+#EXTINF:-1,Sky DE Cinema
+http://xs.best-tv.us:8000/live/Tony/Tony/2052.m3u8
+#EXTINF:-1,Sky DE Atlantic HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2046.m3u8
+#EXTINF:-1,Sky DE Action
+http://xs.best-tv.us:8000/live/Tony/Tony/2045.m3u8
+#EXTINF:-1,Sky DE Bundesliga 1 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2047.m3u8
+#EXTINF:-1,Sky DE Bundesliga 2 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2048.m3u8
+#EXTINF:-1,Sky DE Bundesliga 3 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2049.m3u8
+#EXTINF:-1,Sky DE Bundesliga 4 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2050.m3u8
+#EXTINF:-1,Sky DE Bundesliga 5 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2051.m3u8
+#EXTINF:-1,Sky DE Sport 1 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2061.m3u8
+#EXTINF:-1,Sky DE Sport 2 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2062.m3u8
+#EXTINF:-1,DE 3Sat HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2004.m3u8
+#EXTINF:-1,DE Anixe HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2003.m3u8
+#EXTINF:-1,DE Arte HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2002.m3u8
+#EXTINF:-1,DE BR3 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2001.m3u8
+#EXTINF:-1,DE Das Erste HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2000.m3u8
+#EXTINF:-1,DE Eins Festival HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1999.m3u8
+#EXTINF:-1,DE Kika HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1998.m3u8
+#EXTINF:-1,DE MDR HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1997.m3u8
+#EXTINF:-1,DE N24 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1996.m3u8
+#EXTINF:-1,DE NDR HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1995.m3u8
+#EXTINF:-1,DE Pro 7 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1994.m3u8
+#EXTINF:-1,DE RTL HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1993.m3u8
+#EXTINF:-1,DE Servus HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1992.m3u8
+#EXTINF:-1,DE Sky Select 1 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1991.m3u8
+#EXTINF:-1,DE Sky Select 2 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1990.m3u8
+#EXTINF:-1,DE Sky Select 3 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1989.m3u8
+#EXTINF:-1,DE Sky Select 4 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1988.m3u8
+#EXTINF:-1,DE Sky Select 5 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1987.m3u8
+#EXTINF:-1,DE Sky Select 6 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1986.m3u8
+#EXTINF:-1,DE Sky Select 7 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1985.m3u8
+#EXTINF:-1,DE Sky Select 8 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1984.m3u8
+#EXTINF:-1,DE Sky Select 9 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1983.m3u8
+#EXTINF:-1,DE SWR HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1982.m3u8
+#EXTINF:-1,DE Tagesschau 24 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1981.m3u8
+#EXTINF:-1,DE WDR HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1980.m3u8
+#EXTINF:-1,DE ZDF Info HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1979.m3u8
+#EXTINF:-1,DE ZDF Kultur HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1978.m3u8
+#EXTINF:-1,DE ZDF One HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1977.m3u8
+#EXTINF:-1,DE: 3SAT
+http://xs.best-tv.us:8000/live/Tony/Tony/1970.m3u8
+#EXTINF:-1,DE: ARD
+http://xs.best-tv.us:8000/live/Tony/Tony/1969.m3u8
+#EXTINF:-1,DE: ARD HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1968.m3u8
+#EXTINF:-1,DE: Disney Cinemagic
+http://xs.best-tv.us:8000/live/Tony/Tony/1967.m3u8
+#EXTINF:-1,DE: Eins Plus HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1966.m3u8
+#EXTINF:-1,DE: EuroSport
+http://xs.best-tv.us:8000/live/Tony/Tony/1965.m3u8
+#EXTINF:-1,DE: HALLE
+http://xs.best-tv.us:8000/live/Tony/Tony/1964.m3u8
+#EXTINF:-1,DE: Kabel 1
+http://xs.best-tv.us:8000/live/Tony/Tony/1963.m3u8
+#EXTINF:-1,DE: KH SKY BUNDESLIGA1
+http://xs.best-tv.us:8000/live/Tony/Tony/1962.m3u8
+#EXTINF:-1,DE: Kika
+http://xs.best-tv.us:8000/live/Tony/Tony/1961.m3u8
+#EXTINF:-1,DE: Kika HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1960.m3u8
+#EXTINF:-1,DE: N-TV
+http://xs.best-tv.us:8000/live/Tony/Tony/1959.m3u8
+#EXTINF:-1,DE: ORF 2
+http://xs.best-tv.us:8000/live/Tony/Tony/1958.m3u8
+#EXTINF:-1,DE: ORF 2 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1957.m3u8
+#EXTINF:-1,DE: Phoenix
+http://xs.best-tv.us:8000/live/Tony/Tony/1956.m3u8
+#EXTINF:-1,DE: Pro 7
+http://xs.best-tv.us:8000/live/Tony/Tony/1955.m3u8
+#EXTINF:-1,DE: ProSieben
+http://xs.best-tv.us:8000/live/Tony/Tony/1954.m3u8
+#EXTINF:-1,DE: RTL
+http://xs.best-tv.us:8000/live/Tony/Tony/1953.m3u8
+#EXTINF:-1,DE: RTL I
+http://xs.best-tv.us:8000/live/Tony/Tony/1952.m3u8
+#EXTINF:-1,DE: RTL II
+http://xs.best-tv.us:8000/live/Tony/Tony/1951.m3u8
+#EXTINF:-1,DE: RTL Nitro
+http://xs.best-tv.us:8000/live/Tony/Tony/1950.m3u8
+#EXTINF:-1,DE: Sat 1
+http://xs.best-tv.us:8000/live/Tony/Tony/1949.m3u8
+#EXTINF:-1,DE: Sky Action HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1948.m3u8
+#EXTINF:-1,DE: Sky Cinema  1 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1947.m3u8
+#EXTINF:-1,DE: Sky Cinema  24
+http://xs.best-tv.us:8000/live/Tony/Tony/1946.m3u8
+#EXTINF:-1,DE: Sky Cinema HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1945.m3u8
+#EXTINF:-1,DE: Sky Comedy
+http://xs.best-tv.us:8000/live/Tony/Tony/1944.m3u8
+#EXTINF:-1,DE: Sky Discovery Channel HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1943.m3u8
+#EXTINF:-1,DE: Sky Emotion
+http://xs.best-tv.us:8000/live/Tony/Tony/1942.m3u8
+#EXTINF:-1,DE: Sky History Channel
+http://xs.best-tv.us:8000/live/Tony/Tony/1941.m3u8
+#EXTINF:-1,DE: Sky Krimi
+http://xs.best-tv.us:8000/live/Tony/Tony/1940.m3u8
+#EXTINF:-1,DE: Sky MGM HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1939.m3u8
+#EXTINF:-1,DE: Sky NatGeo Wild HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1938.m3u8
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1937.m3u8
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1936.m3u8
+#EXTINF:-1,DE: SRF1
+http://xs.best-tv.us:8000/live/Tony/Tony/1935.m3u8
+#EXTINF:-1,DE: SRF2
+http://xs.best-tv.us:8000/live/Tony/Tony/1934.m3u8
+#EXTINF:-1,DE: Super RTL
+http://xs.best-tv.us:8000/live/Tony/Tony/1933.m3u8
+#EXTINF:-1,DE: SYFY
+http://xs.best-tv.us:8000/live/Tony/Tony/1932.m3u8
+#EXTINF:-1,DE: Wdr HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1931.m3u8
+#EXTINF:-1,DE: ZDF
+http://xs.best-tv.us:8000/live/Tony/Tony/1930.m3u8
+#EXTINF:-1,DE: ZDF Info HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1929.m3u8
+#EXTINF:-1,DE: ZDF KULTAR HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1928.m3u8
+#EXTINF:-1,DE:Skybundesliga1(hd)
+http://xs.best-tv.us:8000/live/Tony/Tony/1927.m3u8
+#EXTINF:-1,ED  DE-SkyEmotion
+http://xs.best-tv.us:8000/live/Tony/Tony/1926.m3u8
+#EXTINF:-1,Zdf info HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2077.m3u8
+#EXTINF:-1,Zdf HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2076.m3u8
+#EXTINF:-1,Wdr HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2075.m3u8
+#EXTINF:-1,Vox HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2074.m3u8
+#EXTINF:-1,TNT Serie HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2073.m3u8
+#EXTINF:-1,TNT Film
+http://xs.best-tv.us:8000/live/Tony/Tony/2072.m3u8
+#EXTINF:-1,Tele Zürich HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2071.m3u8
+#EXTINF:-1,SWR HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2070.m3u8
+#EXTINF:-1,Super Rtl
+http://xs.best-tv.us:8000/live/Tony/Tony/2069.m3u8
+#EXTINF:-1,SRF Info
+http://xs.best-tv.us:8000/live/Tony/Tony/2068.m3u8
+#EXTINF:-1,SRF HD 2
+http://xs.best-tv.us:8000/live/Tony/Tony/2067.m3u8
+#EXTINF:-1,SRF HD 1
+http://xs.best-tv.us:8000/live/Tony/Tony/2066.m3u8
+#EXTINF:-1,Sport 1  HD DE
+http://xs.best-tv.us:8000/live/Tony/Tony/2065.m3u8
+#EXTINF:-1,Sixx
+http://xs.best-tv.us:8000/live/Tony/Tony/2044.m3u8
+#EXTINF:-1,RTS 2 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2043.m3u8
+#EXTINF:-1,RTS 1 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2042.m3u8
+#EXTINF:-1,Rtl Nitro
+http://xs.best-tv.us:8000/live/Tony/Tony/2041.m3u8
+#EXTINF:-1,Rtl HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2040.m3u8
+#EXTINF:-1,Rtl 2 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2039.m3u8
+#EXTINF:-1,RBB HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2038.m3u8
+#EXTINF:-1,Pro 7 Maxx
+http://xs.best-tv.us:8000/live/Tony/Tony/2037.m3u8
+#EXTINF:-1,Pro 7 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2036.m3u8
+#EXTINF:-1,Phoenix HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2035.m3u8
+#EXTINF:-1,ORF 2 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2034.m3u8
+#EXTINF:-1,ORF 1 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2033.m3u8
+#EXTINF:-1,Nickelodeon CH
+http://xs.best-tv.us:8000/live/Tony/Tony/2032.m3u8
+#EXTINF:-1,NDR HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2031.m3u8
+#EXTINF:-1,N-TV HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2030.m3u8
+#EXTINF:-1,MGM HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2029.m3u8
+#EXTINF:-1,MDR HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2028.m3u8
+#EXTINF:-1,Kino Welt TV
+http://xs.best-tv.us:8000/live/Tony/Tony/2027.m3u8
+#EXTINF:-1,Kabel 1
+http://xs.best-tv.us:8000/live/Tony/Tony/2026.m3u8
+#EXTINF:-1,HR HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2025.m3u8
+#EXTINF:-1,History Channel DE
+http://xs.best-tv.us:8000/live/Tony/Tony/2020.m3u8
+#EXTINF:-1,Fox HD DE
+http://xs.best-tv.us:8000/live/Tony/Tony/2024.m3u8
+#EXTINF:-1,Eurosport DE
+http://xs.best-tv.us:8000/live/Tony/Tony/2023.m3u8
+#EXTINF:-1,EnsPlus HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2022.m3u8
+#EXTINF:-1,DMAX DE
+http://xs.best-tv.us:8000/live/Tony/Tony/2021.m3u8
+#EXTINF:-1,BR HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2019.m3u8
+#EXTINF:-1,Arte HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2018.m3u8
+#EXTINF:-1,Ard HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2017.m3u8
+#EXTINF:-1,3Sat HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2016.m3u8
+#EXTINF:-1,3
+http://xs.best-tv.us:8000/live/Tony/Tony/2015.m3u8
+#EXTINF:-1,13thStreet HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2014.m3u8
+#EXTINF:-1,$ DE: Sky Sport 1 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1971.m3u8
+#EXTINF:-1,AU ORF 1 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2013.m3u8
+#EXTINF:-1,AU ORF 2 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2012.m3u8
+#EXTINF:-1,CH RSI La Due HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2011.m3u8
+#EXTINF:-1,CH RSI La Uno HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2010.m3u8
+#EXTINF:-1,CH RTS1 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2009.m3u8
+#EXTINF:-1,CH RTS2 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2008.m3u8
+#EXTINF:-1,CH S1 TV HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2007.m3u8
+#EXTINF:-1,CH SF1 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2006.m3u8
+#EXTINF:-1,CH SF2 HD
+http://xs.best-tv.us:8000/live/Tony/Tony/2005.m3u8
+#EXTINF:-1,SPORT TIME 1
+http://xs.best-tv.us:8000/live/Tony/Tony/1973.m3u8
+#EXTINF:-1,SPORT TIME 3HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1974.m3u8
+#EXTINF:-1,SPORT TIME 4HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1975.m3u8
+#EXTINF:-1,SPORT TIME 5HD
+http://xs.best-tv.us:8000/live/Tony/Tony/1976.m3u8
+#EXTINF:-1,Super Rtl (DE)
+http://xs.best-tv.us:8000/live/Tony/Tony/1972.m3u8
+#EXTINF:-1,H TV
+http://xs.best-tv.us:8000/live/Tony/Tony/1059.m3u8

@@ -419,6 +419,14 @@ http://63.237.48.3/ios/IRAN_A_TV/IRAN_A_TV.m3u8
 http://63.237.48.3/ios/ASRE_EMROZZ/ASRE_EMROZZ.m3u8
 #EXTINF:-1,IRAN ASTV
 http://63.237.48.3/ios/IRAN_AS_TV/IRAN_AS_TV.m3u8
+#EXTINF:-1,iran can 1
+http://iptv.tjurk.com:8000/live/pascalneb/XSTI7Slsdo/23.ts
+#EXTINF:-1,iran can 1 hd
+http://iptv.tjurk.com:8000/live/pascalneb/XSTI7Slsdo/24.ts
+#EXTINF:-1,iran can 2
+http://iptv.tjurk.com:8000/live/pascalneb/XSTI7Slsdo/25.ts
+#EXTINF:-1,iran can 3
+http://iptv.tjurk.com:8000/live/pascalneb/XSTI7Slsdo/26.ts
 #EXTINF:-1,IRAN CHANNEL_ONE
 http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
 #EXTINF:-1,IRAN FMTV

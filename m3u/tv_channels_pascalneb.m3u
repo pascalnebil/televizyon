@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red]02.12.2015: Sky DE Bazilari Yüklenmistir ..Kanal:93 Samanyolu Grubu eklenmistir TRT-World TRT-Diyanet & Hilal-TV & Lalegül-TV eklenmistir Cartoon Network Eklenmistir[/COLOR]
+#EXTINF:-1,[COLOR red]09.12.2015: pascalnebil@icloud.com Soru ve Onerileriniz icin . Sky DE Bazilari Yüklenmistir ..Kanal:93 Samanyolu Grubu eklenmistir [/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
@@ -823,32 +823,192 @@ http://195.22.19.179:1935/igronl/igronline2/live.m3u8
 #EXTINF:-1,[COLOR yellow]-- International Sports Channels --[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1, C-More Fotball HD (buffer)
-http://bit.ly/1MVY9SV
+#EXTINF:-1, UK_SKY_SPORT_1_HD
+http://www.t12v.com:8000/live/prevot/prevot/1104.ts
+#EXTINF:-1, UK_SKY_SPORT_2_HD
+http://www.t12v.com:8000/live/prevot/prevot/1097.ts
+#EXTINF:-1, UK_SKY_SPORT_3_HD
+http://www.t12v.com:8000/live/prevot/prevot/1096.ts
+#EXTINF:-1, UK_SKY_SPORT_4_HD
+http://www.t12v.com:8000/live/prevot/prevot/1094.ts
+#EXTINF:-1, UK_SKY_SPORT_5_HD
+http://www.t12v.com:8000/live/prevot/prevot/1093.ts
+#EXTINF:-1, UK_SKY_SPORTS_1_HD (opt2)
+http://www.t12v.com:8000/live/prevot/prevot/1044.ts
+#EXTINF:-1, UK_SKY_SPORTS_2_HD (opt2)
+http://www.t12v.com:8000/live/prevot/prevot/1043.ts
+#EXTINF:-1, UK_SKY_SPORTS_3_HD (opt2)
+http://www.t12v.com:8000/live/prevot/prevot/1042.ts
+#EXTINF:-1, UK_SKY_SPORTS_4_HD (opt2)
+http://www.t12v.com:8000/live/prevot/prevot/1041.ts
+#EXTINF:-1, UK_SKY_SPORTS_5_HD (opt2)
+http://www.t12v.com:8000/live/prevot/prevot/1040.ts
+#EXTINF:-1, UK_SKY_SPORT_F1 (opt2)
+http://www.t12v.com:8000/live/prevot/prevot/1039.ts
+#EXTINF:-1, UK_BT Sport 1
+http://satloveriptv.com:8090/live/mexicano/mexciano/3913.ts
+#EXTINF:-1, UK_BT Sport 2
+http://satloveriptv.com:8090/live/mexicano/mexciano/3914.ts
+#EXTINF:-1, UK_Sky Sport News (sd)
+http://satloveriptv.com:8090/live/mexicano/mexciano/3943.ts
+#EXTINF:-1, UK_Sky Sport 1 (sd)
+http://satloveriptv.com:8090/live/mexicano/mexciano/3938.ts
+#EXTINF:-1, UK_Sky Sport 2 (sd)
+http://satloveriptv.com:8090/live/mexicano/mexciano/3939.ts
+#EXTINF:-1, UK_Sky Sport 3 (sd)
+http://satloveriptv.com:8090/live/mexicano/mexciano/3940.ts
+#EXTINF:-1, UK_Sky Sport 4 (sd)
+http://satloveriptv.com:8090/live/mexicano/mexciano/3941.ts
+#EXTINF:-1, UK_Sky Sport 5 (sd)
+http://satloveriptv.com:8090/live/mexicano/mexciano/3942.ts
+#EXTINF:-1, UK_Sky Sport News (sd)
+http://satloveriptv.com:8090/live/mexicano/mexciano/3943.ts
+#EXTINF:-1, UK_Eurosport1
+http://satloveriptv.com:8090/live/mexicano/mexciano/3924.ts
+#EXTINF:-1, UK_Eurosport2
+http://satloveriptv.com:8090/live/mexicano/mexciano/3925.ts
+#EXTINF:-1, UK_BT Sport 1(Sd)
+http://satloveriptv.com:8090/live/mexicano/mexciano/3953.ts
+#EXTINF:-1, UK_BT Sport 2(Sd)
+http://satloveriptv.com:8090/live/mexicano/mexciano/3954.ts
+#EXTINF:-1, UK_BT Sport Europe
+http://satloveriptv.com:8090/live/mexicano/mexciano/3915.ts
 
-#EXTINF:-1, BT Sport/ESPN
-http://tinyurl.com/zv6m5pq
+#EXTINF:-1, DUBAI SPORTS
+http://hdtvizle.ru/14452/71930/71968/iptv/r/dubais.m3u8
+#EXTINF:-1, ABU DHABI SPORTS
+http://hdtvizle.ru/14452/71930/71968/iptv/r/abuds.m3u8
+#EXTINF:-1, RAI SPORT
+http://hdtvizle.ru/14452/71930/71968/iptv/r/rais.m3u8
+#EXTINF:-1, RAI SPORT 2
+http://hdtvizle.ru/14452/71930/71968/iptv/r/rais2.m3u8
 
-#EXTINF:-1, Extreme Sports Russia
-http://bit.ly/1NDRpyE
+#EXTINF:0, NTV + Football 1 Russia
+http://slynet.8nio.com/at/ntvplusfootball1_sly.m3u8
+#EXTINF:0, NTV Plus Football 2 Russia
+http://slynet.8nio.com/at/ntvplusfootball2_sly.m3u8
+#EXTINF:0, Спорт 1 UA
+http://slynet.8nio.com/mx/sport1ua_sly.m3u8
 
-#EXTINF:-1, Diema Sport HD downscale Bulgary
-http://46.40.123.213:4022/udp/224.156.69.36:5000
-#EXTINF:-1, Diema Sport 2 HD Downscale Bulgary
-http://46.40.123.213:4022/udp/224.156.69.138:5000
-#EXTINF:-1, Diema Sport HD Bulgary
-http://46.40.123.213:4022/udp/224.156.69.39:5000
-#EXTINF:-1, Diema Sport 2 HD Bulgary
-http://46.40.123.213:4022/udp/224.156.69.139:5000
-#EXTINF:-1, Nova Sport HD Bulgary
-http://46.40.123.213:4022/udp/224.156.69.38:5000
-#EXTINF:-1, Nova Sport Bulgary
-http://46.40.123.213:4022/udp/224.156.69.32:5000
+#EXTINF:-1, Basketball Russia
+http://s2.edem.tv/iptv/CRNMZP2B9W3983/529/index.m3u8
 
-#EXTINF:-1, SKY SPORT 1 DE
-rtmp://terra.skykostenlos.com/tv/skysport1de
-#EXTINF:-1, SKY SPORT 2 DE
-rtmp://terra.skykostenlos.com/tv/skysport2de
+#EXTINF:-1, Nova Sport 1
+http://213.81.153.241/live001/channel028_p3.stream/chunklist_w1268025928_DVR.m3u8
+
+#EXTINF:-1, Red Bull TV HD
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
+
+#EXTINF:0, Digi Sport 1
+http://82.76.249.81/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0, Digi Sport 2
+http://82.76.249.81/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0, Digi Sport 3
+http://82.76.249.81/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0, Digi Sport 4
+http://82.76.249.81/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0, Eurosport 
+http://82.76.249.81/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0, Eurosport 2
+http://82.76.249.81/digiedge2/eurosport2ehq/index.m3u8?is=32&src=digi-online.ro&t=00000000000000000000000000000000
+
+#EXTINF:-1, TyC Sports HD
+http://live.vodgc.com:1935/kLive/smil:0_a5h483eu_all.smil/playlist.m3u8
+
+#EXTINF:-1, Fox Sports HD Latino
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1, Fox Sports 2 HD Latino
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1, ESPN Espanol Latino
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1, ESPN 3Tres HD Latino
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1, ESPN + Latino
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1, ESPN + Espanol Latino
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?supertvlat=/.ts
+#EXTINF:-1, Azteca 7 Latino
+http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+
+#EXTINF:-1, Licey tv Sports Latino
+http://ss6.domint.net:1936/ly_edge/licey/chunklist_w1254078113.m3u8
+
+#EXTINF:-1, CDN Sports Max (DO)
+http://108.168.206.90:1935/cdnsm/cdnsm/chunklist_w32181520.m3u8
+
+#EXTINF:-1, beIN SPORTS 1 EN
+http://180.250.29.22:80/jhos/beib1_4/playlist.m3u8
+#EXTINF:-1, beIN SPORTS 2 EN
+http://180.250.29.22:80/jhos/beib2_4/playlist.m3u8
+#EXTINF:-1, beIN SPORTS 3 EN
+http://180.250.29.22:80/jhos/beib3_4/playlist.m3u8
+
+#EXTINF:-1,[COLOR red][I][B]------------------------[/B][/I][/COLOR][COLOR white][I][B] VIP CHANNELS [/B][/I][/COLOR][COLOR red][I][B]-------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR orange][I][B]Sometimes the server may go down due to the high number of users[/B][/I][/COLOR]
+
+#EXTINF:-1, ArenaSport 1 YU
+http://bit.ly/1m8Gsc2
+#EXTINF:-1, ArenaSport 2 YU
+http://bit.ly/1SM8Lr8
+#EXTINF:-1, ArenaSport YU
+http://bit.ly/1ICFa3g
+#EXTINF:-1, ArenaSport 4 YU
+http://bit.ly/1NIZTOB
+#EXTINF:-1, ArenaSport 5 YU
+http://bit.ly/1NTHUvp
+#EXTINF:-1, SportKlub 1 YU
+http://bit.ly/1TyOiq2
+#EXTINF:-1, SportKlub 2 YU
+http://bit.ly/1TYGDSA
+#EXTINF:-1, SportKlub 3 YU
+http://bit.ly/1ONW2oI
+#EXTINF:-1, Super Sport 2 AL
+http://bit.ly/1XSWFmT
+#EXTINF:-1, Super Sport 3 AL
+http://bit.ly/1XZl1G5
+#EXTINF:-1, Super Sport 4 AL
+http://bit.ly/1XZl5pz
+#EXTINF:-1, Sport TV 1 PT
+http://bit.ly/1Qd6AiI
+#EXTINF:-1, Ziggo Sport Voetball NL
+http://bit.ly/1NJ1yDO
+#EXTINF:-1, Ziggo Sport Select NL
+http://bit.ly/1jMlVbr
+#EXTINF:-1, Ziggo Sport Golf NL
+http://bit.ly/1QtBIZP
+#EXTINF:-1, Lig TV 1 HD TK
+http://bit.ly/1ORRsnG
+#EXTINF:-1, Lig TV 2 HD TK
+http://bit.ly/1TyPREh
+#EXTINF:-1, TV 3 Sport 1 SE
+http://bit.ly/1HSVhJK
+#EXTINF:-1, TV 3 Sport 2 SE
+http://bit.ly/1ONY6Nq
+#EXTINF:-1, C More Sport SE
+http://bit.ly/1HSTtjY
+#EXTINF:-1, Canal+ Liga SP
+http://bit.ly/1M1ggoy
+#EXTINF:-1, Canal+ Futbol SP
+http://bit.ly/1NE80jY
+#EXTINF:-1, Barca TV SP
+http://bit.ly/1OgdRrX
+#EXTINF:-1, Canal+ Golf SP
+http://bit.ly/1YWGthn
+#EXTINF:-1, Canal+ Sport FR
+http://bit.ly/1TyQuhc
+#EXTINF:-1, Sky Sport HD 1 IT
+http://bit.ly/1XSZd4u
+#EXTINF:-1, Sky Sport 2 HD IT
+http://bit.ly/1M1fkkb
+#EXTINF:-1, Sky Sport 3 HD IT
+http://bit.ly/21MvJVj
+#EXTINF:-1, Sky Sport F1 HD IT
+http://bit.ly/1OgcJV8
+#EXTINF:-1, Sky Sport MotoGP HD IT 
+http://bit.ly/1HSUUPj
+
+#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
 
 #EXTINF:-1, Sky Sport 1 UK
 http://02e4.vp9.tv/chn/sks1/v.m3u8
@@ -859,96 +1019,75 @@ http://02e4.vp9.tv/chn/btsu1/v.m3u8
 #EXTINF:-1, BT SPORT 2 HD UK
 http://02e4.vp9.tv/chn/btsu2/v.m3u8
 
-#EXTINF:-1, Sky Sport 24 HD (buffer) IT
-http://sky-iptv.dyndns.org:8000/live/gianni/gianni/32.m3u8 
-#EXTINF:-1, Sky Sport 1 HD (buffer) IT
-http://sky-iptv.dyndns.org:8000/live/gianni/gianni/33.m3u8 
-#EXTINF:-1, Sky Sport 2 HD (buffer) IT
-http://sky-iptv.dyndns.org:8000/live/gianni/gianni/34.m3u8 
-#EXTINF:-1, Sky Sport 3 HD (buffer) IT
-http://sky-iptv.dyndns.org:8000/live/gianni/gianni/35.m3u8 
-#EXTINF:-1, Sky Sport Plus HD (buffer) IT
-http://sky-iptv.dyndns.org:8000/live/gianni/gianni/36.m3u8 
-#EXTINF:-1, Fox Sport HD (buffer) IT
-http://sky-iptv.dyndns.org:8000/live/gianni/gianni/39.m3u8 
-#EXTINF:-1, Moto Gp (buffer) IT
-http://sky-iptv.dyndns.org:8000/live/gianni/gianni/38.m3u8 
-
 #EXTINF:-1, SPORT 1 UKR
 http://193.176.251.228:8000/Sport1 
 
 #EXTINF:-1, SPORT 2 UKR
 http://91.244.24.86:9999/udp/239.255.250.39:1234 
 
+#EXTINF:0, WIN SPORTS Latino
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
+
+#EXTINF:-1, BT Sport/ESPN
+http://tinyurl.com/zv6m5pq
+#EXTINF:-1, Extreme Sports Russia
+http://bit.ly/1NDRpyE
 #EXTINF:-1, Sport Klub Polska
 http://bit.ly/1IeTWgk
 #EXTINF:-1, TVP Sport HD PL
 http://tinyurl.com/zq7ye4v
-
 #EXTINF:-1, Nova Sport 1
 http://bit.ly/1jo7o5O
-
+#EXTINF:-1, SKY Bundesliga HD1 GER
+http://bit.ly/1XmOcIc
+#EXTINF:-1, SKY Sport HD1 GER
+http://bit.ly/1PTjMJa
+#EXTINF:-1, Sport 1 GER
+http://tinyurl.com/q9bthub
+#EXTINF:-1, SKY Sport HD AUSTRIA
+http://bit.ly/1kYFDlR
 #EXTINF:-1, Formula 1 Spain
 http://bit.ly/1Ti7etz
-
 #EXTINF:0, Orf Sport+
 http://bit.ly/1SnY2Ty
-
 #EXTINF:-1, Ziggo Sport Voetbal
 http://tinyurl.com/z86r3qd
-
 #EXTINF:-1, Ziggo Sport Select
 http://bit.ly/1l2u5OD
-
 #EXTINF:-1, Sport1 US HD (buffer)
 http://bit.ly/1MQE7ex
-
 #EXTINF:-1, TV2 Sport
 http://tinyurl.com/zjsvv6x
-
 #EXTINF:0, Arena Sport 1
 http://tinyurl.com/nmkmcq8
-
 #EXTINF:0, Arena Sport 2
 http://tinyurl.com/nmskwnh
-
 #EXTINF:0, Arena Sport 3
 http://tinyurl.com/q4hy9ko
-
 #EXTINF:0, Arena Sport 4
 http://tinyurl.com/on4bmsl
-
 #EXTINF:0, Arena Sport 5
 http://tinyurl.com/o9p4pth
-
 #EXTINF:-1, Eurosport News Russia
 http://tinyurl.com/oyuvpxm
-
 #EXTINF:-1, Idman 
 http://tinyurl.com/na4slzt
-
-#EXTINF:0, WIN SPORTS Latino
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
-
-#EXTINF:-1, Canal+ Liga HD Spain
-rtmp://5.196.54.146:1935/hls/hdmi-C+LigaHD2
-
-#EXTINF:-1, Canal+ Sport France
-http://clinetiptv.ddns.net:8000/live/alger/alger/27.m3u8
-
-#EXTINF:-1, Setanta Sport Russia
-http://by.mnogo-tv.com:1937/live/setantatvv.stream/pl.m3u8
-
-#EXTINF:-1, ote sport1
-http://38.122.233.10:1935/gr-live/otesport1.sdp/playlist.m3u8
-#EXTINF:-1, ote sport2
-http://38.122.233.10:1935/gr-live/otesport2.sdp/playlist.m3u8
-#EXTINF:-1, ote sport 3
-http://38.122.233.10:1935/gr-live/otesport3.sdp/playlist.m3u8
-#EXTINF:-1, ote sport 4
-http://38.122.233.10:1935/gr-live/otesport4.sdp/playlist.m3u8
-#EXTINF:-1, ote sport 5
-http://38.122.233.10:1935/gr-live/otesport5.sdp/playlist.m3u8
+#EXTINF:-1, TV3 Sport 1 HD Denmark
+http://tinyurl.com/nlmegne
+#EXTINF:-1, TV3 Sport 2 HD Denmark
+http://bit.ly/1PhZERa
+#EXTINF:-1, Fight Box HD Russia
+http://bit.ly/1YysUEI
+#EXTINF:-1, Turkmenistan Sport
+http://bit.ly/1lq9C5Y
+#EXTINF:-1, Viasat Sport HD
+http://bit.ly/1NDTmLz
+#EXTINF:-1, Viasat Sport
+http://bit.ly/1YDGcjo
+#EXTINF:-1, Viasat Hockey
+http://tinyurl.com/he86lt6
+#EXTINF:-1, M4 Sport
+http://bit.ly/1NDzfLx
 
 #EXTINF:-1, CBC SPORT HD
 http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
@@ -957,66 +1096,25 @@ http://s69362.cdn.ngenix.net/live/_definst_/Stream2/chunklist.m3u8
 #EXTINF:-1, CBC SPORT LQ
 http://s69362.cdn.ngenix.net/live/_definst_/Stream3/chunklist.m3u8
 
-#EXTINF:-1, Футбол 1 UA
+#EXTINF:-1, Futbol 1 UA
 http://91.196.148.6/football
 
-#EXTINF:0 tvg-id="" tvg-logo="TraceSports.png" group-name="Sports", Trace Sports US
-http://stream-05.vty.dmcdn.net/19/dm/1/x1ahnmd/live.isml/events(live-1448031563)/live-audio=128000-video=1891000.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="TraceSportStars.png" group-name="Sports",Trace Sport Stars FR
-http://stream-08.vty.dmcdn.net/08/dm/1/x1aesef/live.isml/events(live-1448031564)/live-audio=128000-video=1891000.m3u8
-
-#EXTINF:-1, CDN Sports Mix Latino
-http://108.168.206.90:1935/cdnsm/cdnsm/enlacesiptv.m3u8
-
-#EXTINF:-1, Super Sport 1
-rtmp://184.73.176.206:55000/godoteklive/supersport1?setupbox=mag250
-#EXTINF:-1, Super Sport 2
-rtmp://184.73.176.206:55000/godoteklive/supersport2?setupbox=mag250
-#EXTINF:-1, Super Sport 3
-rtmp://184.73.176.206:55000/godoteklive/supersport3?setupbox=mag250
-
-#EXTINF:0 tvg-name="MLS Soccer (Sports) (US) (English)" tvg-language="English" tvg-country="US" tvg-id="MLS Soccer" tvg-logo="http://www.badgeunlock.com/wp-content/uploads/2012/03/RMOMRDYDDKJB3YNW.png" group-title="Sports", Versus HD (US)
+#EXTINF:0, Versus HD (US)
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
 #EXTINF:-1, Football Report
 http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8
 
-#EXTINF:-1, Big Ten Network HD
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/9095.png", NFL Now HD
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_h.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/9095.png", NFL Now Live
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/1222.jpg", NFL Network SD
-http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/1222.jpg", NFL Network HD 1500k
-http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_1500k.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/1222.jpg", NFL Network HD 2000k
-http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/1222.jpg", NFL Network HD 5000k
-http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_5000k.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/9095.png", NFL Now 5000k
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
-
-#EXTINF:-1, TV3 Sport 1 HD Denmark
-http://tinyurl.com/nlmegne
-
-#EXTINF:-1, TV3 Sport 2 HD Denmark
-http://bit.ly/1PhZERa
+#EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/9095.png", NFL Now SD
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_d.m3u8
 
 #EXTINF:-1, 11 SPORT POL
 rtmp://144.76.154.14/live/elevensport
 #EXTINF:-1, N SPORT POL
 rtmp://85.10.208.218/live/n2sport
-#EXTINF:-1, ORANGE SPORT POL
-rtmp://51.254.45.34/live/orangesport
-#EXTINF:-1, Canal+ Sport HD POL
-rtmp://178.16.220.163/live/canalsport
 
 #EXTINF:0, Canal del Deporte Olimpico - CDO
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
@@ -1024,8 +1122,8 @@ http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1
 #EXTINF:-1 tvg-logo="UFC china.png" group-title=“DESPORTO”, UFC (CHI)
 rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos 
 
-#EXTINF:-1, Fight Box HD Russia
-http://bit.ly/1YysUEI
+#EXTINF:-1, FIGHT Sport
+http://118.97.183.222:1935/discover/fight/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="bongda_tv.png" group-title=“DESPORTO”, BONGDA TV (VIE)
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:bongdatvsd_hls.smil/chunklist_b1200000.m3u8
@@ -1040,15 +1138,6 @@ http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
 #EXTINF:-1, Dolce Sport 3
 http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport3/playlist.m3u8
 
-#EXTINF:-1, SKY Bundesliga HD1 GER
-http://bit.ly/1XmOcIc
-#EXTINF:-1, SKY Sport HD1 GER
-http://bit.ly/1PTjMJa
-#EXTINF:-1, Sport 1 GER
-http://tinyurl.com/q9bthub
-#EXTINF:-1, SKY Sport HD AUSTRIA
-http://bit.ly/1kYFDlR
-
 #EXTINF:-1, Dubai Racing
 http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8
 #EXTINF:-1, Dubai Sports
@@ -1056,9 +1145,6 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/9997.jpg", Poker Central
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
-
-#EXTINF:-1, Turkmenistan Sport
-http://bit.ly/1lq9C5Y
 
 #EXTINF:-1 tvg-logo=\"fox-sports-hd.png\", Fox Sports Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=32&player=playlist.m3u8
@@ -1081,20 +1167,8 @@ http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
 #EXTINF:-1 tvg-logo=\"NFL Network.png\", NFL Network
 http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
 
-#EXTINF:-1, Fox Sports Latino (low quality)
-http://185.63.255.101/live/max2a2/playlist.m3u8
-
-#EXTINF:-1, Direct Sports 2
-http://185.63.255.101/live/max3a1/playlist.m3u8
-
-#EXTINF:-1, Sky Sport IT
-http://185.63.255.101/live/max15a5/playlist.m3u8
-
 #EXTINF:0, Eurosport 1 ENG
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-
-#EXTINF:-1, Eurosport FR
-http://185.63.255.101/live/max14/playlist.m3u8
 
 #EXTINF:0, Eurosport CZ
 http://st02.brn03.iptv.czechbone.net:8083/rel/pc/901/202/0.k.m3u8
@@ -1105,29 +1179,14 @@ http://st02.brn03.iptv.czechbone.net:8083/rel/pc/901/83/0.k.m3u8
 #EXTINF:0, Eurosport News RU
 http://178.165.0.14:4022/udp/239.0.0.219:1234
 
-#EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/4047_2.jpg", ESPN
-http://channelpear.com/watch/stream/?id=4047
-
 #EXTINF:-1, Lig TV TUR
 http://92.222.205.40:8080/superlig
 
 #EXTINF:-1, Viasat Sport Baltic
 http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:VSB.smil/playlist.m3u8
 
-#EXTINF:-1, Viasat Sport HD (buffer)
-http://bit.ly/1NDTmLz
-
-#EXTINF:-1, Viasat Sport
-http://bit.ly/1YDGcjo
-
-#EXTINF:-1, Viasat Hockey
-http://tinyurl.com/he86lt6
-
 #EXTINF:-1 tvg-logo="bigpond-sport.png" group-title=“SPORT”, BIGPOND SPORTS (AUS)  
 mms://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpsport_high
-
-#EXTINF:-1, bein Sports Latino
-http://tedilive-aka-pub.telecable.es:80/akamai/05/03.m3u8
 
 #EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 1 (ARA)
 rtmp://www1.iguide.to/iguide playpath=nujkqb82ht54f05 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
@@ -1150,33 +1209,17 @@ rtmp://www1.iguide.to/iguide playpath=ql4mb7goxh0gx7y swfUrl=http://cdn.iguide.t
 #EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 12 (ARA)
 rtmp://www1.iguide.to/iguide playpath=zrbbip5ikugr384 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf <pageUrl>http://www.iguide.to/embedplayer_new.php?channel=31508&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 
-#EXTINF:-1, Rete Sport 8 SD
+#EXTINF:-1, Rete Sport 8 IT (Low)
 http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
 
-#EXTINF:-1, Rai Sport 1
+#EXTINF:-1, Rai Sport 1 IT
 http://212.162.68.163/raisport+
+
+#EXTINF:-1, Sport Italia
+http://spi.hystream.com:1935/spilive/spistream_480/playlist.m3u8
 
 #EXTINF:-1, TRT SPOR SD 
 http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
-
-
-#EXTINF:-0 tvg-name="La 1" tvg-logo="canalplus_liga_hd.png" , C+ LIGA
-rtmp://31.220.40.61/pull/ligaplus?keys=QnYfTXZ96_vNEHg2BAHaZA&keyt=1443272623 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
- 
-#EXTINF:-0 tvg-name="La 1" tvg-logo="C+_Liga_2.png" , C+ LIGA 2
-rtmp://31.220.0.134/pull/liga258?keys=fcYcc1wKKoFf-1GwxzkD9w&keyt=1443747981 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
- 
-#EXTINF:-0 tvg-name="La 1" tvg-logo="canalplus_deportes_hd-300x127.png", C+ DEPORTES
-rtmp://31.220.40.40/pull/deportes16?keys=9DemzM-fHBveK3_PFeYbuw&keyt=1443272732 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
- 
-#EXTINF:-0 tvg-name="La 1" tvg-logo="cpd2.png" , C+ DEPORTES 2
-rtmp://31.220.40.61/pull/deportes26?keys=CQ3UnfJWSbEv0gBtIkghiA&keyt=1443272822 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
- 
-#EXTINF:-0 tvg-name="La 1" tvg-logo="barca-tv-en-vivo-online-por-internet" , Barza tv
-rtmp://31.220.0.206/pull/barztv?keys=CEEpsAyNohpF03XfwT97tw&keyt=1443272493 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
- 
-#EXTINF:-0 tvg-name="La 1" tvg-logo="C+_Golf.png" , C+ GOLF
-rtmp://31.220.0.206/pull/golf594?keys=CEEpsAyNohpF03XfwT97tw&keyt=1443272493 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
 #EXTINF:-1, NBC Sports Golf 720p 
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
@@ -1184,17 +1227,11 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-
 #EXTINF:-1, NBC Sports Golf 1080p 
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
+#EXTINF:-1, Golf Meca
+http://123.108.164.71/etv2sb/phd929/chunklist_w1032135463.m3u8
+
 #EXTINF:-1, Sharjah Sport
 rtmp://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_360p
-
-#EXTINF:-1, Sport1 ru
-http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8
-
-#EXTINF:-1, RETE SPORT 8 (ITA)
-http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
-
-#EXTINF:-1, ELTA SPORTS (TAIWAN)
-rtmp://kv2.ts33.net/sat/us291
 
 #EXTINF:-1, USA-PAC 12 Oregon (HD)
 http://xrxs.net/video/live-p12oreg-4728.m3u8
@@ -1202,17 +1239,8 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8
 #EXTINF:-1, TRT 1 HD Turkey 
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 
-#EXTINF:-1, SPORTSNET WORLD
-rtmp://31.220.2.149:80/live playpath=world swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://www.yotv.co/embed.php?live=world
-
-#EXTINF:-1 group-title="HD SPORTS", SPORTSNET ONTARIO
-rtmp://31.220.2.149:80/live playpath=ontario swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedo.php?live=tsn1x
-
 #‎EXTINF:-1, DXTV Sport
 http://186.33.227.197/DXTV/smil:DXTV.smil/playlist.m3u8
-
-#EXTINF:-1, AMERICA SPORTS Latino
-http://iphone-streaming.ustream.tv:80/ustreamVideo/11602466/streams/live/playlist.m3u8
 
 #EXTINF:-1, DUBAI SPORTS 3
 http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7254503/index.m3u8
@@ -1262,6 +1290,9 @@ http://212.7.205.5:1935/sport/live/chunklist_w156395309.m3u8
 #EXTINF:-1, PTV Sports SD
 http://109.123.70.72:1935/live/ptvsports/samitv.m3u8
 
+#EXTINF:-1, KUWAIT 3 SPORT
+http://63.237.48.23/ios/KUWAIT_3_SPORT/KUWAIT_3_SPORT.m3u8
+
 #EXTINF:0, Спорт 1 RU
 http://178.49.204.227:81/udp/239.1.12.7:1234
 
@@ -1282,19 +1313,23 @@ http://j.mp/T_NTVPLUSBASKETBOL_sly?.m3u8
 
 #EXTINF:-1, M4 Sport
 http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8
-http://91.204.214.106:23311/stolen/449i/backdoor.hfs
 
 #EXTINF:-1, Brodilo TV Russia
 http://j.mp/BRODILOHD_sly?.m3u8
 
-#EXTINF:-1, Real Madrid HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
-
 #EXTINF:-1, SEVILLA FC SPAIN
 http://gstudio_hls04-lh.akamaihd.net/i/hls04stream001_0@348222/index_700_av-b.m3u8?sd=10&rebase=on
 
+
 #EXTINF:-1, TRT SPOR TK
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+http://hdtvizle.ru/14452/71930/71968/trts.m3u8
+#EXTINF:-1, A SPOR TK
+http://hdtvizle.ru/14452/71930/71968/aspor1.m3u8
+#EXTINF:-1, NTV SPOR TK
+http://hdtvizle.ru/14452/71930/71968/ntvs.m3u8
+#EXTINF:-1, SPORTS TV TK
+http://hdtvizle.ru/14452/71930/71968/sports.m3u8
+
 #EXTINF:-1, TRT SPOR 2 TK
 http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
 #EXTINF:-1, NTV SPOR TK
@@ -1326,6 +1361,9 @@ mms://100automoto.tv/100gaz
 #EXTINF:-1, PORSCHE CHANNEL
 mms://100automoto.tv/channel_porsche
 
+#EXTINF:-1, Electric
+mms://100automoto.tv/channel_electric
+
 #EXTINF:-1, AutoSport TV
 mms://100automoto.tv/100livesport
 
@@ -1343,29 +1381,6 @@ mms://100automoto.tv/100livesport
 
 #EXTINF:-1 tvg-logo="BTN.png" group-title="All Sports", Big Ten Network HD
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-
-#EXTINF:-1,SPORT TIME TV (US)
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV - SPORTS MUSIC GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 2HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 3HD GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 4HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 4HD GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_800
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 5HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 5HD  GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 6HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 6HD GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 7HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
 
 
 #EXTINF:-1, SPORTTV 1 Portugal
@@ -1397,310 +1412,3 @@ rtmp://tv1.streampulse.eu/tilesport/movie1
 
 #EXTINF:-1, TVA Sport Canada
 rtmp://cp39414.live.edgefcs.net/live/event1@9756
-
-#EXTINF:-1,Sky SyFy
-http://xs.best-tv.us:8000/live/Tony/Tony/2064.m3u8
-#EXTINF:-1,Sky Krimi
-http://xs.best-tv.us:8000/live/Tony/Tony/2063.m3u8
-#EXTINF:-1,Sky DE NatGeo Wild HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2060.m3u8
-#EXTINF:-1,Sky DE Nat Geo HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2059.m3u8
-#EXTINF:-1,Sky DE Hits HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2058.m3u8
-#EXTINF:-1,Sky DE Emotion
-http://xs.best-tv.us:8000/live/Tony/Tony/2057.m3u8
-#EXTINF:-1,Sky DE Discovery Channel HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2056.m3u8
-#EXTINF:-1,Sky DE Comedy
-http://xs.best-tv.us:8000/live/Tony/Tony/2055.m3u8
-#EXTINF:-1,Sky DE Cinema  24
-http://xs.best-tv.us:8000/live/Tony/Tony/2054.m3u8
-#EXTINF:-1,Sky DE Cinema  1
-http://xs.best-tv.us:8000/live/Tony/Tony/2053.m3u8
-#EXTINF:-1,Sky DE Cinema
-http://xs.best-tv.us:8000/live/Tony/Tony/2052.m3u8
-#EXTINF:-1,Sky DE Atlantic HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2046.m3u8
-#EXTINF:-1,Sky DE Action
-http://xs.best-tv.us:8000/live/Tony/Tony/2045.m3u8
-#EXTINF:-1,Sky DE Bundesliga 1 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2047.m3u8
-#EXTINF:-1,Sky DE Bundesliga 2 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2048.m3u8
-#EXTINF:-1,Sky DE Bundesliga 3 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2049.m3u8
-#EXTINF:-1,Sky DE Bundesliga 4 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2050.m3u8
-#EXTINF:-1,Sky DE Bundesliga 5 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2051.m3u8
-#EXTINF:-1,Sky DE Sport 1 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2061.m3u8
-#EXTINF:-1,Sky DE Sport 2 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2062.m3u8
-#EXTINF:-1,DE 3Sat HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2004.m3u8
-#EXTINF:-1,DE Anixe HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2003.m3u8
-#EXTINF:-1,DE Arte HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2002.m3u8
-#EXTINF:-1,DE BR3 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2001.m3u8
-#EXTINF:-1,DE Das Erste HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2000.m3u8
-#EXTINF:-1,DE Eins Festival HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1999.m3u8
-#EXTINF:-1,DE Kika HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1998.m3u8
-#EXTINF:-1,DE MDR HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1997.m3u8
-#EXTINF:-1,DE N24 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1996.m3u8
-#EXTINF:-1,DE NDR HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1995.m3u8
-#EXTINF:-1,DE Pro 7 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1994.m3u8
-#EXTINF:-1,DE RTL HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1993.m3u8
-#EXTINF:-1,DE Servus HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1992.m3u8
-#EXTINF:-1,DE Sky Select 1 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1991.m3u8
-#EXTINF:-1,DE Sky Select 2 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1990.m3u8
-#EXTINF:-1,DE Sky Select 3 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1989.m3u8
-#EXTINF:-1,DE Sky Select 4 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1988.m3u8
-#EXTINF:-1,DE Sky Select 5 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1987.m3u8
-#EXTINF:-1,DE Sky Select 6 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1986.m3u8
-#EXTINF:-1,DE Sky Select 7 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1985.m3u8
-#EXTINF:-1,DE Sky Select 8 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1984.m3u8
-#EXTINF:-1,DE Sky Select 9 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1983.m3u8
-#EXTINF:-1,DE SWR HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1982.m3u8
-#EXTINF:-1,DE Tagesschau 24 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1981.m3u8
-#EXTINF:-1,DE WDR HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1980.m3u8
-#EXTINF:-1,DE ZDF Info HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1979.m3u8
-#EXTINF:-1,DE ZDF Kultur HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1978.m3u8
-#EXTINF:-1,DE ZDF One HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1977.m3u8
-#EXTINF:-1,DE: 3SAT
-http://xs.best-tv.us:8000/live/Tony/Tony/1970.m3u8
-#EXTINF:-1,DE: ARD
-http://xs.best-tv.us:8000/live/Tony/Tony/1969.m3u8
-#EXTINF:-1,DE: ARD HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1968.m3u8
-#EXTINF:-1,DE: Disney Cinemagic
-http://xs.best-tv.us:8000/live/Tony/Tony/1967.m3u8
-#EXTINF:-1,DE: Eins Plus HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1966.m3u8
-#EXTINF:-1,DE: EuroSport
-http://xs.best-tv.us:8000/live/Tony/Tony/1965.m3u8
-#EXTINF:-1,DE: HALLE
-http://xs.best-tv.us:8000/live/Tony/Tony/1964.m3u8
-#EXTINF:-1,DE: Kabel 1
-http://xs.best-tv.us:8000/live/Tony/Tony/1963.m3u8
-#EXTINF:-1,DE: KH SKY BUNDESLIGA1
-http://xs.best-tv.us:8000/live/Tony/Tony/1962.m3u8
-#EXTINF:-1,DE: Kika
-http://xs.best-tv.us:8000/live/Tony/Tony/1961.m3u8
-#EXTINF:-1,DE: Kika HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1960.m3u8
-#EXTINF:-1,DE: N-TV
-http://xs.best-tv.us:8000/live/Tony/Tony/1959.m3u8
-#EXTINF:-1,DE: ORF 2
-http://xs.best-tv.us:8000/live/Tony/Tony/1958.m3u8
-#EXTINF:-1,DE: ORF 2 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1957.m3u8
-#EXTINF:-1,DE: Phoenix
-http://xs.best-tv.us:8000/live/Tony/Tony/1956.m3u8
-#EXTINF:-1,DE: Pro 7
-http://xs.best-tv.us:8000/live/Tony/Tony/1955.m3u8
-#EXTINF:-1,DE: ProSieben
-http://xs.best-tv.us:8000/live/Tony/Tony/1954.m3u8
-#EXTINF:-1,DE: RTL
-http://xs.best-tv.us:8000/live/Tony/Tony/1953.m3u8
-#EXTINF:-1,DE: RTL I
-http://xs.best-tv.us:8000/live/Tony/Tony/1952.m3u8
-#EXTINF:-1,DE: RTL II
-http://xs.best-tv.us:8000/live/Tony/Tony/1951.m3u8
-#EXTINF:-1,DE: RTL Nitro
-http://xs.best-tv.us:8000/live/Tony/Tony/1950.m3u8
-#EXTINF:-1,DE: Sat 1
-http://xs.best-tv.us:8000/live/Tony/Tony/1949.m3u8
-#EXTINF:-1,DE: Sky Action HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1948.m3u8
-#EXTINF:-1,DE: Sky Cinema  1 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1947.m3u8
-#EXTINF:-1,DE: Sky Cinema  24
-http://xs.best-tv.us:8000/live/Tony/Tony/1946.m3u8
-#EXTINF:-1,DE: Sky Cinema HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1945.m3u8
-#EXTINF:-1,DE: Sky Comedy
-http://xs.best-tv.us:8000/live/Tony/Tony/1944.m3u8
-#EXTINF:-1,DE: Sky Discovery Channel HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1943.m3u8
-#EXTINF:-1,DE: Sky Emotion
-http://xs.best-tv.us:8000/live/Tony/Tony/1942.m3u8
-#EXTINF:-1,DE: Sky History Channel
-http://xs.best-tv.us:8000/live/Tony/Tony/1941.m3u8
-#EXTINF:-1,DE: Sky Krimi
-http://xs.best-tv.us:8000/live/Tony/Tony/1940.m3u8
-#EXTINF:-1,DE: Sky MGM HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1939.m3u8
-#EXTINF:-1,DE: Sky NatGeo Wild HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1938.m3u8
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1937.m3u8
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1936.m3u8
-#EXTINF:-1,DE: SRF1
-http://xs.best-tv.us:8000/live/Tony/Tony/1935.m3u8
-#EXTINF:-1,DE: SRF2
-http://xs.best-tv.us:8000/live/Tony/Tony/1934.m3u8
-#EXTINF:-1,DE: Super RTL
-http://xs.best-tv.us:8000/live/Tony/Tony/1933.m3u8
-#EXTINF:-1,DE: SYFY
-http://xs.best-tv.us:8000/live/Tony/Tony/1932.m3u8
-#EXTINF:-1,DE: Wdr HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1931.m3u8
-#EXTINF:-1,DE: ZDF
-http://xs.best-tv.us:8000/live/Tony/Tony/1930.m3u8
-#EXTINF:-1,DE: ZDF Info HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1929.m3u8
-#EXTINF:-1,DE: ZDF KULTAR HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1928.m3u8
-#EXTINF:-1,DE:Skybundesliga1(hd)
-http://xs.best-tv.us:8000/live/Tony/Tony/1927.m3u8
-#EXTINF:-1,ED  DE-SkyEmotion
-http://xs.best-tv.us:8000/live/Tony/Tony/1926.m3u8
-#EXTINF:-1,Zdf info HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2077.m3u8
-#EXTINF:-1,Zdf HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2076.m3u8
-#EXTINF:-1,Wdr HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2075.m3u8
-#EXTINF:-1,Vox HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2074.m3u8
-#EXTINF:-1,TNT Serie HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2073.m3u8
-#EXTINF:-1,TNT Film
-http://xs.best-tv.us:8000/live/Tony/Tony/2072.m3u8
-#EXTINF:-1,Tele Zürich HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2071.m3u8
-#EXTINF:-1,SWR HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2070.m3u8
-#EXTINF:-1,Super Rtl
-http://xs.best-tv.us:8000/live/Tony/Tony/2069.m3u8
-#EXTINF:-1,SRF Info
-http://xs.best-tv.us:8000/live/Tony/Tony/2068.m3u8
-#EXTINF:-1,SRF HD 2
-http://xs.best-tv.us:8000/live/Tony/Tony/2067.m3u8
-#EXTINF:-1,SRF HD 1
-http://xs.best-tv.us:8000/live/Tony/Tony/2066.m3u8
-#EXTINF:-1,Sport 1  HD DE
-http://xs.best-tv.us:8000/live/Tony/Tony/2065.m3u8
-#EXTINF:-1,Sixx
-http://xs.best-tv.us:8000/live/Tony/Tony/2044.m3u8
-#EXTINF:-1,RTS 2 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2043.m3u8
-#EXTINF:-1,RTS 1 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2042.m3u8
-#EXTINF:-1,Rtl Nitro
-http://xs.best-tv.us:8000/live/Tony/Tony/2041.m3u8
-#EXTINF:-1,Rtl HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2040.m3u8
-#EXTINF:-1,Rtl 2 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2039.m3u8
-#EXTINF:-1,RBB HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2038.m3u8
-#EXTINF:-1,Pro 7 Maxx
-http://xs.best-tv.us:8000/live/Tony/Tony/2037.m3u8
-#EXTINF:-1,Pro 7 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2036.m3u8
-#EXTINF:-1,Phoenix HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2035.m3u8
-#EXTINF:-1,ORF 2 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2034.m3u8
-#EXTINF:-1,ORF 1 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2033.m3u8
-#EXTINF:-1,Nickelodeon CH
-http://xs.best-tv.us:8000/live/Tony/Tony/2032.m3u8
-#EXTINF:-1,NDR HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2031.m3u8
-#EXTINF:-1,N-TV HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2030.m3u8
-#EXTINF:-1,MGM HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2029.m3u8
-#EXTINF:-1,MDR HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2028.m3u8
-#EXTINF:-1,Kino Welt TV
-http://xs.best-tv.us:8000/live/Tony/Tony/2027.m3u8
-#EXTINF:-1,Kabel 1
-http://xs.best-tv.us:8000/live/Tony/Tony/2026.m3u8
-#EXTINF:-1,HR HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2025.m3u8
-#EXTINF:-1,History Channel DE
-http://xs.best-tv.us:8000/live/Tony/Tony/2020.m3u8
-#EXTINF:-1,Fox HD DE
-http://xs.best-tv.us:8000/live/Tony/Tony/2024.m3u8
-#EXTINF:-1,Eurosport DE
-http://xs.best-tv.us:8000/live/Tony/Tony/2023.m3u8
-#EXTINF:-1,EnsPlus HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2022.m3u8
-#EXTINF:-1,DMAX DE
-http://xs.best-tv.us:8000/live/Tony/Tony/2021.m3u8
-#EXTINF:-1,BR HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2019.m3u8
-#EXTINF:-1,Arte HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2018.m3u8
-#EXTINF:-1,Ard HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2017.m3u8
-#EXTINF:-1,3Sat HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2016.m3u8
-#EXTINF:-1,3
-http://xs.best-tv.us:8000/live/Tony/Tony/2015.m3u8
-#EXTINF:-1,13thStreet HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2014.m3u8
-#EXTINF:-1,$ DE: Sky Sport 1 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1971.m3u8
-#EXTINF:-1,AU ORF 1 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2013.m3u8
-#EXTINF:-1,AU ORF 2 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2012.m3u8
-#EXTINF:-1,CH RSI La Due HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2011.m3u8
-#EXTINF:-1,CH RSI La Uno HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2010.m3u8
-#EXTINF:-1,CH RTS1 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2009.m3u8
-#EXTINF:-1,CH RTS2 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2008.m3u8
-#EXTINF:-1,CH S1 TV HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2007.m3u8
-#EXTINF:-1,CH SF1 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2006.m3u8
-#EXTINF:-1,CH SF2 HD
-http://xs.best-tv.us:8000/live/Tony/Tony/2005.m3u8
-#EXTINF:-1,SPORT TIME 1
-http://xs.best-tv.us:8000/live/Tony/Tony/1973.m3u8
-#EXTINF:-1,SPORT TIME 3HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1974.m3u8
-#EXTINF:-1,SPORT TIME 4HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1975.m3u8
-#EXTINF:-1,SPORT TIME 5HD
-http://xs.best-tv.us:8000/live/Tony/Tony/1976.m3u8
-#EXTINF:-1,Super Rtl (DE)
-http://xs.best-tv.us:8000/live/Tony/Tony/1972.m3u8
-#EXTINF:-1,H TV
-http://xs.best-tv.us:8000/live/Tony/Tony/1059.m3u8

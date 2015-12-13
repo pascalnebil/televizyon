@@ -58,14 +58,16 @@ http://origin2.live.web.tv.streamprovider.net/streams/725528006e858fe951867f4e24
 http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
 #EXTINF:0828 tvg-id="beyazittv.tr" group-title="TR Haber Kanalları" tvg-logo="536958.png", [COLOR olivedrab]Beyaz TV[/COLOR]
 http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
-#EXTINF:-1,BEYAZ TV
-http://mainstream.dyndns.tv:8000/live/GuArDiAN/GuArDiAN/1172.m3u8
 #EXTINF:0,FOX HD
 http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
 #EXTINF:0,KANALTuRK HD News
 http://kanalturk-live.ercdn.com/kanalturk1.m3u8
 #EXTINF:0,HABERTuRKNews
 http://live-ciner.mncdn.net/haberturk/haberturk2/master.m3u8
+#EXTINF:-1,Kanal Avrupa
+rtmp://kanal-avrupalivefs.fplive.net/kanal-avrupalive-live/_definst_/stream1
+#EXTINF:0,Kanal A
+rtmp://kanal-avrupalivefs.fplive.net/kanal-avrupalive-live/_definst_/stream1
 #EXTINF:0819 tvg-id="acinema.tr" group-title="TR Sinema Kanalları" tvg-logo="500404.png", [COLOR olivedrab]A SINEMA TV[/COLOR]
 http://hls.tv.iptv.ink/acinematr@500404.m3u8|X-Forwarded-For=37.34.18.55
 #EXTINF:0820 tvg-id="cineramatv.tr" group-title="TR Sinema Kanalları" tvg-logo="178944.png", [COLOR olivedrab]CINERAMA TV[/COLOR]
@@ -106,8 +108,6 @@ http://origin2.live.web.tv.streamprovider.net/streams/a6784af7d08a9c91dbfa0e4eab
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
 #EXTINF:-1,SPORTS TV
 http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
-#EXTINF:-1,TJK TV
-rtmp://stream.farm.cdnline.com:554/liveedge//tjk.stream_512k
 #EXTINF:-1,TAY TV
 http://live.netd.com.tr/S2/HLS_LIVE/tay/track_0_192/playlist.m3u8?
 #EXTINF:0,MAVI KARADENIZ TV
@@ -116,8 +116,6 @@ rtmp://stream.taksimbilisim.com/mavikaradeniz//bant1
 rtmp://mn-l.mncdn.com/birnumaramedya_live//nr1_turk.sdp
 #EXTINF:0,SUPER TV
 rtmp://balgurup.garantisistem.com/Super_Tv//Super_Tv
-#EXTINF:0,TMB TV
-http://origin.live.web.tv.streamprovider.net/streams/d9e6fa870f10971af4d586baa96cbcd6_live_0_0/index.m3u8
 #EXTINF:0,TURKISH TV
 http://origin.live.web.tv.streamprovider.net/streams/f6da8d03b961bfc324c0c6d4de550d4c_live_0_0/index.m3u8
 #EXTINF:0,VATAN TV
@@ -178,12 +176,8 @@ http://trt-i.mncdn.com:1935/karamel/karamel/chunklist_w59601545.m3u8
 http://origin.live.web.tv.streamprovider.net/streams/852843e69184bd2c2146ae50e7aba5c3_live_0_0/index.m3u8
 #EXTINF:-1,KIDZ/ANIMEZ
 http://31.186.24.233:8004/2
-#EXTINF:-1 group-title="DTURK_DSMART",SUPER LIG MAC YAYINLARI
-http://92.222.205.40:8080/superlig
 #EXTINF:-1 group-title="Turki",AZ TV Azerbaycan
 http://origin2.live.web.tv.streamprovider.net/streams/7646c80bc1b8b8b007e7649c1f1a1204/index.m3u8
-#EXTINF:-1,Idman tv
-http://91.204.214.106:23311/stolen/436t/backdoor.hfs
 #EXTINF:-1,[COLOR yellow]--- Samanyolu Grubu ---[/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,SAMANYOLU TV
@@ -192,8 +186,8 @@ http://vivisolivegrp01-lh.akamaihd.net/i/stv_1@398177/index_360_av-b.m3u8?sd=10&
 http://vivisolivegrp01-lh.akamaihd.net/i/stveu_1@398191/index_270_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,SAMANYOLU HABER
 http://vivisolivegrp01-lh.akamaihd.net/i/shabertv_1@398173/index_360_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,KURE TV MEKKE
-http://vivisolivegrp01-lh.akamaihd.net/i/mekketv_1@398171/index_270_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Bugün TV HD
+http://buguntv-live.ercdn.com/buguntv.m3u8
 #EXTINF:-1,MEHTAP TV
 http://vivisolivegrp01-lh.akamaihd.net/i/mehtaptv_1@398170/index_270_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,MC TV

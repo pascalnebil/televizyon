@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red]09.12.2015: pascalnebil@icloud.com Soru ve Onerileriniz icin . Sky DE Bazilari Yüklenmistir ..Kanal:93 Samanyolu Grubu eklenmistir [/COLOR]
+#EXTINF:-1,[COLOR red]16.12.2015: pascalnebil@icloud.com Soru ve Onerileriniz icin . [/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
@@ -67,7 +67,7 @@ http://live-ciner.mncdn.net/haberturk/haberturk2/master.m3u8
 #EXTINF:-1,Kanal Avrupa
 rtmp://kanal-avrupalivefs.fplive.net/kanal-avrupalive-live/_definst_/stream1
 #EXTINF:0,Kanal A
-rtmp://kanal-avrupalivefs.fplive.net/kanal-avrupalive-live/_definst_/stream1
+rtmp://yayin.yayin.tv.tr:1935/kanala/kanala1
 #EXTINF:0819 tvg-id="acinema.tr" group-title="TR Sinema Kanalları" tvg-logo="500404.png", [COLOR olivedrab]A SINEMA TV[/COLOR]
 http://hls.tv.iptv.ink/acinematr@500404.m3u8|X-Forwarded-For=37.34.18.55
 #EXTINF:0820 tvg-id="cineramatv.tr" group-title="TR Sinema Kanalları" tvg-logo="178944.png", [COLOR olivedrab]CINERAMA TV[/COLOR]
@@ -204,30 +204,136 @@ http://cds.z2q7i5m7.hwcdn.net/asset/7uDFqi51/chunklist_720.m3u8
 
 #EXTINF:-1,[I][B][COLOR green]--- DEUTSCH-KANALE - SKY ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
-#EXTINF:-1,Sky Sport News HD
-http://9536086c.stream4k.cc/hls/ssnhd.m3u8
-#EXTINF:-1,Sky Sport HD 1
-http://9536086c.stream4k.cc/hls/sporthd1.m3u8
-#EXTINF:-1,Sky Sport HD 2
-http://9536086c.stream4k.cc/hls/sporthd2.m3u8
-#EXTINF:-1,Sky Bundesliga HD 1
-http://9536086c.stream4k.cc/hls/bund1.m3u8
-#EXTINF:-1,Sky Cinema
-http://9536086c.stream4k.cc/hls/cinema.m3u8
-#EXTINF:-1,Discovery HD
-http://9536086c.stream4k.cc/hls/discovery.m3u8
-#EXTINF:-1,Sport1 US HD
-http://9536086c.stream4k.cc/hls/sportus.m3u8
-#EXTINF:-1,National Geo Wild HD
-http://9536086c.stream4k.cc/hls/nationalwild.m3u8
-#EXTINF:-1,Sky Atlantic
-http://9536086c.stream4k.cc/hls/atlantic.m3u8
-#EXTINF:-1,National Geo HD
-http://9536086c.stream4k.cc/hls/national.m3u8
-#EXTINF:-1,Sky Select
-http://9536086c.stream4k.cc/hls/other1.m3u8
-#EXTINF:-1,3SAT
-http://217.20.164.196:8080/3sat/index.m3u8
+#EXTINF:-1,DE: CArtoon network
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3841.ts
+#EXTINF:-1,DE: RTL II
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3826.m3u8
+#EXTINF:-1,DE: RTL I
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3825.ts
+#EXTINF:-1,DE: BR
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3828.ts
+#EXTINF:-1,DE: Arte
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3827.ts
+#EXTINF:-1,DE: Boomerang
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3621.ts
+#EXTINF:-1,DE: Disney Cinemagic
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3622.ts
+#EXTINF:-1,DE: ZDF Info HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3438.ts
+#EXTINF:-1,DE: ZDF NEO HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3453.ts
+#EXTINF:-1,DE: Wdr HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3442.ts
+#EXTINF:-1,DE: SWR HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3439.ts
+#EXTINF:-1,DE: Super RTL
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3456.ts
+#EXTINF:-1,DE: EuroSport
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3435.ts
+#EXTINF:-1,DE: Sky TNT Serie HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3421.ts
+#EXTINF:-1,DE: Sky TNT Film HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3422.m3u8
+#EXTINF:-1,DE: National GeoUKaphic HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3419.ts
+#EXTINF:-1,DE: Sky NatGeo Wild HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3433.ts
+#EXTINF:-1,DE: Sky MGM HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3423.ts
+#EXTINF:-1,DE: Sky Krimi
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3429.ts
+#EXTINF:-1,DE: Sky Hits
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3203.ts
+#EXTINF:-1,DE: Sky History Channel
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3424.ts
+#EXTINF:-1,DE: Sky Fox HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3425.ts
+#EXTINF:-1,DE: Sky Discovery Channel HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3426.ts
+#EXTINF:-1,DE: Sky Comedy
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3430.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3420.ts
+#EXTINF:-1,DE: Sky DMAX
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3431.ts
+#EXTINF:-1,DE: Sky Cinema  1 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3434.ts
+#EXTINF:-1,DE: Sky BundesLiga 1 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3436.ts
+#EXTINF:-1,DE: Sky Action HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3432.ts
+#EXTINF:-1,DE: Sky 13 Street HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3428.ts
+#EXTINF:-1,DE: RTL
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3202.ts
+#EXTINF:-1,DE: ProSieben
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3455.ts
+#EXTINF:-1,DE: SKY 3D
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3437.ts
+#EXTINF:-1,DE: Blizz HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3447.ts
+#EXTINF:-1,DE: SRF1
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3446.ts
+#EXTINF:-1,DE: Ndr HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3443.ts
+#EXTINF:-1,DE: SYFY
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3204.ts
+#EXTINF:-1,DE: N24 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3448.ts
+#EXTINF:-1,DE: N-TV
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3449.ts
+#EXTINF:-1,DE: SRF2
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3440.ts
+#EXTINF:-1,DE: DAF HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3450.ts
+#EXTINF:-1,DE: Phoenix
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3454.ts
+#EXTINF:-1,DE: PRO7 MAXX
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3444.ts
+#EXTINF:-1,DE: ANIXE HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3445.ts
+#EXTINF:-1,DE: ARD HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3451.ts
+#EXTINF:-1,DE: FOX HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3452.ts
+#EXTINF:-1,DE: ZDF
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1629.ts
+#EXTINF:-1,DE: VOX
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1630.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1480.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1479.ts
+#EXTINF:-1,DE: Sky Emotion
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1631.ts
+#EXTINF:-1,DE: Sky Cinema Plus 24
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1633.ts
+#EXTINF:-1,DE: Sky Cinema
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1634.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1635.ts
+#EXTINF:-1,DE: Sat 1
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1637.ts
+#EXTINF:-1,DE: RTL Nitro
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1639.ts
+#EXTINF:-1,DE: Pro 7
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1642.ts
+#EXTINF:-1,DE: ORF Eins
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1643.ts
+#EXTINF:-1,DE: ORF 2
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1644.ts
+#EXTINF:-1,DE: Atlantic HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1645.ts
+#EXTINF:-1,DE: Nat Geo
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1646.ts
+#EXTINF:-1,DE: Kika
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1648.ts
+#EXTINF:-1,DE: Kabel 1
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1649.ts
+#EXTINF:-1,DE: Fox Life
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1650.ts
+#EXTINF:-1,DE: Discovery
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1651.ts#EXTINF:-1,3SAT
 #EXTINF:-1,ARD
 http://217.20.164.196:8080/ard/index.m3u8
 #EXTINF:-1,RBB
@@ -689,200 +795,454 @@ http://62.210.82.241:1935/liverepeat/TVIReality24/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PORTUGAL", [I][B]TVI REALITY (A QUINTA)[/B][/I] opt2
 rtmp://62.210.88.232:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6MDc6MzAgUE0maGFzaF92YWx1ZT1tSEpPOXptWGRwZDFjTzVzd0tFQWtnPT0mdmFsaWRtaW51dGVzPTMwMA==/TVIReality24 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=TVIReality24&vw=550&vh=430
 
-#EXTINF:-1,[COLOR yellow]ANIMACAO[/COLOR]
+EXTINF:-1,[COLOR yellow]-- International Sports Channels --[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1, [I][B]South Park - Uncensored (24/7) [/B][/I] [COLOR orange][B](ingles)[/B][/COLOR]
-http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
- 
-#EXTINF:-1, [I][B]Simpsons (24/7) [/B][/I] [COLOR orange][B](ingles)[/B][/COLOR]
-http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8
 
-#EXTINF:-1 tvg-logo="Dragon-Ball-Z-logo.jpg" tvg-logo="http://logos.iptvglobal.com.br/Dragon-Ball-Z-logo.jpg" group-title="Desenhos 24 horas", [I][B]Dragon Ball Z[/I][/B]
-rtmp://208.53.180.242/ctv/ playpath=dbz swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+#EXTINF:-1,VIP: US WWE NetWork
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/7998.ts
+#EXTINF:-1,AR: OSN WWE HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5731.ts
+#EXTINF:-1,IT: WWE
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3712.ts
+#EXTINF:-1,VIP: BeinSport1
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6625.ts
+#EXTINF:-1,VIP: BeinSport2
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6626.ts
+#EXTINF:-1,VIP: BeinSport3
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6627.ts
+#EXTINF:-1,VIP: BeinSport4
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6628.ts
+#EXTINF:-1,VIP: BeinSport5
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6629.ts
+#EXTINF:-1,VIP: BeinSport6
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6630.ts
+#EXTINF:-1,VIP: BeinSport7
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6631.ts
+#EXTINF:-1,VIP: BeinSport8
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6632.ts
+#EXTINF:-1,VIP: BeinSport9
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6633.ts
+#EXTINF:-1,VIP: BeinSport10
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6634.ts
+#EXTINF:-1,VIP: BEINSPORT11
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6639.ts
+#EXTINF:-1,VIP: BEINSPORT12
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6641.ts
+#EXTINF:-1,VIP: BEINSPORT13
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6640.ts
+#EXTINF:-1,AR: DUBAI SPORT 1
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/7992.ts
+#EXTINF:-1,AR: MBC Pro1
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5718.ts
+#EXTINF:-1,AR: MBC Pro2
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5717.ts
+#EXTINF:-1,AR: MBC Pro3
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5723.ts
+#EXTINF:-1,AR:ALKASS SPORT 1 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6282.ts
+#EXTINF:-1,AR:ALKASS SPORT 2 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6283.ts
+#EXTINF:-1,AR:ALKASS SPORT 3 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6284.ts
+#EXTINF:-1,AR:ALKASS SPORT 4 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6285.ts
+#EXTINF:-1,VIP: CTH Stadium 1 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6056.ts
+#EXTINF:-1,VIP: CTH Stadium 2 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6055.ts
+#EXTINF:-1,VIP: CTH Stadium 3 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6054.ts
+#EXTINF:-1,VIP: CTH Stadium 4 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6053.ts
+#EXTINF:-1,VIP: CTH Stadium 5 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6052.ts
+#EXTINF:-1,VIP: CTH Stadium 6 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6051.ts
+#EXTINF:-1,VIP: TH CTH Stadium 6 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/8014.ts
+#EXTINF:-1,VIP: TH CTH Stadium X HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/8015.ts
+#EXTINF:-1,VIP: PL POLSAT SPORT
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/7953.ts
+#EXTINF:-1,VIP: PL POLSAT SPORT EXTRA
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/7952.ts
+#EXTINF:-1,VIP: NHL Network
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6868.ts
+#EXTINF:-1,VIP: NFL Network
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6869.ts
+#EXTINF:-1,VIP: NDTV News
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6870.ts
+#EXTINF:-1,VIP: NBC Sports
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6871.ts
+#EXTINF:-1,VIP: Golf Channel
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6872.ts
+#EXTINF:-1,GB: Sky Sport Box Office
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/2684.ts
+#EXTINF:-1,GB: SKY SPORT 1 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5600.ts
+#EXTINF:-1,GB: SKY SPORT 2 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5601.ts
+#EXTINF:-1,GB: Sky Sport 3 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3598.ts
+#EXTINF:-1,GB: Sky Sport 4 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3600.ts
+#EXTINF:-1,GB: SKY SPORT 5 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/4458.ts
+#EXTINF:-1,GB: Sky Sport F1 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3603.ts
+#EXTINF:-1,GB: Sky Sport 2
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3595.ts
+#EXTINF:-1,GB: Sky Sport 3
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3597.ts
+#EXTINF:-1,GB: Sky Sport 4
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3599.ts
+#EXTINF:-1,GB: Sky Sport 5
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3601.ts
+#EXTINF:-1,GB: Sky Sport F1
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3602.ts
+#EXTINF:-1,GB: Setanta Sport
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3583.ts
+#EXTINF:-1,GB: Racing
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3585.ts
+#EXTINF:-1,GB: Premiere Sport
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3584.ts
+#EXTINF:-1,GB: EuroSport 1
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3590.ts
+#EXTINF:-1,GB: EuroSport 2
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3591.ts
+#EXTINF:-1,GB: Eurosport 1 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1980.ts
+#EXTINF:-1,GB: Eurosport 2 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1981.ts
+#EXTINF:-1,GB: BT Sport 1
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3586.ts
+#EXTINF:-1,GB: BT Sport 2
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3588.ts
+#EXTINF:-1,GB: BT Sports 1 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1991.ts
+#EXTINF:-1,GB: BT Sports 2 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1992.ts
+#EXTINF:-1,GB: BT SPORTS EUROPE
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1965.ts
+#EXTINF:-1,GB: BT SPORTS EXTRA
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/2682.ts
+#EXTINF:-1,GB: Sky Sport 1
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3593.ts
+#EXTINF:-1,GB: LiverPool TV
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3568.ts
+#EXTINF:-1,GB: Chelsea FC
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1990.ts
+#EXTINF:-1,GB: MUTV
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/7373.ts
+#EXTINF:-1,GB: At The Races
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1997.ts
+#EXTINF:-1,GB: Mototrs TV
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/4009.ts
+#EXTINF:-1,GB: Fox
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/2656.ts
+#EXTINF:-1,GB: ESPN HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/2673.ts
+#EXTINF:-1,VIP: Sky Germany Sport News HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/7337.ts
+#EXTINF:-1,VIP: Sky Germany Sport 1 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/7326.ts
+#EXTINF:-1,VIP: Sky Germany Sport 2 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/7327.ts
+#EXTINF:-1,VIP: Sky Germany Sport 3 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/7328.ts
+#EXTINF:-1,VIP: Sky Germany Sport 4 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/7329.ts
+#EXTINF:-1,VIP: Sky Germany Sport 5 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/7330.ts
+#EXTINF:-1,VIP: Sky Germany Sport 6 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/7331.ts
+#EXTINF:-1,VIP: Sky Germany Sport 7 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/7332.ts
+#EXTINF:-1,VIP: Sky Germany Sport 8 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/7333.ts
+#EXTINF:-1,VIP: Sky Germany Sport 9 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/7334.ts
+#EXTINF:-1,VIP: Sky Germany Sport 10 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/7335.ts
+#EXTINF:-1,VIP: Sky Germany Sport 11 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/7336.ts
+#EXTINF:-1,DE: Sky BundesLiga 1 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3436.ts
+#EXTINF:-1,VIP: Sky Germany BUNDESLIGA 1 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/7338.ts
+#EXTINF:-1,FR: beINSport HD 1
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5522.ts
+#EXTINF:-1,FR: beINSport 2 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3609.ts
+#EXTINF:-1,FR: beINSport 3 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/4477.ts
+#EXTINF:-1,FR: MA Chaine Sport
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/2251.ts
+#EXTINF:-1,FR: Canal Plus Sport HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/2210.ts
+#EXTINF:-1,FR: EuroSport 1 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/2013.ts
+#EXTINF:-1,FR: AB MOTEURS
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/7808.ts
+#EXTINF:-1,IT: Sky Sport 1 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1687.ts
+#EXTINF:-1,IT: Sky Sport 2 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1688.ts
+#EXTINF:-1,IT: Sky Sport 3 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1689.ts
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1691.ts
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1686.ts
+#EXTINF:-1,IT: Sky Calcio 1 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1693.ts
+#EXTINF:-1,IT: Sky Calcio 2 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1694.ts
+#EXTINF:-1,IT: Sky Sport MotoGP HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3639.ts
+#EXTINF:-1,IT: Rai Sport 1
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5230.ts
+#EXTINF:-1,IT: Rai Sport 2
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3708.ts
+#EXTINF:-1,IT: Premium Sport HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5245.ts
+#EXTINF:-1,IT: Fox Sport
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5223.ts
+#EXTINF:-1,IT: Super Tennis HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/4084.ts
+#EXTINF:-1,IT: Premium EuroSport 1 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/4093.ts
+#EXTINF:-1,IT: Premium EuroSport 2 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/4094.ts
+#EXTINF:-1,IT: Sky SuperCalcio HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1692.ts
+#EXTINF:-1,IT: Premium Calcio HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5247.ts
+#EXTINF:-1,IT: Premium Calcio 1 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1699.ts
+#EXTINF:-1,IT: Premium Calcio
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1698.ts
+#EXTINF:-1,IT: Premium Calcio 2
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3719.ts
+#EXTINF:-1,IT: Premium Calcio 3
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3720.ts
+#EXTINF:-1,ex-Yu: ArenaSport 1 SRB
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3182.ts
+#EXTINF:-1,ex-Yu: ArenaSport 2 SRB
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3183.ts
+#EXTINF:-1,ex-Yu: ArenaSport 3 SRB
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3184.ts
+#EXTINF:-1,ex-Yu: ArenaSport 4 SRB
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3185.ts
+#EXTINF:-1,ex-Yu: ArenaSport 5 SRB
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3186.ts
+#EXTINF:-1,ex-Yu: ArenaSport 1
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1436.ts
+#EXTINF:-1,ex-Yu: ArenaSport 2
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1437.ts
+#EXTINF:-1,ex-Yu: ArenaSport 3
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1438.ts
+#EXTINF:-1,ex-Yu: ArenaSport 4
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1439.ts
+#EXTINF:-1,ex-Yu: SportKlub 1
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1440.ts
+#EXTINF:-1,ex-Yu: SportKlub 2
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1441.ts
+#EXTINF:-1,ex-Yu: SportKlub 3
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/1442.ts
+#EXTINF:-1,AL: Tring Sport News
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/8077.ts
+#EXTINF:-1,AL: Tring Sport 1 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/8078.ts
+#EXTINF:-1,AL: Tring Sport 2 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/8079.ts
+#EXTINF:-1,AL: Tring Sport 3 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/8080.ts
+#EXTINF:-1,AL: Tring Sport 4 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/8081.ts
+#EXTINF:-1,AL: SuperSport 1 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/4198.ts
+#EXTINF:-1,AL: SuperSport 2 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/4199.ts
+#EXTINF:-1,AL: SuperSport 3 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/4200.ts
+#EXTINF:-1,AL: SuperSport 4 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/4201.ts
+#EXTINF:-1,AL: SuperSport Kosova 1
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3822.ts
+#EXTINF:-1,AL: SuperSport Kosova 2
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/3823.ts
+#EXTINF:-1,AL: Eurosport 1
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/6092.ts
+#EXTINF:-1,AL: Eurosport 2
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/2052.ts
+#EXTINF:-1,NL: Sport 1 Racing
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/7009.ts
+#EXTINF:-1,NL: Sport 1 Extra 1
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/7007.ts
+#EXTINF:-1,NL: Sport 1 Extra 2
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/7008.ts
+#EXTINF:-1,NL: Fox Sports 1
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/4169.ts
+#EXTINF:-1,NL: Fox Sports 2
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/4170.ts
+#EXTINF:-1,NL: Fox Sports 3
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/4171.ts
+#EXTINF:-1,NL: Fox Sports 5
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/4173.ts
+#EXTINF:-1,NL: Fox Sports 6
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/4172.ts
+#EXTINF:-1,NL: Sport1 Select HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/4166.ts
+#EXTINF:-1,NL: Sport1 Golf HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/4168.ts
+#EXTINF:-1,NL: Sport 1 Voetbal HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/4167.ts
+#EXTINF:-1,NL: Edge Sport
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/4140.ts
+#EXTINF:-1,RU: rus_extreme
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5633.ts
+#EXTINF:-1,RU: ntv_sport
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5632.ts
+#EXTINF:-1,RU: eurosport
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5630.ts
+#EXTINF:-1,RU: eurosport_2
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5631.ts
+#EXTINF:-1,RU: extreme_sports
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5629.ts
+#EXTINF:-1,RU: nash_football
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5628.ts
+#EXTINF:-1,RU: ntv_football_1
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5625.ts
+#EXTINF:-1,RU: ntv_football_2
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5626.ts
+#EXTINF:-1,RU: ntv_football_3
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5627.ts
+#EXTINF:-1,RU: basketball
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5624.ts
+#EXTINF:-1,RU: tennis
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5623.ts
+#EXTINF:-1,RU: viasat_sport
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5622.ts
+#EXTINF:-1,SE: VIASAT Sport
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5638.ts
+#EXTINF:-1,SE: VIASAT FILM
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5640.ts
+#EXTINF:-1,SE: TV3 Sport 1
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5650.ts
+#EXTINF:-1,SE: TV3 Sport 2
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5649.ts
+#EXTINF:-1,SE: C MORE SPORT
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5651.ts
+#EXTINF:-1,SE: C MORE LIVE
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5656.ts
+#EXTINF:-1,SE: C MORE LIVE 2
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5655.ts
+#EXTINF:-1,SE: C MORE LIVE 3
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5654.ts
+#EXTINF:-1,SE: C MORE LIVE 4
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5653.ts
+#EXTINF:-1,SE: C MORE FOOTBAL NO
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5658.ts
+#EXTINF:-1,TR: Tivibu Spor 1 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5987.ts
+#EXTINF:-1,TR: Tivibu Spor 2 HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5988.ts
+#EXTINF:-1,TR: Smart Sport 1
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5209.ts
+#EXTINF:-1,TR: Smart Sport2
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5210.ts
+#EXTINF:-1,TR: NTV SmartSpor
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5981.ts
+#EXTINF:-1,TR: TRT SPOR SD/HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5122.ts
+#EXTINF:-1,TR: NTVSPOR
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5135.ts
+#EXTINF:-1,TR: A SPOR
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5133.ts
+#EXTINF:-1,US: TSN Sports 1
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/2641.ts
+#EXTINF:-1,US: TSN Sports 2
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/2642.ts
+#EXTINF:-1,US: TSN Sports 3
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/2643.ts
+#EXTINF:-1,US: TSN Sports 4
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/2644.ts
+#EXTINF:-1,US: TSN Sports 5
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/2645.ts
+#EXTINF:-1,US: Fox Sport 1
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/2635.ts
+#EXTINF:-1,US: Fox Sport 2
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/2636.ts
+#EXTINF:-1,VIP: US NBA HD
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/8147.ts
+#EXTINF:-1,SW: Teleclub Sport 1
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/8155.ts
+#EXTINF:-1,SW: Teleclub sport 2
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/8154.ts
+#EXTINF:-1,SW: Teleclub Sport 3
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/8153.ts
+#EXTINF:-1,NR: MTV Sport 1
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5832.ts
+#EXTINF:-1,NR: MTV Sport 2
+http://portal.rapidiptv.com:8080/live/Qd7EbYkdRE/4rSuxCiufq/5831.ts
 
-#EXTINF:-1 tvg-logo="Tom%20e%20Jerry.jpg" tvg-logo="http://logos.iptvglobal.com.br/Tom%20e%20Jerry.jpg" group-title="Desenhos 24 horas", [I][B]Tom e Jerry[/I][/B]
-rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+#EXTINF:-1,Bein sport 1 HD AR
+http://5.196.67.222:80/live/Beinf/live/3797.ts
+#EXTINF:-1,beIN SPORTS 3HD EN
+http://5.196.67.222:80/live/Beinf/live/3791.ts
+#EXTINF:-1,beIN SPORTS 2HD EN
+http://5.196.67.222:80/live/Beinf/live/3789.ts
+#EXTINF:-1,beIN SPORTS 1HD EN
+http://5.196.67.222:80/live/Beinf/live/3790.ts
+#EXTINF:-1,Bein sport 8 HD AR
+http://5.196.67.222:80/live/Beinf/live/3802.ts
+#EXTINF:-1,Bein sport 7 HD AR
+http://5.196.67.222:80/live/Beinf/live/3803.ts
+#EXTINF:-1,Bein sport 6 HD AR
+http://5.196.67.222:80/live/Beinf/live/3801.ts
+#EXTINF:-1,Bein sport 4 HD AR
+http://5.196.67.222:80/live/Beinf/live/3799.ts
+#EXTINF:-1,Bein sport 3 HD FR
+http://5.196.67.222:80/live/Beinf/live/3807.ts
+#EXTINF:-1,Bein sport 2 HD AR
+http://5.196.67.222:80/live/Beinf/live/3798.ts
+#EXTINF:-1,Bein sport 1 HD FR
+http://5.196.67.222:80/live/Beinf/live/3805.ts
+#EXTINF:-1,AR: BEIN 8HD1
+http://5.196.67.222:80/live/Beinf/live/3816.ts
+#EXTINF:-1,AR: BEIN 6HD2
+http://5.196.67.222:80/live/Beinf/live/3814.ts
+#EXTINF:-1,AR: BEIN 5HD
+http://5.196.67.222:80/live/Beinf/live/3813.ts
+#EXTINF:-1,AR: BEIN 4HD1
+http://5.196.67.222:80/live/Beinf/live/3812.ts
+#EXTINF:-1,AR: BEIN 3HD
+http://5.196.67.222:80/live/Beinf/live/3811.ts
+#EXTINF:-1,AR: BEIN 2HD
+http://5.196.67.222:80/live/Beinf/live/3810.ts
+#EXTINF:-1,AR: BEIN 1HD
+http://5.196.67.222:80/live/Beinf/live/3809.ts
+#EXTINF:-1,AR: BEIN 10HD1
+http://5.196.67.222:80/live/Beinf/live/3818.ts
+#EXTINF:-1,BEIN SPORTS 3 EN
+http://5.196.67.222:80/live/Beinf/live/482.ts
+#EXTINF:-1,BEIN SPORTS 2 EN
+http://5.196.67.222:80/live/Beinf/live/481.ts
+#EXTINF:-1,BEIN SPORTS 1 EN
+http://5.196.67.222:80/live/Beinf/live/480.ts
+#EXTINF:-1,beINSport 4 HD AR
+http://5.196.67.222:80/live/Beinf/live/3067.ts
+#EXTINF:-1,beINSport 1 HD AR
+http://5.196.67.222:80/live/Beinf/live/3070.ts
+#EXTINF:-1,AR: beIN Sports 7 HD
+http://5.196.67.222:80/live/Beinf/live/3102.ts
+#EXTINF:-1,AR: beIN Sports 6 HD
+http://5.196.67.222:80/live/Beinf/live/3101.ts
+#EXTINF:-1,AR: bEIN Sports 2 HD
+http://5.196.67.222:80/live/Beinf/live/3097.ts
 
-#EXTINF:-1,[COLOR yellow]DESPORTO NACIONAL [/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1,[I][B]SPORT TV AMERICAS[/B][/I]
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
- 
-#EXTINF:-1,[I][B]SPORT TV AMERICAS[/B][/I] (stream 2)
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png" group-title="Desporto", [I][B]SPORT TV 1 SD[/B][/I]
-rtmpe://r.livecast.cc/rs/share/live1-rbi6c swfUrl=http://sharecast.to/player/jwplayer.flash.swf pageUrl=http://sharecast.to
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png" group-title="Desporto", [I][B]SPORT TV 1 SD[/B][/I] (opc2)
-rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c timeout=15
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png" group-title="Desporto", [I][B]SPORT TV 2 SD[/B][/I]
-rtmpe://r.livecast.cc/rs/ playpath=live2-bipmr swfUrl=http://89123987015532.com/sc/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live2-bipmr timeout=15
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png" group-title="Desporto", [I][B]SPORT TV 3[/B][/I]
-http://31.204.128.112:8081/live/portugal2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png" group-title="Desporto", [I][B]SPORT TV 3 / BTV SD[/B][/I] (opc2)
-rtmpe://r.livecast.cc/rs// playpath=live3-qszlx swfUrl=http://89123987015532.com/sc/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live3-qszlx timeout=15
-
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="sporttv5.png" group-title=“DESPORTO”, [I][B]SPORT TV 5 [/B][/I]
-rtmp://198.144.153.145:443/flash playpath=21649?MTQzODM1NzYzMztlNmFiOWRjZjhiMjFiYmI4YWIxYjJiZTRhZTYxMDE2NQ== swfUrl=http://static3.sawlive.tv/player.swf live=1 conn=S:OK pageUrl=http://www.sawlive.tv/embed/watch/YyNGM1MDk5YjFkYWJlM2ZhMDI5MzQzZWI_/Zm9kYXNzZTE6NjFjOTQ0M2VjODhlZTBkMDA3YmQ2ZWQxNTU2ZGY3MTM6MTMyM2ZhOW/magellan timeout=10
-
-#EXTINF:-1, Ziggo Sport Voetbal
-http://tinyurl.com/z86r3qd
-
-#EXTINF:-1, SPORT 1 UKR
-http://193.176.251.228:8000/Sport1
-
-#EXTINF:-1, BT SPORT 2 HD UK
-http://02e4.vp9.tv/chn/btsu2/v.m3u8
-
-#EXTINF:-1,[I][B]Telekanal Futbol [COLOR orange](campeonato portugues)[/COLOR][/B][/I]
-http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
-
-#EXTINF:-1,[I][B]Telekanal Futbol (opc2) [COLOR orange](campeonato portugues)[/COLOR][/B][/I]
-http://win.cdn.bonus-tv.ru/TVB8/football/playlist.m3u8
-
-#EXTINF:-1,[I][B]CNOPT [COLOR orange](alguns jogos da liga)[/COLOR][/B][/I]
-http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EuroSport 2" group-title="PORTUGAL" tvg-logo="Eurosport 2.png" tvg-name="Eurosport",[I][B]EUROSPORT 2 SD [COLOR orange](qualidade baixa)[/COLOR] [/B][/I]
-rtmp://198.144.153.145:443/flash playpath=21578?MTQ0MjQyMTU2MDtiNGExNzYwNjQyMWJjYWNkM2UyNWU1MmVhYzcwN2E2YQ== swfUrl=http://static3.sawlive.tv/player.swf live=1 conn=S:OK pageUrl=http://www.sawlive.tv/embed/watch/I1NDE2NGU5ZDNiZTYzMmFlYWU3Mjcy/YTQ0NHJmOjNmYzZlNzJkMjU0YzVhNTZmOWFhMDhiNDZkODZkMzM0OmIyZTdkZjEzNW/ARNO timeout=15 conn=S:OK –live
-
-
-#EXTINF:-1,[COLOR yellow] CINEMA [/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1, [COLOR red]OFF[/COLOR]
-
-
-#EXTINF:-1,[COLOR yellow] DOCUMENTARIOS [/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:0, [I][B]Mute TV 3D[/B][/I]
-http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.3d/stream.m3u8
-
-#EXTINF:0, [I][B]Mute TV HD[/B][/I]
-http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.hd/stream.m3u8
- 
-#EXTINF:-1,[COLOR yellow] NOTICIAS [/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="Euronews.png" group-title=PORTUGAL, EURONEWS
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
-
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="sic_noticias.png", SIC NOTICIAS
-http://213.13.26.7:1936/live/_definst_/sicnoticias/playlist.m3u8
-
-#EXTINF:-1, TVI 24
-http://wownet.ro/str/0504.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1, TVI 24 (stream 2)
-http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w272103575_b814000.m3u8
-
-#EXTINF:-1, RTP 3
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
-
-#EXTINF:0 tvg-id="CMTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png" audio-track="pt" group title="Portugal", CMTV [SD]
-rtmp://178.162.195.40/loadbalance app=loadbalance?wmsAuthSign=/ swfUrl=http://pxstream.tv/player510.swf pageUrl=http://pxstream.tv/embedrouter.php?file=cmtv22ed&width=555&height=435 playpath=84792152861424662534 token=#ed%h0#w@1 live=1 swfVfy=1 timeout=15
-
-
-#EXTINF:-1, ECONOMICO TV
-http://wownet.ro/str/0511.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="etv_pt.png", ECONOMICO TV (stream 2)
-http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
-
-#EXTINF:-1,[COLOR yellow] LOCAIS [/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1, agueda TV
-http://agueda.tv:1756/stream.flv
-
-#EXTINF:-1,[COLOR yellow] OUTROS [/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-id="" tvg-logo="Capelinha_de_Fatima_TV_Fatima.png" group-title=PORTUGAL, CAPELINHA FATIMA
-rtmp://213.13.26.11/live playpath=santuario.stream swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer.swf?live=rtmp://{$hostname}/live/santuario&file=http://rd3.videos.sapo.pt/nk4p1I65eivPLPe4i1hy/mov/24 live=1 pageUrl=objectEncoding
-
-#EXTINF:-1, IGREJA ONLINE TV HD
-http://195.22.19.179:1935/igronl/igronline2/live.m3u8
-
-
-#EXTM3U
-
-#EXTINF:-1,[COLOR yellow]-- International Sports Channels --[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1, UK_SKY_SPORT_1_HD
-http://www.t12v.com:8000/live/prevot/prevot/1104.ts
-#EXTINF:-1, UK_SKY_SPORT_2_HD
-http://www.t12v.com:8000/live/prevot/prevot/1097.ts
-#EXTINF:-1, UK_SKY_SPORT_3_HD
-http://www.t12v.com:8000/live/prevot/prevot/1096.ts
-#EXTINF:-1, UK_SKY_SPORT_4_HD
-http://www.t12v.com:8000/live/prevot/prevot/1094.ts
-#EXTINF:-1, UK_SKY_SPORT_5_HD
-http://www.t12v.com:8000/live/prevot/prevot/1093.ts
-#EXTINF:-1, UK_SKY_SPORTS_1_HD (opt2)
-http://www.t12v.com:8000/live/prevot/prevot/1044.ts
-#EXTINF:-1, UK_SKY_SPORTS_2_HD (opt2)
-http://www.t12v.com:8000/live/prevot/prevot/1043.ts
-#EXTINF:-1, UK_SKY_SPORTS_3_HD (opt2)
-http://www.t12v.com:8000/live/prevot/prevot/1042.ts
-#EXTINF:-1, UK_SKY_SPORTS_4_HD (opt2)
-http://www.t12v.com:8000/live/prevot/prevot/1041.ts
-#EXTINF:-1, UK_SKY_SPORTS_5_HD (opt2)
-http://www.t12v.com:8000/live/prevot/prevot/1040.ts
-#EXTINF:-1, UK_SKY_SPORT_F1 (opt2)
-http://www.t12v.com:8000/live/prevot/prevot/1039.ts
-#EXTINF:-1, UK_BT Sport 1
-http://satloveriptv.com:8090/live/mexicano/mexciano/3913.ts
-#EXTINF:-1, UK_BT Sport 2
-http://satloveriptv.com:8090/live/mexicano/mexciano/3914.ts
-#EXTINF:-1, UK_Sky Sport News (sd)
-http://satloveriptv.com:8090/live/mexicano/mexciano/3943.ts
-#EXTINF:-1, UK_Sky Sport 1 (sd)
-http://satloveriptv.com:8090/live/mexicano/mexciano/3938.ts
-#EXTINF:-1, UK_Sky Sport 2 (sd)
-http://satloveriptv.com:8090/live/mexicano/mexciano/3939.ts
-#EXTINF:-1, UK_Sky Sport 3 (sd)
-http://satloveriptv.com:8090/live/mexicano/mexciano/3940.ts
-#EXTINF:-1, UK_Sky Sport 4 (sd)
-http://satloveriptv.com:8090/live/mexicano/mexciano/3941.ts
-#EXTINF:-1, UK_Sky Sport 5 (sd)
-http://satloveriptv.com:8090/live/mexicano/mexciano/3942.ts
-#EXTINF:-1, UK_Sky Sport News (sd)
-http://satloveriptv.com:8090/live/mexicano/mexciano/3943.ts
-#EXTINF:-1, UK_Eurosport1
-http://satloveriptv.com:8090/live/mexicano/mexciano/3924.ts
-#EXTINF:-1, UK_Eurosport2
-http://satloveriptv.com:8090/live/mexicano/mexciano/3925.ts
-#EXTINF:-1, UK_BT Sport 1(Sd)
-http://satloveriptv.com:8090/live/mexicano/mexciano/3953.ts
-#EXTINF:-1, UK_BT Sport 2(Sd)
-http://satloveriptv.com:8090/live/mexicano/mexciano/3954.ts
-#EXTINF:-1, UK_BT Sport Europe
-http://satloveriptv.com:8090/live/mexicano/mexciano/3915.ts
-
-#EXTINF:-1, DUBAI SPORTS
-http://hdtvizle.ru/14452/71930/71968/iptv/r/dubais.m3u8
-#EXTINF:-1, ABU DHABI SPORTS
-http://hdtvizle.ru/14452/71930/71968/iptv/r/abuds.m3u8
-#EXTINF:-1, RAI SPORT
-http://hdtvizle.ru/14452/71930/71968/iptv/r/rais.m3u8
-#EXTINF:-1, RAI SPORT 2
-http://hdtvizle.ru/14452/71930/71968/iptv/r/rais2.m3u8
-
-#EXTINF:0, NTV + Football 1 Russia
-http://slynet.8nio.com/at/ntvplusfootball1_sly.m3u8
-#EXTINF:0, NTV Plus Football 2 Russia
-http://slynet.8nio.com/at/ntvplusfootball2_sly.m3u8
-#EXTINF:0, Спорт 1 UA
-http://slynet.8nio.com/mx/sport1ua_sly.m3u8
 
 #EXTINF:-1, Basketball Russia
 http://s2.edem.tv/iptv/CRNMZP2B9W3983/529/index.m3u8
@@ -915,7 +1275,7 @@ http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:-1, ESPN Espanol Latino
 http://200.76.77.237/LIVE/H01/CANAL558/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, ESPN 3Tres HD Latino
+#EXTINF:-1, ESPN 3 HD Latino
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:-1, ESPN + Latino
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
@@ -936,73 +1296,6 @@ http://180.250.29.22:80/jhos/beib1_4/playlist.m3u8
 http://180.250.29.22:80/jhos/beib2_4/playlist.m3u8
 #EXTINF:-1, beIN SPORTS 3 EN
 http://180.250.29.22:80/jhos/beib3_4/playlist.m3u8
-
-#EXTINF:-1,[COLOR red][I][B]------------------------[/B][/I][/COLOR][COLOR white][I][B] VIP CHANNELS [/B][/I][/COLOR][COLOR red][I][B]-------------------------[/B][/I][/COLOR]
-
-#EXTINF:-1,[COLOR orange][I][B]Sometimes the server may go down due to the high number of users[/B][/I][/COLOR]
-
-#EXTINF:-1, ArenaSport 1 YU
-http://bit.ly/1m8Gsc2
-#EXTINF:-1, ArenaSport 2 YU
-http://bit.ly/1SM8Lr8
-#EXTINF:-1, ArenaSport YU
-http://bit.ly/1ICFa3g
-#EXTINF:-1, ArenaSport 4 YU
-http://bit.ly/1NIZTOB
-#EXTINF:-1, ArenaSport 5 YU
-http://bit.ly/1NTHUvp
-#EXTINF:-1, SportKlub 1 YU
-http://bit.ly/1TyOiq2
-#EXTINF:-1, SportKlub 2 YU
-http://bit.ly/1TYGDSA
-#EXTINF:-1, SportKlub 3 YU
-http://bit.ly/1ONW2oI
-#EXTINF:-1, Super Sport 2 AL
-http://bit.ly/1XSWFmT
-#EXTINF:-1, Super Sport 3 AL
-http://bit.ly/1XZl1G5
-#EXTINF:-1, Super Sport 4 AL
-http://bit.ly/1XZl5pz
-#EXTINF:-1, Sport TV 1 PT
-http://bit.ly/1Qd6AiI
-#EXTINF:-1, Ziggo Sport Voetball NL
-http://bit.ly/1NJ1yDO
-#EXTINF:-1, Ziggo Sport Select NL
-http://bit.ly/1jMlVbr
-#EXTINF:-1, Ziggo Sport Golf NL
-http://bit.ly/1QtBIZP
-#EXTINF:-1, Lig TV 1 HD TK
-http://bit.ly/1ORRsnG
-#EXTINF:-1, Lig TV 2 HD TK
-http://bit.ly/1TyPREh
-#EXTINF:-1, TV 3 Sport 1 SE
-http://bit.ly/1HSVhJK
-#EXTINF:-1, TV 3 Sport 2 SE
-http://bit.ly/1ONY6Nq
-#EXTINF:-1, C More Sport SE
-http://bit.ly/1HSTtjY
-#EXTINF:-1, Canal+ Liga SP
-http://bit.ly/1M1ggoy
-#EXTINF:-1, Canal+ Futbol SP
-http://bit.ly/1NE80jY
-#EXTINF:-1, Barca TV SP
-http://bit.ly/1OgdRrX
-#EXTINF:-1, Canal+ Golf SP
-http://bit.ly/1YWGthn
-#EXTINF:-1, Canal+ Sport FR
-http://bit.ly/1TyQuhc
-#EXTINF:-1, Sky Sport HD 1 IT
-http://bit.ly/1XSZd4u
-#EXTINF:-1, Sky Sport 2 HD IT
-http://bit.ly/1M1fkkb
-#EXTINF:-1, Sky Sport 3 HD IT
-http://bit.ly/21MvJVj
-#EXTINF:-1, Sky Sport F1 HD IT
-http://bit.ly/1OgcJV8
-#EXTINF:-1, Sky Sport MotoGP HD IT 
-http://bit.ly/1HSUUPj
-
-#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
 
 #EXTINF:-1, Sky Sport 1 UK
 http://02e4.vp9.tv/chn/sks1/v.m3u8
@@ -1372,9 +1665,6 @@ mms://100automoto.tv/channel_italy
 
 #EXTINF:0, Cars & Sports
 mms://100automoto.tv/100livesport
-
-#EXTINF:-1 tvg-logo="BTN.png" group-title="All Sports", Big Ten Network HD
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
 
 
 #EXTINF:-1, SPORTTV 1 Portugal

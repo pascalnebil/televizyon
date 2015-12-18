@@ -206,62 +206,58 @@ http://cds.z2q7i5m7.hwcdn.net/asset/7uDFqi51/chunklist_720.m3u8
 
 #EXTINF:-1,[I][B][COLOR green]--- DEUTSCH-KANALE - SKY ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
-#EXTINF:-1,DE:VOX
-http://62.210.248.96:11000/live/ghost/ghost/3249.ts
-#EXTINF:-1,DE:TNT Serie
-http://62.210.248.96:11000/live/ghost/ghost/3251.ts
-#EXTINF:-1,DE:SWR HD
-http://62.210.248.96:11000/live/ghost/ghost/3253.ts
-#EXTINF:-1,DE:Sky Germany Sport 3 HD(Stream Only On Matches)
-http://62.210.248.96:11000/live/ghost/ghost/3831.ts
-#EXTINF:-1,DE:Sky Germany Sport 4 HD(Stream Only On Matches)
-http://62.210.248.96:11000/live/ghost/ghost/3830.ts
-#EXTINF:-1,DE:Sky Germany Sport 5 HD(Stream Only On Matches)
-http://62.210.248.96:11000/live/ghost/ghost/3829.ts
-#EXTINF:-1,DE:Sky Germany Sport 6 HD(Stream Only On Matches)
-http://62.210.248.96:11000/live/ghost/ghost/3828.ts
-#EXTINF:-1,DE:Sky Germany Sport 7 HD(Stream Only On Matches)
-http://62.210.248.96:11000/live/ghost/ghost/3827.ts
-#EXTINF:-1,DE:Sky Germany Sport 8 HD(Stream Only On Matches)
-http://62.210.248.96:11000/live/ghost/ghost/3826.ts
-#EXTINF:-1,DE:Sky Germany Sport 9 HD(Stream Only On Matches)
-http://62.210.248.96:11000/live/ghost/ghost/3825.ts
-#EXTINF:-1,DE:Sky Bundesliga HD 9(Stream Only On Matches)
-http://62.210.248.96:11000/live/ghost/ghost/3836.ts
-#EXTINF:-1,DE:Sky Germany Sport 10 HD(Stream Only On Matches)
-http://62.210.248.96:11000/live/ghost/ghost/3834.ts
-#EXTINF:-1,DE:Sky Germany Sport 11 HD(Stream Only On Matches)
-http://62.210.248.96:11000/live/ghost/ghost/3833.ts
-#EXTINF:-1,DE:Sky Bundesliga HD 8(Stream Only On Matches)
-http://62.210.248.96:11000/live/ghost/ghost/3837.ts
-#EXTINF:-1,DE:Sky Bundesliga HD 7(Stream Only On Matches)
-http://62.210.248.96:11000/live/ghost/ghost/3838.ts
-#EXTINF:-1,DE:Sky Bundesliga HD 6(Stream Only On Matches)
-http://62.210.248.96:11000/live/ghost/ghost/3839.ts
-#EXTINF:-1,DE:Sky Bundesliga HD 5(Stream Only On Matches)
-http://62.210.248.96:11000/live/ghost/ghost/3840.ts
-#EXTINF:-1,DE:Sky Bundesliga HD 4(Stream Only On Matches)
-http://62.210.248.96:11000/live/ghost/ghost/3841.ts
-#EXTINF:-1,DE:Sky Bundesliga HD 3(Stream Only On Matches)
-http://62.210.248.96:11000/live/ghost/ghost/3842.ts
-#EXTINF:-1,DE:Sky Bundesliga HD 2(Stream Only On Matches)
-http://62.210.248.96:11000/live/ghost/ghost/3843.ts
-#EXTINF:-1,DE:Sky Bundesliga HD 10(Stream Only On Matches)
-http://62.210.248.96:11000/live/ghost/ghost/3835.ts
-#EXTINF:-1,DE:Sat 1
-http://62.210.248.96:11000/live/ghost/ghost/3254.ts
-#EXTINF:-1,DE:Kika
-http://62.210.248.96:11000/live/ghost/ghost/3152.ts
-#EXTINF:-1,DE:Pro 7 HD
-http://62.210.248.96:11000/live/ghost/ghost/3247.ts
-#EXTINF:-1,DE:Nat Geo wild
-http://62.210.248.96:11000/live/ghost/ghost/3248.ts
-#EXTINF:-1,DE:NDR
-http://62.210.248.96:11000/live/ghost/ghost/3252.ts
-#EXTINF:-1,DE:Fox
-http://62.210.248.96:11000/live/ghost/ghost/3250.ts
-#EXTINF:-1,DE:13 Street
-http://62.210.248.96:11000/live/ghost/ghost/3246.ts
+#EXTINF:-1,DE--Sky-Cinema
+http://iptv.electro-clair.net:8000/live/saleh/saleh/323.m3u8
+#EXTINF:-1,DE:Sky-Emotion
+http://iptv.electro-clair.net:8000/live/saleh/saleh/179.m3u8
+#EXTINF:-1,DE SKY.Emotion
+http://iptv.electro-clair.net:8000/live/saleh/saleh/436.m3u8
+#EXTINF:-1,DE:SKY.EMOTION
+http://iptv.electro-clair.net:8000/live/saleh/saleh/317.m3u8
+#EXTINF:-1,DE:Sky.Comedy
+http://iptv.electro-clair.net:8000/live/saleh/saleh/314.m3u8
+#EXTINF:-1,DE:Sky.ComedyHD
+http://iptv.electro-clair.net:8000/live/saleh/saleh/434.m3u8
+#EXTINF:-1,DE:SKY.ACTION
+http://iptv.electro-clair.net:8000/live/saleh/saleh/318.m3u8
+#EXTINF:-1,DE:Sky_action
+http://iptv.electro-clair.net:8000/live/saleh/saleh/437.m3u8
+#EXTINF:-1,DE,Sky:Action
+http://iptv.electro-clair.net:8000/live/saleh/saleh/180.m3u8
+#EXTINF:-1,DE:SKY.CINEMA.1
+http://iptv.electro-clair.net:8000/live/saleh/saleh/1130.m3u8
+#EXTINF:-1,DE:Sky.Germany.Cinema1
+http://iptv.electro-clair.net:8000/live/saleh/saleh/313.m3u8
+#EXTINF:-1,DE:Sky.Cinema.24HD
+http://iptv.electro-clair.net:8000/live/saleh/saleh/315.m3u8
+#EXTINF:-1,DE:SKY.CINEMA.COMEDY
+http://iptv.electro-clair.net:8000/live/saleh/saleh/319.m3u8
+#EXTINF:-1,DE:Sky-Hits
+http://iptv.electro-clair.net:8000/live/saleh/saleh/178.m3u8
+#EXTINF:-1,DE:Sky.National.GeographicHD
+http://iptv.electro-clair.net:8000/live/saleh/saleh/316.m3u8
+#EXTINF:-1,DE:Sky_Bundesliga
+http://iptv.electro-clair.net:8000/live/saleh/saleh/438.m3u8
+#EXTINF:-1,DE:Sky.Bundesliga1HD
+http://iptv.electro-clair.net:8000/live/saleh/saleh/322.m3u8
+#EXTINF:-1,DE,SkySport1;HD
+http://iptv.electro-clair.net:8000/live/saleh/saleh/185.m3u8
+#EXTINF:-1,DE:SKY.SPORT.HD1
+http://iptv.electro-clair.net:8000/live/saleh/saleh/1127.m3u8
+#EXTINF:-1,DE-Sky-Sport-1HD
+http://iptv.electro-clair.net:8000/live/saleh/saleh/321.m3u8
+#EXTINF:-1,DE:Sky.Select1
+http://iptv.electro-clair.net:8000/live/saleh/saleh/427.m3u8
+#EXTINF:-1,DE;Sky;Sport2;HD
+http://iptv.electro-clair.net:8000/live/saleh/saleh/186.m3u8
+#EXTINF:-1,DE:sky.select2.HD
+http://iptv.electro-clair.net:8000/live/saleh/saleh/428.m3u8
+#EXTINF:-1,DE:sky.select3.HD
+http://iptv.electro-clair.net:8000/live/saleh/saleh/429.m3u8
+#EXTINF:-1,DE:sky.select4.HD
+http://iptv.electro-clair.net:8000/live/saleh/saleh/430.m3u8
+#EXTINF:-1,DE:sky.select5.HD
+http://iptv.electro-clair.net:8000/live/saleh/saleh/431.m3u8
 #EXTINF:-1,ARD
 http://217.20.164.196:8080/ard/index.m3u8
 #EXTINF:-1,RBB

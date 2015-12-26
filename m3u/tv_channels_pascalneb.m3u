@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red]24.12.2015: SKY Deutschland Yenilendi pascalnebil@icloud.com Soru ve Onerileriniz icin . [/COLOR]
+#EXTINF:-1,[COLOR red]26.12.2015: pascalnebil@icloud.com Soru ve Onerileriniz icin . [/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
@@ -16,20 +16,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
 #EXTINF:0,[COLOR blue]TRT Muzik HD[/COLOR]
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:0,[COLOR blue]TRT EL ARABIA HD[/COLOR]
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:0803 tvg-id="trtavaz.tr" group-title="TR Genel Kanallar" tvg-logo="800602.png", [COLOR orangered]TRT AVAZ HD[/COLOR]
-http://hls.tv.iptv.ink/trtavaztr@800602.m3u8|X-Forwarded-For=37.34.18.55
-#EXTINF:0804 tvg-id="trtkurdi.tr" group-title="TR Genel Kanallar" tvg-logo="707556.png", [COLOR orangered]TRT KURDÎ HD[/COLOR]
-http://hls.tv.iptv.ink/trtkurditr@707556.m3u8|X-Forwarded-For=37.34.18.55
-#EXTINF:0805 tvg-id="trtokul.tr" group-title="TR Genel Kanallar" tvg-logo="976101.png", [COLOR orangered]TRT OKUL HD[/COLOR]
-http://hls.tv.iptv.ink/trtokultr@976101.m3u8|X-Forwarded-For=37.34.18.55
-#EXTINF:-1,TRT WORLD HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1,TRT DIYANET
-http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
-#EXTINF:0808 tvg-id="trt3.tr" group-title="TR Genel Kanallar" tvg-logo="370171.png", [COLOR orange]TRT 3 - TBMM TV[/COLOR]
-http://hls.tv.iptv.ink/trt3tr@370171.m3u8|X-Forwarded-For=37.34.18.55
 #EXTINF:0,KANAL D HD
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 #EXTINF:-1,KANAL D HD 2
@@ -48,16 +34,20 @@ http://origin.live.web.tv.streamprovider.net/streams/0a982dbefc5e9d29952bda5a981
 http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
 #EXTINF:-1,A HABER
 http://origin2.live.web.tv.streamprovider.net/streams/996642ce8e8f48d5438c6de972497d4a_live_0_0/index.m3u8
-#EXTINF:0,TV8 HD Entertainment
+#EXTINF:0,TV8 HD
 http://ls.viviso.tv/i/tv8sdi_1@349694/master.m3u8
 #EXTINF:0,Star TV
 http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
+#EXTINF: -1, İdman Tv
+http://188.72.131.226/idman.m3u8
 #EXTINF:0,CNN TuRK HD News
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:0,Ntv
 http://origin2.live.web.tv.streamprovider.net/streams/725528006e858fe951867f4e2436843f_live_0_0/index.m3u8
 #EXTINF:0,NTV Spor
 http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
+#EXTINF: -1, NTV Spor 2
+http://188.72.131.226/ntvspor.m3u8
 #EXTINF:0828 tvg-id="beyazittv.tr" group-title="TR Haber Kanalları" tvg-logo="536958.png", [COLOR olivedrab]Beyaz TV[/COLOR]
 http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
 #EXTINF:0,FOX HD
@@ -66,10 +56,6 @@ http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
 http://kanalturk-live.ercdn.com/kanalturk1.m3u8
 #EXTINF:0,HABERTuRKNews
 http://live-ciner.mncdn.net/haberturk/haberturk2/master.m3u8
-#EXTINF:-1,Kanal Avrupa
-rtmp://kanal-avrupalivefs.fplive.net/kanal-avrupalive-live/_definst_/stream1
-#EXTINF:0,Kanal A
-rtmp://yayin.yayin.tv.tr:1935/kanala/kanala1
 #EXTINF:0819 tvg-id="acinema.tr" group-title="TR Sinema Kanalları" tvg-logo="500404.png", [COLOR olivedrab]A SINEMA TV[/COLOR]
 http://hls.tv.iptv.ink/acinematr@500404.m3u8|X-Forwarded-For=37.34.18.55
 #EXTINF:0820 tvg-id="cineramatv.tr" group-title="TR Sinema Kanalları" tvg-logo="178944.png", [COLOR olivedrab]CINERAMA TV[/COLOR]
@@ -130,8 +116,6 @@ http://origin.live.web.tv.streamprovider.net/streams/9c332525d11e8af026616ef6999
 http://origin2.live.web.tv.streamprovider.net/streams/f9804150295e0d67755899b3e55134e1/index.m3u8
 #EXTINF:-1,TV2
 http://212.224.80.79//S2/HLS_LIVE/tv2/track_4_1000/playlist.m3u8?
-#EXTINF:-1,SKYTURK 360
-http://46.20.7.97/360tv/live/radyodelisi.m3u8?
 #EXTINF:-1,CNNTURK
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1,IMC TV
@@ -180,6 +164,20 @@ http://origin.live.web.tv.streamprovider.net/streams/852843e69184bd2c2146ae50e7a
 http://31.186.24.233:8004/2
 #EXTINF:-1 group-title="Turki",AZ TV Azerbaycan
 http://origin2.live.web.tv.streamprovider.net/streams/7646c80bc1b8b8b007e7649c1f1a1204/index.m3u8
+#EXTINF:0,[COLOR blue]TRT EL ARABIA HD[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:0803 tvg-id="trtavaz.tr" group-title="TR Genel Kanallar" tvg-logo="800602.png", [COLOR orangered]TRT AVAZ HD[/COLOR]
+http://hls.tv.iptv.ink/trtavaztr@800602.m3u8|X-Forwarded-For=37.34.18.55
+#EXTINF:0804 tvg-id="trtkurdi.tr" group-title="TR Genel Kanallar" tvg-logo="707556.png", [COLOR orangered]TRT KURDÎ HD[/COLOR]
+http://hls.tv.iptv.ink/trtkurditr@707556.m3u8|X-Forwarded-For=37.34.18.55
+#EXTINF:0805 tvg-id="trtokul.tr" group-title="TR Genel Kanallar" tvg-logo="976101.png", [COLOR orangered]TRT OKUL HD[/COLOR]
+http://hls.tv.iptv.ink/trtokultr@976101.m3u8|X-Forwarded-For=37.34.18.55
+#EXTINF:-1,TRT WORLD HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1,TRT DIYANET
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
+#EXTINF:0808 tvg-id="trt3.tr" group-title="TR Genel Kanallar" tvg-logo="370171.png", [COLOR orange]TRT 3 - TBMM TV[/COLOR]
+http://hls.tv.iptv.ink/trt3tr@370171.m3u8|X-Forwarded-For=37.34.18.55
 #EXTINF:-1,[COLOR yellow]--- Samanyolu Grubu ---[/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,SAMANYOLU TV
@@ -206,106 +204,8 @@ http://cds.z2q7i5m7.hwcdn.net/asset/7uDFqi51/chunklist_720.m3u8
 
 #EXTINF:-1,[I][B][COLOR green]--- DEUTSCH-KANALE - SKY ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
-#EXTINF:-1,Germany: Sky-Select HD1
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1496.m3u8
-#EXTINF:-1,Germany: Sky-Select HD2
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1495.m3u8
-#EXTINF:-1,Germany: Sky-Select HD3
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1494.m3u8
-#EXTINF:-1,Germany: Sky-Select HD4
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1493.m3u8
-#EXTINF:-1,Germany: Sky-Select HD5
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1492.m3u8
-#EXTINF:-1,Germany: Sky-Select HD6
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1491.m3u8
-#EXTINF:-1,Germany: Sky-Select HD7
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1490.m3u8
-#EXTINF:-1,Germany: Sky-Select HD8
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1489.m3u8
-#EXTINF:-1,German: ZDF HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/828.m3u8
-#EXTINF:-1,German: VOX HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/829.m3u8
-#EXTINF:-1,German: TNT Film
-http://hyper.de1-eu.com:8000/live/assunta/assunta/830.m3u8
-#EXTINF:-1,German: Super RTL
-http://hyper.de1-eu.com:8000/live/assunta/assunta/831.m3u8
-#EXTINF:-1,German: sport1 HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/819.m3u8
-#EXTINF:-1,German: Sport Time 7 HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/832.m3u8
-#EXTINF:-1,German: Sport Time 6 HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/833.m3u8
-#EXTINF:-1,German: Sport Time 5 HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/834.m3u8
-#EXTINF:-1,German: Sport Time 4 HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/835.m3u8
-#EXTINF:-1,German: Sport Time 3 HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/836.m3u8
-#EXTINF:-1,German: Sport Time 2 HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/837.m3u8
-#EXTINF:-1,German: Sport Time 1 HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/838.m3u8
-#EXTINF:-1,German: SKY_SPORTS2
-http://hyper.de1-eu.com:8000/live/assunta/assunta/820.m3u8
-#EXTINF:-1,German: SKY_SPORTS1
-http://hyper.de1-eu.com:8000/live/assunta/assunta/821.m3u8
-#EXTINF:-1,German: SKY_COMEDY
-http://hyper.de1-eu.com:8000/live/assunta/assunta/822.m3u8
-#EXTINF:-1,German: sky_cinema_hd
-http://hyper.de1-eu.com:8000/live/assunta/assunta/823.m3u8
-#EXTINF:-1,German: SKY_BUNDESLIGA1
-http://hyper.de1-eu.com:8000/live/assunta/assunta/824.m3u8
-#EXTINF:-1,German: sky_action
-http://hyper.de1-eu.com:8000/live/assunta/assunta/825.m3u8
-#EXTINF:-1,German: SKY Krimi
-http://hyper.de1-eu.com:8000/live/assunta/assunta/840.m3u8
-#EXTINF:-1,German: Sky hits
-http://hyper.de1-eu.com:8000/live/assunta/assunta/841.m3u8
-#EXTINF:-1,German: Sky Emotion
-http://hyper.de1-eu.com:8000/live/assunta/assunta/861.m3u8
-#EXTINF:-1,German: Sky Cinema  24 HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/842.m3u8
-#EXTINF:-1,German: Sky Cartoon Network
-http://hyper.de1-eu.com:8000/live/assunta/assunta/843.m3u8
-#EXTINF:-1,German: SKY ATLANTIC HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/844.m3u8
-#EXTINF:-1,German: Sat 1 HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/845.m3u8
-#EXTINF:-1,German: RTL Nitro
-http://hyper.de1-eu.com:8000/live/assunta/assunta/846.m3u8
-#EXTINF:-1,German: RTL HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/847.m3u8
-#EXTINF:-1,German: RTL 2
-http://hyper.de1-eu.com:8000/live/assunta/assunta/848.m3u8
-#EXTINF:-1,German: ORF 2
-http://hyper.de1-eu.com:8000/live/assunta/assunta/850.m3u8
-#EXTINF:-1,German: ORF 1
-http://hyper.de1-eu.com:8000/live/assunta/assunta/851.m3u8
-#EXTINF:-1,German: nat_geo_hd
-http://hyper.de1-eu.com:8000/live/assunta/assunta/826.m3u8
-#EXTINF:-1,German: natgeo_wild
-http://hyper.de1-eu.com:8000/live/assunta/assunta/827.m3u8
-#EXTINF:-1,German: N-TV
-http://hyper.de1-eu.com:8000/live/assunta/assunta/852.m3u8
-#EXTINF:-1,German: MGM
-http://hyper.de1-eu.com:8000/live/assunta/assunta/818.m3u8
-#EXTINF:-1,German: Kinowelt TV
-http://hyper.de1-eu.com:8000/live/assunta/assunta/853.m3u8
-#EXTINF:-1,German: Kika
-http://hyper.de1-eu.com:8000/live/assunta/assunta/854.m3u8
-#EXTINF:-1,German: KABEL 1
-http://hyper.de1-eu.com:8000/live/assunta/assunta/855.m3u8
-#EXTINF:-1,German: Eurosport HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/856.m3u8
-#EXTINF:-1,German: Discovery
-http://hyper.de1-eu.com:8000/live/assunta/assunta/857.m3u8
-#EXTINF:-1,German: Boomerang
-http://hyper.de1-eu.com:8000/live/assunta/assunta/858.m3u8
-#EXTINF:-1,German: AXN
-http://hyper.de1-eu.com:8000/live/assunta/assunta/859.m3u8
-#EXTINF:-1,German: 13th Street Germany HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/860.m3u8
+#EXTINF:-1,3SAT
+http://217.20.164.196:8080/3sat/index.m3u8
 #EXTINF:-1,ARD
 http://217.20.164.196:8080/ard/index.m3u8
 #EXTINF:-1,RBB
@@ -332,7 +232,6 @@ http://217.20.164.196:8080/mdr/index.m3u8
 http://217.20.164.196:8080/ndr/index.m3u8
 #EXTINF:-1,SWR
 http://217.20.164.196:8080/swr/index.m3u8
-
 
 
 #EXTINF:-1,[COLOR yellow]--- ARABIC IPTV ---[/COLOR]

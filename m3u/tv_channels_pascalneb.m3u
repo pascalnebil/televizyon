@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red]26.12.2015: pascalnebil@icloud.com Soru ve Onerileriniz icin . [/COLOR]
+#EXTINF:-1,[COLOR red]27.12.2015:  SKY DE pascalnebil@icloud.com Soru ve Onerileriniz icin . [/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
@@ -204,6 +204,74 @@ http://cds.z2q7i5m7.hwcdn.net/asset/7uDFqi51/chunklist_720.m3u8
 
 #EXTINF:-1,[I][B][COLOR green]--- DEUTSCH-KANALE - SKY ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
+#EXTINF:-1,DE: ZDF HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2362.m3u8
+#EXTINF:-1,DE: VOX
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2361.m3u8
+#EXTINF:-1,DE: Sky TNT Serie HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2407.m3u8
+#EXTINF:-1,DE: Sky TNT Film HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2408.m3u8
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2221.m3u8
+#EXTINF:-1,DE: Sky Sport 1 HD BackUP
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2222.m3u8
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2223.m3u8
+#EXTINF:-1,DE: Sky Select HD 8
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2409.m3u8
+#EXTINF:-1,DE: Sky Select HD 7
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2410.m3u8
+#EXTINF:-1,DE: Sky Select HD 6
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2411.m3u8
+#EXTINF:-1,DE: Sky Select HD 5
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2412.m3u8
+#EXTINF:-1,DE: Sky Select HD 4
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2413.m3u8
+#EXTINF:-1,DE: Sky Select HD 3
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2414.m3u8
+#EXTINF:-1,DE: Sky Select HD 2
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2415.m3u8
+#EXTINF:-1,DE: Sky Select HD 1
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2416.m3u8
+#EXTINF:-1,DE: Sky Emotion BackUP
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2224.m3u8
+#EXTINF:-1,DE: Sky Comedy HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2342.m3u8
+#EXTINF:-1,DE: Sky Cinema Plus 24
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2225.m3u8
+#EXTINF:-1,DE: sky cinema HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2340.m3u8
+#EXTINF:-1,DE: Sky Cinema  24 HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2343.m3u8
+#EXTINF:-1,DE: Sky BundesLiga HD BackUP
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2226.m3u8
+#EXTINF:-1,DE: Sky BundesLiga HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2227.m3u8
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2331.m3u8
+#EXTINF:-1,DE: Sky Atlantic HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2341.m3u8
+#EXTINF:-1,DE: Sky Action HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2339.m3u8
+#EXTINF:-1,DE: SAT 1 HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2351.m3u8
+#EXTINF:-1,DE: RTL HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2358.m3u8
+#EXTINF:-1,DE: RTL 2 HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2359.m3u8
+#EXTINF:-1,DE: RFH
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2360.m3u8
+#EXTINF:-1,DE: NAT GEO WILD HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2356.m3u8
+#EXTINF:-1,DE: KIKA HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2357.m3u8
+#EXTINF:-1,DE: EUROSPORT HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2349.m3u8
+#EXTINF:-1,DE: Das Erste HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2350.m3u8
+
+
 #EXTINF:-1,3SAT
 http://217.20.164.196:8080/3sat/index.m3u8
 #EXTINF:-1,ARD

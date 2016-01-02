@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red]27.12.2015:  SKY DE pascalnebil@icloud.com Soru ve Onerileriniz icin . [/COLOR]
+#EXTINF:-1,[COLOR red]02.01.2016:  SKY DE pascalnebil@icloud.com Soru ve Onerileriniz icin . [/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
@@ -160,8 +160,8 @@ http://212.224.108.83/S2/HLS_LIVE/disney/track_4_1000/playlist.m3u8
 http://trt-i.mncdn.com:1935/karamel/karamel/chunklist_w59601545.m3u8
 #EXTINF:-1,PLANET COCUK
 http://origin.live.web.tv.streamprovider.net/streams/852843e69184bd2c2146ae50e7aba5c3_live_0_0/index.m3u8
-#EXTINF:-1,KIDZ/ANIMEZ
-http://31.186.24.233:8004/2
+#EXTINF:-1,YUMURCAK TV
+http://vivisolivegrp01-lh.akamaihd.net/i/yumurcak_1@398194/index_360_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="Turki",AZ TV Azerbaycan
 http://origin2.live.web.tv.streamprovider.net/streams/7646c80bc1b8b8b007e7649c1f1a1204/index.m3u8
 #EXTINF:0,[COLOR blue]TRT EL ARABIA HD[/COLOR]
@@ -194,8 +194,6 @@ http://vivisolivegrp01-lh.akamaihd.net/i/mehtaptv_1@398170/index_270_av-b.m3u8?s
 http://vivisolivegrp01-lh.akamaihd.net/i/mctv_1@398169/index_270_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,MC EU
 http://vivisolivegrp01-lh.akamaihd.net/i/mceutv_1@398167/index_270_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,YUMURCAK TV
-http://vivisolivegrp01-lh.akamaihd.net/i/yumurcak_1@398194/index_360_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,IRMAK TV HD
 http://cds.z2q7i5m7.hwcdn.net/asset/7uDFqi51/chunklist_720.m3u8
 
@@ -204,6 +202,106 @@ http://cds.z2q7i5m7.hwcdn.net/asset/7uDFqi51/chunklist_720.m3u8
 
 #EXTINF:-1,[I][B][COLOR green]--- DEUTSCH-KANALE - SKY ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
+#EXTINF:-1,DE: ZDF
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/960.ts
+#EXTINF:-1,DE: Vox
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/961.ts
+#EXTINF:-1,DE: Sky National Geografic HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/963.ts
+#EXTINF:-1,DE: Sky Fox HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/930.ts
+#EXTINF:-1,DE: Orf Eins
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/962.ts
+#EXTINF:-1,DE: 13EME RUE HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/912.ts
+#EXTINF:-1,DE: RTL Nitro
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/808.ts
+#EXTINF:-1,DE: RTL HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/809.ts
+#EXTINF:-1,DE: RTL 2
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/810.ts
+#EXTINF:-1,DE: PRO7
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/811.ts
+#EXTINF:-1,DE: ORF 2
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/812.ts
+#EXTINF:-1,DE: ORF 1
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/813.ts
+#EXTINF:-1,DE: Mgm HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/473.ts
+#EXTINF:-1,DE: FOX
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/814.ts
+#EXTINF:-1,DE: Sky Cinema 1 DE
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/804.ts
+#EXTINF:-1,DE: Sky Comedy HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/803.ts
+#EXTINF:-1,DE: Sky Cinema  24 HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/805.ts
+#EXTINF:-1,DE: Sky Action HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/807.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/806.ts
+#EXTINF:-1,DE: SPORT TIME 1
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/802.ts
+#EXTINF:-1,DE: SPORT TIME 2
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/819.ts
+#EXTINF:-1,DE: SPORT TIME 3
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/818.ts
+#EXTINF:-1,DE: SPORT TIME 4
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/817.ts
+#EXTINF:-1,DE: SPORT TIME 6
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/816.ts
+#EXTINF:-1,DE: SPORT TIME 7
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/815.ts
+#EXTINF:-1,DE: Sport Time Tv 7
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/198.ts
+#EXTINF:-1,DE: Sport Time Tv 6
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/199.ts
+#EXTINF:-1,DE: Sport Time Tv 5
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/200.ts
+#EXTINF:-1,DE: Sport Time Tv 4
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/201.ts
+#EXTINF:-1,DE: Sport Time Tv 3
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/202.ts
+#EXTINF:-1,DE: Sport Time Tv 2
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/203.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/204.ts
+#EXTINF:-1,DE: Sky Sport 1HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/205.ts
+#EXTINF:-1,DE: Sky Select 9 HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/206.ts
+#EXTINF:-1,DE: Sky Select 8HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/207.ts
+#EXTINF:-1,DE: Sky Select 7HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/208.ts
+#EXTINF:-1,DE: Sky Select 6 HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/209.ts
+#EXTINF:-1,DE: Sky Select 5HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/210.ts
+#EXTINF:-1,DE: Sky Select 4HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/211.ts
+#EXTINF:-1,DE: Sky Select 3HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/212.ts
+#EXTINF:-1,DE: Sky Select 2HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/213.ts
+#EXTINF:-1,DE: Sky Select 1 HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/214.ts
+#EXTINF:-1,DE: Sky Select 10 HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/215.ts
+#EXTINF:-1,DE: Sky Emotion
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/216.ts
+#EXTINF:-1,DE: Sky Comedy
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/217.ts
+#EXTINF:-1,DE: Sky Cinema  24
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/218.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/221.ts
+#EXTINF:-1,DE: Sky Action
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/222.ts
+#EXTINF:-1,GER - Sky Bundesliga HD1
+http://31.177.62.137:9071
+
+
 #EXTINF:-1,DE: ZDF HD
 http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2362.m3u8
 #EXTINF:-1,DE: VOX
@@ -726,391 +824,68 @@ http://62.210.82.241:1935/liverepeat/TVIReality24/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PORTUGAL", [I][B]TVI REALITY (A QUINTA)[/B][/I] opt2
 rtmp://62.210.88.232:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6MDc6MzAgUE0maGFzaF92YWx1ZT1tSEpPOXptWGRwZDFjTzVzd0tFQWtnPT0mdmFsaWRtaW51dGVzPTMwMA==/TVIReality24 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=TVIReality24&vw=550&vh=430
 
-#EXTINF:-1,[COLOR yellow]-- International Sports Channels --[/COLOR]
+#EXTINF:-1,[COLOR yellow]---★ International Sports Channels ★---[/COLOR]
 http://0.0.0.0:1234
 
 
-#EXTINF:-1,CZ:Nova Sport 1
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4285.ts
-#EXTINF:-1,USA:CBS Sport
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4225.ts
-#EXTINF:-1,RO:Eurosport 2
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4194.ts
-#EXTINF:-1,RO:Eurosport
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4193.ts
-#EXTINF:-1,RO:Digi Sport 4
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4192.ts
-#EXTINF:-1,IN:Ten Sports
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4084.ts
-#EXTINF:-1,IN:Ten Action
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4083.ts
-#EXTINF:-1,IN:Ten Cricket
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4057.ts
-#EXTINF:-1,CA:Sportsnet WL
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4054.ts
-#EXTINF:-1,Neth:Fox Sports 6
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4039.ts
-#EXTINF:-1,USA:FoxSports1HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/1024.ts
-#EXTINF:-1,USA:FoxSports 2 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/1025.ts
-#EXTINF:-1,USA:ESPN
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3172.ts
-#EXTINF:-1,USA:ESPN 2
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3173.ts
-#EXTINF:-1,USA:WWE
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3946.ts
-#EXTINF:-1,USA:NFL HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3138.ts
-#EXTINF:-1,USA:NDTV
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/1717.ts
-#EXTINF:-1,USA:NBCSN HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2616.ts
-#EXTINF:-1,USA:NBC GOLF
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3960.ts
-#EXTINF:-1,USA:NBA VS VERSUS
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3945.ts
-#EXTINF:-1,USA:NBA TV*
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3453.ts
-#EXTINF:-1,USA:Bein Sports USA HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/189.ts
-#EXTINF:-1,UK:Sky Sport 1 SD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/14.ts
-#EXTINF:-1,UK:Sky Sport 2 SD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/15.ts
-#EXTINF:-1,UK:Sky Sport 3 SD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/16.ts
-#EXTINF:-1,UK:Sky Sport 4 SD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/17.ts
-#EXTINF:-1,UK:Sky Sport 5 SD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/18.ts
-#EXTINF:-1,UK:F1 SD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2652.ts
-#EXTINF:-1,UK:Sky Sport 1 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/6.ts
-#EXTINF:-1,UK:Sky Sport 2 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/7.ts
-#EXTINF:-1,UK:Sky Sport 3 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/8.ts
-#EXTINF:-1,UK:Sky Sport 4 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/9.ts
-#EXTINF:-1,UK:Sky Sport 5 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/10.ts
-#EXTINF:-1,UK:F1 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/19.ts
-#EXTINF:-1,UK:Eurosport 1 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2639.ts
-#EXTINF:-1,UK:Eurosport 2 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2638.ts
-#EXTINF:-1,UK:Eurosport
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/64.ts
-#EXTINF:-1,UK:Eurosport 2
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/395.ts
-#EXTINF:-1,DE:Sky Germany Sport 3 HD(Stream Only On Matches)
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3831.ts
-#EXTINF:-1,DE:Sky Germany Sport 4 HD(Stream Only On Matches)
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3830.ts
-#EXTINF:-1,DE:Sky Germany Sport 5 HD(Stream Only On Matches)
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3829.ts
-#EXTINF:-1,DE:Sky Germany Sport 6 HD(Stream Only On Matches)
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3828.ts
-#EXTINF:-1,DE:Sky Germany Sport 7 HD(Stream Only On Matches)
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3827.ts
-#EXTINF:-1,DE:Sky Germany Sport 8 HD(Stream Only On Matches)
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3826.ts
-#EXTINF:-1,DE:Sky Germany Sport 9 HD(Stream Only On Matches)
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3825.ts
-#EXTINF:-1,DE:Sky Bundesliga HD 9(Stream Only On Matches)
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3836.ts
-#EXTINF:-1,DE:Sky Germany Sport 10 HD(Stream Only On Matches)
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3834.ts
-#EXTINF:-1,DE:Sky Germany Sport 11 HD(Stream Only On Matches)
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3833.ts
-#EXTINF:-1,DE:Sky Bundesliga HD 8(Stream Only On Matches)
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3837.ts
-#EXTINF:-1,DE:Sky Bundesliga HD 7(Stream Only On Matches)
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3838.ts
-#EXTINF:-1,DE:Sky Bundesliga HD 6(Stream Only On Matches)
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3839.ts
-#EXTINF:-1,DE:Sky Bundesliga HD 5(Stream Only On Matches)
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3840.ts
-#EXTINF:-1,DE:Sky Bundesliga HD 4(Stream Only On Matches)
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3841.ts
-#EXTINF:-1,DE:Sky Bundesliga HD 3(Stream Only On Matches)
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3842.ts
-#EXTINF:-1,DE:Sky Bundesliga HD 2(Stream Only On Matches)
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3843.ts
-#EXTINF:-1,DE:Sky Bundesliga HD 10(Stream Only On Matches)
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3835.ts
-#EXTINF:-1,CA:TVA Sports
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3140.ts
-#EXTINF:-1,Ca:TSN 1 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/462.ts
-#EXTINF:-1,Ca:TSN 2 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/463.ts
-#EXTINF:-1,Ca:TSN 3 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2371.ts
-#EXTINF:-1,Ca:TSN 4 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2372.ts
-#EXTINF:-1,Ca:TSN 5 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2373.ts
-#EXTINF:-1,Serbia:Arena Sport 1 CR
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/415.ts
-#EXTINF:-1,Serbia:Arena Sport 2 Cro
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/416.ts
-#EXTINF:-1,Serbia:Arena Sport 3 Cro
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/417.ts
-#EXTINF:-1,Serbia:Arena Sport 4 Cro
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/418.ts
-#EXTINF:-1,Serbia:Arena Sport 5 CRO
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/419.ts
-#EXTINF:-1,Ser:SK 1 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/420.ts
-#EXTINF:-1,Ser:SK 2 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/421.ts
-#EXTINF:-1,Ser:SK 3 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/422.ts
-#EXTINF:-1,Ser:Arena Sport 1 SRB
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2526.ts
-#EXTINF:-1,Ser:Arena Sport 2 SRB
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2527.ts
-#EXTINF:-1,Ser:Arena Sport 3 SRB
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2528.ts
-#EXTINF:-1,Ser:Arena Sport 4 SRB
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2529.ts
-#EXTINF:-1,Rus:Viasat Sport Baltic
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/140.ts
-#EXTINF:-1,RUS:Viasat Sport
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3680.ts
-#EXTINF:-1,RUS:Sport 1
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3682.ts
-#EXTINF:-1,RUS:NTV Sport 2
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3307.ts
-#EXTINF:-1,Ro:Dolce Sport 1 test
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3628.ts
-#EXTINF:-1,Ro:Dolce Sport 2
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3629.ts
-#EXTINF:-1,Ro:Digi Sport 1
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/412.ts
-#EXTINF:-1,Ro:Digi Sport 2
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/413.ts
-#EXTINF:-1,Ro:Digi Sport 3
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/414.ts
-#EXTINF:-1,PT:Sport TV 2 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/203.ts
-#EXTINF:-1,PT: Sport.TV1
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/202.ts
-#EXTINF:-1,PT: sport tv 3
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/204.ts
-#EXTINF:-1,PT:SPORT TV 4 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/205.ts
-#EXTINF:-1,PT: sport tv5
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/206.ts
-#EXTINF:-1,PT- EUROSPORT
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2707.ts
-#EXTINF:-1,PT- EUROSPORT 2
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2708.ts
-#EXTINF:-1,Nordic:TV3 Sport 1
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3472.ts
-#EXTINF:-1,Nordic:TV3 Sport 2
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3473.ts
-#EXTINF:-1,NL:Sport 1 Votbal HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/1060.ts
-#EXTINF:-1,NL:Sport 1 Select HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2936.ts
-#EXTINF:-1,NL:Sport 1 Golf
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/437.ts
-#EXTINF:-1,NL:Sport 1 Extra 1
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3932.ts
-#EXTINF:-1,NL:Sport 1 Extra 2
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3931.ts
-#EXTINF:-1,NL: Sport 1 Racing
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2926.ts
-#EXTINF:-1,NL: Fox Sport 1 Eredivisie
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/430.ts
-#EXTINF:-1,NL:Fox Sport 2
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/429.ts
-#EXTINF:-1,NL: Fox Sport 3 Eredivisie
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/428.ts
-#EXTINF:-1,ML:Astro sports 1
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2942.ts
-#EXTINF:-1,ML:Astro sports 2
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2943.ts
-#EXTINF:-1,ML:Astro sports 3
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2944.ts
-#EXTINF:-1,Latino:Win Sports
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3444.ts
-#EXTINF:-1,Latino:Univision TDN
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3944.ts
-#EXTINF:-1,Latino:TYC Sports
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3436.ts
-#EXTINF:-1,IT:Sky Supercalcio HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/976.ts
-#EXTINF:-1,IT:Sky Sport 1 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/991.ts
-#EXTINF:-1,IT:Sky Sport 2 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/1000.ts
-#EXTINF:-1,IT:SKY SPORT 3 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2189.ts
-#EXTINF:-1,IT:Sky Sport 24 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/992.ts
-#EXTINF:-1,IT:Sky Moto GP HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/287.ts
-#EXTINF:-1,IT:Sky F1 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/256.ts
-#EXTINF:-1,IT:Fox Sport
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3119.ts
-#EXTINF:-1,IT*: Premium Sport
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2574.ts
-#EXTINF:-1,IND:Star Sport 1
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/453.ts
-#EXTINF:-1,IND:Star Sport 2
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/454.ts
-#EXTINF:-1,GEO:Silk Sport HD 1
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3523.ts
-#EXTINF:-1,GEO:Silk Sport HD 2
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3524.ts
-#EXTINF:-1,GEO:Silk Sport HD 3
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3525.ts
-#EXTINF:-1,GEO:SILK SPORT 4 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3526.ts
-#EXTINF:-1,FR:Canal+ Sport HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/400.ts
-#EXTINF:-1,FR:Bein Sport 1 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/199.ts
-#EXTINF:-1,FR:Bein Sport 2 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/200.ts
-#EXTINF:-1,FR:Bein Sport 3 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/201.ts
-#EXTINF:-1,Arabic:***MBC_pro_sport_1
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2262.ts
-#EXTINF:-1,Arabic:Alkass Sport One HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2272.ts
-#EXTINF:-1,AR:opt:BeinSports-9-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/182.ts
-#EXTINF:-1,AR:opt:BeinSports-8-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/181.ts
-#EXTINF:-1,AR:opt:BeinSports-7-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/180.ts
-#EXTINF:-1,AR:opt:BeinSports-6-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/179.ts
-#EXTINF:-1,AR:opt:BeinSports-5-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/178.ts
-#EXTINF:-1,AR:opt:BeinSports-4-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/177.ts
-#EXTINF:-1,AR:opt:BeinSports-3-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/176.ts
-#EXTINF:-1,AR:opt:BeinSports-2-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/175.ts
-#EXTINF:-1,AR:opt:BeinSports-10-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/183.ts
-#EXTINF:-1,AR:opt:BeinSports-1-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/174.ts
-#EXTINF:-1,Latino:Bein N
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/186.ts
-#EXTINF:-1,AR:opt:BeinSport-12-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/185.ts
-#EXTINF:-1,AR:beIN SPORT 9 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/166.ts
-#EXTINF:-1,AR:beIN SPORT 8 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/165.ts
-#EXTINF:-1,AR:beIN SPORT 7 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/164.ts
-#EXTINF:-1,AR:beIN SPORT 6 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/163.ts
-#EXTINF:-1,AR:beIN SPORT 5 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/162.ts
-#EXTINF:-1,AR:beIN SPORT 4 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/161.ts
-#EXTINF:-1,AR:beIN SPORT 3 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/160.ts
-#EXTINF:-1,AR:beIN SPORT 2 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/159.ts
-#EXTINF:-1,AR:beIN SPORT 10 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/167.ts
-#EXTINF:-1,AR:beIN SPORT 1 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/158.ts
-#EXTINF:-1,ALB - TRING SPORTS 3 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3366.ts
-#EXTINF:-1,ALB - TRING SPORTS 2 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3365.ts
-#EXTINF:-1,ALB - TRING SPORTS 4 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3367.ts
-#EXTINF:-1,AL:Supersport 1
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/445.ts
-#EXTINF:-1,AL:Supersport 2
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/446.ts
-#EXTINF:-1,AL:Supersport 3
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/447.ts
-#EXTINF:-1,AL:Supersport 4
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/448.ts
-
-
-#EXTINF:-1,Bein sport 1 HD AR
-http://5.196.67.222:80/live/Beinf/live/3797.ts
-#EXTINF:-1,beIN SPORTS 3HD EN
-http://5.196.67.222:80/live/Beinf/live/3791.ts
-#EXTINF:-1,beIN SPORTS 2HD EN
-http://5.196.67.222:80/live/Beinf/live/3789.ts
-#EXTINF:-1,beIN SPORTS 1HD EN
-http://5.196.67.222:80/live/Beinf/live/3790.ts
-#EXTINF:-1,Bein sport 8 HD AR
-http://5.196.67.222:80/live/Beinf/live/3802.ts
-#EXTINF:-1,Bein sport 7 HD AR
-http://5.196.67.222:80/live/Beinf/live/3803.ts
-#EXTINF:-1,Bein sport 6 HD AR
-http://5.196.67.222:80/live/Beinf/live/3801.ts
-#EXTINF:-1,Bein sport 4 HD AR
-http://5.196.67.222:80/live/Beinf/live/3799.ts
-#EXTINF:-1,Bein sport 3 HD FR
-http://5.196.67.222:80/live/Beinf/live/3807.ts
-#EXTINF:-1,Bein sport 2 HD AR
-http://5.196.67.222:80/live/Beinf/live/3798.ts
-#EXTINF:-1,Bein sport 1 HD FR
-http://5.196.67.222:80/live/Beinf/live/3805.ts
-#EXTINF:-1,AR: BEIN 8HD1
-http://5.196.67.222:80/live/Beinf/live/3816.ts
-#EXTINF:-1,AR: BEIN 6HD2
-http://5.196.67.222:80/live/Beinf/live/3814.ts
-#EXTINF:-1,AR: BEIN 5HD
-http://5.196.67.222:80/live/Beinf/live/3813.ts
-#EXTINF:-1,AR: BEIN 4HD1
-http://5.196.67.222:80/live/Beinf/live/3812.ts
-#EXTINF:-1,AR: BEIN 3HD
-http://5.196.67.222:80/live/Beinf/live/3811.ts
-#EXTINF:-1,AR: BEIN 2HD
-http://5.196.67.222:80/live/Beinf/live/3810.ts
-#EXTINF:-1,AR: BEIN 1HD
-http://5.196.67.222:80/live/Beinf/live/3809.ts
-#EXTINF:-1,AR: BEIN 10HD1
-http://5.196.67.222:80/live/Beinf/live/3818.ts
-#EXTINF:-1,BEIN SPORTS 3 EN
-http://5.196.67.222:80/live/Beinf/live/482.ts
-#EXTINF:-1,BEIN SPORTS 2 EN
-http://5.196.67.222:80/live/Beinf/live/481.ts
-#EXTINF:-1,BEIN SPORTS 1 EN
-http://5.196.67.222:80/live/Beinf/live/480.ts
-#EXTINF:-1,beINSport 4 HD AR
-http://5.196.67.222:80/live/Beinf/live/3067.ts
-#EXTINF:-1,beINSport 1 HD AR
-http://5.196.67.222:80/live/Beinf/live/3070.ts
-#EXTINF:-1,AR: beIN Sports 7 HD
-http://5.196.67.222:80/live/Beinf/live/3102.ts
-#EXTINF:-1,AR: beIN Sports 6 HD
-http://5.196.67.222:80/live/Beinf/live/3101.ts
-#EXTINF:-1,AR: bEIN Sports 2 HD
-http://5.196.67.222:80/live/Beinf/live/3097.ts
-
-
+#EXTINF:-1,**BEIN SPORT ESPAÑOL NUEVO**
+http://inavie2.dyndns.tv:8000/live/deco/deco/414.m3u8
+#EXTINF:-1,BEIN SPORT1 ingles
+http://inavie2.dyndns.tv:8000/live/deco/deco/399.m3u8
+#EXTINF:-1,BEINSPORTS ES
+http://inavie2.dyndns.tv:8000/live/deco/deco/22.m3u8
+#EXTINF:-1,BeinSport HD España Xtra 1
+http://inavie2.dyndns.tv:8000/live/deco/deco/134.m3u8
+#EXTINF:-1,BeinSport HD España Xtra 2
+http://inavie2.dyndns.tv:8000/live/deco/deco/135.m3u8
+#EXTINF:-1,BEINS PORTS  Spain Baja calidad
+http://inavie2.dyndns.tv:8000/live/deco/deco/136.m3u8
+#EXTINF:-1,Eurosport HD
+http://inavie2.dyndns.tv:8000/live/deco/deco/145.m3u8
+#EXTINF:-1,Eurosports 2
+http://inavie2.dyndns.tv:8000/live/deco/deco/689.m3u8
+#EXTINF:-1,C+ LIGA HD
+http://inavie2.dyndns.tv:8000/live/deco/deco/24.m3u8
+#EXTINF:-1,C+ LIGA 2 HD
+http://inavie2.dyndns.tv:8000/live/deco/deco/25.m3u8
+#EXTINF:-1,Canal + Partidazo HD
+http://inavie2.dyndns.tv:8000/live/deco/deco/26.m3u8
+#EXTINF:-1,Movistar Moto Gp HD
+http://inavie2.dyndns.tv:8000/live/deco/deco/138.m3u8
+#EXTINF:-1,Movistar Fórmula1 HD
+http://inavie2.dyndns.tv:8000/live/deco/deco/137.m3u8
+#EXTINF:-1,Canal+ Deportes 2 spain
+http://inavie2.dyndns.tv:8000/live/deco/deco/27.m3u8
+#EXTINF:-1,C+ GOLF
+http://inavie2.dyndns.tv:8000/live/deco/deco/417.m3u8
+#EXTINF:-1,BEIN SPORT 1 FRANCIA
+http://inavie2.dyndns.tv:8000/live/deco/deco/158.m3u8
+#EXTINF:-1,SPORT TV3
+http://inavie2.dyndns.tv:8000/live/deco/deco/620.m3u8
+#EXTINF:-1,SPORT TV5
+http://inavie2.dyndns.tv:8000/live/deco/deco/622.m3u8
+#EXTINF:-1,SPORT TV4
+http://inavie2.dyndns.tv:8000/live/deco/deco/621.m3u8
+#EXTINF:-1,SPORT TV2
+http://inavie2.dyndns.tv:8000/live/deco/deco/619.m3u8
+#EXTINF:-1,SPORT TV1 HQ
+http://inavie2.dyndns.tv:8000/live/deco/deco/617.m3u8
+#EXTINF:-1,SPORT TV1 HD
+http://inavie2.dyndns.tv:8000/live/deco/deco/618.m3u8
+#EXTINF:-1,DE: Sky sport 2 HD
+http://inavie2.dyndns.tv:8000/live/deco/deco/654.m3u8
+#EXTINF:-1,DE: Sky sport 1 HD
+http://inavie2.dyndns.tv:8000/live/deco/deco/653.m3u8
+#EXTINF:-1,BEIN SPORT 3 EN
+http://inavie2.dyndns.tv:8000/live/deco/deco/688.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://inavie2.dyndns.tv:8000/live/deco/deco/35.m3u8
 #EXTINF:-1, Basketball Russia
 http://s2.edem.tv/iptv/CRNMZP2B9W3983/529/index.m3u8
-
 #EXTINF:-1, Nova Sport 1
 http://213.81.153.241/live001/channel028_p3.stream/chunklist_w1268025928_DVR.m3u8
-
 #EXTINF:-1, Red Bull TV HD
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
-
 #EXTINF:0, Digi Sport 1
 http://82.76.249.81/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0, Digi Sport 2
@@ -1241,40 +1016,7 @@ http://s69362.cdn.ngenix.net/live/_definst_/Stream2/chunklist.m3u8
 #EXTINF:-1, CBC SPORT LQ
 http://s69362.cdn.ngenix.net/live/_definst_/Stream3/chunklist.m3u8
 
-#EXTINF:-1, Futbol 1 UA
-http://91.196.148.6/football
 
-#EXTINF:0, Versus HD (US)
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-
-#EXTINF:-1, Football Report
-http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/9095.png", NFL Now HD
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_h.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/9095.png", NFL Now SD
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_d.m3u8
-
-#EXTINF:-1, 11 SPORT POL
-rtmp://144.76.154.14/live/elevensport
-#EXTINF:-1, N SPORT POL
-rtmp://85.10.208.218/live/n2sport
-
-#EXTINF:0, Canal del Deporte Olimpico - CDO
-http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
-
-#EXTINF:-1 tvg-logo="UFC china.png" group-title=“DESPORTO”, UFC (CHI)
-rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos 
-
-#EXTINF:-1, FIGHT Sport
-http://118.97.183.222:1935/discover/fight/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="bongda_tv.png" group-title=“DESPORTO”, BONGDA TV (VIE)
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:bongdatvsd_hls.smil/chunklist_b1200000.m3u8
-
-#EXTINF:-1 tvg-logo="thethao.png" group-title=“DESPORTO”, THETHAO TV (VIE)
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:thethaotvsd_hls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1, Dolce Sport 1
 http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
@@ -1282,35 +1024,6 @@ http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
 http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
 #EXTINF:-1, Dolce Sport 3
 http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport3/playlist.m3u8
-
-#EXTINF:-1, Dubai Racing
-http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:-1, Dubai Sports
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/9997.jpg", Poker Central
-http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
-
-#EXTINF:-1 tvg-logo=\"fox-sports-hd.png\", Fox Sports Latinoamerica
-http://iptvcanales.com/xw/cable.php?canal=32&player=playlist.m3u8
-
-#EXTINF:-1 tvg-logo=\"espn.png\", ESPN Latinoamerica
-http://iptvcanales.com/xw/cable.php?canal=33&player=playlist.m3u8
-
-#EXTINF:-1 tvg-logo=\"espn-2.png\", ESPN 2 Latinoamerica
-http://iptvcanales.com/xw/cable.php?canal=34&player=playlist.m3u8
-
-#EXTINF:-1 tvg-logo=\"espn-3-hd.png\", ESPN 3 Latinoamerica
-http://iptvcanales.com/xw/cable.php?canal=35&player=playlist.m3u8
-
-#EXTINF:-1 tvg-logo=\"BeinSports.png\", Bein Sports Latino
-http://iptvcanales.com/xw/cable.php?canal=56&player=playlist.m3u8
-
-#EXTINF:-1 tvg-logo=\"BeinSports.png\", Bein Sports USA
-http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
-
-#EXTINF:-1 tvg-logo=\"NFL Network.png\", NFL Network
-http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
 
 #EXTINF:0, Eurosport 1 ENG
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
@@ -1381,112 +1094,6 @@ rtmp://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_360p
 #EXTINF:-1, USA-PAC 12 Oregon (HD)
 http://xrxs.net/video/live-p12oreg-4728.m3u8
 
-#EXTINF:-1, TRT 1 HD Turkey 
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-
-#‎EXTINF:-1, DXTV Sport
-http://186.33.227.197/DXTV/smil:DXTV.smil/playlist.m3u8
-
-#EXTINF:-1, DUBAI SPORTS 3
-http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7254503/index.m3u8
-
-#EXTINF:-1, AD SPORTS1
-http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8
-
-#EXTINF:-1, YAS SPORTS
-http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8
-
-#EXTINF:-1, BAHRAIN SPORTS
-rtmp://alayam.netromedia.net/btv3/btv3
-
-#EXTINF:-1, koweit_sport HD
-http://stream03.fasttelco.net:1935/live/_definst_/ktv3_480.stream/playlist.m3u8
-
-#EXTINF:-1, koweit_sport plus
-http://stream03.fasttelco.net:1935/live/_definst_/ktv4_480.stream/playlist.m3u8
-
-#EXTINF:-1, Bahrain_sport
-rtmp://iaa.flashmediacast.com:2387/live// playpath=Sports swfUrl=http://www.primcast.com/jwplayer6/jwplayer.flash.swf live=1 pageUrl=http://www.bna.bh/portal/tv/sports
-
-#EXTINF:-1, NILE Sport
-rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport
-
-#EXTINF:-1, NILE Sport (opt2)
-rtmp://web4.iptv-planet.com/live playpath=Hi_nilesport?key=077111110032078111118032049054032048056032049055 swfUrl=http://embed.iptv-planet.com/swfs/player.swf live=1 pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_nilesport&width=600&height=400
-
-#EXTINF:-1, Iraqiya Sport
-http://212.7.205.5:1935/sport/live/BratuMarian.m3u8
-
-#EXTINF:-1, Al-Kass One HD
-http://alkass-i.akamaihd.net/hls/live/205534/1/live_13s12.m3u8
-
-#EXTINF:0, Slovak Sport 2
-rtmp://195.168.51.178/live/ss2hd
-
-#EXTINF:-1, Dubai Racing (Horses)
-http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1300000.m3u8
-
-#EXTINF:-1, Tile Sport SD
-rtmp://78.47.151.114/tilesport playpath=movie1 swfUrl=http://www.tilesport.tv/jwplayer/player.swf live=1 pageUrl=http://tv-live.in/wp-content/uploads/tv-online/Channel/Greek/channel/TileSport%20TV%20-%20link2.htm
-
-#EXTINF:-1, Iraq Sport SD
-http://212.7.205.5:1935/sport/live/chunklist_w156395309.m3u8
-
-#EXTINF:-1, PTV Sports SD
-http://109.123.70.72:1935/live/ptvsports/samitv.m3u8
-
-#EXTINF:-1, KUWAIT 3 SPORT
-http://63.237.48.23/ios/KUWAIT_3_SPORT/KUWAIT_3_SPORT.m3u8
-
-#EXTINF:0, Спорт 1 RU
-http://178.49.204.227:81/udp/239.1.12.7:1234
-
-#EXTINF:0, Football 1 RU
-http://178.165.0.14:4022/udp/239.0.0.214:1234
-
-#EXTINF:-1, Telekanal Futbol RU
-http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
-
-#EXTINF:0, Телеканал Футбол RU (opt2)
-http://win.cdn.bonus-tv.ru/TVB8/football/playlist.m3u8
-
-#EXTINF:0, Авто Плюс RU
-http://178.165.0.14:4022/udp/239.0.0.221:1234
-
-#EXTINF:0, NTV PLUS BASKETBOL RU
-http://j.mp/T_NTVPLUSBASKETBOL_sly?.m3u8
-
-#EXTINF:-1, M4 Sport
-http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8
-
-#EXTINF:-1, Brodilo TV Russia
-http://j.mp/BRODILOHD_sly?.m3u8
-
-#EXTINF:-1, SEVILLA FC SPAIN
-http://gstudio_hls04-lh.akamaihd.net/i/hls04stream001_0@348222/index_700_av-b.m3u8?sd=10&rebase=on
-
-
-#EXTINF:-1, TRT SPOR TK
-http://hdtvizle.ru/14452/71930/71968/trts.m3u8
-#EXTINF:-1, A SPOR TK
-http://hdtvizle.ru/14452/71930/71968/aspor1.m3u8
-#EXTINF:-1, NTV SPOR TK
-http://hdtvizle.ru/14452/71930/71968/ntvs.m3u8
-#EXTINF:-1, SPORTS TV TK
-http://hdtvizle.ru/14452/71930/71968/sports.m3u8
-
-#EXTINF:-1, TRT SPOR 2 TK
-http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
-#EXTINF:-1, NTV SPOR TK
-http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
-#EXTINF:-1, FANATIK TV TK
-rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
-#EXTINF:-1, SPORTS TV TK
-rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
-#EXTINF:-1, BURSASPOR TV TK
-http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
-#EXTINF:-1, Turkmen Sport TK (low)
-rtmp://217.174.227.20/webtv/ch004_sd
 
 #EXTINF:-1, Fox Sports 506 HD
 http://motorsport.hopto.org:8080/
@@ -1524,8 +1131,6 @@ mms://100automoto.tv/channel_italy
 #EXTINF:0, Cars & Sports
 mms://100automoto.tv/100livesport
 
-#EXTINF:-1 tvg-logo="BTN.png" group-title="All Sports", Big Ten Network HD
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
 
 
 #EXTINF:-1, SPORTTV 1 Portugal

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red]02.01.2016:  SKY DE pascalnebil@icloud.com Soru ve Onerileriniz icin . [/COLOR]
+#EXTINF:-1,[COLOR red]05.01.2016:  SKY DE pascalnebil@icloud.com Soru ve Onerileriniz icin . [/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
@@ -202,6 +202,44 @@ http://cds.z2q7i5m7.hwcdn.net/asset/7uDFqi51/chunklist_720.m3u8
 
 #EXTINF:-1,[I][B][COLOR green]--- DEUTSCH-KANALE - SKY ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
+#EXTINF:-1, Sky Sport News HD 
+http://5be75159.stream4k.cc/hls/ssnhd.m3u8
+#EXTINF:-1, Sky Sport HD 1 
+http://5be75159.stream4k.cc/hls/sporthd1.m3u8
+#EXTINF:-1, Sky Sport HD 2
+http://5be75159.stream4k.cc/hls/sporthd2.m3u8
+#EXTINF:-1, Sky Bundesliga HD 1
+http://5be75159.stream4k.cc/hls/bund1.m3u8 
+#EXTINF:-1, Sky Bundesliga HD 1 HQ
+http://5be75159.stream4k.cc/hls/bund1hq.m3u8 
+#EXTINF:-1, Sky Sport HD 1 HQ
+http://5be75159.stream4k.cc/hls/sporthd1hq.m3u8 
+#EXTINF:-1, Eurosport 2 HD
+http://5be75159.stream4k.cc/hls/eurosport2.m3u8 
+#EXTINF:-1, Sport1+ HD
+http://5be75159.stream4k.cc/hls/sport1+.m3u8 
+#EXTINF:-1, Sky Cinema
+http://5be75159.stream4k.cc/hls/cinema.m3u8 
+#EXTINF:-1, Discovery HD
+http://5be75159.stream4k.cc/hls/discovery.m3u8 
+#EXTINF:-1, Sport1 US HD
+http://5be75159.stream4k.cc/hls/sportus.m3u8 
+#EXTINF:-1, Eurosport HD
+http://5be75159.stream4k.cc/hls/eurosport1.m3u8 
+#EXTINF:-1, National Geo Wild HD
+http://5be75159.stream4k.cc/hls/nationalwild.m3u8 
+#EXTINF:-1, Sky Atlantic
+http://5be75159.stream4k.cc/hls/atlantic.m3u8 
+#EXTINF:-1, National Geo HD
+http://5be75159.stream4k.cc/hls/national.m3u8 
+#EXTINF:-1, FOX HD
+http://5be75159.stream4k.cc/hls/foxhd.m3u8 
+#EXTINF:-1, Sky 007 HD
+http://5be75159.stream4k.cc/hls/007.m3u8 
+#EXTINF:-1, BT Sports 1
+http://5be75159.stream4k.cc/hls/btsportshd1.m3u8 
+#EXTINF:-1, BT Sports 2
+http://5be75159.stream4k.cc/hls/btsportshd2.m3u8
 
 #EXTINF:-1,DE: ZDF HD
 http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2362.m3u8
@@ -269,7 +307,62 @@ http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2357.m3u8
 http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2349.m3u8
 #EXTINF:-1,DE: Das Erste HD
 http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2350.m3u8
-
+#EXTINF: -1, SKY CINEMA
+http://217.26.171.58:4022/udp/232.12.13.1:1234?auth=yes?
+#EXTINF: -1, SKY EMOTION
+http://217.26.171.58:4022/udp/232.12.13.2:1234?auth=yes?
+#EXTINF: -1, SKY NOSTALGIE
+http://217.26.171.58:4022/udp/232.12.13.3:1234?auth=yes?
+#EXTINF: -1, SKY ATLANTIC
+http://217.26.171.58:4022/udp/232.12.13.4:1234?auth=yes?
+#EXTINF: -1, SKY SPORT 1
+http://217.26.171.58:4022/udp/232.12.13.5:1234?auth=yes?
+#EXTINF: -1, SKY SPORT NEWS
+http://217.26.171.58:4022/udp/232.12.13.6:1234?auth=yes?
+#EXTINF: -1, NATIONAL GEOGRAPHIC
+http://217.26.171.58:4022/udp/232.12.13.7:1234?auth=yes?
+#EXTINF: -1, RTL CRIME
+http://217.26.171.58:4022/udp/232.12.13.8:1234?auth=yes?
+#EXTINF: -1, RTL PASSION
+http://217.26.171.58:4022/udp/232.12.13.9:1234?auth=yes?
+#EXTINF: -1, SKY HITS
+http://217.26.171.58:4022/udp/232.12.13.10:1234?auth=yes?
+#EXTINF: -1, TNT SERIE
+http://217.26.171.58:4022/udp/232.12.13.11:1234?auth=yes?
+#EXTINF: -1, SYFY
+http://217.26.171.58:4022/udp/232.12.13.12:1234?auth=yes?
+#EXTINF: -1, SKY SPORT 2
+http://217.26.171.58:4022/udp/232.12.13.13:1234?auth=yes?
+#EXTINF: -1, SKY SPORT AUSTRIA
+http://217.26.171.58:4022/udp/232.12.13.14:1234?auth=yes?
+#EXTINF: -1, NAT GEO WILD
+http://217.26.171.58:4022/udp/232.12.13.15:1234?auth=yes?
+#EXTINF: -1, HEIMATKANAL
+http://217.26.171.58:4022/udp/232.12.13.16:1234?auth=yes?
+#EXTINF: -1, DISNEY CINEMAGIC
+http://217.26.171.58:4022/udp/232.12.13.17:1234?auth=yes?
+#EXTINF: -1, SKY CINEMA+ 1
+http://217.26.171.58:4022/udp/232.12.13.21:1234?auth=yes?
+#EXTINF: -1, SKY CINEMA+ 24
+http://217.26.171.58:4022/udp/232.12.13.22:1234?auth=yes?
+#EXTINF: -1, SKY ACTION
+http://217.26.171.58:4022/udp/232.12.13.23:1234?auth=yes?
+#EXTINF: -1, SKY COMEDY
+http://217.26.171.58:4022/udp/232.12.13.24:1234?auth=yes?
+#EXTINF: -1, DISNEY XD
+http://217.26.171.58:4022/udp/232.12.13.25:1234?auth=yes?
+#EXTINF: -1, JUNIOR
+http://217.26.171.58:4022/udp/232.12.13.26:1234?auth=yes?
+#EXTINF: -1, MGM
+http://217.26.171.58:4022/udp/232.12.13.33:1234?auth=yes?
+#EXTINF: -1, SKY KRIMI
+http://217.26.171.58:4022/udp/232.12.13.34:1234?auth=yes?
+#EXTINF: -1, DISCOVERY CHANNEL
+http://217.26.171.58:4022/udp/232.12.13.35:1234?auth=yes?
+#EXTINF: -1, FOX SERIE
+http://217.26.171.58:4022/udp/232.12.13.36:1234?auth=yes?
+#EXTINF: -1,SKY BUNDESLIGA
+http://217.26.171.58:4022/udp/232.12.13.37:1234?auth=yes?
 
 #EXTINF:-1,3SAT
 http://217.20.164.196:8080/3sat/index.m3u8

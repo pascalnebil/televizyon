@@ -35,15 +35,13 @@ http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
 #EXTINF:-1,A HABER
 http://origin2.live.web.tv.streamprovider.net/streams/996642ce8e8f48d5438c6de972497d4a_live_0_0/index.m3u8
 #EXTINF:0,TV8 HD
-http://ls.viviso.tv/i/tv8sdi_1@349694/master.m3u8
+http://www.iptvsaga.com/play/tv3/0064.m3u8
 #EXTINF:0,TV8 HD 2
 http://yayin1.canlitv.com:1935/live/tvsekiz/chunklist_w920877893.m3u8
 #EXTINF:0,Star TV
 http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
-#EXTINF:0,Star TV 2
+#EXTINF:0,Star TV HD
 http://188.72.131.226/star.m3u8
-#EXTINF:0,Star TV 3
-http://yayin5.canlitv.com:1935/live/startv/chunklist_w1232184752.m3u8
 #EXTINF: -1, İdman Tv
 http://188.72.131.226/idman.m3u8
 #EXTINF:0,CNN TuRK HD News

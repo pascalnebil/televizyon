@@ -3,7 +3,8 @@
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
-
+#EXTINF:0,FilmaxFamily HD TR
+http://5.39.101.194:1935/live/filmaxfamilyhd_canlitvplay.com/playlist.m3u8
 #EXTINF:0,TRT HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
 #EXTINF:0,TRT 1 HD

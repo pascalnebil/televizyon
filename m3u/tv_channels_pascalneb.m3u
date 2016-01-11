@@ -1161,5 +1161,5 @@ rtmp://cp39414.live.edgefcs.net/live/event1@9756
 rtmp://146.0.32.43:1935/hls/6
 #EXTINF:-1,YUMURCAK TV
 rtmp://146.0.32.43:1935/hls/8
-#EXTINF:-1,MC TV
-http://31.186.24.234:8000/13
+#EXTINF:-1,MC TV8
+http://yayinlar.tvizleyim.com/org4/tv8_me/playlist.m3u8

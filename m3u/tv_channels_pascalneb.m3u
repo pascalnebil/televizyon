@@ -1157,3 +1157,9 @@ rtmp://tv1.streampulse.eu/tilesport/movie1
 
 #EXTINF:-1, TVA Sport Canada
 rtmp://cp39414.live.edgefcs.net/live/event1@9756
+#EXTINF:-1,S HABER TV
+http://31.186.24.234:8000/11
+#EXTINF:-1,YUMURCAK TV
+http://31.186.24.234:8000/12
+#EXTINF:-1,MC TV
+http://31.186.24.234:8000/13

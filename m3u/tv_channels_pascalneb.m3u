@@ -1156,10 +1156,10 @@ http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2db
 rtmp://tv1.streampulse.eu/tilesport/movie1
 
 #EXTINF:-1, TVA Sport Canada
-rtmp://cp39414.live.edgefcs.net/live/event1@9756
-#EXTINF:-1,S HABER TV
-rtmp://146.0.32.43:1935/hls/6
+http://ipsatpro.com:8000/live/turk/turk/382.ts
+#EXTINF:-1,testo 8
+http://s02.zone4tv.net:80/live?channelId=16&uid=631&deviceUser=omer1&devicePass=omer1
 #EXTINF:-1,YUMURCAK TV
-rtmp://146.0.32.43:1935/hls/8
+http://s05.zone4tv.net:80/live?channelId=15&uid=631&deviceUser=omer1&devicePass=omer1
 #EXTINF:-1,MC TV8
-http://yayinlar.tvizleyim.com/org4/tv8_me/playlist.m3u8
+http://ipsatpro.com:8000/live/turk/turk/399.ts

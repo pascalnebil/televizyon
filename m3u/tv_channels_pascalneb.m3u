@@ -1156,9 +1156,10 @@ http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2db
 rtmp://tv1.streampulse.eu/tilesport/movie1
 
 #EXTINF:-1, TVA Sport Canada
-http://ipsatpro.com:8000/live/turk/turk/382.ts
+http://www.dailymotion.com/embed/video/x31omum?autoPlay=1
 #EXTINF:-1,testo 8
 http://s02.zone4tv.net:80/live?channelId=16&uid=631&deviceUser=omer1&devicePass=omer1
 #EXTINF:-1,YUMURCAK TV
-http://hd.yayin3.canlitv.mobi:7777/SamanyoluHaber_HD/SamanyoluHaber_High.m3u8?session=83407450c15868080976492ac3cfba2e509b5ce7a7931807553176589d7ed86fa299017ce29bf1aa#EXTINF:-1,MC TV9
+http://hd.yayin3.canlitv.mobi:7777/SamanyoluHaber_HD/SamanyoluHaber_High.m3u8?session=83407450c15868080976492ac3cfba2e509b5ce7a7931807553176589d7ed86fa299017ce29bf1aa
+#EXTINF:-1,MC TV9
 rtmp://$OPT:rtmp-raw=rtmp://mn-l.mncdn.com/tv8/ playpath=tv8_live3 swfUrl=http://static.oroll.com/p.swf live=1 pageUrl=http://www.tv8.com.tr/canli-yayin

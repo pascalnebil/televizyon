@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red]05.01.2016:  SKY DE pascalnebil@icloud.com Soru ve Onerileriniz icin . [/COLOR]
+#EXTINF:-1,[COLOR red]18.01.2016:  Samanyolu TV Ve Samanyolu Haber Duzeltilmistir SKY DE pascalnebil@icloud.com Soru ve Onerileriniz icin . [/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
@@ -150,12 +150,6 @@ http://vivisolivegrp01-lh.akamaihd.net/i/stveu_1@398191/index_270_av-b.m3u8?sd=1
 http://www.iptvsaga.com/play/tv3/0040.m3u8
 #EXTINF:-1,Bugün TV HD
 http://buguntv-live.ercdn.com/buguntv.m3u8
-#EXTINF:-1,MEHTAP TV
-http://vivisolivegrp01-lh.akamaihd.net/i/mehtaptv_1@398170/index_270_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,MC TV
-http://vivisolivegrp01-lh.akamaihd.net/i/mctv_1@398169/index_270_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,MC EU
-http://vivisolivegrp01-lh.akamaihd.net/i/mceutv_1@398167/index_270_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,IRMAK TV HD
 http://cds.z2q7i5m7.hwcdn.net/asset/7uDFqi51/chunklist_720.m3u8
 

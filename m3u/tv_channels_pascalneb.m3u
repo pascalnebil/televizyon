@@ -3,8 +3,6 @@
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
-#EXTINF:0,FilmaxFamily HD TR
-http://5.39.101.194:1935/live/filmaxfamilyhd_canlitvplay.com/playlist.m3u8
 #EXTINF:0,TRT HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
 #EXTINF:0,TRT 1 HD
@@ -35,10 +33,6 @@ http://origin.live.web.tv.streamprovider.net/streams/0a982dbefc5e9d29952bda5a981
 http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
 #EXTINF:-1,A HABER
 http://origin2.live.web.tv.streamprovider.net/streams/996642ce8e8f48d5438c6de972497d4a_live_0_0/index.m3u8
-#EXTINF:-1,TV 8 INT
-http://31.186.24.232:8000/25
-#EXTINF:0,TV8 HD 2
-http://yayin1.canlitv.com:1935/live/tvsekiz/chunklist_w920877893.m3u8
 #EXTINF:0,Star TV
 http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
 #EXTINF:0,Star TV HD
@@ -1162,4 +1156,4 @@ http://s02.zone4tv.net:80/live?channelId=16&uid=631&deviceUser=omer1&devicePass=
 #EXTINF:-1,YUMURCAK TV
 http://hd.yayin3.canlitv.mobi:7777/SamanyoluHaber_HD/SamanyoluHaber_High.m3u8?session=83407450c15868080976492ac3cfba2e509b5ce7a7931807553176589d7ed86fa299017ce29bf1aa
 #EXTINF:-1,MC TV9
-rtmp://$OPT:rtmp-raw=rtmp://origin2.nar.tv/dvrh264/canlitv8/ playpath=mp4:canlitv8 swfUrl=http://www.yildiz.tv/dvr/dvrGoogle16.swf?v=1.6b pageUrl=http://www.yildiz.tv/ live=true swfVfy=true timeout=30 
+http://cdn.step-tv.com:8000/live/CYR/CYR/397.ts

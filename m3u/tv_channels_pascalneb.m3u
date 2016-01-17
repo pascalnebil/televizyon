@@ -24,19 +24,21 @@ http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 #EXTINF:0,SHOW TV HD
 http://live-ciner.mncdn.net/showtv/showtv2/master.m3u8
 #EXTINF:0815 tvg-id="showtv.tr" group-title="TR Genel Kanallar" tvg-logo="442251.png", [COLOR olivedrab]SHOW TV HD2[/COLOR]
-http://hls.tv.iptv.ink/showtvtr@442251.m3u8|X-Forwarded-For=37.34.18.55
+http://www.iptvsaga.com/play/tv3/0045.m3u8
 #EXTINF:0,ATV HD
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:-1,ATV HD 2
-http://origin.live.web.tv.streamprovider.net/streams/0a982dbefc5e9d29952bda5a981a9c6d_live_0_0/index.m3u8
+http://www.iptvsaga.com/play/tv3/0041.m3u8
 #EXTINF:-1,A HABER HD
 http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
 #EXTINF:-1,A HABER
 http://origin2.live.web.tv.streamprovider.net/streams/996642ce8e8f48d5438c6de972497d4a_live_0_0/index.m3u8
 #EXTINF:0,Star TV
-http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
+http://www.iptvsaga.com/play/tv3/0063.m3u8
 #EXTINF:0,Star TV HD
 http://188.72.131.226/star.m3u8
+#EXTINF:-1,tv8 HD
+http://www.iptvsaga.com/play/tv3/0064.m3u8
 #EXTINF: -1, İdman Tv
 http://188.72.131.226/idman.m3u8
 #EXTINF:0,CNN TuRK HD News
@@ -149,8 +151,8 @@ http://livetr.gostream.nl/mekke/mekke/HasBahCa.m3u8
 http://livede.gostream.nl/medine/medine/playlist.m3u8
 #EXTINF:-1, [COLOR olivedrab]CIZGI FILM TV[/COLOR]
 mms://yayin.networkbil.com/cizgifilmtv
-#EXTINF:-1,CARTOON NETWORK
-http://origin.live.web.tv.streamprovider.net/streams/e0abd0b3943ae7bbcff8e3b570ef4612_live_0_0/index.m3u8
+#EXTINF:-1,CARTOON
+http://5.39.101.194:1935/live/joinx/playlist.m3u8
 #EXTINF:0,TRT cocuk Kid
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:0832 tvg-id="minikacocuk.tr" group-title="TR Çocuk Kanalları" tvg-logo="326824.png", [COLOR olivedrab]MINIKA ÇOCUK[/COLOR]
@@ -184,11 +186,11 @@ http://hls.tv.iptv.ink/trt3tr@370171.m3u8|X-Forwarded-For=37.34.18.55
 #EXTINF:-1,[COLOR yellow]--- Samanyolu Grubu ---[/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,SAMANYOLU TV
-http://yayin1.canlitv.com:1935/live/stv/chunklist_w663263674.m3u8
+http://www.iptvsaga.com/play/tv3/0039.m3u8
 #EXTINF:-1,SAMANYOLU AVRUPA
 http://vivisolivegrp01-lh.akamaihd.net/i/stveu_1@398191/index_270_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,SAMANYOLU HABER
-http://vivisolivegrp01-lh.akamaihd.net/i/shabertv_1@398173/index_360_av-b.m3u8?sd=10&rebase=on
+http://www.iptvsaga.com/play/tv3/0040.m3u8
 #EXTINF:-1,Bugün TV HD
 http://buguntv-live.ercdn.com/buguntv.m3u8
 #EXTINF:-1,MEHTAP TV

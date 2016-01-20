@@ -9,8 +9,6 @@ http://5.39.101.194:1935/live/filmaxpremierhd_canlitvplay.com/playlist.m3u8
 http://5.39.101.194:1935/live/filmaxfamilyhd_canlitvplay.com/playlist.m3u8
 #EXTINF:-1,BLACK HD SINEMA
 http://5.39.101.194:1935/live/filmaxblackhd_canlitvplay.com/playlist.m3u8
-#EXTINF:-1,joinx
-http://5.39.101.194:1935/live/joinx/playlist.m3u8
 #EXTINF:-1,SINEMA MUSİC
 http://51.255.7.123:1935/nettv/nettv/playlist.m3u8
 #EXTINF:0,TRT HD
@@ -36,7 +34,7 @@ http://www.iptvsaga.com/play/tv3/0045.m3u8
 #EXTINF:-1,SHOW TURK
 http://mn-l.mncdn.com:1935/showturktv/showturktv1/playlist.m3u8
 #EXTINF:0,ATV HD
-http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+http://188.72.131.226/atv.m3u8
 #EXTINF:-1,ATV HD 2
 http://www.iptvsaga.com/play/tv3/0041.m3u8
 #EXTINF:-1,ATV Avrupa

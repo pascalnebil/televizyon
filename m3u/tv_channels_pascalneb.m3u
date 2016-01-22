@@ -168,150 +168,110 @@ http://cds.z2q7i5m7.hwcdn.net/asset/7uDFqi51/chunklist_720.m3u8
 
 #EXTINF:-1,[I][B][COLOR green]--- DEUTSCH-KANALE - SKY ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
-#EXTINF:-1, Sky Sport News HD 
-http://5be75159.stream4k.cc/hls/ssnhd.m3u8
-#EXTINF:-1, Sky Sport HD 1 
-http://5be75159.stream4k.cc/hls/sporthd1.m3u8
-#EXTINF:-1, Sky Sport HD 2
-http://5be75159.stream4k.cc/hls/sporthd2.m3u8
-#EXTINF:-1, Sky Bundesliga HD 1
+#EXTINF:-1 tvg-logo="" tvg-id ="Sky Sport News HD" group-title="Stammsender", Sky Sport News HD 
+http://5be75159.stream4k.cc/hls/ssnhd.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="Sky Sport HD 1" group-title="Stammsender", Sky Sport HD 1 
+http://5be75159.stream4k.cc/hls/sporthd1.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="Sky Sport HD 2" group-title="Stammsender", Sky Sport HD 2 
+http://5be75159.stream4k.cc/hls/sporthd2.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="Sky Bundesliga HD 1" group-title="Stammsender", Sky Bundesliga HD 1 
 http://5be75159.stream4k.cc/hls/bund1.m3u8 
-#EXTINF:-1, Sky Bundesliga HD 1 HQ
+#EXTINF:-1 tvg-logo="" tvg-id ="id19" group-title="Event", Sky Bundesliga HD 1 HQ 
 http://5be75159.stream4k.cc/hls/bund1hq.m3u8 
-#EXTINF:-1, Sky Sport HD 1 HQ
-http://5be75159.stream4k.cc/hls/sporthd1hq.m3u8 
-#EXTINF:-1, Eurosport 2 HD
+#EXTINF:-1 tvg-logo="" tvg-id ="id7" group-title="Event", Eurosport 2 HD 
 http://5be75159.stream4k.cc/hls/eurosport2.m3u8 
-#EXTINF:-1, Sport1+ HD
+#EXTINF:-1 tvg-logo="" tvg-id ="id6" group-title="Event", Sport1+ HD 
 http://5be75159.stream4k.cc/hls/sport1+.m3u8 
-#EXTINF:-1, Sky Cinema
+#EXTINF:-1 tvg-logo="" tvg-id ="cinema" group-title="Event", Sky Cinema 
 http://5be75159.stream4k.cc/hls/cinema.m3u8 
-#EXTINF:-1, Discovery HD
+#EXTINF:-1 tvg-logo="" tvg-id ="Discovery HD" group-title="Event", Discovery HD 
 http://5be75159.stream4k.cc/hls/discovery.m3u8 
-#EXTINF:-1, Sport1 US HD
+#EXTINF:-1 tvg-logo="" tvg-id ="id5" group-title="Event", Sport1 US HD 
 http://5be75159.stream4k.cc/hls/sportus.m3u8 
-#EXTINF:-1, Eurosport HD
+#EXTINF:-1 tvg-logo="" tvg-id ="id19" group-title="Event", Eurosport HD 
 http://5be75159.stream4k.cc/hls/eurosport1.m3u8 
-#EXTINF:-1, National Geo Wild HD
+#EXTINF:-1 tvg-logo="" tvg-id ="id19" group-title="Event", National Geo Wild HD 
 http://5be75159.stream4k.cc/hls/nationalwild.m3u8 
-#EXTINF:-1, Sky Atlantic
+#EXTINF:-1 tvg-logo="" tvg-id ="atlantic" group-title="Event", Sky Atlantic 
 http://5be75159.stream4k.cc/hls/atlantic.m3u8 
-#EXTINF:-1, National Geo HD
+#EXTINF:-1 tvg-logo="" tvg-id ="id19" group-title="Event", National Geo HD 
 http://5be75159.stream4k.cc/hls/national.m3u8 
-#EXTINF:-1, FOX HD
+#EXTINF:-1 tvg-logo="" tvg-id ="foxhd" group-title="Event", FOX HD 
 http://5be75159.stream4k.cc/hls/foxhd.m3u8 
-#EXTINF:-1, Sky 007 HD
+#EXTINF:-1 tvg-logo="" tvg-id ="id19" group-title="Event", Sky Hits HD 
 http://5be75159.stream4k.cc/hls/007.m3u8 
-#EXTINF:-1, BT Sports 1
-http://5be75159.stream4k.cc/hls/btsportshd1.m3u8 
-#EXTINF:-1, BT Sports 2
-http://5be75159.stream4k.cc/hls/btsportshd2.m3u8
-
-
-#EXTINF:-1,Sky de:ZDF
-http://iptv80.ddns.net:9070/live/karimos/skype88/1049.m3u8
-#EXTINF:-1,Sky de:VOX
-http://iptv80.ddns.net:9070/live/karimos/skype88/1050.m3u8
-#EXTINF:-1,Sky de:SUPER RTL
-http://iptv80.ddns.net:9070/live/karimos/skype88/1054.m3u8
-#EXTINF:-1,Sky de:SPORT TIME TV 7
-http://iptv80.ddns.net:9070/live/karimos/skype88/1055.m3u8
-#EXTINF:-1,Sky de:SPORT TIME TV 6
-http://iptv80.ddns.net:9070/live/karimos/skype88/1056.m3u8
-#EXTINF:-1,Sky de:SPORT TIME TV 5
-http://iptv80.ddns.net:9070/live/karimos/skype88/1057.m3u8
-#EXTINF:-1,Sky de:SPORT TIME TV 4
-http://iptv80.ddns.net:9070/live/karimos/skype88/1058.m3u8
-#EXTINF:-1,Sky de:SPORT TIME TV 3
-http://iptv80.ddns.net:9070/live/karimos/skype88/1059.m3u8
-#EXTINF:-1,Sky de:SPORT TIME TV 2
-http://iptv80.ddns.net:9070/live/karimos/skype88/1060.m3u8
-#EXTINF:-1,Sky de:SPORT TIME TV 1
-http://iptv80.ddns.net:9070/live/karimos/skype88/1061.m3u8
-#EXTINF:-1,Sky de:SPORT HD 2
-http://iptv80.ddns.net:9070/live/karimos/skype88/1062.m3u8
-#EXTINF:-1,Sky de:SPORT HD 1
-http://iptv80.ddns.net:9070/live/karimos/skype88/1063.m3u8
-#EXTINF:-1,Sky de:SKY SPORT 2
-http://iptv80.ddns.net:9070/live/karimos/skype88/1064.m3u8
-#EXTINF:-1,Sky de:SKY SPORT 1
-http://iptv80.ddns.net:9070/live/karimos/skype88/1065.m3u8
-#EXTINF:-1,Sky de:SKY KRIMI
-http://iptv80.ddns.net:9070/live/karimos/skype88/1066.m3u8
-#EXTINF:-1,Sky de:SKY HITS
-http://iptv80.ddns.net:9070/live/karimos/skype88/1067.m3u8
-#EXTINF:-1,Sky de:SKY EMOTION
-http://iptv80.ddns.net:9070/live/karimos/skype88/1068.m3u8
-#EXTINF:-1,Sky de:SKY COMEDY HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/1069.m3u8
-#EXTINF:-1,Sky de:SKY CINEMA  24
-http://iptv80.ddns.net:9070/live/karimos/skype88/1070.m3u8
-#EXTINF:-1,Sky de:SKY CINEMA  1
-http://iptv80.ddns.net:9070/live/karimos/skype88/1071.m3u8
-#EXTINF:-1,Sky de:SKY CINEMA
-http://iptv80.ddns.net:9070/live/karimos/skype88/1072.m3u8
-#EXTINF:-1,Sky de:SKY ACTION HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/1073.m3u8
-#EXTINF:-1,Sky de:SKY ACTION
-http://iptv80.ddns.net:9070/live/karimos/skype88/1074.m3u8
-#EXTINF:-1,Sky de:SKY  ATLANTIC
-http://iptv80.ddns.net:9070/live/karimos/skype88/1075.m3u8
-#EXTINF:-1,Sky de:NAT GEO WILD
-http://iptv80.ddns.net:9070/live/karimos/skype88/1076.m3u8
-#EXTINF:-1,Sky de:AXN
-http://iptv80.ddns.net:9070/live/karimos/skype88/1077.m3u8
-#EXTINF:-1,Sky de:ATLANTIC HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/1078.m3u8
-#EXTINF:-1,Sky DE National Geographic HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/1053.m3u8
-#EXTINF:-1,Sky DE Discovery Channel HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/1051.m3u8
-#EXTINF:-1,Sky DE Bundesliga 1
-http://iptv80.ddns.net:9070/live/karimos/skype88/1052.m3u8
-#EXTINF:-1,DE: Sky Select 6 HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/1091.m3u8
-#EXTINF:-1,DE: Sky Select 5 HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/1090.m3u8
-#EXTINF:-1,DE: Sky Select 4 HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/1089.m3u8
-#EXTINF:-1,DE: Sky Select 3 HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/1088.m3u8
-#EXTINF:-1,DE: Sky Select 2 HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/1087.m3u8
-#EXTINF:-1,DE: Sky Select 1 HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/1086.m3u8
-
-
-#EXTINF:-1,3SAT
-http://217.20.164.196:8080/3sat/index.m3u8
-#EXTINF:-1,ARD
-http://217.20.164.196:8080/ard/index.m3u8
-#EXTINF:-1,RBB
-http://217.20.164.196:8080/rbb/index.m3u8
-#EXTINF:-1,KIKA
-http://217.20.164.196:8080/kika/index.m3u8
-#EXTINF:-1,ZDF
-http://217.20.164.196:8080/zdf/index.m3u8
-#EXTINF:-1,VOX
-http://217.20.164.196:8080/vox/index.m3u8
-#EXTINF:-1,SAT1
-http://217.20.164.196:8080/sat1/index.m3u8
-#EXTINF:-1,RTL
-http://217.20.164.196:8080/rtl/index.m3u8
-#EXTINF:-1,N-TV
-http://217.20.164.196:8080/n-tv/index.m3u8
-#EXTINF:-1,Eurosport
-http://217.20.164.196:8080/eurosport/index.m3u8
-#EXTINF:-1,Euronews
-http://217.20.164.196:8080/euronews/index.m3u8
-#EXTINF:-1,MDR
-http://217.20.164.196:8080/mdr/index.m3u8
-#EXTINF:-1,NDR
-http://217.20.164.196:8080/ndr/index.m3u8
-#EXTINF:-1,SWR
-http://217.20.164.196:8080/swr/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="" tvg-id ="id19" group-title="Event", Mobile Stream 
+http://5be75159.stream4k.cc/hls/mobile.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="id19" group-title="Event", History HD 
+http://5be75159.stream4k.cc/hls/history.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="id19" group-title="Event", TNTserie HD 
+http://5be75159.stream4k.cc/hls/tntserie.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="ARD HD" group-title="Freetv", ARD HD 
+http://freetv.stream4k.net/hls/ard.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="ZDF HD" group-title="Freetv", ZDF HD 
+http://freetv.stream4k.net/hls/zdf.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="RTL HD" group-title="Freetv", RTL HD 
+http://freetv.stream4k.net/hls/rtl.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="SAT.1 HD" group-title="Freetv", SAT.1 HD 
+http://freetv.stream4k.net/hls/sat1.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="Prosieben HD" group-title="Freetv", Prosieben HD 
+http://freetv.stream4k.net/hls/pro7.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="RTL II HD" group-title="Freetv", RTL II HD 
+http://freetv.stream4k.net/hls/rtl2.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="VOX HD" group-title="Freetv", VOX HD 
+http://freetv.stream4k.net/hls/vox.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="Kabel1 HD" group-title="Freetv", Kabel1 HD 
+http://freetv.stream4k.net/hls/kabel1.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="3Sat HD" group-title="Freetv", 3Sat HD 
+http://freetv.stream4k.net/hls/3sat.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="Arte HD" group-title="Freetv", Arte HD 
+http://freetv.stream4k.net/hls/arte.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="Disney HD" group-title="Freetv", Disney HD 
+http://freetv.stream4k.net/hls/disney.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="Dmax HD" group-title="Freetv", Dmax HD 
+http://freetv.stream4k.net/hls/dmax.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="Kika HD" group-title="Freetv", Kika HD 
+http://freetv.stream4k.net/hls/kika.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="MDR HD" group-title="Freetv", MDR HD 
+http://freetv.stream4k.net/hls/mdr.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="NDR HD" group-title="Freetv", NDR HD 
+http://freetv.stream4k.net/hls/ndr.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="Nickelodeon HD" group-title="Freetv", Nickelodeon HD 
+http://freetv.stream4k.net/hls/nickelodeon.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="Ntv HD" group-title="Freetv", Ntv HD 
+http://freetv.stream4k.net/hls/ntv.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="ORF 1 HD" group-title="Freetv", ORF HD 
+http://freetv.stream4k.net/hls/orf1.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="Phoenix HD" group-title="Freetv", Phoenix HD 
+http://freetv.stream4k.net/hls/phoenix.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="Pro7maxx" group-title="Freetv", Pro7maxx HD 
+http://freetv.stream4k.net/hls/pro7maxx.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="RTL Nitro" group-title="Freetv", RTL Nitro HD 
+http://freetv.stream4k.net/hls/rtlnitro.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="Servus HD" group-title="Freetv", Servus TV HD 
+http://freetv.stream4k.net/hls/servus.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="Sixx HD" group-title="Freetv", Sixx HD 
+http://freetv.stream4k.net/hls/sixx.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="Sport1" group-title="Freetv", Sport1 
+http://freetv.stream4k.net/hls/sport1.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="SRF 1 HD" group-title="Freetv", SRF 1 HD 
+http://freetv.stream4k.net/hls/srf.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="SRF 2 HD" group-title="Freetv", SRF 2 HD 
+http://freetv.stream4k.net/hls/srf2.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="Superrtl" group-title="Freetv", Super RTL HD 
+http://freetv.stream4k.net/hls/superrtl.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="SWR HD" group-title="Freetv", SWR HD 
+http://freetv.stream4k.net/hls/swr.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="Viva" group-title="Freetv", Viva HD 
+http://freetv.stream4k.net/hls/viva.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="WDR HD" group-title="Freetv", WDR HD 
+http://freetv.stream4k.net/hls/wdr.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="ZDF Info" group-title="Freetv", ZDF Info HD 
+http://freetv.stream4k.net/hls/zdfinfo.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="ZDF Kutlur HD" group-title="Freetv", ZDF Kultur HD 
+http://freetv.stream4k.net/hls/zdfkultur.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="ZDF Neon HD" group-title="Freetv", ZDF Neo HD 
+http://freetv.stream4k.net/hls/zdfneon.m3u8
 #EXTINF:-1,[COLOR yellow]--- ARABIC IPTV ---[/COLOR]
 http://0.0.0.0:1234
 
@@ -322,34 +282,32 @@ http://0.0.0.0:1234
 http://fl1.viastreaming.net:1935/iqraatv/livestream/playlist.m3u8
 #EXTINF:-1,Iqraatv
 http://fl1.viastreaming.net:1935/iqraatv/livestream/BratuMarian.m3u8
-#EXTINF:-1,2M MONDE
-http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
+#EXTINF:-1,SHARJAH
+rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
+#EXTINF:-1,SHARJAH karbalah
+rtmp://livestreaming.itworkscdn.net/kablatvlive/kabtv_360p
+#EXTINF:-1,AL BAGHDADIA 2
+http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
+#EXTINF:-1,AL BAGHDADIA 3
+http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
+#EXTINF:-1,AL SHARGIYA
+http://46.165.208.230:1935/alsharqiyalive/mystream/gmswf.m3u8
+#EXTINF:-1,AL SHARGIYA
+rtmp://ns8.indexforce.com/alsharqiyalive/mystream
+#EXTINF:-1,AL SHARGIYA
+rtmp://alforatlive.nanocdn.com/live/alforat256
+#EXTINF:-1,Al Sharqiya News
+rtmp://ns8.indexforce.com/alsharqiyalive/mystream
 #EXTINF:-1,ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?
-#EXTINF:-1,ABOUDABI
-http://178.33.88.130:888/udp/239.102.0.197:1234
-#EXTINF:-1,ABOUDABI DRAMA
-http://178.33.88.130:888/udp/239.102.0.196:1234
-#EXTINF:-1,ABU DHABI SPORTS
-http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8
-#EXTINF:-1,AD 1 SPORTS
-http://178.33.88.130:888/udp/239.102.0.28:1234
 #EXTINF:-1,Addounia TV
 rtmp://sama-tv.net/live/samatv
-#EXTINF:-1,ADJYAL
-http://178.33.88.130:888/udp/239.102.0.218:1234
-#EXTINF:-1,AGHANINA
-http://178.33.88.130:888/udp/239.102.0.217:1234
 #EXTINF:-1,AGYAL
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8
 #EXTINF:-1,AL AGHANI
 http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
 #EXTINF:-1,AL ARABIA TV
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1,AL BAGHDADIA 2
-http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
-#EXTINF:-1,AL BAGHDADIA 3
-http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 #EXTINF:-1,AL FADY
 rtmp://stream.truth-voice.net/FadyLive//FadyLive
 #EXTINF:-1,Al Falstiniah TV
@@ -366,8 +324,6 @@ http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/playlist.m3u8
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1,AL IKHBARIA SYR
 http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8
-#EXTINF:-1,AL JAZEERA
-http://origin.live.web.tv.streamprovider.net/streams/0781744a5665d14230929df58f07b227_live_0_0/index.m3u8
 #EXTINF:-1,AL JAZEERA DOC
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 #EXTINF:-1,Aljazeera Doc
@@ -376,30 +332,14 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8
 #EXTINF:-1,ALJAZEERA KIDS
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
-#EXTINF:-1,AL KAWTHAR
-http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/playlist.m3u8?
 #EXTINF:-1,AL MAGHRIBYA
 http://almaghribya-tv.scdn.arkena.com/almaghribya.isml/almaghribya-audio101_fra=64000-video=350000.m3u8
-#EXTINF:-1,AL NABA
-http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_,264,528,828,.m3u8
 #EXTINF:-1,AL OLAULA
 http://alaoulainter-tv.scdn.arkena.com/alaoulainter.isml/alaoulainter-audio101=64000-video=350000.m3u8
 #EXTINF:-1,Al Oula TV
 rtmp://82.137.248.21/Aloula/AloulaLive2
-#EXTINF:-1,AL RAYAN
-http://78.100.40.195:1935/ryn/ryn/gmswf.m3u8
 #EXTINF:-1,AL RYAN
 rtmp://AgendaStreamerx1.qna.org.qa/ryn/ryn
-#EXTINF:-1,AL SHARGIYA
-http://46.165.208.230:1935/alsharqiyalive/mystream/gmswf.m3u8
-#EXTINF:-1,AL SHARGIYA
-rtmp://ns8.indexforce.com/alsharqiyalive/mystream
-#EXTINF:-1,AL SHARGIYA
-rtmp://alforatlive.nanocdn.com/live/alforat256
-#EXTINF:-1,Al Sharqiya News
-rtmp://ns8.indexforce.com/alsharqiyalive/mystream
-#EXTINF:-1,AL SUMARIA
-http://livestreaming2.itworkscdn.net/sumarialive/smil:sumariamob.smil/playlist.m3u8
 #EXTINF:-1,AL YAUM
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 #EXTINF:-1,Alikhbaria Syria
@@ -412,8 +352,6 @@ http://63.237.48.23/ios/ALMAS_TV/ALMAS_TV.m3u8
 http://63.237.48.3/ios/ALMAS_TV/ALMAS_TV.m3u8
 #EXTINF:-1,Al-Quds
 http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1,ALWAN
-http://178.33.88.130:888/udp/239.102.0.191:1234
 #EXTINF:-1,ANN NEWS
 rtmp://ns8.indexforce.com/ann/ann
 #EXTINF:-1,BBC Arabia
@@ -528,8 +466,6 @@ http://46.245.160.224/mekke/mekke/playlist.m3u8
 http://137.135.64.32:1935/kas/kas/HasBahCa.m3u8
 #EXTINF:-1,KATAR
 rtmp://AgendaStreamerx1.qna.org.qa/qtv/qtv
-#EXTINF:-1,KOKI (KIDS)
-http://178.33.88.130:888/udp/239.102.0.143:1234
 #EXTINF:-1,KUWAIT PLUS
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch6.sdp
 #EXTINF:-1,LIBYA 2
@@ -630,10 +566,6 @@ http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/playlist.m3u8
 rtmp://sama-tv.net/live//samatv
 #EXTINF:-1,SHADA TV
 rtmp://38.96.148.147/live/livestream
-#EXTINF:-1,SHARJAH
-rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
-#EXTINF:-1,SHARJAH karbalah
-rtmp://livestreaming.itworkscdn.net/kablatvlive/kabtv_360p
 #EXTINF:-1,SIGMA TV
 http://81.21.47.75/hls/live.m3u8
 #EXTINF:-1,SPEDA

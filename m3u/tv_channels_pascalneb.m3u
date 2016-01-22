@@ -205,73 +205,9 @@ http://5be75159.stream4k.cc/hls/mobile.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id ="id19" group-title="Event", History HD 
 http://5be75159.stream4k.cc/hls/history.m3u8 
 #EXTINF:-1 tvg-logo="" tvg-id ="id19" group-title="Event", TNTserie HD 
-http://5be75159.stream4k.cc/hls/tntserie.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="ARD HD" group-title="Freetv", ARD HD 
-http://freetv.stream4k.net/hls/ard.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="ZDF HD" group-title="Freetv", ZDF HD 
-http://freetv.stream4k.net/hls/zdf.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="RTL HD" group-title="Freetv", RTL HD 
-http://freetv.stream4k.net/hls/rtl.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="SAT.1 HD" group-title="Freetv", SAT.1 HD 
-http://freetv.stream4k.net/hls/sat1.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="Prosieben HD" group-title="Freetv", Prosieben HD 
-http://freetv.stream4k.net/hls/pro7.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="RTL II HD" group-title="Freetv", RTL II HD 
-http://freetv.stream4k.net/hls/rtl2.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="VOX HD" group-title="Freetv", VOX HD 
-http://freetv.stream4k.net/hls/vox.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="Kabel1 HD" group-title="Freetv", Kabel1 HD 
-http://freetv.stream4k.net/hls/kabel1.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="3Sat HD" group-title="Freetv", 3Sat HD 
-http://freetv.stream4k.net/hls/3sat.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="Arte HD" group-title="Freetv", Arte HD 
-http://freetv.stream4k.net/hls/arte.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="Disney HD" group-title="Freetv", Disney HD 
-http://freetv.stream4k.net/hls/disney.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="Dmax HD" group-title="Freetv", Dmax HD 
-http://freetv.stream4k.net/hls/dmax.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="Kika HD" group-title="Freetv", Kika HD 
-http://freetv.stream4k.net/hls/kika.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="MDR HD" group-title="Freetv", MDR HD 
-http://freetv.stream4k.net/hls/mdr.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="NDR HD" group-title="Freetv", NDR HD 
-http://freetv.stream4k.net/hls/ndr.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="Nickelodeon HD" group-title="Freetv", Nickelodeon HD 
-http://freetv.stream4k.net/hls/nickelodeon.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="Ntv HD" group-title="Freetv", Ntv HD 
-http://freetv.stream4k.net/hls/ntv.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="ORF 1 HD" group-title="Freetv", ORF HD 
-http://freetv.stream4k.net/hls/orf1.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="Phoenix HD" group-title="Freetv", Phoenix HD 
-http://freetv.stream4k.net/hls/phoenix.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="Pro7maxx" group-title="Freetv", Pro7maxx HD 
-http://freetv.stream4k.net/hls/pro7maxx.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="RTL Nitro" group-title="Freetv", RTL Nitro HD 
-http://freetv.stream4k.net/hls/rtlnitro.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="Servus HD" group-title="Freetv", Servus TV HD 
-http://freetv.stream4k.net/hls/servus.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="Sixx HD" group-title="Freetv", Sixx HD 
-http://freetv.stream4k.net/hls/sixx.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="Sport1" group-title="Freetv", Sport1 
-http://freetv.stream4k.net/hls/sport1.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="SRF 1 HD" group-title="Freetv", SRF 1 HD 
-http://freetv.stream4k.net/hls/srf.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="SRF 2 HD" group-title="Freetv", SRF 2 HD 
-http://freetv.stream4k.net/hls/srf2.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="Superrtl" group-title="Freetv", Super RTL HD 
-http://freetv.stream4k.net/hls/superrtl.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="SWR HD" group-title="Freetv", SWR HD 
-http://freetv.stream4k.net/hls/swr.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="Viva" group-title="Freetv", Viva HD 
-http://freetv.stream4k.net/hls/viva.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="WDR HD" group-title="Freetv", WDR HD 
-http://freetv.stream4k.net/hls/wdr.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="ZDF Info" group-title="Freetv", ZDF Info HD 
-http://freetv.stream4k.net/hls/zdfinfo.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="ZDF Kutlur HD" group-title="Freetv", ZDF Kultur HD 
-http://freetv.stream4k.net/hls/zdfkultur.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="ZDF Neon HD" group-title="Freetv", ZDF Neo HD 
-http://freetv.stream4k.net/hls/zdfneon.m3u8
+http://5be75159.stream4k.cc/hls/tntserie.m3u8
+
+
 #EXTINF:-1,[COLOR yellow]--- ARABIC IPTV ---[/COLOR]
 http://0.0.0.0:1234
 

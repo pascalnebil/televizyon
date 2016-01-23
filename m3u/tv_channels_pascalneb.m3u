@@ -176,6 +176,16 @@ http://5be75159.stream4k.cc/hls/sporthd1.m3u8
 http://5be75159.stream4k.cc/hls/sporthd2.m3u8 
 #EXTINF:-1 tvg-logo="" tvg-id ="Sky Bundesliga HD 1" group-title="Stammsender", Sky Bundesliga HD 1 
 http://5be75159.stream4k.cc/hls/bund1.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id ="Sky Bundesliga HD 2“ group-title="Stammsender", Sky Bundesliga HD 2 
+http://5be75159.stream4k.cc/hls/bund2.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id ="Sky Bundesliga HD 3“ group-title="Stammsender", Sky Bundesliga HD 3 
+http://5be75159.stream4k.cc/hls/bund3.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id ="Sky Bundesliga HD 4“ group-title="Stammsender", Sky Bundesliga HD 4 
+http://5be75159.stream4k.cc/hls/bund4.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id ="Sky Bundesliga HD 5“ group-title="Stammsender", Sky Bundesliga HD 5 
+http://5be75159.stream4k.cc/hls/bund5.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id ="Sky Bundesliga HD 6“ group-title="Stammsender", Sky Bundesliga HD 6 
+http://5be75159.stream4k.cc/hls/bund6.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id ="id19" group-title="Event", Sky Bundesliga HD 1 HQ 
 http://5be75159.stream4k.cc/hls/bund1hq.m3u8 
 #EXTINF:-1 tvg-logo="" tvg-id ="id7" group-title="Event", Eurosport 2 HD 

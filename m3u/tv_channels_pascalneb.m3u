@@ -1,14 +1,22 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red]23.01.2016:  SKY Deutschland pascalnebil@icloud.com Soru ve Onerileriniz icin . [/COLOR]
+#EXTINF:-1,[COLOR red]28.01.2016: Cocuk kanallari ve bir cok yeni kanal eklenmistir pascalnebil@icloud.com Soru ve Onerileriniz icin . [/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
+#EXTINF:-1,BJK TV
+http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/204.m3u8
 #EXTINF:-1,Filmax Premier HD
 http://5.39.101.194:1935/live/filmaxpremierhd_canlitvplay.com/playlist.m3u8
-#EXTINF:-1,Filmax Family HD
-http://5.39.101.194:1935/live/filmaxfamilyhd_canlitvplay.com/playlist.m3u8
-#EXTINF:-1,BLACK HD SINEMA
-http://5.39.101.194:1935/live/filmaxblackhd_canlitvplay.com/playlist.m3u8
+#EXTINF:-1,FilmaxBlack
+http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/189.m3u8
+#EXTINF:-1,FilmaxTurk
+http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/190.m3u8
+#EXTINF:-1,FilmaxFam.
+http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/191.m3u8
+#EXTINF:-1,FilmaxComedy
+http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/193.m3u8
+#EXTINF:-1,FilmaxDrama
+http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/194.m3u8
 #EXTINF:-1,SINEMA MUSİC
 http://51.255.7.123:1935/nettv/nettv/playlist.m3u8
 #EXTINF:0,TRT HD
@@ -36,7 +44,7 @@ http://mn-l.mncdn.com:1935/showturktv/showturktv1/playlist.m3u8
 #EXTINF:0,ATV HD
 http://188.72.131.226/atv.m3u8
 #EXTINF:-1,ATV HD 2
-rtmp://80.243.190.226/atv/atv3
+http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/4.m3u8
 #EXTINF:-1,ATV Avrupa
 http://hdtvler.net@trkvz-m.ercdn.net/trkvz-temp/atvavrupam.m3u8
 #EXTINF:-1,A HABER HD
@@ -46,7 +54,7 @@ http://www.iptvsaga.com/play/tv3/0063.m3u8
 #EXTINF:0,Star TV HD
 http://188.72.131.226/star.m3u8
 #EXTINF:-1,tv8 HD
-http://tuthd.tv/embed/tv8
+http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/7.m3u8
 #EXTINF: -1, İdman Tv
 http://188.72.131.226/idman.m3u8
 #EXTINF:0,CNN TuRK HD News
@@ -64,7 +72,7 @@ http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
 #EXTINF:0,FOX HD
 http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
 #EXTINF:0,FOX HD 2
-rtsp://foxtv-i.mncdn.com/r_foxtv/foxtv3?token=3cadcf5a3f590b1a3dc75f95641f46e5a73e71edf2b72344
+http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/6.m3u8
 #EXTINF:0,KANALTuRK HD News
 http://kanalturk-live.ercdn.com/kanalturk1.m3u8
 #EXTINF:0,HABERTuRKNews
@@ -126,14 +134,19 @@ http://livede.gostream.nl/medine/medine/playlist.m3u8
 mms://yayin.networkbil.com/cizgifilmtv
 #EXTINF:0,TRT cocuk Kid
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:0832 tvg-id="minikacocuk.tr" group-title="TR Çocuk Kanalları" tvg-logo="326824.png", [COLOR olivedrab]MINIKA ÇOCUK[/COLOR]
-http://trkvz-m.ercdn.net/trkvz-temp/minikagococukm.m3u8|X-Forwarded-For=37.34.18.55
-#EXTINF:0833 tvg-id="minikago.tr" group-title="TR Çocuk Kanalları" tvg-logo="452477.png", [COLOR olivedrab]MINIKA GO[/COLOR]
-http://trkvz-m.ercdn.net/trkvz-temp/minikagom.m3u8|X-Forwarded-For=37.34.18.55
-#EXTINF:-1 group-title="TURK_ULUSAL",4 Karamel
-http://trt-i.mncdn.com:1935/karamel/karamel/chunklist_w59601545.m3u8
+#EXTINF:-1,PLANET_COCUK
+http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/19.m3u8
+#EXTINF:-1,MiNiKA_COCUK
+http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/20.m3u8
+#EXTINF:-1,MiNiKA_GO
+http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/21.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/203.m3u8
 #EXTINF:-1,YUMURCAK TV
-http://www.kure.tv/liveembed?id=4.m3u8
+http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/177.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/29.m3u8#EXTINF:-1 group-title="TURK_ULUSAL",4 Karamel
+http://trt-i.mncdn.com:1935/karamel/karamel/chunklist_w59601545.m3u8
 #EXTINF:-1 group-title="Turki",AZ TV Azerbaycan
 http://origin2.live.web.tv.streamprovider.net/streams/7646c80bc1b8b8b007e7649c1f1a1204/index.m3u8
 #EXTINF:0,[COLOR blue]TRT EL ARABIA HD[/COLOR]

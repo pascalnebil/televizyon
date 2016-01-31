@@ -3,20 +3,8 @@
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1,BJK TV
-http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/204.m3u8
 #EXTINF:-1,Filmax Premier HD
 http://5.39.101.194:1935/live/filmaxpremierhd_canlitvplay.com/playlist.m3u8
-#EXTINF:-1,Filmax Black HD
-http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/189.m3u8
-#EXTINF:-1,Filmax Turk HD
-http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/190.m3u8
-#EXTINF:-1,Filmax Family HD
-http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/191.m3u8
-#EXTINF:-1,Filmax Comedy HD
-http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/193.m3u8
-#EXTINF:-1,Filmax Drama HD
-http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/194.m3u8
 #EXTINF:-1,SINEMA MUSİC HD
 http://51.255.7.123:1935/nettv/nettv/playlist.m3u8
 #EXTINF:0,TRT HD
@@ -133,18 +121,6 @@ http://livede.gostream.nl/medine/medine/playlist.m3u8
 mms://yayin.networkbil.com/cizgifilmtv
 #EXTINF:0,TRT cocuk Kid
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:-1,PLANET_COCUK
-http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/19.m3u8
-#EXTINF:-1,MiNiKA_COCUK
-http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/20.m3u8
-#EXTINF:-1,MiNiKA_GO
-http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/21.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/203.m3u8
-#EXTINF:-1,YUMURCAK TV
-http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/177.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/29.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",4 Karamel
 http://trt-i.mncdn.com:1935/karamel/karamel/chunklist_w59601545.m3u8
 #EXTINF:-1 group-title="Turki",AZ TV Azerbaycan

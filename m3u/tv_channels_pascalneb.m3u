@@ -1187,5 +1187,18 @@ rtmp://77.223.146.117/live/planetc
 http://188.138.9.246/S2/HLS_LIVE/disney/track_1_320/playlist.m3u8
 #EXTINF:-1,YUMURCAK TV
 http://188.138.9.246/S2/HLS_LIVE/disney/playlist.m3u8
-#EXTINF:-1,MC TV9
-http://live.netd.com.tr/S2/HLS_LIVE/disney/playlist.m3u8
+#EXTINF:-1,VIP1
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/6412.m3u8
+#EXTINF:-1,TR: SHOW TV
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5127.m3u8
+#EXTINF:-1,TR: SEMERKAND HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5147.m3u8
+#EXTINF:-1,TR: SAMANYOLU
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5132.m3u8
+#EXTINF:-1,TR: SALON 3
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5120.m3u8
+#EXTINF:-1,TR: SALON 2
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5119.m3u8
+#EXTINF:-1,TR: SALON 1
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5118.m3u8
+

@@ -1,1194 +1,218 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red]28.01.2016: Cocuk kanallari ve bir cok yeni kanal eklenmistir pascalnebil@icloud.com Soru ve Onerileriniz icin . [/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1,Filmax Premier HD
-http://5.39.101.194:1935/live/filmaxpremierhd_canlitvplay.com/playlist.m3u8
-#EXTINF:-1,Filmax Drama HD
-http://5.39.101.194:1935/live/dramahd_canlitvplay.com/playlist.m3u8
-#EXTINF:-1,Filmax Family HD
-http://178.33.75.95:1935/live/family_canlitvplay.com/playlist.m3u8
-#EXTINF:-1,Filmax Comedy HD
-http://178.33.75.95:1935/live/comedy_canlitvplay.com/playlist.m3u8
-#EXTINF:-1,Filmax Türk HD
-http://178.33.75.95:1935/live/turk_canlitvplay.com/playlist.m3u8
-#EXTINF:-1,SINEMA MUSİC HD
-http://51.255.7.123:1935/nettv/nettv/playlist.m3u8
-#EXTINF:0,TRT HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
-#EXTINF:0,TRT 1 HD
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:0834 tvg-id="trtspor.tr" group-title="TR Spor Kanalları" tvg-logo="371098.png", [COLOR orangered]TRT SPOR HD[/COLOR]
-http://hls.tv.iptv.ink/trtsportr@371098.m3u8|X-Forwarded-For=37.34.18.55
-#EXTINF:0,TRT HABER HD News
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-#EXTINF:0,[COLOR blue]TRT BELGESEL HD Documentary[/COLOR]
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
-#EXTINF:0,[COLOR blue]TRT Muzik HD[/COLOR]
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:0,KANAL D HD
-http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
-#EXTINF:-1,KANAL D HD 2
-http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
-#EXTINF:0,SHOW TV HD
-http://live-ciner.mncdn.net/showtv/showtv2/master.m3u8
-#EXTINF:0815 tvg-id="showtv.tr" group-title="TR Genel Kanallar" tvg-logo="442251.png", [COLOR olivedrab]SHOW TV HD2[/COLOR]
-http://www.iptvsaga.com/play/tv3/0045.m3u8
-#EXTINF:-1,SHOW TURK
-http://mn-l.mncdn.com:1935/showturktv/showturktv1/playlist.m3u8
-#EXTINF:0,ATV HD
-http://188.72.131.226/atv.m3u8
-#EXTINF:-1,ATV HD 2
-http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/4.m3u8
-#EXTINF:-1,ATV Avrupa
-http://hdtvler.net@trkvz-m.ercdn.net/trkvz-temp/atvavrupam.m3u8
-#EXTINF:-1,A HABER HD
-http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
-#EXTINF:0,Star TV
-http://www.iptvsaga.com/play/tv3/0063.m3u8
-#EXTINF:0,Star TV HD
-http://188.72.131.226/star.m3u8
-#EXTINF:-1,tv8 HD
-http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/7.m3u8
-#EXTINF: -1, İdman Tv
-http://188.72.131.226/idman.m3u8
-#EXTINF:0,CNN TuRK HD News
-http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:0,Ntv
-http://31.177.62.132:9024
-#EXTINF:0,NTV Spor
-http://31.177.62.132:9026
-#EXTINF: -1, NTV Spor 2
-http://188.72.131.226/ntvspor.m3u8
-#EXTINF:-1,A SPOR
-http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
-#EXTINF:0828 tvg-id="beyazittv.tr" group-title="TR Haber Kanalları" tvg-logo="536958.png", [COLOR olivedrab]Beyaz TV[/COLOR]
-http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
-#EXTINF:0,FOX HD
-http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
-#EXTINF:0,FOX HD 2
-http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/6.m3u8
-#EXTINF:0,KANALTuRK HD News
-http://kanalturk-live.ercdn.com/kanalturk1.m3u8
-#EXTINF:0,HABERTuRKNews
-http://live-ciner.mncdn.net/haberturk/haberturk2/master.m3u8
-#EXTINF:-1, [COLOR olivedrab]SINEMA HD[/COLOR]
-mms://yayin7.canliyayin.org/sinema
-#EXTINF:-1, [COLOR olivedrab]SINEMA Turk HD[/COLOR]
-mms://yayin7.canliyayin.org/sinematurk
-#EXTINF:-1, [COLOR olivedrab]Kanal M[/COLOR]
-mms://yayin.networkbil.com/kanalm
-#EXTINF:-1, [COLOR olivedrab]SINEMA 3 HD[/COLOR]
-mms://yayin7.canliyayin.org/sinema3
-#EXTINF:-1, [COLOR olivedrab]SINEMA 4 HD[/COLOR]
-mms://yayin7.canliyayin.org/sinema4
-#EXTINF:-1, [COLOR olivedrab]SINEMA 5 HD[/COLOR]
-mms://yayin7.canliyayin.org/sinema5
-#EXTINF:-1, [COLOR olivedrab]SINEMA 6 HD[/COLOR]
-mms://yayin7.canliyayin.org/sinema6
-#EXTINF:0,uLKE TV HD
-http://livetr.gostream.nl/ulketvhq/ulketvhq/master.m3u8
-#EXTINF:0,KANAL 7 HD
-http://livetr.gostream.nl/kanal7hq/kanal7hq/ratus42.m3u8
-#EXTINF:0,TV2 Movie-Entertainment
-http://212.224.80.84/S2/HLS_LIVE/tv2/track_4_1000/playlist.m3u8
-#EXTINF:0,Fil TV Movie
-http://tvlive.web.tv.streamprovider.net/akamairtmp/2daa5524735b98a7ab51ddd48663a474_live_0_0/chunklist.m3u8
-#EXTINF:0,POWER TV HD Music
-http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
-#EXTINF:-1,BURSASPOR TV
-http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
-#EXTINF:-1,SPORTS TV
-http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
-#EXTINF:0,MAVI KARADENIZ TV
-rtmp://stream.taksimbilisim.com/mavikaradeniz//bant1
-#EXTINF:0,NUMBER ONE TURK
-rtmp://mn-l.mncdn.com/birnumaramedya_live//nr1_turk.sdp
-#EXTINF:0,VATAN TV
-rtmp://188.124.1.135/vatan//vatan
-#EXTINF:-1,TV2
-http://212.224.80.79//S2/HLS_LIVE/tv2/track_4_1000/playlist.m3u8?
-#EXTINF:-1,CNNTURK
-http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1,HILAL TV
-http://yayin8.canliyayin.org:1935/hilaltv/hilaltv/ratus42.m3u8
-#EXTINF:-1,24 TV
-http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
-#EXTINF:-1,ULKE TV HD
-http://stream.gostream.nl/ulketvhq/ulketvhq.m3u8
-#EXTINF:-1 group-title="TURK_ULUSAL",[COLOR blue]BELGESEL TV[/COLOR]
-mms://yayin.networkbil.com/belgeseltv
-#EXTINF:-1 group-title="TURK_ULUSAL",[COLOR blue]DOCUMANTARY TR[/COLOR]
-http://188.165.239.200:7088/
-#EXTINF:-1 group-title="TURK_ULUSAL",KANAL KABE MEKKE
-http://livetr.gostream.nl/mekke/mekke/HasBahCa.m3u8
-#EXTINF:-1 group-title="TURK_ULUSAL",MEDINE TV
-http://livede.gostream.nl/medine/medine/playlist.m3u8
-#EXTINF:-1, [COLOR olivedrab]CIZGI FILM TV[/COLOR]
-mms://yayin.networkbil.com/cizgifilmtv
-#EXTINF:0,TRT cocuk Kid
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:-1 group-title="TURK_ULUSAL",4 Karamel
-http://trt-i.mncdn.com:1935/karamel/karamel/chunklist_w59601545.m3u8
-#EXTINF:-1 group-title="Turki",AZ TV Azerbaycan
-http://origin2.live.web.tv.streamprovider.net/streams/7646c80bc1b8b8b007e7649c1f1a1204/index.m3u8
-#EXTINF:0,[COLOR blue]TRT EL ARABIA HD[/COLOR]
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:0803 tvg-id="trtavaz.tr" group-title="TR Genel Kanallar" tvg-logo="800602.png", [COLOR orangered]TRT AVAZ HD[/COLOR]
-http://hls.tv.iptv.ink/trtavaztr@800602.m3u8|X-Forwarded-For=37.34.18.55
-#EXTINF:0804 tvg-id="trtkurdi.tr" group-title="TR Genel Kanallar" tvg-logo="707556.png", [COLOR orangered]TRT KURDÎ HD[/COLOR]
-http://hls.tv.iptv.ink/trtkurditr@707556.m3u8|X-Forwarded-For=37.34.18.55
-#EXTINF:0805 tvg-id="trtokul.tr" group-title="TR Genel Kanallar" tvg-logo="976101.png", [COLOR orangered]TRT OKUL HD[/COLOR]
-http://hls.tv.iptv.ink/trtokultr@976101.m3u8|X-Forwarded-For=37.34.18.55
-#EXTINF:-1,TRT WORLD HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1,TRT DIYANET
-http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
-#EXTINF:0808 tvg-id="trt3.tr" group-title="TR Genel Kanallar" tvg-logo="370171.png", [COLOR orange]TRT 3 - TBMM TV[/COLOR]
-http://hls.tv.iptv.ink/trt3tr@370171.m3u8|X-Forwarded-For=37.34.18.55
-#EXTINF:-1,[COLOR yellow]--- Samanyolu Grubu ---[/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1,SAMANYOLU TV
-http://www.iptvsaga.com/play/tv3/0039.m3u8
-#EXTINF:-1,SAMANYOLU AVRUPA
-http://vivisolivegrp01-lh.akamaihd.net/i/stveu_1@398191/index_270_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,SAMANYOLU HABER
-http://www.iptvsaga.com/play/tv3/0040.m3u8
-#EXTINF:-1,Bugün TV HD
-http://buguntv-live.ercdn.com/buguntv.m3u8
-#EXTINF:-1,IRMAK TV HD
-http://cds.z2q7i5m7.hwcdn.net/asset/7uDFqi51/chunklist_720.m3u8
 
-
-
-
-#EXTINF:-1,[I][B][COLOR green]--- DEUTSCH-KANALE - SKY ---[/COLOR][/B][/I]
-http://0.0.0.0:1234
-#EXTINF:-1 tvg-logo="" tvg-id ="Sky Sport News HD" group-title="Stammsender", Sky Sport News HD 
-http://5be75159.stream4k.cc/hls/ssnhd.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="Sky Sport HD 1" group-title="Stammsender", Sky Sport HD 1 
-http://5be75159.stream4k.cc/hls/sporthd1.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="Sky Sport HD 2" group-title="Stammsender", Sky Sport HD 2 
-http://5be75159.stream4k.cc/hls/sporthd2.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="Sky Bundesliga HD 1" group-title="Stammsender", Sky Bundesliga HD 1 
-http://5be75159.stream4k.cc/hls/bund1.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="Sky Bundesliga HD 2“ group-title="Stammsender", Sky Bundesliga HD 2 
-http://5be75159.stream4k.cc/hls/bund2.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id ="Sky Bundesliga HD 3“ group-title="Stammsender", Sky Bundesliga HD 3 
-http://5be75159.stream4k.cc/hls/bund3.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id ="Sky Bundesliga HD 4“ group-title="Stammsender", Sky Bundesliga HD 4 
-http://5be75159.stream4k.cc/hls/bund4.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id ="Sky Bundesliga HD 5“ group-title="Stammsender", Sky Bundesliga HD 5 
-http://5be75159.stream4k.cc/hls/bund5.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id ="Sky Bundesliga HD 6“ group-title="Stammsender", Sky Bundesliga HD 6 
-http://5be75159.stream4k.cc/hls/bund6.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id ="id19" group-title="Event", Sky Bundesliga HD 1 HQ 
-http://5be75159.stream4k.cc/hls/bund1hq.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="id7" group-title="Event", Eurosport 2 HD 
-http://5be75159.stream4k.cc/hls/eurosport2.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="id6" group-title="Event", Sport1+ HD 
-http://5be75159.stream4k.cc/hls/sport1+.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="cinema" group-title="Event", Sky Cinema 
-http://5be75159.stream4k.cc/hls/cinema.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="Discovery HD" group-title="Event", Discovery HD 
-http://5be75159.stream4k.cc/hls/discovery.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="id5" group-title="Event", Sport1 US HD 
-http://5be75159.stream4k.cc/hls/sportus.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="id19" group-title="Event", Eurosport HD 
-http://5be75159.stream4k.cc/hls/eurosport1.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="id19" group-title="Event", National Geo Wild HD 
-http://5be75159.stream4k.cc/hls/nationalwild.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="atlantic" group-title="Event", Sky Atlantic 
-http://5be75159.stream4k.cc/hls/atlantic.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="id19" group-title="Event", National Geo HD 
-http://5be75159.stream4k.cc/hls/national.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="foxhd" group-title="Event", FOX HD 
-http://5be75159.stream4k.cc/hls/foxhd.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="id19" group-title="Event", Sky Hits HD 
-http://5be75159.stream4k.cc/hls/007.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="id19" group-title="Event", Mobile Stream 
-http://5be75159.stream4k.cc/hls/mobile.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="id19" group-title="Event", History HD 
-http://5be75159.stream4k.cc/hls/history.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="id19" group-title="Event", TNTserie HD 
-http://5be75159.stream4k.cc/hls/tntserie.m3u8
-
-
-#EXTINF:-1,[COLOR yellow]--- ARABIC IPTV ---[/COLOR]
-http://0.0.0.0:1234
-
-##EXTINF:-1,[COLOR red]****************Arabic TV****************[/COLOR]
-
-#EXTM3U
-#EXTINF:-1,Iqraatv
-http://fl1.viastreaming.net:1935/iqraatv/livestream/playlist.m3u8
-#EXTINF:-1,Iqraatv
-http://fl1.viastreaming.net:1935/iqraatv/livestream/BratuMarian.m3u8
-#EXTINF:-1,SHARJAH
-rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
-#EXTINF:-1,SHARJAH karbalah
-rtmp://livestreaming.itworkscdn.net/kablatvlive/kabtv_360p
-#EXTINF:-1,AL BAGHDADIA 2
-http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
-#EXTINF:-1,AL BAGHDADIA 3
-http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
-#EXTINF:-1,AL SHARGIYA
-http://46.165.208.230:1935/alsharqiyalive/mystream/gmswf.m3u8
-#EXTINF:-1,AL SHARGIYA
-rtmp://ns8.indexforce.com/alsharqiyalive/mystream
-#EXTINF:-1,AL SHARGIYA
-rtmp://alforatlive.nanocdn.com/live/alforat256
-#EXTINF:-1,Al Sharqiya News
-rtmp://ns8.indexforce.com/alsharqiyalive/mystream
-#EXTINF:-1,ABC NEWS
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?
-#EXTINF:-1,Addounia TV
-rtmp://sama-tv.net/live/samatv
-#EXTINF:-1,AGYAL
-http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8
-#EXTINF:-1,AL AGHANI
-http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
-#EXTINF:-1,AL ARABIA TV
-http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1,AL FADY
-rtmp://stream.truth-voice.net/FadyLive//FadyLive
-#EXTINF:-1,Al Falstiniah TV
-rtmp://46.43.64.166/flv/flv
-#EXTINF:-1,AL FORAT
-http://alforatlive.nanocdn.com:1935/live/alforat256/HasBahCa.m3u8
-#EXTINF:-1,AL HADATH
-http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1,AL HAYAT
-http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
-#EXTINF:-1,AL HAYAT 2
-http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/playlist.m3u8
-#EXTINF:-1,AL HURRA
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1,AL IKHBARIA SYR
-http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8
-#EXTINF:-1,AL JAZEERA DOC
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1,Aljazeera Doc
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1,AlJazeera Children
-http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8
-#EXTINF:-1,ALJAZEERA KIDS
-http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
-#EXTINF:-1,AL MAGHRIBYA
-http://almaghribya-tv.scdn.arkena.com/almaghribya.isml/almaghribya-audio101_fra=64000-video=350000.m3u8
-#EXTINF:-1,AL OLAULA
-http://alaoulainter-tv.scdn.arkena.com/alaoulainter.isml/alaoulainter-audio101=64000-video=350000.m3u8
-#EXTINF:-1,Al Oula TV
-rtmp://82.137.248.21/Aloula/AloulaLive2
-#EXTINF:-1,AL RYAN
-rtmp://AgendaStreamerx1.qna.org.qa/ryn/ryn
-#EXTINF:-1,AL YAUM
-http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
-#EXTINF:-1,Alikhbaria Syria
-rtmp://82.137.248.16/Snews/SnewsLive1
-#EXTINF:-1,alkass
-rtmp://AgendaStreamerx1.qna.org.qa/kas//kas
-#EXTINF:-1,ALMAS TV
-http://63.237.48.23/ios/ALMAS_TV/ALMAS_TV.m3u8
-#EXTINF:-1,ALMAS TV2
-http://63.237.48.3/ios/ALMAS_TV/ALMAS_TV.m3u8
-#EXTINF:-1,Al-Quds
-http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1,ANN NEWS
-rtmp://ns8.indexforce.com/ann/ann
-#EXTINF:-1,BBC Arabia
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#EXTINF:-1,Dijlah TV
-rtmp://stream.joinvisions.net/dij//dij
-#EXTINF:-1,DUBAI DRAMA
-http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
-#EXTINF:-1,DUBAI ONE
-http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
-#EXTINF:-1,DUBAI ONE
-http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
-#EXTINF:-1,DUBAI SPORTS
-http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7254503/index.m3u8
-#EXTINF:-1,Dubai Sports
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
-#EXTINF:-1,DUBAI SPORTS
-http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
-#EXTINF:-1,DUBAI TV
-http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8
-#EXTINF:-1,DUBAI TV
-http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
-#EXTINF:-1,DW Arabia
-http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
-#EXTINF:-1,ECHORUK
-http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8
-#EXTINF:-1,EL MEHVAR
-http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8?v=1096642953
-#EXTINF:-1,EUROSPORT 1 ENG
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:-1,Face 2 Face
-http://63.237.48.23/ios/FACE2/FACE2.m3u8
-#EXTINF:-1,FAMILY TV2
-http://63.237.48.23/ios/AAA_FAMILY/AAA_FAMILY.m3u8
-#EXTINF:-1,Gem Mifa
-http://63.237.48.23/ios/GEM_MIFA/GEM_MIFA.m3u8
-#EXTINF:-1,Global TV
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
-#EXTINF:-1,Halab Today TV
-rtmp://streaming.tootvs.com/8010/8010
-#EXTINF:-1,HC TV
-http://162.212.176.83:8080/hctvgermany.m3u8
-#EXTINF:-1,I24 News Arabia
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
-#EXTINF:-1,ICC TV
-http://63.237.48.3/ios/ICC/ICC.m3u8
-#EXTINF:-1,I-News TV
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/512.m3u8
-#EXTINF:-1,IRAN A TV
-http://63.237.48.3/ios/IRAN_A_TV/IRAN_A_TV.m3u8
-#EXTINF:-1,IRAN ASRE_EMROZZ
-http://63.237.48.3/ios/ASRE_EMROZZ/ASRE_EMROZZ.m3u8
-#EXTINF:-1,IRAN ASTV
-http://63.237.48.3/ios/IRAN_AS_TV/IRAN_AS_TV.m3u8
-#EXTINF:-1,IRAN CHANNEL_ONE
-http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
-#EXTINF:-1,IRAN FMTV
-http://63.237.48.3/ios/IRAN_FMTV/IRAN_FMTV.m3u8
-#EXTINF:-1,IRAN GEM_KURD
-http://63.237.48.3/ios/GEM_KURD/GEM_KURD.m3u8
-#EXTINF:-1,IRAN GEM_TRAVEL
-http://63.237.48.3/ios/GEM_TRAVEL/GEM_TRAVEL.m3u8
-#EXTINF:-1,IRAN IRINN
-http://63.237.48.3/ios/IRINN/IRINN.m3u8
-#EXTINF:-1,IRAN IRINN
-http://63.237.48.3/ios/IRINN/IRINN.m3u8
-#EXTINF:-1,IRAN ITC TV
-http://63.237.48.3/ios/ITC/ITC.m3u8
-#EXTINF:-1,IRAN JAME_JAM
-http://63.237.48.3/ios/JAME_JAM_TV_NETWORK_1/JAME_JAM_TV_NETWORK_1.m3u8
-#EXTINF:-1,IRAN Mbc 2
-http://63.237.48.3/ios/MBC2/MBC2.m3u8
-#EXTINF:-1,IRAN MBC_ACTION m3u8
-http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
-#EXTINF:-1,IRAN MBC_BOLLYWOOD m3u8
-http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-#EXTINF:-1,IRAN MBC_MAX m3u8
-http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
-#EXTINF:-1,IRAN MNTV
-http://63.237.48.3/ios/IRAN_MNTV/IRAN_MNTV.m3u8
-#EXTINF:-1,IRAN ONYX HD
-http://63.237.48.3/ios/ONYX_HD/ONYX_HD.m3u8
-#EXTINF:-1,IRAN PLUS
-http://63.237.48.3/ios/IRAN_PLUS/IRAN_PLUS.m3u8
-#EXTINF:-1,IRAN PLUS
-http://63.237.48.3/ios/IRAN_PLUS/IRAN_PLUS.m3u8
-#EXTINF:-1,IRAN PNG
-http://63.237.48.3/ios/PNG/PNG.m3u8
-#EXTINF:-1,IRAN QURAN_TV m3u8
-http://63.237.48.3/ios/QURAN_TV/QURAN_TV.m3u8
-#EXTINF:-1,IRAN TAPESH
-http://63.237.48.3/ios/TAPESH/TAPESH.m3u8
-#EXTINF:-1,IRAN VARZESH_TV m3u8
-http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
-#EXTINF:-1,IRAN VELAYAT m3u8
-http://63.237.48.3/ios/VELAYAT_TV/VELAYAT_TV.m3u8
-#EXTINF:-1,IRAQ SPORT
-http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
-#EXTINF:-1,IRAQ TV
-http://212.7.205.5:1935/Iraqia/live/HasBahCa.m3u8
-#EXTINF:-1,IRIB
-http://63.237.48.3/ios/JAME_JAM_TV_NETWORK_1/JAME_JAM_TV_NETWORK_1.m3u8
-#EXTINF:-1,IRINN
-http://63.237.48.3/ios/IRINN/IRINN.m3u8
-#EXTINF:-1,JORDAN
-rtmp://64.251.14.168/jorlive/jrtv
-#EXTINF:-1,KABE TV
-rtmp://ib12.islambox.tv/live/scqur?key=A684B24820F55A44990C5EABE95CF88F7C1EFAA45C6BBF54D19568A9C9A449F3timeout=20
-#EXTINF:-1,KABE TV
-http://46.245.160.224/mekke/mekke/playlist.m3u8
-#EXTINF:-1,KAS
-http://137.135.64.32:1935/kas/kas/HasBahCa.m3u8
-#EXTINF:-1,KATAR
-rtmp://AgendaStreamerx1.qna.org.qa/qtv/qtv
-#EXTINF:-1,KUWAIT PLUS
-rtmp://91.140.238.7/rtmplive/rtpencoder/ch6.sdp
-#EXTINF:-1,LIBYA 2
-http://173.224.120.161:1935/live/myStream/gmswf.m3u8
-#EXTINF:-1,LIBYA TV
-http://ift.tt/1G9kX1S
-#EXTINF:-1,MAANNEWS
-http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8
-#EXTINF:-1,MARINA FM
-rtmp://38.96.175.16/live/MarinaFM2
-#EXTINF:-1,MAYADEEN
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/almayadeen/ls_satlink/b_828.m3u8
-#EXTINF:-1,MBC 2
-http://63.237.48.23/ios/MBC2/MBC2.m3u8
-#EXTINF:-1,MBC 4
-http://63.237.48.3/ios/MBC_4/MBC_4.m3u8
-#EXTINF:-1,MBC 4
-http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
-#EXTINF:-1,MBC ACTION
-http://63.237.48.3/ios/MBC_ACTION/MBC_ACTION.m3u8
-#EXTINF:-1,MBC HD
-http://87.248.160.8/edge/smil:mbc/playlist.m3u8
-#EXTINF:-1,MBC MAX2
-http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8
-#EXTINF:-1,MBC PROSPORT1
-http://intigral_live-lh.akamaihd.net/i/DPS3SPLITDXRAD150315_1@129126/index_512_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,MBC PROSPORT2
-http://intigral_live-lh.akamaihd.net/i/DPS3SPLFTHXTWN070315_1@129126/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,MBC_ACTION 2
-http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
-#EXTINF:-1,MED LIVE
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_528.m3u8
-#EXTINF:-1,MEDINE TV
-http://livetr.gostream.nl/medine/medine/hasbahca.m3u8
-#EXTINF:-1,Mekke
-http://46.245.160.224/mekke/mekke/HasBahCa.m3u8
-#EXTINF:-1,Merci TV
-http://63.237.48.23/ios/MERCI_TV/MERCI_TV.m3u8
-#EXTINF:-1,MERCI TV
-http://63.237.48.3/ios/MERCI_TV/MERCI_TV.m3u8
-#EXTINF:-1,MI TV
-http://63.237.48.3/ios/MI_TV/MI_TV.m3u8
-#EXTINF:-1,MNC Infotainment
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000038/512.m3u8
-#EXTINF:-1,MNC Music
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/512.m3u8
-#EXTINF:-1,MNC News
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000018/512.m3u8
-#EXTINF:-1,MNC Shop
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000037/512.m3u8
-#EXTINF:-1,NABAA TV
-rtmp://31.14.40.238:1935/live/Nabaa
-#EXTINF:-1,ND TV
-http://bglive-a.bitgravity.com/ndtv/prolo/live/native
-#EXTINF:-1,NOOR DUBAI
-http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w932561967_b1200000.m3u8
-#EXTINF:-1,NOUR EL SHAM
-rtmp://82.137.248.21/Nour/NourLive2
-#EXTINF:-1,NOW MUSIC
-http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1,ONYX HD
-http://63.237.48.3/ios/ONYX_HD/ONYX_HD.m3u8
-#EXTINF:-1,OTV
-http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
-#EXTINF:-1,PAKISTAN I FILM
-rtmp://mtv.fms-01.visionip.tv/live//mtv-ifilm-ifilm-live-16x9-SDq
-#EXTINF:-1,PAKISTAN ISLAM
-http://wowza04.sharp-stream.com/islamtv/islamtv/HasBahCa.m3u8
-#EXTINF:-1,PAKISTAN PEACE
-rtmp://peace.fms.visionip.tv/live/b2b-peace_asia-live-25f-4x3-sdh_1
-#EXTINF:-1,PAKISTAN PRESS
-rtmp://mtv.fms-01.visionip.tv/live/mtv-ptv-live-25f-16x9-SDh?ref=www.presstv.ir&USER=MTV+-+PTV+Stream
-#EXTINF:-1,PALESTINE
-rtmp://vstream2.hadara.ps:1935/pbc/mp4:pbc_1
-#EXTINF:-1,PALESTINE YAUM
-http://live.paltoday.tv:1935/paltv/live/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:-1,PBC Palestine
-rtmp://vstream2.hadara.ps/pbc/pbc_1
-#EXTINF:-1,PERSIAN MUSIC
-http://63.237.48.3/ios/PERSIAN_MUSIC/PERSIAN_MUSIC.m3u8
-#EXTINF:-1,PERSIAN MUSIC2
-http://63.237.48.23/ios/PERSIAN_MUSIC/PERSIAN_MUSIC.m3u8
-#EXTINF:-1,Pezhvak Show
-rtmp://media.mohabat.tv/live_transcoder/_definst_/mp4:mohabat.stream_240p
-#EXTINF:-1,QATAR TV
-http://78.100.40.195:1935/qtv/qtv/gmswf.m3u8
-#EXTINF:-1,QURAN MEKKE
-http://46.245.160.224/mekke/mekke/chunklist_w581447799.m3u8
-#EXTINF:-1,QURAN TV
-rtmp://208.75.224.165:1935/map-alquraan/map-alquraan.stream
-#EXTINF:-1,RCTI
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/1024.m3u8
-#EXTINF:-1,Royatv
-http://212.35.75.130/3330/playlist.m3u8?email=tac@umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81
-#EXTINF:-1,SAMA DUBAI
-http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/playlist.m3u8
-#EXTINF:-1,SAMA SYRIA
-rtmp://sama-tv.net/live//samatv
-#EXTINF:-1,SHADA TV
-rtmp://38.96.148.147/live/livestream
-#EXTINF:-1,SIGMA TV
-http://81.21.47.75/hls/live.m3u8
-#EXTINF:-1,SPEDA
-http://sepidehlive.nanocdn.com:1935/live/sepideh256/hasan.m3u8
-#EXTINF:-1,Sport TV
-rtmp://stream2.joinvisions.net/jorlive/s1
-#EXTINF:-1,sunnah-TV
-rtmp://myafricanmega.tulix.tv:1935/map-alsunnah/map-alsunnah.stream
-#EXTINF:-1,SYRIA
-http://82.137.248.16:1935/Sat/SatLive3/chunklist_w511398413.m3u8
-#EXTINF:-1,SYRIA
-http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
-#EXTINF:-1,SYRIA
-http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
-#EXTINF:-1,SYRIA ALOULA
-http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
-#EXTINF:-1,SYRIA DRAMA
-http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
-#EXTINF:-1,SYRIA NOUR
-rtmp://82.137.248.21/Nour?gmswf=1481251590/NourLive3
-#EXTINF:-1,SYRIA NOUR
-http://82.137.248.21:1935/Nour/NourLive2/playlist.m3u8
-#EXTINF:-1,SYRIA TV
-rtmp://82.137.248.16/Sat/SatLive3
-#EXTINF:-1,Syrian Drama
-rtmp://82.137.248.21/Drama/DramaLive2
-#EXTINF:-1,Syrian Educational TV
-rtmp://82.137.248.16/Snews/SnewsLive1
-#EXTINF:-1,SYRIAN NEWS
-rtmp://82.137.248.16/Snews/SnewsLive2
-#EXTINF:-1,TAGHIER
-http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
-#EXTINF:-1,TALAGIA
-rtmp://82.137.248.20/Talaqie?gmswf=3160874596/TalaqieLive3
-#EXTINF:-1,TALAGIE
-rtmp://82.137.248.20/Talaqie/TalaqieLive2
-#EXTINF:-1,Ten TV
-http://63.237.48.23/ios/TEN_TV/TEN_TV.m3u8
-#EXTINF:-1,TM TV
-http://63.237.48.23/ios/MI_TV/MI_TV.m3u8
-#EXTINF:-1,MBC ACTION
-http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
-#EXTINF:-1,MBC MAX
-http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
-#EXTINF:0,#EXTINF:-1,MBC 2
-http://63.237.48.23/ios/MBC2/MBC2.m3u8
-#EXTINF:0,#EXTINF:-1, MBC 4
-http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
-
-#EXTINF:-1,[COLOR yellow]Portugal TV [/COLOR]
-http://0.0.0.0:1234
-
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:6000
-
-
-#EXTINF:-1,PT: VeVo 3 HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12018.m3u8
-#EXTINF:-1,PT: VeVo 2 HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12019.m3u8
-#EXTINF:-1,PT: VeVo 1 HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12020.m3u8
-#EXTINF:-1,PT: Tvi ficcao
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12021.m3u8
-#EXTINF:-1,PT: TVI 24
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12022.m3u8
-#EXTINF:-1,PT: TVI
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12023.m3u8
-#EXTINF:-1,PT: TVCine 4 HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12024.m3u8
-#EXTINF:-1,PT: TVCine 3 HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12025.m3u8
-#EXTINF:-1,PT: TVCine 2 HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12026.m3u8
-#EXTINF:-1,PT: TVCine 1 HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12027.m3u8
-#EXTINF:-1,PT: TV Series SD/HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12028.m3u8
-#EXTINF:-1,PT: TV Record
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12029.m3u8
-#EXTINF:-1,PT: TV Globo Premium
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12030.m3u8
-#EXTINF:-1,PT: TV Globo
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12031.m3u8
-#EXTINF:-1,PT: TPA
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12032.m3u8
-#EXTINF:-1,PT: Toros TV
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12033.m3u8
-#EXTINF:-1,PT: Sy-Fy
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12034.m3u8
-#EXTINF:-1,PT: SportTV 5
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12035.m3u8
-#EXTINF:-1,PT: SportTV 4 HD/SD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12036.m3u8
-#EXTINF:-1,PT: SportTV 3
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12037.m3u8
-#EXTINF:-1,PT: SportTV 2 HD/SD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12038.m3u8
-#EXTINF:-1,PT: SportTV 1 HD/SD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12039.m3u8
-#EXTINF:-1,PT: Sporting TV HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12040.m3u8
-#EXTINF:-1,PT: SPORT TV AMERICA
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12041.m3u8
-#EXTINF:-1,PT: SIC Noticias
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12042.m3u8
-#EXTINF:-1,PT: SIC Kids
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12043.m3u8
-#EXTINF:-1,PT: SIC
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12044.m3u8
-#EXTINF:-1,PT: RTP Memoria
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12045.m3u8
-#EXTINF:-1,PT: RTP Madeira
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12046.m3u8
-#EXTINF:-1,PT: RTP África
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12047.m3u8
-#EXTINF:-1,PT: RTP Acores
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12048.m3u8
-#EXTINF:-1,PT: RTP 3
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12049.m3u8
-#EXTINF:-1,PT: RTP 2
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12050.m3u8
-#EXTINF:-1,PT: RTP 1 SD/HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12051.m3u8
-#EXTINF:-1,PT: Real Madrid TV HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12052.m3u8
-#EXTINF:-1,PT: Porto Canal
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12053.m3u8
-#EXTINF:-1,PT: Plus TVI
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12054.m3u8
-#EXTINF:-1,PT: PFC HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12055.m3u8
-#EXTINF:-1,PT: Panda Biggs
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12056.m3u8
-#EXTINF:-1,PT: Odisseia
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12057.m3u8
-#EXTINF:-1,PT: Niclelodeon
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12058.m3u8
-#EXTINF:-1,PT: Nat Geographic Channel
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12059.m3u8
-#EXTINF:-1,PT: Nat Geo Wild
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12060.m3u8
-#EXTINF:-1,PT: MOV HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12061.m3u8
-#EXTINF:-1,PT: Motors TV
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12062.m3u8
-#EXTINF:-1,PT: HollyWood SD/HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12063.m3u8
-#EXTINF:-1,PT: FX
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12064.m3u8
-#EXTINF:-1,PT: FOX Movies
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12065.m3u8
-#EXTINF:-1,PT: Fox Life HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12066.m3u8
-#EXTINF:-1,PT: Fox HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12067.m3u8
-#EXTINF:-1,PT: FOX Crime HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12068.m3u8
-#EXTINF:-1,PT: EuroSport 1 HD/SD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12069.m3u8
-#EXTINF:-1,PT: Economico TV
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12070.m3u8
-#EXTINF:-1,PT: E! Entertaunment
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12071.m3u8
-#EXTINF:-1,PT: Disney Junior
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12072.m3u8
-#EXTINF:-1,PT: Disney Channel
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12073.m3u8
-#EXTINF:-1,PT: Discovery HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12074.m3u8
-#EXTINF:-1,PT: CMTV
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12075.m3u8
-#EXTINF:-1,PT: CineMundo
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12076.m3u8
-#EXTINF:-1,PT: CBS Reality
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12077.m3u8
-#EXTINF:-1,PT: Cartoon NetWork
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12078.m3u8
-#EXTINF:-1,PT: Cancao Nova
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12079.m3u8
-#EXTINF:-1,PT: CANAL PANDA
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12080.m3u8
-#EXTINF:-1,PT: Canal Historia HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12081.m3u8
-#EXTINF:-1,PT: Caca & Pesca
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12082.m3u8
-#EXTINF:-1,PT: BTV 1 HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12083.m3u8
-#EXTINF:-1,PT: Benfica TV 2 HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12084.m3u8
-#EXTINF:-1,PT: Benfica TV 1 Full HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12085.m3u8
-#EXTINF:-1,PT: AXN WHITE HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12086.m3u8
-#EXTINF:-1,PT: AXN HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12087.m3u8
-#EXTINF:-1,PT: AXN Black HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12088.m3u8
-#EXTINF:-1,PT: AFRO MUSIC HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12089.m3u8
-#EXTINF:-1,PT: Abola TV
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12090.m3u8
-#EXTINF:-1,PT: A&E
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12091.m3u8
-#EXTINF:-1,PT: 24 Kitchen
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12092.m3u8#EXTINF:0,Benfica 1 HD [COLOR orange][B](com algumas paragens)[/B][/COLOR]
-http://91.204.214.106:23201/stolen/250l/xenixos.7z
-#EXTINF:0,Benfica 2 [COLOR orange][B](com algumas paragens)[/B][/COLOR]
-http://91.204.214.106:23201/stolen/233w/xenixos.7z
-#EXTINF:0,Sporting [COLOR orange][B](com algumas paragens)[/B][/COLOR]
-http://91.204.214.106:23201/stolen/242a/xenixos.7z
-#EXTINF:0,Sport 1 HD Portugal [COLOR orange][B](com algumas paragens)[/B][/COLOR]
-http://91.204.214.106:23201/stolen/246g/xenixos.7z
-#EXTINF:0,Sport 2 HD Portugal [COLOR orange][B](com algumas paragens)[/B][/COLOR]
-http://91.204.214.106:23201/stolen/247h/xenixos.7z
-#EXTINF:0,Sport 3 Portugal [COLOR orange][B](com algumas paragens)[/B][/COLOR]
-http://91.204.214.106:23201/stolen/240o/xenixos.7z
-#EXTINF:0,Sport 4 HD Portugal [COLOR orange][B](com algumas paragens)[/B][/COLOR]
-http://91.204.214.106:23201/stolen/248j/xenixos.7z
-#EXTINF:0,Sport 5 Portugal [COLOR orange][B](com algumas paragens)[/B][/COLOR]
-http://91.204.214.106:23201/stolen/251z/xenixos.7z
-
-#EXTINF:-1,[COLOR yellow]---★ International Sports Channels ★---[/COLOR]
-http://0.0.0.0:1234
-
-
-#EXTINF:-1,SPORT: MBC SPORT HD 3
-http://iptv80.ddns.net:9070/live/karimos/skype88/1113.m3u8
-#EXTINF:-1,SPORT: MBC SPORT HD 1
-http://iptv80.ddns.net:9070/live/karimos/skype88/1096.m3u8
-#EXTINF:-1,SPORT: MBC PROSPORT2
-http://iptv80.ddns.net:9070/live/karimos/skype88/1112.m3u8
-#EXTINF:-1,SPORT: MBC PROSPORT1
-http://iptv80.ddns.net:9070/live/karimos/skype88/1111.m3u8
-#EXTINF:-1,SPORT: Eurosport 1 ENG
-http://iptv80.ddns.net:9070/live/karimos/skype88/1161.m3u8
-#EXTINF:-1,SPORT: DUBAI SPORT
-http://iptv80.ddns.net:9070/live/karimos/skype88/1095.m3u8
-#EXTINF:-1,SPORT: BEIN USA HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/862.m3u8
-#EXTINF:-1,SPORT KLUB 3 HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/1043.m3u8
-#EXTINF:-1,SPORT KLUB 2 HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/1042.m3u8
-#EXTINF:-1,SPORT KLUB 1 HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/1041.m3u8
-#EXTINF:-1,Sky it Sport 1 HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/1080.m3u8
-#EXTINF:-1,beINSPORT10_HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/991.m3u8
-#EXTINF:-1,beINSPORT09_HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/990.m3u8
-#EXTINF:-1,beINSPORT08_HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/989.m3u8
-#EXTINF:-1,beINSPORT07_HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/988.m3u8
-#EXTINF:-1,beINSPORT06_HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/987.m3u8
-#EXTINF:-1,beINSPORT05_HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/986.m3u8
-#EXTINF:-1,beINSPORT04_HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/985.m3u8
-#EXTINF:-1,beINSPORT03_HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/984.m3u8
-#EXTINF:-1,beINSPORT02_HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/983.m3u8
-#EXTINF:-1,beINSPORT01_HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/982.m3u8
-#EXTINF:-1,BEIN SPORT FR 3 HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/1085.m3u8
-#EXTINF:-1,BEIN SPORT FR 2 HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/1084.m3u8
-#EXTINF:-1,BEIN  SPORT FR 1 HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/1083.m3u8
-
-
-
-
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-
-
-#EXTINF:-1,[COLOR yellow]---★ International Sports Channels ★---[/COLOR]
-http://0.0.0.0:1234
-
-
-#EXTINF:-1, Tele Sport
-http://185.75.56.97:4022/udp/239.23.21.4:11191
-#EXTINF:-1, Sport News HD
-http://185.75.56.97:4022/udp/239.0.27.32:60039
-#EXTINF:-1, Top Channel HD
-http://185.75.56.97:4022/udp/239.200.33.151:60965
-#EXTINF:-1, Sport Kosova 2
-http://185.75.56.97:4022/udp/231.1.1.6:1234?auth=yes?
-#EXTINF:-1, Super Sport 3 HD
-http://185.75.56.97:4022/udp/239.0.35.40:60047
-#EXTINF:-1, Super Sport 4
-http://185.75.56.97:4022/udp/224.2.2.4:1004
-#EXTINF:-1, O Sport 1 HD
-http://185.75.56.97:4022/udp/239.2.1.5:1238?auth=yes?
-#EXTINF:-1, O Sport 2 HD
-http://185.75.56.97:4022/udp/239.201.201.1:1234
-#EXTINF:-1, O Sport 3 HD
-http://185.75.56.97:4022/udp/239.201.201.2:1234
-#EXTINF:-1, O Sport 4 HD
-http://185.75.56.97:4022/udp/239.201.201.3:1234
-#EXTINF:-1, Viasat Sport Baltic
-http://88.223.26.13:4022/udp/239.255.19.46:26495
-#EXTINF:-1, Futbol 1 Russia
-http://193.106.211.2:1234/udp/225.1.3.103:4001?box_mac=32706s021977&box_client=lgzoom
-
-
-
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-
-
-#EXTINF:-1,SK 1
-http://77.76.140.252:22637/udp/230.2.2.1:1234
-#EXTINF:-1,SK 2
-http://77.76.140.252:22637/udp/230.2.2.2:1234
-#EXTINF:-1,SK 3
-http://77.76.140.252:22637/udp/230.2.2.3:1234
-#EXTINF:-1,SK 3 HD
-http://77.76.140.252:22637/udp/230.2.3.5:1234
-#EXTINF:-1,SK 1 HD
-http://77.76.140.252:22637/udp/230.2.3.6:1234
-#EXTINF:-1,Arena Sport 1
-http://77.76.140.252:22637/udp/231.2.3.26:1234
-#EXTINF:-1,Arena Sport 2
-http://77.76.140.252:22637/udp/231.2.3.27:1234
-#EXTINF:-1,Arena Sport 3
-http://77.76.140.252:22637/udp/231.2.3.28:1234
-#EXTINF:-1,Arena Sport 4
-http://77.76.140.252:22637/udp/231.2.3.29:1234
-
-
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-
-
-#EXTINF:-1,beIN Sports 1
-http://77.76.140.252:22637/udp/239.255.246.60:30000
-EXTINF:-1,beIN Sports 2
-http://77.76.140.252:22637/udp/239.255.246.56:30000
-#EXTINF:-1,beIN Sports 3
-http://77.76.140.252:22637/udp/239.255.246.57:30000
-#EXTINF:-1,beIN Sports 4
-http://77.76.140.252:22637/udp/239.255.246.58:30000
-#EXTINF:-1,beIN Sports 1 HD
-http://77.76.140.252:22637/udp/239.255.246.65:30000
-#EXTINF:-1,beIN Sports 2 HD
-http://77.76.140.252:22637/udp/239.255.246.66:30000
-#EXTINF:-1,beIN Sports 3 HD
-http://77.76.140.252:22637/udp/239.255.246.67:30000
-#EXTINF:-1,beIN Sports 4 HD
-http://77.76.140.252:22637/udp/239.255.246.68:30000
-
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-
-#EXTINF:-1, Sport O
-http://92.62.234.235/101/mystream.m3u8
-#EXTINF:-1, Eurosport 2
-http://92.62.234.205/104/mystream.m3u8
-
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-
-#EXTINF:-1, Arena Sport 1 HD
-http://46.40.5.99:8000/arena_1_720
-#EXTINF:-1, Arena Sport 2 HD
-http://46.40.5.99:8000/arena_2_720
-#EXTINF:-1, Arena Sport 3 HD
-http://46.40.5.99:8000/arena_3_720
-#EXTINF:-1, Arena Sport 4 HD
-http://46.40.5.99:8000/arena_4_720
-
-
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-
-
-#EXTINF:-1, Sport: K+1 HD Sport
-rtmp://216.185.103.158/live2//chSport1hd
-#EXTINF:-1, Sport: K+ PM HD Sport
-rtmp://216.185.103.158/live2//chSport2hd
-#EXTINF:-1, Sport:K+1 s1
-http://216.185.103.158:1935/live2/chSport1hd/playlist.m3u8
-#EXTINF:-1, Sport:K+1 s2
-http://199.189.110.20:1935/as99/chSport1hd/playlist.m3u8
-#EXTINF:-1, Sport: K+PM s1
-http://216.185.103.158:1935/live2/chSport2hd/playlist.m3u8
-#EXTINF:-1, Sport: K+PM s2
-http://199.189.110.20:1935/as99/chSport2hd/playlist.m3u8
-#EXTINF:-1,TRUE SPORT2 HD
-rtmp://216.185.103.158/live2//chthaipremier11
-#EXTINF:-1,TRUE SPORT3 HD
-rtmp://216.185.103.158/live2//chthaipremier31
-
-
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-
-
-#EXTINF:1, SKY SPORTS 1
-rtmp://80.82.70.155/live/mys1 pageUrl=http://www.yocast.tv/
-#EXTINF:1, SKY SPORTS 1
-rtmp://80.82.64.171/live/s1 pageUrl=http://www.cast4u.tv/
-#EXTINF:1, SKY SPORTS 2
-rtmp://80.82.70.155/live/mys2 pageUrl=http://www.yocast.tv/
-#EXTINF:1, SKY SPORTS 2
-rtmp://80.82.64.171/live/s2 pageUrl=http://www.cast4u.tv/
-#EXTINF:1, SKY SPORTS 3
-rtmp://80.82.70.155/live/mys3 pageUrl=http://www.yocast.tv/
-#EXTINF:1, SKY SPORTS 3
-rtmp://80.82.64.171/live/s3 pageUrl=http://www.cast4u.tv/
-#EXTINF:1, SKY SPORTS 4
-rtmp://80.82.70.155/live/mys4 pageUrl=http://www.yocast.tv/
-#EXTINF:1, SKY SPORTS 4
-rtmp://80.82.64.171/live/s4 pageUrl=http://www.cast4u.tv/
-#EXTINF:1, SKY SPORTS 5/NEWS
-rtmp://80.82.70.155/live/mys5 pageUrl=http://www.yocast.tv/
-#EXTINF:1, SKY SPORTS 5/NEWS
-rtmp://80.82.64.171/live/s5 pageUrl=http://www.cast4u.tv/
-#EXTINF:1, SKY SPORTS F1
-rtmp://80.82.64.46/live/sf1 pageUrl=http://www.cast4u.tv/
-#EXTINF:1, BT SPORT 1
-rtmp://80.82.70.155/live/myb1 pageUrl=http://www.yocast.tv/
-#EXTINF:1, BT SPORT 1
-rtmp://80.82.64.171/live/b1 pageUrl=http://www.cast4u.tv/
-#EXTINF:1, BT SPORT 2
-rtmp://80.82.70.155/live/myb2 pageUrl=http://www.yocast.tv/
-#EXTINF:1, BT SPORT 2
-rtmp://80.82.64.171/live/b2 pageUrl=http://www.cast4u.tv/
-#EXTINF:1, BT/ESPN SPORT
-rtmp://80.82.70.155/live/luxsuperbtsespn pageUrl=http://www.yocast.tv/
-#EXTINF:1, BT SPORT EUROPE
-rtmp://80.82.70.155/live/mybeu pageUrl=http://www.yocast.tv/
-
-
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-
-
-#EXTINF:-1, Basketball Russia
-http://s2.edem.tv/iptv/CRNMZP2B9W3983/529/index.m3u8
-
-#EXTINF:-1, Nova Sport 1
-http://213.81.153.241/live001/channel028_p3.stream/chunklist_w1268025928_DVR.m3u8
-
-#EXTINF:-1, Red Bull TV HD
-http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
-
-#EXTINF:0, Digi Sport 1
-http://82.76.249.81/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0, Digi Sport 2
-http://82.76.249.81/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0, Digi Sport 3
-http://82.76.249.81/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0, Digi Sport 4
-http://82.76.249.81/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0, Eurosport 
-http://82.76.249.81/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:0, Eurosport 2
-http://82.76.249.81/digiedge2/eurosport2ehq/index.m3u8?is=32&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:-1, TyC Sports HD
-http://live.vodgc.com:1935/kLive/smil:0_a5h483eu_all.smil/playlist.m3u8
-
-#EXTINF:-1, Fox Sports HD Latino
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:-1, Fox Sports 2 HD Latino
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:-1, ESPN Espanol Latino
-http://200.76.77.237/LIVE/H01/CANAL558/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, ESPN 3 HD Latino
-http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:-1, ESPN + Latino
-http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, ESPN + Espanol Latino
-http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?supertvlat=/.ts
-#EXTINF:-1, Azteca 7 Latino
-http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-
-#EXTINF:-1, Licey tv Sports Latino
-http://ss6.domint.net:1936/ly_edge/licey/chunklist_w1254078113.m3u8
-
-#EXTINF:-1, CDN Sports Max (DO)
-http://108.168.206.90:1935/cdnsm/cdnsm/chunklist_w32181520.m3u8
-
-#EXTINF:-1, beIN SPORTS 1 EN
-http://180.250.29.22:80/jhos/beib1_4/playlist.m3u8
-#EXTINF:-1, beIN SPORTS 2 EN
-http://180.250.29.22:80/jhos/beib2_4/playlist.m3u8
-#EXTINF:-1, beIN SPORTS 3 EN
-http://180.250.29.22:80/jhos/beib3_4/playlist.m3u8
-
-#EXTINF:-1, Sky Sports HD1
-http://144.76.3.83/sky_sports1gb.m3u8?token=fd08446a425d2c492505cc973e0ba074&user=41166&bands=956
-#EXTINF:-1, Sky Sports HD2
-http://144.76.3.83/sky_sports2gb.m3u8?token=27549478605c2e9d28debee3fb65bb39&user=41166&bands=956
-#EXTINF:-1, Sky Sports HD3
-http://144.76.3.83/sky_sports3gb.m3u8?token=f663571502c473b739fa94db15303a11&user=41166&bands=956
-#EXTINF:-1, Sky Sports hd4
-http://144.76.3.83/sky_sports4gb.m3u8?token=579da107ce043898bd207427f873a672&user=41166&bands=956
-#EXTINF:-1, Sky Sports HD 5
-http://144.76.3.83/sky_sports5gb.m3u8?token=579da107ce043898bd207427f873a672&user=41166&bands=956
-
-#EXTINF:-1, SPORT 1 UKR
-http://193.176.251.228:8000/Sport1 
-
-#EXTINF:-1, SPORT 2 UKR
-http://91.244.24.86:9999/udp/239.255.250.39:1234 
-
-#EXTINF:0, WIN SPORTS Latino
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
-
-#EXTINF:-1, BT Sport/ESPN
-http://tinyurl.com/zv6m5pq
-#EXTINF:-1, Extreme Sports Russia
-http://bit.ly/1NDRpyE
-#EXTINF:-1, Sport Klub Polska
-http://bit.ly/1IeTWgk
-#EXTINF:-1, TVP Sport HD PL
-http://tinyurl.com/zq7ye4v
-#EXTINF:-1, Nova Sport 1
-http://bit.ly/1jo7o5O
-#EXTINF:-1, SKY Bundesliga HD1 GER
-http://bit.ly/1XmOcIc
-#EXTINF:-1, SKY Sport HD1 GER
-http://bit.ly/1PTjMJa
-#EXTINF:-1, Sport 1 GER
-http://tinyurl.com/q9bthub
-#EXTINF:-1, SKY Sport HD AUSTRIA
-http://bit.ly/1kYFDlR
-#EXTINF:-1, Formula 1 Sleilan
-http://bit.ly/1Ti7etz
-#EXTINF:0, Orf Sport+
-http://bit.ly/1SnY2Ty
-#EXTINF:-1, Ziggo Sport Voetbal
-http://tinyurl.com/z86r3qd
-#EXTINF:-1, Ziggo Sport Select
-http://bit.ly/1l2u5OD
-#EXTINF:-1, Sport1 US HD (buffer)
-http://bit.ly/1MQE7ex
-#EXTINF:-1, TV2 Sport
-http://tinyurl.com/zjsvv6x
-#EXTINF:0, Arena Sport 1
-http://tinyurl.com/nmkmcq8
-#EXTINF:0, Arena Sport 2
-http://tinyurl.com/nmskwnh
-#EXTINF:0, Arena Sport 3
-http://tinyurl.com/q4hy9ko
-#EXTINF:0, Arena Sport 4
-http://tinyurl.com/on4bmsl
-#EXTINF:0, Arena Sport 5
-http://tinyurl.com/o9p4pth
-#EXTINF:-1, Eurosport News Russia
-http://tinyurl.com/oyuvpxm
-#EXTINF:-1, Idman 
-http://tinyurl.com/na4slzt
-#EXTINF:-1, TV3 Sport 1 HD Denmark
-http://tinyurl.com/nlmegne
-#EXTINF:-1, TV3 Sport 2 HD Denmark
-http://bit.ly/1PhZERa
-#EXTINF:-1, Fight Box HD Russia
-http://bit.ly/1YysUEI
-#EXTINF:-1, Turkmenistan Sport
-http://bit.ly/1lq9C5Y
-#EXTINF:-1, Viasat Sport HD
-http://bit.ly/1NDTmLz
-#EXTINF:-1, Viasat Sport
-http://bit.ly/1YDGcjo
-#EXTINF:-1, Viasat Hockey
-http://tinyurl.com/he86lt6
-#EXTINF:-1, M4 Sport
-http://bit.ly/1NDzfLx
-
-#EXTINF:-1, CBC SPORT HD
-http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
-#EXTINF:-1, CBC SPORT SD
-http://s69362.cdn.ngenix.net/live/_definst_/Stream2/chunklist.m3u8
-#EXTINF:-1, CBC SPORT LQ
-http://s69362.cdn.ngenix.net/live/_definst_/Stream3/chunklist.m3u8
-
-#EXTINF:-1, Futbol 1 UA
-http://91.196.148.6/football
-
-#EXTINF:0, Versus HD (US)
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-
-#EXTINF:-1, Football Report
-http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/9095.png", NFL Now HD
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_h.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/9095.png", NFL Now SD
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_d.m3u8
-
-#EXTINF:-1, 11 SPORT POL
-rtmp://144.76.154.14/live/elevensport
-#EXTINF:-1, N SPORT POL
-rtmp://85.10.208.218/live/n2sport
-
-#EXTINF:0, Canal del Deporte Olimpico - CDO
-http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
-
-#EXTINF:-1 tvg-logo="UFC china.png" group-title=“DESPORTO”, UFC (CHI)
-rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos 
-
-#EXTINF:-1, FIGHT Sport
-http://118.97.183.222:1935/discover/fight/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="bongda_tv.png" group-title=“DESPORTO”, BONGDA TV (VIE)
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:bongdatvsd_hls.smil/chunklist_b1200000.m3u8
-
-#EXTINF:-1 tvg-logo="thethao.png" group-title=“DESPORTO”, THETHAO TV (VIE)
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:thethaotvsd_hls.smil/chunklist_b1200000.m3u8
-
-#EXTINF:-1, Dolce Sport 1
-http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
-#EXTINF:-1, Dolce Sport 2
-http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
-#EXTINF:-1, Dolce Sport 3
-http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport3/playlist.m3u8
-
-#EXTINF:-1, Dubai Racing
-http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:-1, Dubai Sports
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/9997.jpg", Poker Central
-http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
-
-#EXTINF:-1 tvg-logo=\"fox-sports-hd.png\", Fox Sports Latinoamerica
-http://iptvcanales.com/xw/cable.php?canal=32&player=playlist.m3u8
-
-#EXTINF:-1 tvg-logo=\"espn.png\", ESPN Latinoamerica
-http://iptvcanales.com/xw/cable.php?canal=33&player=playlist.m3u8
-
-#EXTINF:-1 tvg-logo=\"espn-2.png\", ESPN 2 Latinoamerica
-http://iptvcanales.com/xw/cable.php?canal=34&player=playlist.m3u8
-
-#EXTINF:-1 tvg-logo=\"espn-3-hd.png\", ESPN 3 Latinoamerica
-http://iptvcanales.com/xw/cable.php?canal=35&player=playlist.m3u8
-
-#EXTINF:-1 tvg-logo=\"BeinSports.png\", Bein Sports Latino
-http://iptvcanales.com/xw/cable.php?canal=56&player=playlist.m3u8
-
-#EXTINF:-1 tvg-logo=\"BeinSports.png\", Bein Sports USA
-http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
-
-#EXTINF:-1 tvg-logo=\"NFL Network.png\", NFL Network
-http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
-
-#EXTINF:0, Eurosport 1 ENG
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-
-#EXTINF:0, Eurosport CZ
-http://st02.brn03.iptv.czechbone.net:8083/rel/pc/901/202/0.k.m3u8
-
-#EXTINF:0, Eurosport 2 CZ
-http://st02.brn03.iptv.czechbone.net:8083/rel/pc/901/83/0.k.m3u8
-
-#EXTINF:0, Eurosport News RU
-http://178.165.0.14:4022/udp/239.0.0.219:1234
-
-#EXTINF:-1, Lig TV TUR
-http://92.222.205.40:8080/superlig
-
-#EXTINF:-1, Viasat Sport Baltic
-http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:VSB.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="bigpond-sport.png" group-title=“SPORT”, BIGPOND SPORTS (AUS)  
-mms://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpsport_high
-
-
-#EXTINF:-1, TVA Sport Canada
-rtmp://77.223.146.117/live/planetc
-#EXTINF:-1,testo 8
-http://188.138.9.246/S2/HLS_LIVE/disney/track_1_320/playlist.m3u8
-#EXTINF:-1,YUMURCAK TV
-http://188.138.9.246/S2/HLS_LIVE/disney/playlist.m3u8
-#EXTINF:-1,VIP1
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/6412.m3u8
+#EXTINF:-1,DE: Sky Select 9 HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/7625.m3u8
+#EXTINF:-1,DE: Sky Select 8 HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/7626.m3u8
+#EXTINF:-1,DE: Sky Select 7 HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/7627.m3u8
+#EXTINF:-1,DE: Sky Select 6 HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/7628.m3u8
+#EXTINF:-1,DE: Sky select 5 HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/7629.m3u8
+#EXTINF:-1,DE: Sky select 4 HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/7630.m3u8
+#EXTINF:-1,DE: Sky select 3 HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/7631.m3u8
+#EXTINF:-1,DE: Sky select 2 HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/7632.m3u8
+#EXTINF:-1,DE: Sky select 1 HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/7633.m3u8
+#EXTINF:-1,DE: Sport DigiTal HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3841.m3u8
+#EXTINF:-1,DE: RTL II
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3826.m3u8
+#EXTINF:-1,DE: RTL I
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3825.m3u8
+#EXTINF:-1,DE: BR
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3828.m3u8
+#EXTINF:-1,DE: Arte
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3827.m3u8
+#EXTINF:-1,DE: Spiegel Geschichte HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3621.m3u8
+#EXTINF:-1,DE: Disney Channel
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3622.m3u8
+#EXTINF:-1,DE: ZDF Info HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3438.m3u8
+#EXTINF:-1,DE: ZDF NEO HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3453.m3u8
+#EXTINF:-1,DE: Wdr HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3442.m3u8
+#EXTINF:-1,DE: SWR HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3439.m3u8
+#EXTINF:-1,DE: Super RTL
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3456.m3u8
+#EXTINF:-1,DE: EuroSport
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3435.m3u8
+#EXTINF:-1,DE: Sky TNT Serie HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3421.m3u8
+#EXTINF:-1,DE: Sky TNT Film HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3422.m3u8
+#EXTINF:-1,DE: National Geographic HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3419.m3u8
+#EXTINF:-1,DE: Sky NatGeo Wild HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3433.m3u8
+#EXTINF:-1,DE: Sky MGM HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3423.m3u8
+#EXTINF:-1,DE: Sky Krimi
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3429.m3u8
+#EXTINF:-1,DE: Sky Hits
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3203.m3u8
+#EXTINF:-1,DE: Sky History Channel
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3424.m3u8
+#EXTINF:-1,DE: Sky Fox HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3425.m3u8
+#EXTINF:-1,DE: Sky Discovery Channel HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3426.m3u8
+#EXTINF:-1,DE: Sky Comedy
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3430.m3u8
+#EXTINF:-1,DE: Sky Cinema HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3420.m3u8
+#EXTINF:-1,DE: Sky DMAX
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3431.m3u8
+#EXTINF:-1,DE: Sky Cinema Plus 1 HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3434.m3u8
+#EXTINF:-1,DE: Sky BundesLiga 1 HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3436.m3u8
+#EXTINF:-1,DE: Sky Action HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3432.m3u8
+#EXTINF:-1,DE: Sky 13 Street HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3428.m3u8
+#EXTINF:-1,DE: RTL Crime
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3202.m3u8
+#EXTINF:-1,DE: ProSieben
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3455.m3u8
+#EXTINF:-1,DE: 4 Plus HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3437.m3u8
+#EXTINF:-1,DE: Blizz HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3447.m3u8
+#EXTINF:-1,DE: SRF1
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3446.m3u8
+#EXTINF:-1,DE: Ndr HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3443.m3u8
+#EXTINF:-1,DE: SYFY
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3204.m3u8
+#EXTINF:-1,DE: N24 HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3448.m3u8
+#EXTINF:-1,DE: N-TV
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3449.m3u8
+#EXTINF:-1,DE: SRF2
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3440.m3u8
+#EXTINF:-1,DE: Sky Sport 1 US HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3450.m3u8
+#EXTINF:-1,DE: Phoenix
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3454.m3u8
+#EXTINF:-1,DE: PRO7 MAXX
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3444.m3u8
+#EXTINF:-1,DE: ANIXE HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3445.m3u8
+#EXTINF:-1,DE: ARD HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3451.m3u8
+#EXTINF:-1,DE: FOX HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3452.m3u8
+#EXTINF:-1,DE: ZDF
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1629.m3u8
+#EXTINF:-1,DE: VOX
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1630.m3u8
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1480.m3u8
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1479.m3u8
+#EXTINF:-1,DE: Sky Emotion
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1631.m3u8
+#EXTINF:-1,DE: Sky Cinema Plus 24
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1633.m3u8
+#EXTINF:-1,DE: Sky Cinema
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1634.m3u8
+#EXTINF:-1,DE: Sky Atlantic
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1635.m3u8
+#EXTINF:-1,DE: Sat 1
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1637.m3u8
+#EXTINF:-1,DE: RTL Nitro
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1639.m3u8
+#EXTINF:-1,DE: Pro 7
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1642.m3u8
+#EXTINF:-1,DE: ORF Eins
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1643.m3u8
+#EXTINF:-1,DE: ORF 2
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1644.m3u8
+#EXTINF:-1,DE: Atlantic HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1645.m3u8
+#EXTINF:-1,DE: Nat Geo Wild
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1646.m3u8
+#EXTINF:-1,DE: Kika
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1648.m3u8
+#EXTINF:-1,DE: Kabel 1
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1649.m3u8
+#EXTINF:-1,DE: Servus TV HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1650.m3u8
+#EXTINF:-1,DE: Discovery
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1651.m3u8
+
+#EXTINF:-1,TR: TRT Bugun TV
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5990.m3u8
+#EXTINF:-1,TR: Tivibu Spor 2 HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5988.m3u8
+#EXTINF:-1,TR: Tivibu Spor 1 HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5987.m3u8
+#EXTINF:-1,TR: Fashion
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5981.m3u8
+#EXTINF:-1,TR: Loca 3
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5984.m3u8
+#EXTINF:-1,TR: Loca 2
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5983.m3u8
+#EXTINF:-1,TR: Loca 1
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5982.m3u8
+#EXTINF:-1,TR: Smart Sport 2
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5210.m3u8
+#EXTINF:-1,TR: Smart Sport 1
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5209.m3u8
+#EXTINF:-1,TR: Planet Mutfak
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5170.m3u8
+#EXTINF:-1,TR: National Geographic Wild
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5166.m3u8
+#EXTINF:-1,TR: National Geographic Channel
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5165.m3u8
+#EXTINF:-1,TR: Nat Geo People
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5167.m3u8
+#EXTINF:-1,TR: Disney Channel HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5172.m3u8
+#EXTINF:-1,TR: TRT Muzik
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5171.m3u8
+#EXTINF:-1,TR: Discovery Science
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5163.m3u8
+#EXTINF:-1,TR: Discovery Channel
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5164.m3u8
+#EXTINF:-1,TR: KRAL
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5112.m3u8
+#EXTINF:-1,TR: ULKE TV HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5144.m3u8
+#EXTINF:-1,TR: TV 8
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5129.m3u8
+#EXTINF:-1,TR: TRT 1 HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5121.m3u8
+#EXTINF:-1,TR: TRT TÜRK
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5161.m3u8
+#EXTINF:-1,TR: TRT SPOR SD/HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5122.m3u8
+#EXTINF:-1,TR: TRT DIYANET
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5156.m3u8
+#EXTINF:-1,TR: TRT BELGESEL
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5145.m3u8
+#EXTINF:-1,TR: TRT ÇOCUK
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5123.m3u8
+#EXTINF:-1,TR: Vizyon tv1
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5154.m3u8
+#EXTINF:-1,TR: Vuzion tv2
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5152.m3u8
+#EXTINF:-1,TR: TV2
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5146.m3u8
+#EXTINF:-1,TR: STAR TV
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5126.m3u8
+#EXTINF:-1,TR: Beyaz TV
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5137.m3u8
+#EXTINF:-1,TR: TURKMAX
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5116.m3u8
 #EXTINF:-1,TR: SHOW TV
 http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5127.m3u8
 #EXTINF:-1,TR: SEMERKAND HD
@@ -1201,4 +225,56 @@ http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5120.m3u
 http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5119.m3u8
 #EXTINF:-1,TR: SALON 1
 http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5118.m3u8
+#EXTINF:-1,TR: NTVSPOR
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5135.m3u8
+#EXTINF:-1,TR: NTV
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5134.m3u8
+#EXTINF:-1,TR: MİNİKA GO
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5139.m3u8
+#EXTINF:-1,TR: MOViESMART_PREMIUM
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5117.m3u8
+#EXTINF:-1,TR: KRAL POP
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5113.m3u8
+#EXTINF:-1,TR: SKYTURK 360
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5114.m3u8
+#EXTINF:-1,TR: MOViEMAX FESTİFAL HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5115.m3u8
+#EXTINF:-1,TR: Planet Cocuk
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5140.m3u8
+#EXTINF:-1,TR: KANALTURK
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5143.m3u8
+#EXTINF:-1,TR: KANAL D HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5124.m3u8
+#EXTINF:-1,TR: KANAL A
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5148.m3u8
+#EXTINF:-1,TR: KANAL 7 SD/HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5131.m3u8
+#EXTINF:-1,TR: History Channel
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5162.m3u8
+#EXTINF:-1,TR: FOX
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5128.m3u8
+#EXTINF:-1,TR: E2
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5136.m3u8
+#EXTINF:-1,TR: Disney Junior
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5141.m3u8
+#EXTINF:-1,TR: DREAM TURK
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5142.m3u8
+#EXTINF:-1,TR: CNNTURK
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5149.m3u8
+#EXTINF:-1,TR: CINE 5
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5130.m3u8
+#EXTINF:-1,TR: CARTONNETWORK
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5138.m3u8
+#EXTINF:-1,TR: ATV HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5125.m3u8
+#EXTINF:-1,TR: A HABER
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5150.m3u8
+#EXTINF:-1,TR: A SPOR
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5133.m3u8
 
+#EXTINF:-1,VIP: LIG TV HD 1 TR
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/6412.m3u8
+#EXTINF:-1,VIP: LIG TV HD 2 TR
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/6413.m3u8
+#EXTINF:-1,VIP: LIG TV HD 3 TR
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/6414.m3u8

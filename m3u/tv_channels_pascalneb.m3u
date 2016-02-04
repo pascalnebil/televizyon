@@ -38,7 +38,7 @@ http://www.iptvsaga.com/play/tv3/0045.m3u8
 #EXTINF:-1,SHOW TURK
 http://mn-l.mncdn.com:1935/showturktv/showturktv1/playlist.m3u8
 #EXTINF:0,ATV HD
-http://188.72.131.226/atv.m3u8
+http://origin.live.web.tv.streamprovider.net/live/0a982dbefc5e9d29952bda5a981a9c6d_live_0_0/index.m3u8
 #EXTINF:-1,ATV HD 2
 http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/4.m3u8
 #EXTINF:-1,ATV Avrupa
@@ -46,7 +46,7 @@ http://hdtvler.net@trkvz-m.ercdn.net/trkvz-temp/atvavrupam.m3u8
 #EXTINF:-1,A HABER HD
 http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
 #EXTINF:0,Star TV
-http://www.iptvsaga.com/play/tv3/0063.m3u8
+http://origin.live.web.tv.streamprovider.net/live/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
 #EXTINF:0,Star TV HD
 http://188.72.131.226/star.m3u8
 #EXTINF:-1,tv8 HD
@@ -58,11 +58,11 @@ http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:0,Ntv
 http://31.177.62.132:9024
 #EXTINF:0,NTV Spor
-http://31.177.62.132:9026
+http://origin.live.web.tv.streamprovider.net/live/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
 #EXTINF: -1, NTV Spor 2
 http://188.72.131.226/ntvspor.m3u8
 #EXTINF:-1,A SPOR
-http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
+http://origin2.live.web.tv.streamprovider.net/live/a6784af7d08a9c91dbfa0e4eab17e3bf_live_0_0/index.m3u8
 #EXTINF:0828 tvg-id="beyazittv.tr" group-title="TR Haber Kanalları" tvg-logo="536958.png", [COLOR olivedrab]Beyaz TV[/COLOR]
 http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
 #EXTINF:0,FOX HD
@@ -129,6 +129,10 @@ http://livede.gostream.nl/medine/medine/playlist.m3u8
 mms://yayin.networkbil.com/cizgifilmtv
 #EXTINF:0,TRT cocuk Kid
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:-1,PLANET ÇOCUK
+http://origin.live.web.tv.streamprovider.net/live/852843e69184bd2c2146ae50e7aba5c3_live_0_0/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://origin.live.web.tv.streamprovider.net/live/e0abd0b3943ae7bbcff8e3b570ef4612_live_0_0/index.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",4 Karamel
 http://trt-i.mncdn.com:1935/karamel/karamel/chunklist_w59601545.m3u8
 #EXTINF:-1 group-title="Turki",AZ TV Azerbaycan

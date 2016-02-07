@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red]28.01.2016: Cocuk kanallari ve bir cok yeni kanal eklenmistir pascalnebil@icloud.com Soru ve Onerileriniz icin . [/COLOR]
+#EXTINF:-1,[COLOR red]07.02.2016: Cocuk kanallari ve bir cok yeni kanal eklenmistir pascalnebil@icloud.com Soru ve Onerileriniz icin . [/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
@@ -50,7 +50,7 @@ http://origin.live.web.tv.streamprovider.net/live/7acfc999bbde179fc45f1850612534
 #EXTINF:0,Star TV HD
 http://188.72.131.226/star.m3u8
 #EXTINF:-1,tv8 HD
-http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/7.m3u8
+http://iptvhd.zapto.org:3500/live/ceyhun/83013048015993/75.m3u8
 #EXTINF: -1, İdman Tv
 http://188.72.131.226/idman.m3u8
 #EXTINF:0,CNN TuRK HD News
@@ -73,6 +73,8 @@ http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/6.m3u8
 http://kanalturk-live.ercdn.com/kanalturk1.m3u8
 #EXTINF:0,HABERTuRKNews
 http://live-ciner.mncdn.net/haberturk/haberturk2/master.m3u8
+#EXTINF:0,CINERAMA 
+http://origin2.live.web.tv.streamprovider.net/live/63b6f16ae8d3cbb98af11a442e118605/index.m3u8
 #EXTINF:-1, [COLOR olivedrab]SINEMA HD[/COLOR]
 mms://yayin7.canliyayin.org/sinema
 #EXTINF:-1, [COLOR olivedrab]SINEMA Turk HD[/COLOR]
@@ -154,9 +156,9 @@ http://hls.tv.iptv.ink/trt3tr@370171.m3u8|X-Forwarded-For=37.34.18.55
 #EXTINF:-1,[COLOR yellow]--- Samanyolu Grubu ---[/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,SAMANYOLU TV
-http://www.iptvsaga.com/play/tv3/0039.m3u8
+http://dai.ly/x39w53p
 #EXTINF:-1,SAMANYOLU AVRUPA
-http://vivisolivegrp01-lh.akamaihd.net/i/stveu_1@398191/index_270_av-b.m3u8?sd=10&rebase=on
+http://www.dailymotion.com/video/x39w53p_samanyolu-tv-canli-yayin-izle_tv
 #EXTINF:-1,SAMANYOLU HABER
 http://www.iptvsaga.com/play/tv3/0040.m3u8
 #EXTINF:-1,Bugün TV HD
@@ -565,176 +567,186 @@ http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
 #EXTINF:-1,[COLOR yellow]Portugal TV [/COLOR]
 http://0.0.0.0:1234
 
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:6000
+#EXTINF:-1,PT-TVI SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3442.ts
+#EXTINF:-1,PT-TVI 24  SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3443.ts
+#EXTINF:-1,PT-TV SERIES  HD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3444.ts
+#EXTINF:-1,PT-TV GLOBO PORTUGAL  SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3445.ts
+#EXTINF:-1,PT-TV CINE 4 HD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3446.ts
+#EXTINF:-1,PT-TV CINE 3  HD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3447.ts
+#EXTINF:-1,PT-TV CINE 2  HD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3448.ts
+#EXTINF:-1,PT-TV CINE 1  HD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3449.ts
+#EXTINF:-1,PT-TOROS TV SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3450.ts
+#EXTINF:-1,PT-SYFY SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3451.ts
+#EXTINF:-1,PT-SPORTING TV  SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3452.ts
+#EXTINF:-1,PT-SPORT TV AMERICAS ( Canal de Internet )
+http://cp.dmbshare.net:8000/live/whelan/whelan/3453.ts
+#EXTINF:-1,PT-SPORT TV 5  SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3454.ts
+#EXTINF:-1,PT-SPORT TV 4  HD  720p
+http://cp.dmbshare.net:8000/live/whelan/whelan/3455.ts
+#EXTINF:-1,PT-SPORT TV 3 HD  720p
+http://cp.dmbshare.net:8000/live/whelan/whelan/3458.ts
+#EXTINF:-1,PT-SPORT TV 2  HD  720p
+http://cp.dmbshare.net:8000/live/whelan/whelan/3456.ts
+#EXTINF:-1,PT-SPORT TV 1 HD 720p
+http://cp.dmbshare.net:8000/live/whelan/whelan/3457.ts
+#EXTINF:-1,PT-SIC SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3459.ts
+#EXTINF:-1,PT-SIC NOTICIAS  SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3460.ts
+#EXTINF:-1,PT-SIC CARAS  SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3461.ts
+#EXTINF:-1,PT-RTP INTERNACIONAL SD ( Canal Internet )
+http://cp.dmbshare.net:8000/live/whelan/whelan/3462.ts
+#EXTINF:-1,PT-RTP INFORMAÇÃO  SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3463.ts
+#EXTINF:-1,PT-RTP 2  SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3464.ts
+#EXTINF:-1,PT-RTP 1  SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3465.ts
+#EXTINF:-1,PT-REAL MADRID TV SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3466.ts
+#EXTINF:-1,PT-PORTO CANAL  SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3467.ts
+#EXTINF:-1,PT-PANDA SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3468.ts
+#EXTINF:-1,PT-ODISSEIA SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3469.ts
+#EXTINF:-1,PT-NICKELODEON  SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3470.ts
+#EXTINF:-1,PT-NATIONAL GEOGRAPHIC HD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3471.ts
+#EXTINF:-1,PT-NAT GEO WILD  SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3472.ts
+#EXTINF:-1,PT-MOV  HD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3473.ts
+#EXTINF:-1,PT-MOTORS TV SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3474.ts
+#EXTINF:-1,PT-HOLLYWOD SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3475.ts
+#EXTINF:-1,PT-FOX NEWS SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3476.ts
+#EXTINF:-1,PT-FOX MOVIES  SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3477.ts
+#EXTINF:-1,PT-FOX LIFE  HD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3478.ts
+#EXTINF:-1,PT-FOX CRIME  HD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3479.ts
+#EXTINF:-1,PT-FOX  HD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3480.ts
+#EXTINF:-1,PT-EUROSPORT 2 SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3481.ts
+#EXTINF:-1,PT-EUROSPORT  HD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3482.ts
+#EXTINF:-1,PT-E! ENTERTAINMENT  SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3483.ts
+#EXTINF:-1,PT-DISNEY JUNIOR SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3484.ts
+#EXTINF:-1,PT-DISNEY CHANNEL SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3485.ts
+#EXTINF:-1,PT-DISCOVERY SHOWCASE HD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3486.ts
+#EXTINF:-1,PT-DISCOVERY CHANNEL  SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3487.ts
+#EXTINF:-1,PT-CMTV  SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3488.ts
+#EXTINF:-1,PT-CINEMUNDO  SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3489.ts
+#EXTINF:-1,PT-CHELSEA TV SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3490.ts
+#EXTINF:-1,PT-CARTOON NETWORK  SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3491.ts
+#EXTINF:-1,PT-CANAL Q  SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3492.ts
+#EXTINF:-1,PT-CANAL HISTORIA SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3493.ts
+#EXTINF:-1,PT-CACA E PESCA SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3494.ts
+#EXTINF:-1,PT-BENFICA TV 2 HD   720p
+http://cp.dmbshare.net:8000/live/whelan/whelan/3495.ts
+#EXTINF:-1,PT-BENFICA TV 1  HD 720p
+http://cp.dmbshare.net:8000/live/whelan/whelan/3496.ts
+#EXTINF:-1,PT-BABY TV SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3497.ts
+#EXTINF:-1,PT-AXN  HD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3498.ts
+#EXTINF:-1,PT-AMC  SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3499.ts
+#EXTINF:-1,PT-A&E SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3500.ts
+#EXTINF:-1,PT-24 Kitchen  HD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3501.ts
+#EXTINF:-1,[COLOR yellow]GENERALISTAS [/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="RTP 1" tvg-logo="RTP1.png" group-title="Canais Portugal",[I][B]RTP 1[/B][/I]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtp1 swfVfy=1 live=1 timeout=15
 
 
-#EXTINF:-1,PT: VeVo 3 HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12018.m3u8
-#EXTINF:-1,PT: VeVo 2 HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12019.m3u8
-#EXTINF:-1,PT: VeVo 1 HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12020.m3u8
-#EXTINF:-1,PT: Tvi ficcao
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12021.m3u8
-#EXTINF:-1,PT: TVI 24
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12022.m3u8
-#EXTINF:-1,PT: TVI
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12023.m3u8
-#EXTINF:-1,PT: TVCine 4 HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12024.m3u8
-#EXTINF:-1,PT: TVCine 3 HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12025.m3u8
-#EXTINF:-1,PT: TVCine 2 HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12026.m3u8
-#EXTINF:-1,PT: TVCine 1 HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12027.m3u8
-#EXTINF:-1,PT: TV Series SD/HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12028.m3u8
-#EXTINF:-1,PT: TV Record
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12029.m3u8
-#EXTINF:-1,PT: TV Globo Premium
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12030.m3u8
-#EXTINF:-1,PT: TV Globo
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12031.m3u8
-#EXTINF:-1,PT: TPA
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12032.m3u8
-#EXTINF:-1,PT: Toros TV
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12033.m3u8
-#EXTINF:-1,PT: Sy-Fy
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12034.m3u8
-#EXTINF:-1,PT: SportTV 5
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12035.m3u8
-#EXTINF:-1,PT: SportTV 4 HD/SD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12036.m3u8
-#EXTINF:-1,PT: SportTV 3
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12037.m3u8
-#EXTINF:-1,PT: SportTV 2 HD/SD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12038.m3u8
-#EXTINF:-1,PT: SportTV 1 HD/SD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12039.m3u8
-#EXTINF:-1,PT: Sporting TV HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12040.m3u8
-#EXTINF:-1,PT: SPORT TV AMERICA
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12041.m3u8
-#EXTINF:-1,PT: SIC Noticias
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12042.m3u8
-#EXTINF:-1,PT: SIC Kids
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12043.m3u8
-#EXTINF:-1,PT: SIC
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12044.m3u8
-#EXTINF:-1,PT: RTP Memoria
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12045.m3u8
-#EXTINF:-1,PT: RTP Madeira
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12046.m3u8
-#EXTINF:-1,PT: RTP África
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12047.m3u8
-#EXTINF:-1,PT: RTP Acores
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12048.m3u8
-#EXTINF:-1,PT: RTP 3
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12049.m3u8
-#EXTINF:-1,PT: RTP 2
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12050.m3u8
-#EXTINF:-1,PT: RTP 1 SD/HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12051.m3u8
-#EXTINF:-1,PT: Real Madrid TV HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12052.m3u8
-#EXTINF:-1,PT: Porto Canal
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12053.m3u8
-#EXTINF:-1,PT: Plus TVI
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12054.m3u8
-#EXTINF:-1,PT: PFC HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12055.m3u8
-#EXTINF:-1,PT: Panda Biggs
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12056.m3u8
-#EXTINF:-1,PT: Odisseia
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12057.m3u8
-#EXTINF:-1,PT: Niclelodeon
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12058.m3u8
-#EXTINF:-1,PT: Nat Geographic Channel
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12059.m3u8
-#EXTINF:-1,PT: Nat Geo Wild
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12060.m3u8
-#EXTINF:-1,PT: MOV HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12061.m3u8
-#EXTINF:-1,PT: Motors TV
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12062.m3u8
-#EXTINF:-1,PT: HollyWood SD/HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12063.m3u8
-#EXTINF:-1,PT: FX
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12064.m3u8
-#EXTINF:-1,PT: FOX Movies
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12065.m3u8
-#EXTINF:-1,PT: Fox Life HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12066.m3u8
-#EXTINF:-1,PT: Fox HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12067.m3u8
-#EXTINF:-1,PT: FOX Crime HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12068.m3u8
-#EXTINF:-1,PT: EuroSport 1 HD/SD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12069.m3u8
-#EXTINF:-1,PT: Economico TV
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12070.m3u8
-#EXTINF:-1,PT: E! Entertaunment
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12071.m3u8
-#EXTINF:-1,PT: Disney Junior
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12072.m3u8
-#EXTINF:-1,PT: Disney Channel
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12073.m3u8
-#EXTINF:-1,PT: Discovery HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12074.m3u8
-#EXTINF:-1,PT: CMTV
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12075.m3u8
-#EXTINF:-1,PT: CineMundo
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12076.m3u8
-#EXTINF:-1,PT: CBS Reality
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12077.m3u8
-#EXTINF:-1,PT: Cartoon NetWork
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12078.m3u8
-#EXTINF:-1,PT: Cancao Nova
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12079.m3u8
-#EXTINF:-1,PT: CANAL PANDA
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12080.m3u8
-#EXTINF:-1,PT: Canal Historia HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12081.m3u8
-#EXTINF:-1,PT: Caca & Pesca
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12082.m3u8
-#EXTINF:-1,PT: BTV 1 HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12083.m3u8
-#EXTINF:-1,PT: Benfica TV 2 HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12084.m3u8
-#EXTINF:-1,PT: Benfica TV 1 Full HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12085.m3u8
-#EXTINF:-1,PT: AXN WHITE HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12086.m3u8
-#EXTINF:-1,PT: AXN HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12087.m3u8
-#EXTINF:-1,PT: AXN Black HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12088.m3u8
-#EXTINF:-1,PT: AFRO MUSIC HD
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12089.m3u8
-#EXTINF:-1,PT: Abola TV
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12090.m3u8
-#EXTINF:-1,PT: A&E
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12091.m3u8
-#EXTINF:-1,PT: 24 Kitchen
-http://luckyiptv.ddns.net:23000/live/MIRKO/MIRKO/12092.m3u8#EXTINF:0,Benfica 1 HD [COLOR orange][B](com algumas paragens)[/B][/COLOR]
-http://91.204.214.106:23201/stolen/250l/xenixos.7z
-#EXTINF:0,Benfica 2 [COLOR orange][B](com algumas paragens)[/B][/COLOR]
-http://91.204.214.106:23201/stolen/233w/xenixos.7z
-#EXTINF:0,Sporting [COLOR orange][B](com algumas paragens)[/B][/COLOR]
-http://91.204.214.106:23201/stolen/242a/xenixos.7z
-#EXTINF:0,Sport 1 HD Portugal [COLOR orange][B](com algumas paragens)[/B][/COLOR]
-http://91.204.214.106:23201/stolen/246g/xenixos.7z
-#EXTINF:0,Sport 2 HD Portugal [COLOR orange][B](com algumas paragens)[/B][/COLOR]
-http://91.204.214.106:23201/stolen/247h/xenixos.7z
-#EXTINF:0,Sport 3 Portugal [COLOR orange][B](com algumas paragens)[/B][/COLOR]
-http://91.204.214.106:23201/stolen/240o/xenixos.7z
-#EXTINF:0,Sport 4 HD Portugal [COLOR orange][B](com algumas paragens)[/B][/COLOR]
-http://91.204.214.106:23201/stolen/248j/xenixos.7z
-#EXTINF:0,Sport 5 Portugal [COLOR orange][B](com algumas paragens)[/B][/COLOR]
-http://91.204.214.106:23201/stolen/251z/xenixos.7z
+#EXTINF:-1 tvg-id="RTP 2" tvg-logo="RTP2.png" group-title="Canais Portugal",[I][B]RTP 2[/B][/I]  
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtp2 swfVfy=1 live=1 timeout=15
+
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="rtp_açores.png",[I][B]RTP ACORES[/B][/I]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpacores
+
+
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="rtp_africa.png",[I][B]RTP AFRICA[/B][/I]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpafrica swfVfy=1 live=1 timeout=15
+
+
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="RTP Madeira.png",[I][B]RTP MADEIRA[/B][/I]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmadeira swfVfy=1 live=1 timeout=15
+
+
+#EXTINF:-1 tvg-id="RTP MEMORIA" tvg-logo="RTP MEMORIA.png" group-title="Canais Portugal",[I][B]RTP MEMORIA[/B][/I]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria swfVfy=1 live=1 timeout=15
+
+
+#EXTINF:-1 tvg-id="RTP INTERNACIONAL" tvg-logo="RTP INTERNACIONAL" group-title="Canais Portugal",[I][B]RTP INTERNACIONAL[/B][/I]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15
+
+#EXTINF:-1,[I][B]SIC [/B][/I]
+http://213.13.26.11:1935/live/sic/livestream.m3u8
+
+#EXTINF:-1,[I][B]TVI (HQ)[/B][/I]
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+
+#EXTINF:-1,[I][B]TVI REALITY - A QUINTA[/B][/I]
+http://62.210.82.241:1935/liverepeat/TVIReality24/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PORTUGAL",[I][B]TVI REALITY (A QUINTA)[/B][/I] opt2
+rtmp://62.210.88.232:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6MDc6MzAgUE0maGFzaF92YWx1ZT1tSEpPOXptWGRwZDFjTzVzd0tFQWtnPT0mdmFsaWRtaW51dGVzPTMwMA==/TVIReality24 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=TVIReality24&vw=550&vh=430
+
+
+#EXTINF:-1,[I][B]GINX[/B][/I]
+http://204.107.26.252:1935/live/796.high.stream/playlist.m3u8
+
+#EXTINF:-1,[COLOR red][I][B]-------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1 tvg-id="RTP 1" tvg-logo="RTP1.png" group-title="Canais Portugal",[I][B]RTP 1[/B][/I]
+http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
+
+#EXTINF:-1 tvg-id="RTP 2" tvg-logo="RTP2.png" group-title="Canais Portugal",[I][B]RTP 2[/B][/I]
+http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8
+
+#EXTINF:-1,[I][B]SIC[/B][/I]
+http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
+
+#EXTINF:-1,[I][B]TVI[/B][/I]
+http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
+
+
 
 #EXTINF:-1,[COLOR yellow]---★ International Sports Channels ★---[/COLOR]
 http://0.0.0.0:1234

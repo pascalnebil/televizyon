@@ -3,6 +3,10 @@
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
+#EXTINF:-1,Sevkat Yerimdar
+http://panelpro.iptvyayin.com:8080/movie/haldun/haldun/1642.mkv
+#EXTINF:-1,LIGTV 1 HD
+http://panelpro.iptvyayin.com:8080/live/haldun/haldun/2.m3u8
 #EXTINF:-1,Filmax Premier HD
 http://5.39.101.194:1935/live/filmaxpremierhd_canlitvplay.com/playlist.m3u8
 #EXTINF:-1,Filmax Drama HD
@@ -49,6 +53,8 @@ http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
 http://origin.live.web.tv.streamprovider.net/live/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
 #EXTINF:0,Star TV HD
 http://188.72.131.226/star.m3u8
+#EXTINF:-1,TV 8
+http://panelpro.iptvyayin.com:8080/live/haldun/haldun/93.m3u8
 #EXTINF:-1,tv8 HD
 http://stream.turksolutions.org:8000/live/Ridvan1/Ridvan1/23.m3u8
 #EXTINF: -1, İdman Tv
@@ -156,7 +162,7 @@ http://hls.tv.iptv.ink/trt3tr@370171.m3u8|X-Forwarded-For=37.34.18.55
 #EXTINF:-1,[COLOR yellow]--- Samanyolu Grubu ---[/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,SAMANYOLU TV
-http://dai.ly/x39w53p
+http://panelpro.iptvyayin.com:8080/live/haldun/haldun/29.m3u8
 #EXTINF:-1,SAMANYOLU AVRUPA
 http://www.dailymotion.com/video/x39w53p_samanyolu-tv-canli-yayin-izle_tv
 #EXTINF:-1,SAMANYOLU HABER

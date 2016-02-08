@@ -73,7 +73,7 @@ http://spyiptv.noip.me:5000/live/spyedfr45/dfrt54fg/6.m3u8
 http://kanalturk-live.ercdn.com/kanalturk1.m3u8
 #EXTINF:0,HABERTuRKNews
 http://live-ciner.mncdn.net/haberturk/haberturk2/master.m3u8
-#EXTINF:0,CINERAMA 
+#EXTINF:-1, CINERAMA 
 http://origin2.live.web.tv.streamprovider.net/live/63b6f16ae8d3cbb98af11a442e118605/index.m3u8
 #EXTINF:-1, [COLOR olivedrab]SINEMA HD[/COLOR]
 mms://yayin7.canliyayin.org/sinema

@@ -116,17 +116,17 @@ http://www.iptvsaga.com/play/tv3/0045.m3u8
 #EXTINF:-1,SHOW TURK
 http://mn-l.mncdn.com:1935/showturktv/showturktv1/playlist.m3u8
 #EXTINF:0,ATV HD
-http://iptv-supplier.com:8000/live/henri/henri/415.m3u8
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5125.m3u8
 #EXTINF:-1,A HABER HD
-http://iptv-supplier.com:8000/live/henri/henri/913.m3u8
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5150.m3u8
 #EXTINF:0,Star TV
-http://iptv-supplier.com:8000/live/henri/henri/407.m3u8
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5126.m3u8
 #EXTINF:0,Star TV HD
 http://188.72.131.226/star.m3u8
+#EXTINF:-1,TV 8 HD
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5129.m3u8
 #EXTINF:-1,TV 8
 http://iptv-supplier.com:8000/live/henri/henri/397.m3u8
-#EXTINF:-1,tv8 HD
-http://stream.turksolutions.org:8000/live/Ridvan1/Ridvan1/23.m3u8
 #EXTINF: -1, İdman Tv
 http://188.72.131.226/idman.m3u8
 #EXTINF:0,CNN TuRK HD News
@@ -230,7 +230,7 @@ http://hls.tv.iptv.ink/trt3tr@370171.m3u8|X-Forwarded-For=37.34.18.55
 #EXTINF:-1,[COLOR yellow]--- Samanyolu Grubu ---[/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,SAMANYOLU TV
-http://panelpro.iptvyayin.com:8080/live/haldun/haldun/29.m3u8
+http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5132.m3u8
 #EXTINF:-1,SAMANYOLU AVRUPA
 http://www.dailymotion.com/video/x39w53p_samanyolu-tv-canli-yayin-izle_tv
 #EXTINF:-1,SAMANYOLU HABER

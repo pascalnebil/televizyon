@@ -3,8 +3,6 @@
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1,Sevkat Yerimdar
-http://panelpro.iptvyayin.com:8080/movie/haldun/haldun/1642.mkv
 #EXTINF:-1,LIGTV 1 HD
 http://panelpro.iptvyayin.com:8080/live/haldun/haldun/2.m3u8
 #EXTINF:-1,LIGTV1 HD
@@ -15,16 +13,6 @@ http://panelpro.iptvyayin.com:8080/live/haldun/haldun/3.m3u8
 http://panelpro.iptvyayin.com:8080/live/haldun/haldun/4.m3u8
 #EXTINF:-1,LIGTV 4 HD
 http://panelpro.iptvyayin.com:8080/live/haldun/haldun/220.m3u8
-#EXTINF:-1,Filmax Premier HD
-http://5.39.101.194:1935/live/filmaxpremierhd_canlitvplay.com/playlist.m3u8
-#EXTINF:-1,Filmax Drama HD
-http://5.39.101.194:1935/live/dramahd_canlitvplay.com/playlist.m3u8
-#EXTINF:-1,Filmax Action HD
-http://178.33.75.95:1935/canlitvplay.com/filmaxaction.stream/cw749734081hunklist_.m3u8
-#EXTINF:-1,Filmax Comedy HD
-http://178.33.75.95:1935/canlitvplay.com/filmaxcomedy.stream/chunklist_w643090997.m3u8
-#EXTINF:-1,Filmax Black HD
-http://178.33.75.95:1935/canlitvplay.com/filmaxblack.stream/chunklist_w692445700.m3u8
 #EXTINF:-1,SINEMA MUSİC HD
 http://51.255.7.123:1935/nettv/nettv/playlist.m3u8
 #EXTINF:0,TRT HD
@@ -173,6 +161,592 @@ http://www.iptvsaga.com/play/tv3/0040.m3u8
 http://buguntv-live.ercdn.com/buguntv.m3u8
 #EXTINF:-1,IRMAK TV HD
 http://cds.z2q7i5m7.hwcdn.net/asset/7uDFqi51/chunklist_720.m3u8
+#EXTINF:-1,LIG_TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/4.ts
+#EXTINF:-1,LIG_TV2
+http://e2.enndy75.com:2015/live/nuh22/nuh22/5.ts
+#EXTINF:-1,LIG_TV3
+http://e2.enndy75.com:2015/live/nuh22/nuh22/6.ts
+#EXTINF:-1,TIVUBU
+http://e2.enndy75.com:2015/live/nuh22/nuh22/7.ts
+#EXTINF:-1,DSMART_1
+http://e2.enndy75.com:2015/live/nuh22/nuh22/184.ts
+#EXTINF:-1,DSMART_2
+http://e2.enndy75.com:2015/live/nuh22/nuh22/185.ts
+#EXTINF:-1,TRT-1
+http://e2.enndy75.com:2015/live/nuh22/nuh22/96.ts
+#EXTINF:-1,FOX-TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/104.ts
+#EXTINF:-1,TV-8
+http://e2.enndy75.com:2015/live/nuh22/nuh22/105.ts
+#EXTINF:-1,STAR-TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/103.ts
+#EXTINF:-1,KANAL-D
+http://e2.enndy75.com:2015/live/nuh22/nuh22/102.ts
+#EXTINF:-1,KANAL-D HD
+http://e2.enndy75.com:2015/live/nuh22/nuh22/326.ts
+#EXTINF:-1,SHOW-TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/100.ts
+#EXTINF:-1,SHOW-TV HD
+http://e2.enndy75.com:2015/live/nuh22/nuh22/862.ts
+#EXTINF:-1,ATV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/101.ts
+#EXTINF:-1,ATV-HD
+http://e2.enndy75.com:2015/live/nuh22/nuh22/861.ts
+#EXTINF:-1,SAMANYOLU
+http://e2.enndy75.com:2015/live/nuh22/nuh22/107.ts
+#EXTINF:-1,KANAL-7
+http://e2.enndy75.com:2015/live/nuh22/nuh22/123.ts
+#EXTINF:-1,BEYAZTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/157.ts
+#EXTINF:-1,TV2
+http://e2.enndy75.com:2015/live/nuh22/nuh22/141.ts
+#EXTINF:-1,KANALTURK
+http://e2.enndy75.com:2015/live/nuh22/nuh22/116.ts
+#EXTINF:-1,FLASHTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/129.ts
+#EXTINF:-1,TRT-HABER
+http://e2.enndy75.com:2015/live/nuh22/nuh22/97.ts
+#EXTINF:-1,BUGUN
+http://e2.enndy75.com:2015/live/nuh22/nuh22/117.ts
+#EXTINF:-1,NTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/108.ts
+#EXTINF:-1,AHABER
+http://e2.enndy75.com:2015/live/nuh22/nuh22/110.ts
+#EXTINF:-1,HABERTURK
+http://e2.enndy75.com:2015/live/nuh22/nuh22/187.ts
+#EXTINF:-1,CNNTURK
+http://e2.enndy75.com:2015/live/nuh22/nuh22/140.ts
+#EXTINF:-1,HABERAKS TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/924.ts
+#EXTINF:-1,24
+http://e2.enndy75.com:2015/live/nuh22/nuh22/948.ts
+#EXTINF:-1,EMTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/144.ts
+#EXTINF:-1,ASTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/147.ts
+#EXTINF:-1,BLOOMBERG-HT
+http://e2.enndy75.com:2015/live/nuh22/nuh22/188.ts
+#EXTINF:-1,NATIONAL GEO.
+http://e2.enndy75.com:2015/live/nuh22/nuh22/374.ts
+#EXTINF:-1,History Turkiye
+http://e2.enndy75.com:2015/live/nuh22/nuh22/375.ts
+#EXTINF:-1,ANIMAL PLANET TURKIYE
+http://e2.enndy75.com:2015/live/nuh22/nuh22/739.ts
+#EXTINF:-1,dÄ±scovery channel tr
+http://e2.enndy75.com:2015/live/nuh22/nuh22/311.ts
+#EXTINF:-1,MACROBELGESELTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/181.ts
+#EXTINF:-1,YABANTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/134.ts
+#EXTINF:-1,YABAN TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/866.ts
+#EXTINF:-1,WORLDTRAVELCHANNEL
+http://e2.enndy75.com:2015/live/nuh22/nuh22/118.ts
+#EXTINF:-1,WORLD TRAVEL CH
+http://e2.enndy75.com:2015/live/nuh22/nuh22/867.ts
+#EXTINF:-1,TRT-COCUK
+http://e2.enndy75.com:2015/live/nuh22/nuh22/98.ts
+#EXTINF:-1,DISNEYCHANNEL
+http://e2.enndy75.com:2015/live/nuh22/nuh22/152.ts
+#EXTINF:-1,CARTOONNETWORK
+http://e2.enndy75.com:2015/live/nuh22/nuh22/138.ts
+#EXTINF:-1,CARTOON NETWORK
+http://e2.enndy75.com:2015/live/nuh22/nuh22/934.ts
+#EXTINF:-1,MINIKAGO
+http://e2.enndy75.com:2015/live/nuh22/nuh22/113.ts
+#EXTINF:-1,MINIKACOCUK
+http://e2.enndy75.com:2015/live/nuh22/nuh22/112.ts
+#EXTINF:-1,PLANETCOCUK
+http://e2.enndy75.com:2015/live/nuh22/nuh22/127.ts
+#EXTINF:-1,PLANET COCUK
+http://e2.enndy75.com:2015/live/nuh22/nuh22/893.ts
+#EXTINF:-1,TV-10
+http://e2.enndy75.com:2015/live/nuh22/nuh22/198.ts
+#EXTINF:-1,FBTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/145.ts
+#EXTINF:-1,TRT-SPOR
+http://e2.enndy75.com:2015/live/nuh22/nuh22/99.ts
+#EXTINF:-1,NTVSPOR
+http://e2.enndy75.com:2015/live/nuh22/nuh22/109.ts
+#EXTINF:-1,SPORTSTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/146.ts
+#EXTINF:-1,ASPOR
+http://e2.enndy75.com:2015/live/nuh22/nuh22/111.ts
+#EXTINF:-1,SEMERKAND TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/883.ts
+#EXTINF:-1,SEMERKANDTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/124.ts
+#EXTINF:-1,KABECANLIALQURAN
+http://e2.enndy75.com:2015/live/nuh22/nuh22/155.ts
+#EXTINF:-1,ON4TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/151.ts
+#EXTINF:-1,TV-5
+http://e2.enndy75.com:2015/live/nuh22/nuh22/202.ts
+#EXTINF:-1,HILAL-TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/197.ts
+#EXTINF:-1,KONYATV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/150.ts
+#EXTINF:-1,YILDIZTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/149.ts
+#EXTINF:-1,YILDIZ TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/864.ts
+#EXTINF:-1,MEDINE
+http://e2.enndy75.com:2015/live/nuh22/nuh22/899.ts
+#EXTINF:-1,TURKIYEMTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/148.ts
+#EXTINF:-1,YASIN TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/865.ts
+#EXTINF:-1,YASINTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/131.ts
+#EXTINF:-1,A9 TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/946.ts
+#EXTINF:-1,ULUSAL-TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/200.ts
+#EXTINF:-1,HALK-TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/199.ts
+#EXTINF:-1,YOLTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/154.ts
+#EXTINF:-1,CEM-TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/201.ts
+#EXTINF:-1,BARIS-TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/190.ts
+#EXTINF:-1,EKINTURKTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/137.ts
+#EXTINF:-1,CANERZINCAN-TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/189.ts
+#EXTINF:-1,VTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/136.ts
+#EXTINF:-1,VIVATV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/119.ts
+#EXTINF:-1,VIVA TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/869.ts
+#EXTINF:-1,KRALTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/115.ts
+#EXTINF:-1,KRALPOP
+http://e2.enndy75.com:2015/live/nuh22/nuh22/114.ts
+#EXTINF:-1,NR1
+http://e2.enndy75.com:2015/live/nuh22/nuh22/132.ts
+#EXTINF:-1,NR1 TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/895.ts
+#EXTINF:-1,NR1 TURK TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/896.ts
+#EXTINF:-1,DREAMTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/142.ts
+#EXTINF:-1,DREAMTURK
+http://e2.enndy75.com:2015/live/nuh22/nuh22/143.ts
+#EXTINF:-1,POWERTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/182.ts
+#EXTINF:-1,POWERTURKTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/183.ts
+#EXTINF:-1,ARABESK TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/941.ts
+#EXTINF:-1,E2
+http://e2.enndy75.com:2015/live/nuh22/nuh22/139.ts
+#EXTINF:-1,CNBCE
+http://e2.enndy75.com:2015/live/nuh22/nuh22/125.ts
+#EXTINF:-1,FLASH TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/926.ts
+#EXTINF:-1,PLANETTURK
+http://e2.enndy75.com:2015/live/nuh22/nuh22/121.ts
+#EXTINF:-1,PLANET TURK
+http://e2.enndy75.com:2015/live/nuh22/nuh22/890.ts
+#EXTINF:-1,PLANETPEMBE
+http://e2.enndy75.com:2015/live/nuh22/nuh22/122.ts
+#EXTINF:-1,PLANET PEMBE
+http://e2.enndy75.com:2015/live/nuh22/nuh22/891.ts
+#EXTINF:-1,PLANETMUTFAK
+http://e2.enndy75.com:2015/live/nuh22/nuh22/120.ts
+#EXTINF:-1,PLANET MUTFAK
+http://e2.enndy75.com:2015/live/nuh22/nuh22/892.ts
+#EXTINF:-1,EGETV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/128.ts
+#EXTINF:-1,EGE TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/928.ts
+#EXTINF:-1,KANAL-35
+http://e2.enndy75.com:2015/live/nuh22/nuh22/194.ts
+#EXTINF:-1,KANAL 35
+http://e2.enndy75.com:2015/live/nuh22/nuh22/915.ts
+#EXTINF:-1,KANAL-3
+http://e2.enndy75.com:2015/live/nuh22/nuh22/195.ts
+#EXTINF:-1,KANAL 3
+http://e2.enndy75.com:2015/live/nuh22/nuh22/917.ts
+#EXTINF:-1,TEKRUMELI-TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/196.ts
+#EXTINF:-1,TEKRUMELI
+http://e2.enndy75.com:2015/live/nuh22/nuh22/878.ts
+#EXTINF:-1,RUMELITV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/133.ts
+#EXTINF:-1,RUMELI TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/885.ts
+#EXTINF:-1,CAYTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/135.ts
+#EXTINF:-1,CAY TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/933.ts
+#EXTINF:-1,IMC-TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/193.ts
+#EXTINF:-1,IMC TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/920.ts
+#EXTINF:-1,GAZIANTEP-OLAYTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/191.ts
+#EXTINF:-1,AKILLI-TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/192.ts
+#EXTINF:-1,AKILLI TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/944.ts
+#EXTINF:-1,RUDAWTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/156.ts
+#EXTINF:-1,KRTTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/130.ts
+#EXTINF:-1,KRT TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/902.ts
+#EXTINF:-1,JIYANTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/153.ts
+#EXTINF:-1,ZAROK TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/863.ts
+#EXTINF:-1,TV6
+http://e2.enndy75.com:2015/live/nuh22/nuh22/873.ts
+#EXTINF:-1,TV4
+http://e2.enndy75.com:2015/live/nuh22/nuh22/874.ts
+#EXTINF:-1,TV 1
+http://e2.enndy75.com:2015/live/nuh22/nuh22/872.ts
+#EXTINF:-1,TV27
+http://e2.enndy75.com:2015/live/nuh22/nuh22/875.ts
+#EXTINF:-1,OLAY TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/894.ts
+#EXTINF:-1,MANISA TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/901.ts
+#EXTINF:-1,VATAN TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/871.ts
+#EXTINF:-1,SEYMENTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/126.ts
+#EXTINF:-1,SEYMEN TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/882.ts
+#EXTINF:-1,KOCAELi TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/904.ts
+#EXTINF:-1,TV KAYSERI
+http://e2.enndy75.com:2015/live/nuh22/nuh22/876.ts
+#EXTINF:-1,TV 10
+http://e2.enndy75.com:2015/live/nuh22/nuh22/877.ts
+#EXTINF:-1,SIVAS SRT
+http://e2.enndy75.com:2015/live/nuh22/nuh22/879.ts
+#EXTINF:-1,MERCAN TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/898.ts
+#EXTINF:-1,VUSLAT TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/868.ts
+#EXTINF:-1,SEYR FM
+http://e2.enndy75.com:2015/live/nuh22/nuh22/881.ts
+#EXTINF:-1,RUHA TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/886.ts
+#EXTINF:-1,MCJ MEDIASA
+http://e2.enndy75.com:2015/live/nuh22/nuh22/900.ts
+#EXTINF:-1,KANAL URFA
+http://e2.enndy75.com:2015/live/nuh22/nuh22/906.ts
+#EXTINF:-1,KANAL TEK
+http://e2.enndy75.com:2015/live/nuh22/nuh22/907.ts
+#EXTINF:-1,KANAL T
+http://e2.enndy75.com:2015/live/nuh22/nuh22/908.ts
+#EXTINF:-1,KANAL FIRAT
+http://e2.enndy75.com:2015/live/nuh22/nuh22/909.ts
+#EXTINF:-1,KANAL F
+http://e2.enndy75.com:2015/live/nuh22/nuh22/910.ts
+#EXTINF:-1,KANAL C
+http://e2.enndy75.com:2015/live/nuh22/nuh22/911.ts
+#EXTINF:-1,KANAL 68
+http://e2.enndy75.com:2015/live/nuh22/nuh22/912.ts
+#EXTINF:-1,KANAL 58
+http://e2.enndy75.com:2015/live/nuh22/nuh22/913.ts
+#EXTINF:-1,KANAL 5
+http://e2.enndy75.com:2015/live/nuh22/nuh22/914.ts
+#EXTINF:-1,KANAL 33
+http://e2.enndy75.com:2015/live/nuh22/nuh22/916.ts
+#EXTINF:-1,KANAL 26
+http://e2.enndy75.com:2015/live/nuh22/nuh22/918.ts
+#EXTINF:-1,KANAL 15
+http://e2.enndy75.com:2015/live/nuh22/nuh22/919.ts
+#EXTINF:-1,HTV HAYAT
+http://e2.enndy75.com:2015/live/nuh22/nuh22/921.ts
+#EXTINF:-1,HRT AKDENIZ
+http://e2.enndy75.com:2015/live/nuh22/nuh22/922.ts
+#EXTINF:-1,HILAL TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/923.ts
+#EXTINF:-1,GENC TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/925.ts
+#EXTINF:-1,EVIN TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/927.ts
+#EXTINF:-1,EDESSA TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/929.ts
+#EXTINF:-1,DOST TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/930.ts
+#EXTINF:-1,DOLUNAY TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/931.ts
+#EXTINF:-1,DENGE TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/932.ts
+#EXTINF:-1,BURSA TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/935.ts
+#EXTINF:-1,BRTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/936.ts
+#EXTINF:-1,BEYKENT TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/937.ts
+#EXTINF:-1,BEST TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/938.ts
+#EXTINF:-1,BEREKET TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/939.ts
+#EXTINF:-1,BALIKESIRTV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/940.ts
+#EXTINF:-1,AKSU TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/942.ts
+#EXTINF:-1,AKSARAY TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/943.ts
+#EXTINF:-1,ABANT TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/945.ts
+#EXTINF:-1,4 EYLUL TV
+http://e2.enndy75.com:2015/live/nuh22/nuh22/947.ts
+#EXTINF:-1,SHOW RADYO
+http://e2.enndy75.com:2015/live/nuh22/nuh22/880.ts
+#EXTINF:-1,VIVA RADYO
+http://e2.enndy75.com:2015/live/nuh22/nuh22/870.ts
+#EXTINF:-1,NR1 TURK FM
+http://e2.enndy75.com:2015/live/nuh22/nuh22/897.ts
+#EXTINF:-1,KRAL FM
+http://e2.enndy75.com:2015/live/nuh22/nuh22/903.ts
+#EXTINF:-1,RADYO EGE
+http://e2.enndy75.com:2015/live/nuh22/nuh22/889.ts
+#EXTINF:-1,SEMERKAND RADYO
+http://e2.enndy75.com:2015/live/nuh22/nuh22/884.ts
+#EXTINF:-1,KARADENIZFM
+http://e2.enndy75.com:2015/live/nuh22/nuh22/905.ts
+#EXTINF:-1,RADYO MUZIK
+http://e2.enndy75.com:2015/live/nuh22/nuh22/888.ts
+#EXTINF:-1,RADYOSLOW
+http://e2.enndy75.com:2015/live/nuh22/nuh22/887.ts
+#EXTINF:-1,Saloon_1
+http://e2.enndy75.com:2015/live/nuh22/nuh22/158.ts
+#EXTINF:-1,Saloon_2
+http://e2.enndy75.com:2015/live/nuh22/nuh22/159.ts
+#EXTINF:-1,Saloon_3
+http://e2.enndy75.com:2015/live/nuh22/nuh22/160.ts
+#EXTINF:-1,WipKorku
+http://e2.enndy75.com:2015/live/nuh22/nuh22/164.ts
+#EXTINF:-1,WipComedy
+http://e2.enndy75.com:2015/live/nuh22/nuh22/163.ts
+#EXTINF:-1,WipCocuk
+http://e2.enndy75.com:2015/live/nuh22/nuh22/162.ts
+#EXTINF:-1,WipAksion
+http://e2.enndy75.com:2015/live/nuh22/nuh22/161.ts
+#EXTINF:-1,WipTurk
+http://e2.enndy75.com:2015/live/nuh22/nuh22/165.ts
+#EXTINF:-1,GaLa
+http://e2.enndy75.com:2015/live/nuh22/nuh22/166.ts
+#EXTINF:-1,GaLa 1
+http://e2.enndy75.com:2015/live/nuh22/nuh22/167.ts
+#EXTINF:-1,GaLa 2
+http://e2.enndy75.com:2015/live/nuh22/nuh22/168.ts
+#EXTINF:-1,GaLa 3
+http://e2.enndy75.com:2015/live/nuh22/nuh22/169.ts
+#EXTINF:-1,GaLa 4
+http://e2.enndy75.com:2015/live/nuh22/nuh22/170.ts
+#EXTINF:-1,GaLa 5
+http://e2.enndy75.com:2015/live/nuh22/nuh22/171.ts
+#EXTINF:-1,GaLa 6
+http://e2.enndy75.com:2015/live/nuh22/nuh22/172.ts
+#EXTINF:-1,GaLa 7
+http://e2.enndy75.com:2015/live/nuh22/nuh22/173.ts
+#EXTINF:-1,GaLa 8
+http://e2.enndy75.com:2015/live/nuh22/nuh22/174.ts
+#EXTINF:-1,GaLa 9
+http://e2.enndy75.com:2015/live/nuh22/nuh22/175.ts
+#EXTINF:-1,GaLa 10
+http://e2.enndy75.com:2015/live/nuh22/nuh22/176.ts
+#EXTINF:-1,GaLa 11
+http://e2.enndy75.com:2015/live/nuh22/nuh22/177.ts
+#EXTINF:-1,GaLa 12
+http://e2.enndy75.com:2015/live/nuh22/nuh22/178.ts
+#EXTINF:-1,GaLa 13
+http://e2.enndy75.com:2015/live/nuh22/nuh22/179.ts
+#EXTINF:-1,GaLa 14
+http://e2.enndy75.com:2015/live/nuh22/nuh22/180.ts
+#EXTINF:-1,Das_Erste
+http://e2.enndy75.com:2015/live/nuh22/nuh22/858.ts
+#EXTINF:-1,ZDF
+http://e2.enndy75.com:2015/live/nuh22/nuh22/827.ts
+#EXTINF:-1,3SAT
+http://e2.enndy75.com:2015/live/nuh22/nuh22/859.ts
+#EXTINF:-1,HR_Fernsehen
+http://e2.enndy75.com:2015/live/nuh22/nuh22/853.ts
+#EXTINF:-1,KABEL_EINS
+http://e2.enndy75.com:2015/live/nuh22/nuh22/852.ts
+#EXTINF:-1,VOX
+http://e2.enndy75.com:2015/live/nuh22/nuh22/828.ts
+#EXTINF:-1,SAT_1
+http://e2.enndy75.com:2015/live/nuh22/nuh22/842.ts
+#EXTINF:-1,RTL
+http://e2.enndy75.com:2015/live/nuh22/nuh22/846.ts
+#EXTINF:-1,RTL_2
+http://e2.enndy75.com:2015/live/nuh22/nuh22/845.ts
+#EXTINF:-1,PRO_SIEBEN
+http://e2.enndy75.com:2015/live/nuh22/nuh22/848.ts
+#EXTINF:-1,Pro_Sieben_Maxx
+http://e2.enndy75.com:2015/live/nuh22/nuh22/847.ts
+#EXTINF:-1,Sixx_Deu
+http://e2.enndy75.com:2015/live/nuh22/nuh22/841.ts
+#EXTINF:-1,SAT1_GOLD
+http://e2.enndy75.com:2015/live/nuh22/nuh22/843.ts
+#EXTINF:-1,RTL_NITRO
+http://e2.enndy75.com:2015/live/nuh22/nuh22/844.ts
+#EXTINF:-1,SUPER_RTL
+http://e2.enndy75.com:2015/live/nuh22/nuh22/831.ts
+#EXTINF:-1,KIKA
+http://e2.enndy75.com:2015/live/nuh22/nuh22/851.ts
+#EXTINF:-1,DISNEY_XD
+http://e2.enndy75.com:2015/live/nuh22/nuh22/854.ts
+#EXTINF:-1,Disney_Cinemagic
+http://e2.enndy75.com:2015/live/nuh22/nuh22/855.ts
+#EXTINF:-1,Disney_Channel
+http://e2.enndy75.com:2015/live/nuh22/nuh22/856.ts
+#EXTINF:-1,Nat_Geo_Wild
+http://e2.enndy75.com:2015/live/nuh22/nuh22/849.ts
+#EXTINF:-1,National_Geographic
+http://e2.enndy75.com:2015/live/nuh22/nuh22/850.ts
+#EXTINF:-1,Discovery
+http://e2.enndy75.com:2015/live/nuh22/nuh22/857.ts
+#EXTINF:-1,Sky_Cinema
+http://e2.enndy75.com:2015/live/nuh22/nuh22/839.ts
+#EXTINF:-1,Sky Cinema +1
+http://e2.enndy75.com:2015/live/nuh22/nuh22/837.ts
+#EXTINF:-1,Sky_CINEMA_24
+http://e2.enndy75.com:2015/live/nuh22/nuh22/838.ts
+#EXTINF:-1,Sky_ACTION
+http://e2.enndy75.com:2015/live/nuh22/nuh22/840.ts
+#EXTINF:-1,Sky_hits
+http://e2.enndy75.com:2015/live/nuh22/nuh22/834.ts
+#EXTINF:-1,Sky_Comedy
+http://e2.enndy75.com:2015/live/nuh22/nuh22/836.ts
+#EXTINF:-1,Sky_Emotion
+http://e2.enndy75.com:2015/live/nuh22/nuh22/835.ts
+#EXTINF:-1,Sky_syfy
+http://e2.enndy75.com:2015/live/nuh22/nuh22/832.ts
+#EXTINF:-1,Sky_Krimi
+http://e2.enndy75.com:2015/live/nuh22/nuh22/833.ts
+#EXTINF:-1,13th_Street_Deu
+http://e2.enndy75.com:2015/live/nuh22/nuh22/860.ts
+#EXTINF:-1,Tnt_serie
+http://e2.enndy75.com:2015/live/nuh22/nuh22/829.ts
+#EXTINF:-1,TLC_Germany
+http://e2.enndy75.com:2015/live/nuh22/nuh22/830.ts
+#EXTINF:-1,sky-sport-news
+http://e2.enndy75.com:2015/live/nuh22/nuh22/94.ts
+#EXTINF:-1,sky-sport-1
+http://e2.enndy75.com:2015/live/nuh22/nuh22/84.ts
+#EXTINF:-1,sky-sport-2
+http://e2.enndy75.com:2015/live/nuh22/nuh22/85.ts
+#EXTINF:-1,sky-sport-3
+http://e2.enndy75.com:2015/live/nuh22/nuh22/86.ts
+#EXTINF:-1,sky-sport-4
+http://e2.enndy75.com:2015/live/nuh22/nuh22/87.ts
+#EXTINF:-1,sky-sport-5
+http://e2.enndy75.com:2015/live/nuh22/nuh22/88.ts
+#EXTINF:-1,sky-sport-6
+http://e2.enndy75.com:2015/live/nuh22/nuh22/89.ts
+#EXTINF:-1,sky-sport-7
+http://e2.enndy75.com:2015/live/nuh22/nuh22/90.ts
+#EXTINF:-1,sky-sport-8
+http://e2.enndy75.com:2015/live/nuh22/nuh22/91.ts
+#EXTINF:-1,sky-sport-9
+http://e2.enndy75.com:2015/live/nuh22/nuh22/92.ts
+#EXTINF:-1,sky-sport-10
+http://e2.enndy75.com:2015/live/nuh22/nuh22/93.ts
+#EXTINF:-1,sky-bundesliga-1
+http://e2.enndy75.com:2015/live/nuh22/nuh22/74.ts
+#EXTINF:-1,sky-bundesliga-2
+http://e2.enndy75.com:2015/live/nuh22/nuh22/75.ts
+#EXTINF:-1,sky-bundesliga-3
+http://e2.enndy75.com:2015/live/nuh22/nuh22/76.ts
+#EXTINF:-1,sky-bundesliga-4
+http://e2.enndy75.com:2015/live/nuh22/nuh22/77.ts
+#EXTINF:-1,sky-bundesliga-5
+http://e2.enndy75.com:2015/live/nuh22/nuh22/78.ts
+#EXTINF:-1,sky-bundesliga-6
+http://e2.enndy75.com:2015/live/nuh22/nuh22/79.ts
+#EXTINF:-1,sky-bundesliga-7
+http://e2.enndy75.com:2015/live/nuh22/nuh22/80.ts
+#EXTINF:-1,sky-bundesliga-8
+http://e2.enndy75.com:2015/live/nuh22/nuh22/81.ts
+#EXTINF:-1,sky-bundesliga-9
+http://e2.enndy75.com:2015/live/nuh22/nuh22/82.ts
+#EXTINF:-1,sky-bundesliga-10
+http://e2.enndy75.com:2015/live/nuh22/nuh22/83.ts
+#EXTINF:-1,sky-sport-austria
+http://e2.enndy75.com:2015/live/nuh22/nuh22/95.ts
+#EXTINF:-1,BEIN SPORT 1
+http://e2.enndy75.com:2015/live/nuh22/nuh22/825.ts
+#EXTINF:-1,BEIN SPORT 2
+http://e2.enndy75.com:2015/live/nuh22/nuh22/826.ts
+#EXTINF:-1,BEIN_SPORTS_3_HD
+http://e2.enndy75.com:2015/live/nuh22/nuh22/8.ts
+#EXTINF:-1,BEIN_SPORTS_4_HD
+http://e2.enndy75.com:2015/live/nuh22/nuh22/9.ts
+#EXTINF:-1,BEIN_SPORTS_5_HD
+http://e2.enndy75.com:2015/live/nuh22/nuh22/12.ts
+#EXTINF:-1,BEIN_SPORTS_6_HD
+http://e2.enndy75.com:2015/live/nuh22/nuh22/13.ts
+#EXTINF:-1,BEIN_SPORTS_7_HD
+http://e2.enndy75.com:2015/live/nuh22/nuh22/14.ts
+#EXTINF:-1,BEIN_SPORTS_8_HD
+http://e2.enndy75.com:2015/live/nuh22/nuh22/15.ts
+#EXTINF:-1,BEIN_SPORTS_9_HD
+http://e2.enndy75.com:2015/live/nuh22/nuh22/16.ts
+#EXTINF:-1,BEIN_SPORTS_10_HD
+http://e2.enndy75.com:2015/live/nuh22/nuh22/17.ts
+#EXTINF:-1,BEIN_SPORTS_11_HD
+http://e2.enndy75.com:2015/live/nuh22/nuh22/18.ts
+#EXTINF:-1,BEIN_SPORTS_12_HD
+http://e2.enndy75.com:2015/live/nuh22/nuh22/19.ts
+#EXTINF:-1,BEIN_SPORTS_13_HD
+http://e2.enndy75.com:2015/live/nuh22/nuh22/20.ts
+#EXTINF:-1,BEINSPORT 1 HD FR
+http://e2.enndy75.com:2015/live/nuh22/nuh22/23.ts
+#EXTINF:-1,BEINSPORT 2 HD FR
+http://e2.enndy75.com:2015/live/nuh22/nuh22/24.ts
+#EXTINF:-1,Disney XD Danmark
+http://e2.enndy75.com:2015/live/nuh22/nuh22/314.ts
+#EXTINF:-1,Disney Channel Danmark
+http://e2.enndy75.com:2015/live/nuh22/nuh22/313.ts
+#EXTINF:-1,TV3Sport2
+http://e2.enndy75.com:2015/live/nuh22/nuh22/284.ts
+#EXTINF:-1,TV3Sport1
+http://e2.enndy75.com:2015/live/nuh22/nuh22/283.ts
+#EXTINF:-1,TV3PULS
+http://e2.enndy75.com:2015/live/nuh22/nuh22/291.ts
+#EXTINF:-1,TV3Dan
+http://e2.enndy75.com:2015/live/nuh22/nuh22/293.ts
+#EXTINF:-1,TV3+
+http://e2.enndy75.com:2015/live/nuh22/nuh22/281.ts
+#EXTINF:-1,TV2Zulu
+http://e2.enndy75.com:2015/live/nuh22/nuh22/285.ts
+#EXTINF:-1,TV2Sportskanalen
+http://e2.enndy75.com:2015/live/nuh22/nuh22/280.ts
+#EXTINF:-1,TV2News
+http://e2.enndy75.com:2015/live/nuh22/nuh22/288.ts
+#EXTINF:-1,TV2Lorry
+http://e2.enndy75.com:2015/live/nuh22/nuh22/296.ts
+#EXTINF:-1,TV2Fri
+http://e2.enndy75.com:2015/live/nuh22/nuh22/287.ts
+#EXTINF:-1,TV2Charlie
+http://e2.enndy75.com:2015/live/nuh22/nuh22/286.ts
+#EXTINF:-1,MTV_DAN
+http://e2.enndy75.com:2015/live/nuh22/nuh22/292.ts
+#EXTINF:-1,Kanal5_DAN
+http://e2.enndy75.com:2015/live/nuh22/nuh22/295.ts
+#EXTINF:-1,Kanal4_DAn
+http://e2.enndy75.com:2015/live/nuh22/nuh22/294.ts
+#EXTINF:-1,EurosportDanmark
+http://e2.enndy75.com:2015/live/nuh22/nuh22/282.ts
+#EXTINF:-1,DR_2
+http://e2.enndy75.com:2015/live/nuh22/nuh22/279.ts
+#EXTINF:-1,DR_1
+http://e2.enndy75.com:2015/live/nuh22/nuh22/278.ts
+#EXTINF:-1,DK4
+http://e2.enndy75.com:2015/live/nuh22/nuh22/289.ts
 
 
 

@@ -753,54 +753,154 @@ http://e2.enndy75.com:2015/live/nuh22/nuh22/289.ts
 
 #EXTINF:-1,[I][B][COLOR green]--- DEUTSCH-KANALE - SKY ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
-#EXTINF:-1 tvg-logo="" tvg-id ="Sky Sport News HD" group-title="Stammsender", Sky Sport News HD 
-http://5be75159.stream4k.cc/hls/ssnhd.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="Sky Sport HD 1" group-title="Stammsender", Sky Sport HD 1 
-http://5be75159.stream4k.cc/hls/sporthd1.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="Sky Sport HD 2" group-title="Stammsender", Sky Sport HD 2 
-http://5be75159.stream4k.cc/hls/sporthd2.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="Sky Bundesliga HD 1" group-title="Stammsender", Sky Bundesliga HD 1 
-http://5be75159.stream4k.cc/hls/bund1.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="Sky Bundesliga HD 2“ group-title="Stammsender", Sky Bundesliga HD 2 
-http://5be75159.stream4k.cc/hls/bund2.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id ="Sky Bundesliga HD 3“ group-title="Stammsender", Sky Bundesliga HD 3 
-http://5be75159.stream4k.cc/hls/bund3.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id ="Sky Bundesliga HD 4“ group-title="Stammsender", Sky Bundesliga HD 4 
-http://5be75159.stream4k.cc/hls/bund4.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id ="Sky Bundesliga HD 5“ group-title="Stammsender", Sky Bundesliga HD 5 
-http://5be75159.stream4k.cc/hls/bund5.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id ="Sky Bundesliga HD 6“ group-title="Stammsender", Sky Bundesliga HD 6 
-http://5be75159.stream4k.cc/hls/bund6.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id ="id19" group-title="Event", Sky Bundesliga HD 1 HQ 
-http://5be75159.stream4k.cc/hls/bund1hq.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="id7" group-title="Event", Eurosport 2 HD 
-http://5be75159.stream4k.cc/hls/eurosport2.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="id6" group-title="Event", Sport1+ HD 
-http://5be75159.stream4k.cc/hls/sport1+.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="cinema" group-title="Event", Sky Cinema 
-http://5be75159.stream4k.cc/hls/cinema.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="Discovery HD" group-title="Event", Discovery HD 
-http://5be75159.stream4k.cc/hls/discovery.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="id5" group-title="Event", Sport1 US HD 
-http://5be75159.stream4k.cc/hls/sportus.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="id19" group-title="Event", Eurosport HD 
-http://5be75159.stream4k.cc/hls/eurosport1.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="id19" group-title="Event", National Geo Wild HD 
-http://5be75159.stream4k.cc/hls/nationalwild.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="atlantic" group-title="Event", Sky Atlantic 
-http://5be75159.stream4k.cc/hls/atlantic.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="id19" group-title="Event", National Geo HD 
-http://5be75159.stream4k.cc/hls/national.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="foxhd" group-title="Event", FOX HD 
-http://5be75159.stream4k.cc/hls/foxhd.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="id19" group-title="Event", Sky Hits HD 
-http://5be75159.stream4k.cc/hls/007.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="id19" group-title="Event", Mobile Stream 
-http://5be75159.stream4k.cc/hls/mobile.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="id19" group-title="Event", History HD 
-http://5be75159.stream4k.cc/hls/history.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id ="id19" group-title="Event", TNTserie HD 
-http://5be75159.stream4k.cc/hls/tntserie.m3u8
+#EXTINF:-1,ExtreamSports DE
+http://tornado-ultra.noip.me:8000/live/dante/dante/4603.m3u8
+#EXTINF:-1,DE:Eurosport HD
+http://tornado-ultra.noip.me:8000/live/dante/dante/8565.m3u8
+#EXTINF:-1,DE:Sky Cinema
+http://tornado-ultra.noip.me:8000/live/dante/dante/8465.m3u8
+#EXTINF:-1,DE:SKY Cinema 1
+http://tornado-ultra.noip.me:8000/live/dante/dante/8466.m3u8
+#EXTINF:-1,DE:Sky Cinema 24
+http://tornado-ultra.noip.me:8000/live/dante/dante/8467.m3u8
+#EXTINF:-1,DE:SKY Cinema Emotion
+http://tornado-ultra.noip.me:8000/live/dante/dante/8464.m3u8
+#EXTINF:-1,Teleclub cinema
+http://tornado-ultra.noip.me:8000/live/dante/dante/4566.m3u8
+#EXTINF:-1,Teleclub star
+http://tornado-ultra.noip.me:8000/live/dante/dante/4568.m3u8
+#EXTINF:-1,Teleclub crime
+http://tornado-ultra.noip.me:8000/live/dante/dante/4567.m3u8
+#EXTINF:-1,DE:Sky Comedy
+http://tornado-ultra.noip.me:8000/live/dante/dante/8463.m3u8
+#EXTINF:-1,DE:Sky TNT Serie
+http://tornado-ultra.noip.me:8000/live/dante/dante/8448.m3u8
+#EXTINF:-1,DE:Sky Natgeo Wild
+http://tornado-ultra.noip.me:8000/live/dante/dante/8454.m3u8
+#EXTINF:-1,DE:SKY NatGeo
+http://tornado-ultra.noip.me:8000/live/dante/dante/8455.m3u8
+#EXTINF:-1,DE:Sky Sci-Fi
+http://tornado-ultra.noip.me:8000/live/dante/dante/8452.m3u8
+#EXTINF:-1,DE:SKY Nostalgie
+http://tornado-ultra.noip.me:8000/live/dante/dante/8453.m3u8
+#EXTINF:-1,DE:Sky Krimi
+http://tornado-ultra.noip.me:8000/live/dante/dante/8456.m3u8
+#EXTINF:-1,DE:SKY Junior
+http://tornado-ultra.noip.me:8000/live/dante/dante/8457.m3u8
+#EXTINF:-1,DE:Sky Disney XD
+http://tornado-ultra.noip.me:8000/live/dante/dante/8461.m3u8
+#EXTINF:-1,DE:Nick Jr
+http://tornado-ultra.noip.me:8000/live/dante/dante/8472.m3u8
+#EXTINF:-1,DE:Disney Channel
+http://tornado-ultra.noip.me:8000/live/dante/dante/8568.m3u8
+#EXTINF:-1,DE:Sky Hits
+http://tornado-ultra.noip.me:8000/live/dante/dante/8458.m3u8
+#EXTINF:-1,DE:Sky Heimakanal
+http://tornado-ultra.noip.me:8000/live/dante/dante/8459.m3u8
+#EXTINF:-1,DE:Sky Fox
+http://tornado-ultra.noip.me:8000/live/dante/dante/8460.m3u8
+#EXTINF:-1,DE:Sky Discovery
+http://tornado-ultra.noip.me:8000/live/dante/dante/8462.m3u8
+#EXTINF:-1,DE:Sky Atlantic
+http://tornado-ultra.noip.me:8000/live/dante/dante/8468.m3u8
+#EXTINF:-1,DE:Sky Action
+http://tornado-ultra.noip.me:8000/live/dante/dante/8469.m3u8
+#EXTINF:-1,DE:RTL Passion
+http://tornado-ultra.noip.me:8000/live/dante/dante/8470.m3u8
+#EXTINF:-1,DE:RTL Crime
+http://tornado-ultra.noip.me:8000/live/dante/dante/8471.m3u8
+#EXTINF:-1,DE:MGM
+http://tornado-ultra.noip.me:8000/live/dante/dante/8473.m3u8
+#EXTINF:-1,DE:Arte HD
+http://tornado-ultra.noip.me:8000/live/dante/dante/5208.m3u8
+#EXTINF:-1,DE:Animal Plan
+http://tornado-ultra.noip.me:8000/live/dante/dante/8474.m3u8
+#EXTINF:-1,DE: Sky Planet HD
+http://tornado-ultra.noip.me:8000/live/dante/dante/4607.m3u8
+#EXTINF:-1,DE: FOX HD
+http://tornado-ultra.noip.me:8000/live/dante/dante/4601.m3u8
+#EXTINF:-1,DE:Zdf HD
+http://tornado-ultra.noip.me:8000/live/dante/dante/8526.m3u8
+#EXTINF:-1,DE:WDR HD
+http://tornado-ultra.noip.me:8000/live/dante/dante/8527.m3u8
+#EXTINF:-1,DE:Vox
+http://tornado-ultra.noip.me:8000/live/dante/dante/8528.m3u8
+#EXTINF:-1,DE:Universal Channel HD
+http://tornado-ultra.noip.me:8000/live/dante/dante/8529.m3u8
+#EXTINF:-1,DE:TNT Film HD
+http://tornado-ultra.noip.me:8000/live/dante/dante/8530.m3u8
+#EXTINF:-1,DE:SYFY HD
+http://tornado-ultra.noip.me:8000/live/dante/dante/8531.m3u8
+#EXTINF:-1,DE:Sky Action HD
+http://tornado-ultra.noip.me:8000/live/dante/dante/8542.m3u8
+#EXTINF:-1,DE:Sixx
+http://tornado-ultra.noip.me:8000/live/dante/dante/8553.m3u8
+#EXTINF:-1,DE:Sat 1
+http://tornado-ultra.noip.me:8000/live/dante/dante/8554.m3u8
+#EXTINF:-1,DE:RTL Nitro
+http://tornado-ultra.noip.me:8000/live/dante/dante/8555.m3u8
+#EXTINF:-1,DE:RTL 2
+http://tornado-ultra.noip.me:8000/live/dante/dante/8556.m3u8
+#EXTINF:-1,DE:RTL
+http://tornado-ultra.noip.me:8000/live/dante/dante/8557.m3u8
+#EXTINF:-1,DE:Pro 7 HD
+http://tornado-ultra.noip.me:8000/live/dante/dante/8558.m3u8
+#EXTINF:-1,DE:N-TV
+http://tornado-ultra.noip.me:8000/live/dante/dante/8560.m3u8
+#EXTINF:-1,DE:MGM HD
+http://tornado-ultra.noip.me:8000/live/dante/dante/8561.m3u8
+#EXTINF:-1,DE:M6 HD
+http://tornado-ultra.noip.me:8000/live/dante/dante/8562.m3u8
+#EXTINF:-1,DE:Kabel 1
+http://tornado-ultra.noip.me:8000/live/dante/dante/8563.m3u8
+#EXTINF:-1,DE:History  HD
+http://tornado-ultra.noip.me:8000/live/dante/dante/8564.m3u8
+#EXTINF:-1,DE:Discovery Channel HD
+http://tornado-ultra.noip.me:8000/live/dante/dante/8569.m3u8
+#EXTINF:-1,DE:Axn HD
+http://tornado-ultra.noip.me:8000/live/dante/dante/8571.m3u8
+#EXTINF:-1,DE:Ard
+http://tornado-ultra.noip.me:8000/live/dante/dante/8572.m3u8
+#EXTINF:-1,DE:A&E
+http://tornado-ultra.noip.me:8000/live/dante/dante/8573.m3u8
+#EXTINF:-1,DE:3 Sat HD
+http://tornado-ultra.noip.me:8000/live/dante/dante/8575.m3u8
+#EXTINF:-1,DE:Sky Select 1
+http://tornado-ultra.noip.me:8000/live/dante/dante/8541.m3u8
+#EXTINF:-1,DE:Sky Select 2
+http://tornado-ultra.noip.me:8000/live/dante/dante/8540.m3u8
+#EXTINF:-1,DE:Sky Select 3
+http://tornado-ultra.noip.me:8000/live/dante/dante/8539.m3u8
+#EXTINF:-1,DE:Sky Select 4
+http://tornado-ultra.noip.me:8000/live/dante/dante/8538.m3u8
+#EXTINF:-1,DE:Sky Select 5
+http://tornado-ultra.noip.me:8000/live/dante/dante/8537.m3u8
+#EXTINF:-1,DE:Sky Select 6
+http://tornado-ultra.noip.me:8000/live/dante/dante/8536.m3u8
+#EXTINF:-1,DE:Sky Select 7
+http://tornado-ultra.noip.me:8000/live/dante/dante/8535.m3u8
+#EXTINF:-1,DE:Sky Select 8
+http://tornado-ultra.noip.me:8000/live/dante/dante/8534.m3u8
+#EXTINF:-1,DE:Sky Bundesliga 1 HD
+http://tornado-ultra.noip.me:8000/live/dante/dante/8552.m3u8
+#EXTINF:-1,DE:Sky Bundesliga 2 HD
+http://tornado-ultra.noip.me:8000/live/dante/dante/8550.m3u8
+#EXTINF:-1,DE:Sky Bundesliga 3 HD
+http://tornado-ultra.noip.me:8000/live/dante/dante/8549.m3u8
+#EXTINF:-1,DE:Sky Bundesliga 4 HD
+http://tornado-ultra.noip.me:8000/live/dante/dante/8548.m3u8
+#EXTINF:-1,DE:Sky Bundesliga 5 HD
+http://tornado-ultra.noip.me:8000/live/dante/dante/8547.m3u8
+#EXTINF:-1,DE:Sky Bundesliga 6 HD
+http://tornado-ultra.noip.me:8000/live/dante/dante/8546.m3u8
+#EXTINF:-1,DE:Sky Bundesliga 7 HD
+http://tornado-ultra.noip.me:8000/live/dante/dante/8545.m3u8
+#EXTINF:-1,DE:Sky Bundesliga 8 HD
+http://tornado-ultra.noip.me:8000/live/dante/dante/8544.m3u8
+#EXTINF:-1,DE:Sky Bundesliga 9 HD
+http://tornado-ultra.noip.me:8000/live/dante/dante/8543.m3u8
+#EXTINF:-1,DE:Sky Bundesliga 10 HD
+http://tornado-ultra.noip.me:8000/live/dante/dante/8551.m3u8
 
 
 #EXTINF:-1,[COLOR yellow]--- ARABIC IPTV ---[/COLOR]

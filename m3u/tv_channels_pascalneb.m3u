@@ -3,18 +3,6 @@
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1,LIGTV 1 HD
-http://panelpro.iptvyayin.com:8080/live/haldun/haldun/2.m3u8
-#EXTINF:-1,LIGTV1 HD
-http://panelpro.iptvyayin.com:8080/live/haldun/haldun/51.m3u8
-#EXTINF:-1,LIG TV 2 HD
-http://panelpro.iptvyayin.com:8080/live/haldun/haldun/3.m3u8
-#EXTINF:-1,LIG TV 3 HD
-http://panelpro.iptvyayin.com:8080/live/haldun/haldun/4.m3u8
-#EXTINF:-1,LIGTV 4 HD
-http://panelpro.iptvyayin.com:8080/live/haldun/haldun/220.m3u8
-#EXTINF:-1,SINEMA MUSİC HD
-http://51.255.7.123:1935/nettv/nettv/playlist.m3u8
 #EXTINF:0,TRT HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
 #EXTINF:0,TRT 1 HD
@@ -133,364 +121,183 @@ http://origin.live.web.tv.streamprovider.net/live/852843e69184bd2c2146ae50e7aba5
 http://origin.live.web.tv.streamprovider.net/live/e0abd0b3943ae7bbcff8e3b570ef4612_live_0_0/index.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",4 Karamel
 http://trt-i.mncdn.com:1935/karamel/karamel/chunklist_w59601545.m3u8
-#EXTINF:-1 group-title="Turki",AZ TV Azerbaycan
-http://origin2.live.web.tv.streamprovider.net/streams/7646c80bc1b8b8b007e7649c1f1a1204/index.m3u8
-#EXTINF:0,[COLOR blue]TRT EL ARABIA HD[/COLOR]
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:0803 tvg-id="trtavaz.tr" group-title="TR Genel Kanallar" tvg-logo="800602.png", [COLOR orangered]TRT AVAZ HD[/COLOR]
-http://hls.tv.iptv.ink/trtavaztr@800602.m3u8|X-Forwarded-For=37.34.18.55
-#EXTINF:0804 tvg-id="trtkurdi.tr" group-title="TR Genel Kanallar" tvg-logo="707556.png", [COLOR orangered]TRT KURDÎ HD[/COLOR]
-http://hls.tv.iptv.ink/trtkurditr@707556.m3u8|X-Forwarded-For=37.34.18.55
-#EXTINF:0805 tvg-id="trtokul.tr" group-title="TR Genel Kanallar" tvg-logo="976101.png", [COLOR orangered]TRT OKUL HD[/COLOR]
-http://hls.tv.iptv.ink/trtokultr@976101.m3u8|X-Forwarded-For=37.34.18.55
-#EXTINF:-1,TRT WORLD HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1,TRT DIYANET
-http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
-#EXTINF:0808 tvg-id="trt3.tr" group-title="TR Genel Kanallar" tvg-logo="370171.png", [COLOR orange]TRT 3 - TBMM TV[/COLOR]
-http://hls.tv.iptv.ink/trt3tr@370171.m3u8|X-Forwarded-For=37.34.18.55
-#EXTINF:-1,[COLOR yellow]--- Samanyolu Grubu ---[/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1,SAMANYOLU TV
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5132.m3u8
-#EXTINF:-1,SAMANYOLU AVRUPA
-http://www.dailymotion.com/video/x39w53p_samanyolu-tv-canli-yayin-izle_tv
-#EXTINF:-1,SAMANYOLU HABER
-http://www.iptvsaga.com/play/tv3/0040.m3u8
-#EXTINF:-1,Bugün TV HD
-http://buguntv-live.ercdn.com/buguntv.m3u8
-#EXTINF:-1,IRMAK TV HD
-http://cds.z2q7i5m7.hwcdn.net/asset/7uDFqi51/chunklist_720.m3u8
-#EXTINF:-1,TR: Lig TV 1
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1225.ts
-#EXTINF:-1,TR:YABAN TV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/739.ts
-#EXTINF:-1,TR: SineMAX_FeaR_HD
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1473.ts
-#EXTINF:-1,TR: SINEMAX EROTIC
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1472.ts
-#EXTINF:-1,TR: SINETIVI HD
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1430.ts
-#EXTINF:-1,TR: Sinema TV 2 HD
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1432.ts
-#EXTINF:-1,TR: Sinema TV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1431.ts
-#EXTINF:-1,TR: SALON 3
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1429.ts
-#EXTINF:-1,TR: SALON 2
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1428.ts
-#EXTINF:-1,TR: SALON 1
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1427.ts
-#EXTINF:-1,TR: Magic Box ASK
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1423.ts
-#EXTINF:-1,TR: Magic Box 2
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1422.ts
-#EXTINF:-1,TR: Magic Box 1
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1421.ts
-#EXTINF:-1,TR: Loca 3
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1426.ts
-#EXTINF:-1,TR: Loca 2
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1425.ts
-#EXTINF:-1,TR: Loca 1
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1424.ts
-#EXTINF:-1,TR: CINE_VIZYON
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1418.ts
-#EXTINF:-1,TR: CINE_TURK
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1419.ts
-#EXTINF:-1,TR: CINE_AKSIYON
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1417.ts
-#EXTINF:-1,TR: CINEGOLD_SPESIAL
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1420.ts
-#EXTINF:-1,TR: CINEGOLD_4
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1416.ts
-#EXTINF:-1,TR: CINEGOLD_3
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1415.ts
-#EXTINF:-1,TR: CINEGOLD_2
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1414.ts
-#EXTINF:-1,TR: CINEGOLD_1
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1413.ts
-#EXTINF:-1,TR:TV5
-http://s2.satsoft.info:18000/live/ahmed/ahmed/740.ts
-#EXTINF:-1,TR:TV4
-http://s2.satsoft.info:18000/live/ahmed/ahmed/741.ts
-#EXTINF:-1,TR:TV2
-http://s2.satsoft.info:18000/live/ahmed/ahmed/742.ts
-#EXTINF:-1,TR:TV 10
-http://s2.satsoft.info:18000/live/ahmed/ahmed/743.ts
-#EXTINF:-1,TR:TRT SPOR
-http://s2.satsoft.info:18000/live/ahmed/ahmed/744.ts
-#EXTINF:-1,TR:TRT HD
-http://s2.satsoft.info:18000/live/ahmed/ahmed/745.ts
-#EXTINF:-1,TR:Ulusal_Kanal
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1252.ts
-#EXTINF:-1,TR:Ulke_TV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1241.ts
-#EXTINF:-1,TR:TV_Kayseri
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1259.ts
-#EXTINF:-1,TR:TV8
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1237.m3u8
-#EXTINF:-1,TR:TRT_Turk
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1249.ts
-#EXTINF:-1,TR:TRT_Diyanet
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1276.ts
-#EXTINF:-1,TR:TRT1
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1248.ts
-#EXTINF:-1,TR:TLC
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1253.ts
-#EXTINF:-1,TR:TGRT_Haber
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1245.ts
-#EXTINF:-1,TR:TGRT
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1244.m3u8
-#EXTINF:-1,TR:Star_TV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1235.m3u8
-#EXTINF:-1,TR:Show_TV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1234.m3u8
-#EXTINF:-1,TR:Semerkand_TV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1277.ts
-#EXTINF:-1,TR:Samanyolu_TV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1247.m3u8
-#EXTINF:-1,TR:Planet_Pembe
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1255.ts
-#EXTINF:-1,TR:Planet_Mutfak
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1256.ts
-#EXTINF:-1,TR:Mavi_Karadeniz
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1264.ts
-#EXTINF:-1,TR:Kon_TV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1260.ts
-#EXTINF:-1,TR:Karadeniz_TV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1262.ts
-#EXTINF:-1,TR:Kanal_Urfa
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1268.ts
-#EXTINF:-1,TR:Kanal_D
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1233.ts
-#EXTINF:-1,TR:Kanal_B
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1251.ts
-#EXTINF:-1,TR:Kanal_A
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1243.ts
-#EXTINF:-1,TR:Kanal_7
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1238.ts
-#EXTINF:-1,TR:Kanal_68
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1275.ts
-#EXTINF:-1,TR:Kanal_58
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1274.ts
-#EXTINF:-1,TR:Kanalturk
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1246.ts
-#EXTINF:-1,TR:Kackar_TV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1265.ts
-#EXTINF:-1,TR:Hilal_TV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1280.ts
-#EXTINF:-1,TR:HaberTurk
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1240.ts
-#EXTINF:-1,TR:Fox_TV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1236.ts
-#EXTINF:-1,TR:Flash_TV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1257.ts
-#EXTINF:-1,TR:FiL_TV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1254.ts
-#EXTINF:-1,TR:Ege_TV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1258.ts
-#EXTINF:-1,TR:DRT_Denizli
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1263.ts
-#EXTINF:-1,TR:Dost_TV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1279.ts
-#EXTINF:-1,TR:Ciftci_TV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1269.ts
-#EXTINF:-1,TR:Cem_TV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1267.ts
-#EXTINF:-1,TR:Cay_TV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1266.ts
-#EXTINF:-1,TR:Bloomberg_HT
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1250.ts
-#EXTINF:-1,TR:Beyaz_TV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1242.ts
-#EXTINF:-1,TR:A_Haber
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1239.ts
-#EXTINF:-1,TR:ATV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1232.m3u8
-#EXTINF:-1,TR:Adana_Koza_TV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/1261.ts
-#EXTINF:-1,TR:TRT HABER HD
-http://s2.satsoft.info:18000/live/ahmed/ahmed/746.ts
-#EXTINF:-1,TR:STV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/763.ts
-#EXTINF:-1,TR:POWER TURK
-http://s2.satsoft.info:18000/live/ahmed/ahmed/747.ts
-#EXTINF:-1,TR:NUMBER ONE TURK TV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/748.ts
-#EXTINF:-1,TR:NTV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/758.ts
-#EXTINF:-1,TR:KANAL 5
-http://s2.satsoft.info:18000/live/ahmed/ahmed/750.ts
-#EXTINF:-1,TR:KANAL 2000
-http://s2.satsoft.info:18000/live/ahmed/ahmed/751.ts
-#EXTINF:-1,TR:IMC TV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/752.ts
-#EXTINF:-1,TR:GENC TV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/753.ts
-#EXTINF:-1,TR:GAZIANTEP OLAY TV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/754.ts
-#EXTINF:-1,TR:EGE TV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/755.ts
-#EXTINF:-1,TR:e2
-http://s2.satsoft.info:18000/live/ahmed/ahmed/756.ts
-#EXTINF:-1,TR:CNN TURK
-http://s2.satsoft.info:18000/live/ahmed/ahmed/757.ts
-#EXTINF:-1,TR:BARIS TV
-http://s2.satsoft.info:18000/live/ahmed/ahmed/759.ts
-#EXTINF:-1,TR:A SPOR
-http://s2.satsoft.info:18000/live/ahmed/ahmed/760.ts
-#EXTINF:-1,TR:360
-http://s2.satsoft.info:18000/live/ahmed/ahmed/761.ts
+#EXTINF:-1,TR: ULKE TV HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1704.m3u8
+#EXTINF:-1,TR: TV 8 HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1709.m3u8
+#EXTINF:-1,TR: STAR TV YEDEK
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1707.m3u8
+#EXTINF:-1,TR: SHOW TV HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1710.m3u8
+#EXTINF:-1,TR: SHOW HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1399.m3u8
+#EXTINF:-1,TR: Samanyolu TV
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1233.m3u8
+#EXTINF:-1,TR: Salon 1
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1368.m3u8
+#EXTINF:-1,TR: Salon 2
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1367.m3u8
+#EXTINF:-1,TR: NTV Spor
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1667.m3u8
+#EXTINF:-1,TR: NTV
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1714.m3u8
+#EXTINF:-1,TR: MovieSmart Family HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1666.m3u8
+#EXTINF:-1,TR: Kral Pop
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1663.m3u8
+#EXTINF:-1,TR: KANAL D HD YEDEK
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1732.m3u8
+#EXTINF:-1,TR: Kanal D HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1238.m3u8
+#EXTINF:-1,TR: Kanal 7 HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1403.m3u8
+#EXTINF:-1,TR: KANAL 7 AVRUPA
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1708.m3u8
+#EXTINF:-1,TR: Kanal 24
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1240.m3u8
+#EXTINF:-1,TR: FOX TV HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1711.m3u8
+#EXTINF:-1,TR: Filma X Premier HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1371.m3u8
+#EXTINF:-1,TR: DREAM TURK
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1417.m3u8
+#EXTINF:-1,TR: Dream TV
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1418.m3u8
+#EXTINF:-1,TR: CNN TURK HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1408.m3u8
+#EXTINF:-1,TR: Bugun TV
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1662.m3u8
+#EXTINF:-1,TR: Beyaz TV
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1247.m3u8
+#EXTINF:-1,TR: ATV HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1248.m3u8
+
+
 #EXTINF:-1,[I][B][COLOR green]--- DEUTSCH-KANALE - SKY ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
-#EXTINF:-1,ExtreamSports DE
-http://tornado-ultra.noip.me:8000/live/dante/dante/4603.m3u8
-#EXTINF:-1,DE:Eurosport HD
-http://tornado-ultra.noip.me:8000/live/dante/dante/8565.m3u8
-#EXTINF:-1,DE:Sky Cinema
-http://tornado-ultra.noip.me:8000/live/dante/dante/8465.m3u8
-#EXTINF:-1,DE:SKY Cinema 1
-http://tornado-ultra.noip.me:8000/live/dante/dante/8466.m3u8
-#EXTINF:-1,DE:Sky Cinema 24
-http://tornado-ultra.noip.me:8000/live/dante/dante/8467.m3u8
-#EXTINF:-1,DE:SKY Cinema Emotion
-http://tornado-ultra.noip.me:8000/live/dante/dante/8464.m3u8
-#EXTINF:-1,Teleclub cinema
-http://tornado-ultra.noip.me:8000/live/dante/dante/4566.m3u8
-#EXTINF:-1,Teleclub star
-http://tornado-ultra.noip.me:8000/live/dante/dante/4568.m3u8
-#EXTINF:-1,Teleclub crime
-http://tornado-ultra.noip.me:8000/live/dante/dante/4567.m3u8
-#EXTINF:-1,DE:Sky Comedy
-http://tornado-ultra.noip.me:8000/live/dante/dante/8463.m3u8
-#EXTINF:-1,DE:Sky TNT Serie
-http://tornado-ultra.noip.me:8000/live/dante/dante/8448.m3u8
-#EXTINF:-1,DE:Sky Natgeo Wild
-http://tornado-ultra.noip.me:8000/live/dante/dante/8454.m3u8
-#EXTINF:-1,DE:SKY NatGeo
-http://tornado-ultra.noip.me:8000/live/dante/dante/8455.m3u8
-#EXTINF:-1,DE:Sky Sci-Fi
-http://tornado-ultra.noip.me:8000/live/dante/dante/8452.m3u8
-#EXTINF:-1,DE:SKY Nostalgie
-http://tornado-ultra.noip.me:8000/live/dante/dante/8453.m3u8
-#EXTINF:-1,DE:Sky Krimi
-http://tornado-ultra.noip.me:8000/live/dante/dante/8456.m3u8
-#EXTINF:-1,DE:SKY Junior
-http://tornado-ultra.noip.me:8000/live/dante/dante/8457.m3u8
-#EXTINF:-1,DE:Sky Disney XD
-http://tornado-ultra.noip.me:8000/live/dante/dante/8461.m3u8
-#EXTINF:-1,DE:Nick Jr
-http://tornado-ultra.noip.me:8000/live/dante/dante/8472.m3u8
-#EXTINF:-1,DE:Disney Channel
-http://tornado-ultra.noip.me:8000/live/dante/dante/8568.m3u8
-#EXTINF:-1,DE:Sky Hits
-http://tornado-ultra.noip.me:8000/live/dante/dante/8458.m3u8
-#EXTINF:-1,DE:Sky Heimakanal
-http://tornado-ultra.noip.me:8000/live/dante/dante/8459.m3u8
-#EXTINF:-1,DE:Sky Fox
-http://tornado-ultra.noip.me:8000/live/dante/dante/8460.m3u8
-#EXTINF:-1,DE:Sky Discovery
-http://tornado-ultra.noip.me:8000/live/dante/dante/8462.m3u8
-#EXTINF:-1,DE:Sky Atlantic
-http://tornado-ultra.noip.me:8000/live/dante/dante/8468.m3u8
-#EXTINF:-1,DE:Sky Action
-http://tornado-ultra.noip.me:8000/live/dante/dante/8469.m3u8
-#EXTINF:-1,DE:RTL Passion
-http://tornado-ultra.noip.me:8000/live/dante/dante/8470.m3u8
-#EXTINF:-1,DE:RTL Crime
-http://tornado-ultra.noip.me:8000/live/dante/dante/8471.m3u8
-#EXTINF:-1,DE:MGM
-http://tornado-ultra.noip.me:8000/live/dante/dante/8473.m3u8
-#EXTINF:-1,DE:Arte HD
-http://tornado-ultra.noip.me:8000/live/dante/dante/5208.m3u8
-#EXTINF:-1,DE:Animal Plan
-http://tornado-ultra.noip.me:8000/live/dante/dante/8474.m3u8
-#EXTINF:-1,DE: Sky Planet HD
-http://tornado-ultra.noip.me:8000/live/dante/dante/4607.m3u8
-#EXTINF:-1,DE: FOX HD
-http://tornado-ultra.noip.me:8000/live/dante/dante/4601.m3u8
-#EXTINF:-1,DE:Zdf HD
-http://tornado-ultra.noip.me:8000/live/dante/dante/8526.m3u8
-#EXTINF:-1,DE:WDR HD
-http://tornado-ultra.noip.me:8000/live/dante/dante/8527.m3u8
-#EXTINF:-1,DE:Vox
-http://tornado-ultra.noip.me:8000/live/dante/dante/8528.m3u8
-#EXTINF:-1,DE:Universal Channel HD
-http://tornado-ultra.noip.me:8000/live/dante/dante/8529.m3u8
-#EXTINF:-1,DE:TNT Film HD
-http://tornado-ultra.noip.me:8000/live/dante/dante/8530.m3u8
-#EXTINF:-1,DE:SYFY HD
-http://tornado-ultra.noip.me:8000/live/dante/dante/8531.m3u8
-#EXTINF:-1,DE:Sky Action HD
-http://tornado-ultra.noip.me:8000/live/dante/dante/8542.m3u8
-#EXTINF:-1,DE:Sixx
-http://tornado-ultra.noip.me:8000/live/dante/dante/8553.m3u8
-#EXTINF:-1,DE:Sat 1
-http://tornado-ultra.noip.me:8000/live/dante/dante/8554.m3u8
-#EXTINF:-1,DE:RTL Nitro
-http://tornado-ultra.noip.me:8000/live/dante/dante/8555.m3u8
-#EXTINF:-1,DE:RTL 2
-http://tornado-ultra.noip.me:8000/live/dante/dante/8556.m3u8
-#EXTINF:-1,DE:RTL
-http://tornado-ultra.noip.me:8000/live/dante/dante/8557.m3u8
-#EXTINF:-1,DE:Pro 7 HD
-http://tornado-ultra.noip.me:8000/live/dante/dante/8558.m3u8
-#EXTINF:-1,DE:N-TV
-http://tornado-ultra.noip.me:8000/live/dante/dante/8560.m3u8
-#EXTINF:-1,DE:MGM HD
-http://tornado-ultra.noip.me:8000/live/dante/dante/8561.m3u8
-#EXTINF:-1,DE:M6 HD
-http://tornado-ultra.noip.me:8000/live/dante/dante/8562.m3u8
-#EXTINF:-1,DE:Kabel 1
-http://tornado-ultra.noip.me:8000/live/dante/dante/8563.m3u8
-#EXTINF:-1,DE:History  HD
-http://tornado-ultra.noip.me:8000/live/dante/dante/8564.m3u8
-#EXTINF:-1,DE:Discovery Channel HD
-http://tornado-ultra.noip.me:8000/live/dante/dante/8569.m3u8
-#EXTINF:-1,DE:Axn HD
-http://tornado-ultra.noip.me:8000/live/dante/dante/8571.m3u8
-#EXTINF:-1,DE:Ard
-http://tornado-ultra.noip.me:8000/live/dante/dante/8572.m3u8
-#EXTINF:-1,DE:A&E
-http://tornado-ultra.noip.me:8000/live/dante/dante/8573.m3u8
-#EXTINF:-1,DE:3 Sat HD
-http://tornado-ultra.noip.me:8000/live/dante/dante/8575.m3u8
-#EXTINF:-1,DE:Sky Select 1
-http://tornado-ultra.noip.me:8000/live/dante/dante/8541.m3u8
-#EXTINF:-1,DE:Sky Select 2
-http://tornado-ultra.noip.me:8000/live/dante/dante/8540.m3u8
-#EXTINF:-1,DE:Sky Select 3
-http://tornado-ultra.noip.me:8000/live/dante/dante/8539.m3u8
-#EXTINF:-1,DE:Sky Select 4
-http://tornado-ultra.noip.me:8000/live/dante/dante/8538.m3u8
-#EXTINF:-1,DE:Sky Select 5
-http://tornado-ultra.noip.me:8000/live/dante/dante/8537.m3u8
-#EXTINF:-1,DE:Sky Select 6
-http://tornado-ultra.noip.me:8000/live/dante/dante/8536.m3u8
-#EXTINF:-1,DE:Sky Select 7
-http://tornado-ultra.noip.me:8000/live/dante/dante/8535.m3u8
-#EXTINF:-1,DE:Sky Select 8
-http://tornado-ultra.noip.me:8000/live/dante/dante/8534.m3u8
-#EXTINF:-1,DE:Sky Bundesliga 1 HD
-http://tornado-ultra.noip.me:8000/live/dante/dante/8552.m3u8
-#EXTINF:-1,DE:Sky Bundesliga 2 HD
-http://tornado-ultra.noip.me:8000/live/dante/dante/8550.m3u8
-#EXTINF:-1,DE:Sky Bundesliga 3 HD
-http://tornado-ultra.noip.me:8000/live/dante/dante/8549.m3u8
-#EXTINF:-1,DE:Sky Bundesliga 4 HD
-http://tornado-ultra.noip.me:8000/live/dante/dante/8548.m3u8
-#EXTINF:-1,DE:Sky Bundesliga 5 HD
-http://tornado-ultra.noip.me:8000/live/dante/dante/8547.m3u8
-#EXTINF:-1,DE:Sky Bundesliga 6 HD
-http://tornado-ultra.noip.me:8000/live/dante/dante/8546.m3u8
-#EXTINF:-1,DE:Sky Bundesliga 7 HD
-http://tornado-ultra.noip.me:8000/live/dante/dante/8545.m3u8
-#EXTINF:-1,DE:Sky Bundesliga 8 HD
-http://tornado-ultra.noip.me:8000/live/dante/dante/8544.m3u8
-#EXTINF:-1,DE:Sky Bundesliga 9 HD
-http://tornado-ultra.noip.me:8000/live/dante/dante/8543.m3u8
-#EXTINF:-1,DE:Sky Bundesliga 10 HD
-http://tornado-ultra.noip.me:8000/live/dante/dante/8551.m3u8
+
+
+#EXTINF:-1,>>>>>GERMANY<<<<<
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/837.m3u8
+#EXTINF:-1,DE: ZDF
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1504.m3u8
+#EXTINF:-1,DE: ZDF Info HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1506.m3u8
+#EXTINF:-1,DE: VOX
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1193.m3u8
+#EXTINF:-1,DE: Super RTL HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1514.m3u8
+#EXTINF:-1,DE: SRF 1 HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1583.m3u8
+#EXTINF:-1,DE: Sixx
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1581.m3u8
+#EXTINF:-1,DE: Prosieben HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1540.m3u8
+#EXTINF:-1,DE: N24
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1472.m3u8
+#EXTINF:-1,DE: DMAX
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1579.m3u8
+#EXTINF:-1,DE: Austria 24
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1468.m3u8
+#EXTINF:-1,DE: Anixe
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1535.m3u8
+#EXTINF:-1,DE: 13th Street
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1550.m3u8
+#EXTINF:-1,DE: Kabel 1
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/959.m3u8
+#EXTINF:-1,DE: Das Erste
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/917.m3u8
+#EXTINF:-1,DE: KIKA HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/963.m3u8
+#EXTINF:-1,DE: Sat 1
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1056.m3u8
+#EXTINF:-1,DE: ORF 1 HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1002.m3u8
+#EXTINF:-1,DE: RTL HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1048.m3u8
+#EXTINF:-1,DE: RTL 2
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1047.m3u8
+#EXTINF:-1,DE: TNT Serie HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1515.m3u8
+#EXTINF:-1,DE: TNT Film
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1584.m3u8
+#EXTINF:-1,DE: Sky Action HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1522.m3u8
+#EXTINF:-1,DE: Sky Atlantic
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1062.m3u8
+#EXTINF:-1,DE: Sky Hits
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1094.m3u8
+#EXTINF:-1,DE: Sky MGM HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1087.m3u8
+#EXTINF:-1,DE: Sky Emotion
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1554.m3u8
+#EXTINF:-1,DE: Sky Cinema HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1517.m3u8
+#EXTINF:-1,DE: Sky Cinema 24
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1067.m3u8
+#EXTINF:-1,DE: Sky Krimi
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1086.m3u8
+#EXTINF:-1,DE: Sky Junior HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1085.m3u8
+#EXTINF:-1,DE: Sky History Channel HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1084.m3u8
+#EXTINF:-1,DE: Sky Disney Cinemagic HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1082.m3u8
+#EXTINF:-1,DE: Sky Comedy
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1081.m3u8
+#EXTINF:-1,DE: Sky National Geographic HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1089.m3u8
+#EXTINF:-1,DE: Sky NatGeo Wild HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1088.m3u8
+#EXTINF:-1,UK: Sky Syfy
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1123.m3u8
+#EXTINF:-1,DE: Sky Select 1 HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1101.m3u8
+#EXTINF:-1,DE: Sky Select 2 HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1558.m3u8
+#EXTINF:-1,DE: Sky Select 3 HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1103.m3u8
+#EXTINF:-1,DE: Sky Select 4 HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1104.m3u8
+#EXTINF:-1,DE: Sky Select 5 HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1105.m3u8
+#EXTINF:-1,DE: Sky Select 6 HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1562.m3u8
+#EXTINF:-1,DE: Eurosport 1
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1498.m3u8
+#EXTINF:-1,UK: EuroSport 2
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/921.m3u8
+#EXTINF:-1,DE: Sportdigital HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1497.m3u8
+#EXTINF:-1,DE: Sky Germany Sport News HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1091.m3u8
+#EXTINF:-1,DE: SKY Sport News HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1493.m3u8
+#EXTINF:-1,DE: Sport Time 1 HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1127.m3u8
+#EXTINF:-1,DE: Sport Time 2 HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1139.m3u8
+#EXTINF:-1,DE: Sport Time 3 HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1140.m3u8
+#EXTINF:-1,DE: Sport Time 4 HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1141.m3u8
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1106.m3u8
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1495.m3u8
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1499.m3u8
+#EXTINF:-1,DE: Sky Bundesliga 2 HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1077.m3u8
+#EXTINF:-1,DE: Sky Bundesliga 3 HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1078.m3u8
+#EXTINF:-1,DE: Sky Bundesliga 4 HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1079.m3u8
+#EXTINF:-1,DE: Sky Bundesliga 5 HD
+http://ksportiptv.com:1557/live/BesnikMa/MalajCh/1080.m3u8
+
+
+
 
 
 #EXTINF:-1,[COLOR yellow]--- ARABIC IPTV ---[/COLOR]
@@ -839,126 +646,7 @@ http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
 #EXTINF:-1,[COLOR yellow]Portugal TV [/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,PT-TVI SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3442.ts
-#EXTINF:-1,PT-TVI 24  SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3443.ts
-#EXTINF:-1,PT-TV SERIES  HD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3444.ts
-#EXTINF:-1,PT-TV GLOBO PORTUGAL  SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3445.ts
-#EXTINF:-1,PT-TV CINE 4 HD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3446.ts
-#EXTINF:-1,PT-TV CINE 3  HD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3447.ts
-#EXTINF:-1,PT-TV CINE 2  HD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3448.ts
-#EXTINF:-1,PT-TV CINE 1  HD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3449.ts
-#EXTINF:-1,PT-TOROS TV SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3450.ts
-#EXTINF:-1,PT-SYFY SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3451.ts
-#EXTINF:-1,PT-SPORTING TV  SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3452.ts
-#EXTINF:-1,PT-SPORT TV AMERICAS ( Canal de Internet )
-http://cp.dmbshare.net:8000/live/whelan/whelan/3453.ts
-#EXTINF:-1,PT-SPORT TV 5  SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3454.ts
-#EXTINF:-1,PT-SPORT TV 4  HD  720p
-http://cp.dmbshare.net:8000/live/whelan/whelan/3455.ts
-#EXTINF:-1,PT-SPORT TV 3 HD  720p
-http://cp.dmbshare.net:8000/live/whelan/whelan/3458.ts
-#EXTINF:-1,PT-SPORT TV 2  HD  720p
-http://cp.dmbshare.net:8000/live/whelan/whelan/3456.ts
-#EXTINF:-1,PT-SPORT TV 1 HD 720p
-http://cp.dmbshare.net:8000/live/whelan/whelan/3457.ts
-#EXTINF:-1,PT-SIC SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3459.ts
-#EXTINF:-1,PT-SIC NOTICIAS  SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3460.ts
-#EXTINF:-1,PT-SIC CARAS  SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3461.ts
-#EXTINF:-1,PT-RTP INTERNACIONAL SD ( Canal Internet )
-http://cp.dmbshare.net:8000/live/whelan/whelan/3462.ts
-#EXTINF:-1,PT-RTP INFORMAÇÃO  SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3463.ts
-#EXTINF:-1,PT-RTP 2  SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3464.ts
-#EXTINF:-1,PT-RTP 1  SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3465.ts
-#EXTINF:-1,PT-REAL MADRID TV SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3466.ts
-#EXTINF:-1,PT-PORTO CANAL  SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3467.ts
-#EXTINF:-1,PT-PANDA SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3468.ts
-#EXTINF:-1,PT-ODISSEIA SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3469.ts
-#EXTINF:-1,PT-NICKELODEON  SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3470.ts
-#EXTINF:-1,PT-NATIONAL GEOGRAPHIC HD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3471.ts
-#EXTINF:-1,PT-NAT GEO WILD  SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3472.ts
-#EXTINF:-1,PT-MOV  HD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3473.ts
-#EXTINF:-1,PT-MOTORS TV SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3474.ts
-#EXTINF:-1,PT-HOLLYWOD SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3475.ts
-#EXTINF:-1,PT-FOX NEWS SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3476.ts
-#EXTINF:-1,PT-FOX MOVIES  SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3477.ts
-#EXTINF:-1,PT-FOX LIFE  HD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3478.ts
-#EXTINF:-1,PT-FOX CRIME  HD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3479.ts
-#EXTINF:-1,PT-FOX  HD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3480.ts
-#EXTINF:-1,PT-EUROSPORT 2 SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3481.ts
-#EXTINF:-1,PT-EUROSPORT  HD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3482.ts
-#EXTINF:-1,PT-E! ENTERTAINMENT  SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3483.ts
-#EXTINF:-1,PT-DISNEY JUNIOR SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3484.ts
-#EXTINF:-1,PT-DISNEY CHANNEL SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3485.ts
-#EXTINF:-1,PT-DISCOVERY SHOWCASE HD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3486.ts
-#EXTINF:-1,PT-DISCOVERY CHANNEL  SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3487.ts
-#EXTINF:-1,PT-CMTV  SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3488.ts
-#EXTINF:-1,PT-CINEMUNDO  SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3489.ts
-#EXTINF:-1,PT-CHELSEA TV SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3490.ts
-#EXTINF:-1,PT-CARTOON NETWORK  SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3491.ts
-#EXTINF:-1,PT-CANAL Q  SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3492.ts
-#EXTINF:-1,PT-CANAL HISTORIA SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3493.ts
-#EXTINF:-1,PT-CACA E PESCA SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3494.ts
-#EXTINF:-1,PT-BENFICA TV 2 HD   720p
-http://cp.dmbshare.net:8000/live/whelan/whelan/3495.ts
-#EXTINF:-1,PT-BENFICA TV 1  HD 720p
-http://cp.dmbshare.net:8000/live/whelan/whelan/3496.ts
-#EXTINF:-1,PT-BABY TV SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3497.ts
-#EXTINF:-1,PT-AXN  HD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3498.ts
-#EXTINF:-1,PT-AMC  SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3499.ts
-#EXTINF:-1,PT-A&E SD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3500.ts
-#EXTINF:-1,PT-24 Kitchen  HD
-http://cp.dmbshare.net:8000/live/whelan/whelan/3501.ts
+
 #EXTINF:-1,[COLOR yellow]GENERALISTAS [/COLOR]
 http://0.0.0.0:1234
 

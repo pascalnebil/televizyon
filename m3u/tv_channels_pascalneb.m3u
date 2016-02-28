@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red]13.02.2016: Ugur Engine sonsuz tesekürler 1-88 arasi kanallarin keyfini cikarin  [/COLOR]
+#EXTINF:-1,[COLOR red]28.02.2016 Samanyolu Duzeltilmistir .   [/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
-#EXTINF:0,TRT HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
+#EXTINF:0,SAMANYOLU HD
+http://stream-ec.vty.dailymotion.com/02/dm/1/x39w53p/live.isml/events(live-1456499222)/live-audio=128000-video=700000.m3u8
 #EXTINF:0,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:0834 tvg-id="trtspor.tr" group-title="TR Spor Kanalları" tvg-logo="371098.png", [COLOR orangered]TRT SPOR HD[/COLOR]

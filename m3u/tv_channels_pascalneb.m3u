@@ -24,11 +24,11 @@ http://www.iptvsaga.com/play/tv3/0045.m3u8
 #EXTINF:-1,SHOW TURK
 http://mn-l.mncdn.com:1935/showturktv/showturktv1/playlist.m3u8
 #EXTINF:0,XX ATV HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5125.m3u8
+rtmp://live.atv.com.tr/atv/
 #EXTINF:-1,XX A HABER HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5150.m3u8
+rtmp://37.220.3.66/atveu/atveu3
 #EXTINF:0,XX Star TV
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5126.m3u8
+rtmp://80.243.190.226/atveu/atveu3
 #EXTINF:0,XX Star TV HD
 http://188.72.131.226/star.m3u8
 #EXTINF:-1,XX TV 8 HD
@@ -47,13 +47,11 @@ http://live-ciner.mncdn.net/haberturk/haberturk2/master.m3u8
 http://livetr.gostream.nl/ulketvhq/ulketvhq/master.m3u8
 #EXTINF:0,KANAL 7 HD
 http://livetr.gostream.nl/kanal7hq/kanal7hq/ratus42.m3u8
-#EXTINF:-1,BLOOMBERG HT m3u8
+#EXTINF:-1,BLOOMBERG HT
 http://mn-l.mncdn.com/bloomberght/bloomberght2/HasBahCa.m3u8
-#EXTINF:-1,BUGÜN 1280*738
-http://buguntv-live.ercdn.com/buguntv1.m3u8
-#EXTINF:-1,IRMAK TV 1280*720
+#EXTINF:-1,IRMAK TV
 http://cds.z2q7i5m7.hwcdn.net/asset/7uDFqi51/chunklist_720.m3u8
-#EXTINF:-1,MEDENIYET TV 1280*720
+#EXTINF:-1,MEDENIYET TV
 http://nl-1-ms-origin.noccdn.com/cdn/53bf0671059c1/playlist.m3u8
 #EXTINF:-1,SEMERKAND HD
 http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/radyodelisi.m3u8
@@ -102,8 +100,12 @@ mms://yayin.networkbil.com/cizgifilmtv
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",4 Karamel
 http://trt-i.mncdn.com:1935/karamel/karamel/chunklist_w59601545.m3u8
-#EXTINF:-1,PLANET ÇOCUK rtmp
+#EXTINF:-1,PLANET ÇOCUK
 rtmp://77.223.146.117/live/planetc
+#EXTINF:-1,PLANET TÜRK
+rtmp://77.223.146.117/live/planett
+#EXTINF:-1,Samanyolu Avrupa
+rtmp://fml.ams.1B3E.edgecastcdn.net/201B3E/STVEU1
 
 #EXTINF:-1,[I][B][COLOR green]--- Deneme.  ---[/COLOR][/B][/I]
 http://0.0.0.0:1234

@@ -109,7 +109,34 @@ rtmp://77.223.146.117/live/planett
 http://0.0.0.0:1234
 
 
-
+#EXTINF:-1,GERMAN:ZDF
+rtmp://s1.stream-server.org:1935/live/zdf.stream
+#EXTINF:-1,GERMAN:SAT 1
+rtmp://s2.stream-server.org:1935/live/sat1.stream
+#EXTINF:-1,GERMAN:RTL
+rtmp://s2.stream-server.org:1935/live/rtl.stream
+#EXTINF:-1,GERMAN:RTL 2
+rtmp://s4.stream-server.org:1935/live/rtl2.stream
+#EXTINF:-1,GERMAN:PRO 7
+rtmp://s1.stream-server.org:1935/live/pro7.stream
+#EXTINF:-1,GERMAN:VOX
+rtmp://s5.stream-server.org:1935/live/vox.stream
+#EXTINF:-1,GERMAN:DMAX
+rtmp://s1.stream-server.org:1935/live/dmax.stream
+#EXTINF:-1,GERMAN:SUPER RTL
+rtmp://s4.stream-server.org:1935/live/superrtl.stream
+#EXTINF:-1,GERMAN:RTL NITRO
+rtmp://s4.stream-server.org:1935/live/rtlnitro.stream
+#EXTINF:-1,GERMAN:3 SAT
+rtmp://s1.stream-server.org:1935/live/3sat.stream
+#EXTINF:-1,GERMAN:ZDF NEO
+rtmp://server.az1.stream-server.org:1935/live/zdfneo.stream
+#EXTINF:-1,GERMAN:EUROSPORT
+rtmp://s1.stream-server.org:1935/live/eurosport.stream
+#EXTINF:-1,GERMAN: ARTE
+rtmp://s4.stream-server.org:1935/live/arte.stream
+#EXTINF:-1,GERMAN:KIKA
+rtmp://s5.stream-server.org:1935/live/kika.stream
 
 
 

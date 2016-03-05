@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red]28.02.2016 Samanyolu Duzeltilmistir .   [/COLOR]
+#EXTINF:-1,[COLOR red]Admin (Can Toprakalti) 05.03.2016 Seyirtürk sorunsuz calismakta burada temizlik yapilacaktir .   [/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
-#EXTINF:0,SAMANYOLU HD
-http://stream-ec.vty.dailymotion.com/02/dm/1/x39w53p/live.isml/events(live-1456499222)/live-audio=128000-video=700000.m3u8
 #EXTINF:0,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:0834 tvg-id="trtspor.tr" group-title="TR Spor Kanalları" tvg-logo="371098.png", [COLOR orangered]TRT SPOR HD[/COLOR]
@@ -15,9 +13,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
 #EXTINF:0,[COLOR blue]TRT Muzik HD[/COLOR]
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:0,KANAL D HD
-http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
-#EXTINF:-1,KANAL D HD 2
+#EXTINF:-1,KANAL D HD
 http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
 #EXTINF:0,SHOW TV HD
 http://live-ciner.mncdn.net/showtv/showtv2/master.m3u8
@@ -37,50 +33,18 @@ http://188.72.131.226/star.m3u8
 http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5129.m3u8
 #EXTINF:-1,TV 8
 http://iptv-supplier.com:8000/live/henri/henri/397.m3u8
-#EXTINF: -1, İdman Tv
-http://188.72.131.226/idman.m3u8
 #EXTINF:0,CNN TuRK HD News
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:0,Ntv
-http://31.177.62.132:9024
-#EXTINF:0,NTV Spor
-http://origin.live.web.tv.streamprovider.net/live/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
-#EXTINF: -1, NTV Spor 2
-http://188.72.131.226/ntvspor.m3u8
-#EXTINF:-1,A SPOR
-http://origin2.live.web.tv.streamprovider.net/live/a6784af7d08a9c91dbfa0e4eab17e3bf_live_0_0/index.m3u8
 #EXTINF:0828 tvg-id="beyazittv.tr" group-title="TR Haber Kanalları" tvg-logo="536958.png", [COLOR olivedrab]Beyaz TV[/COLOR]
 http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
-#EXTINF:0,FOX HD
-http://panelpro.iptvyayin.com:8080/live/haldun/haldun/209.m3u8
 #EXTINF:0,KANALTuRK HD News
 http://kanalturk-live.ercdn.com/kanalturk1.m3u8
 #EXTINF:0,HABERTuRKNews
 http://live-ciner.mncdn.net/haberturk/haberturk2/master.m3u8
-#EXTINF:-1, CINERAMA 
-http://origin2.live.web.tv.streamprovider.net/live/63b6f16ae8d3cbb98af11a442e118605/index.m3u8
-#EXTINF:-1, [COLOR olivedrab]SINEMA HD[/COLOR]
-mms://yayin7.canliyayin.org/sinema
-#EXTINF:-1, [COLOR olivedrab]SINEMA Turk HD[/COLOR]
-mms://yayin7.canliyayin.org/sinematurk
-#EXTINF:-1, [COLOR olivedrab]Kanal M[/COLOR]
-mms://yayin.networkbil.com/kanalm
-#EXTINF:-1, [COLOR olivedrab]SINEMA 3 HD[/COLOR]
-mms://yayin7.canliyayin.org/sinema3
-#EXTINF:-1, [COLOR olivedrab]SINEMA 4 HD[/COLOR]
-mms://yayin7.canliyayin.org/sinema4
-#EXTINF:-1, [COLOR olivedrab]SINEMA 5 HD[/COLOR]
-mms://yayin7.canliyayin.org/sinema5
-#EXTINF:-1, [COLOR olivedrab]SINEMA 6 HD[/COLOR]
-mms://yayin7.canliyayin.org/sinema6
 #EXTINF:0,uLKE TV HD
 http://livetr.gostream.nl/ulketvhq/ulketvhq/master.m3u8
 #EXTINF:0,KANAL 7 HD
 http://livetr.gostream.nl/kanal7hq/kanal7hq/ratus42.m3u8
-#EXTINF:0,TV2 Movie-Entertainment
-http://212.224.80.84/S2/HLS_LIVE/tv2/track_4_1000/playlist.m3u8
-#EXTINF:0,Fil TV Movie
-http://tvlive.web.tv.streamprovider.net/akamairtmp/2daa5524735b98a7ab51ddd48663a474_live_0_0/chunklist.m3u8
 #EXTINF:0,POWER TV HD Music
 http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
 #EXTINF:-1,BURSASPOR TV
@@ -93,10 +57,6 @@ rtmp://stream.taksimbilisim.com/mavikaradeniz//bant1
 rtmp://mn-l.mncdn.com/birnumaramedya_live//nr1_turk.sdp
 #EXTINF:0,VATAN TV
 rtmp://188.124.1.135/vatan//vatan
-#EXTINF:-1,TV2
-http://212.224.80.79//S2/HLS_LIVE/tv2/track_4_1000/playlist.m3u8?
-#EXTINF:-1,CNNTURK
-http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1,HILAL TV
 http://yayin8.canliyayin.org:1935/hilaltv/hilaltv/ratus42.m3u8
 #EXTINF:-1,24 TV
@@ -111,301 +71,30 @@ http://188.165.239.200:7088/
 http://livetr.gostream.nl/mekke/mekke/HasBahCa.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",MEDINE TV
 http://livede.gostream.nl/medine/medine/playlist.m3u8
+#EXTINF:-1, [COLOR olivedrab]SINEMA HD[/COLOR]
+mms://yayin7.canliyayin.org/sinema
+#EXTINF:-1, [COLOR olivedrab]SINEMA Turk HD[/COLOR]
+mms://yayin7.canliyayin.org/sinematurk
+#EXTINF:-1, [COLOR olivedrab]Kanal M[/COLOR]
+mms://yayin.networkbil.com/kanalm
+#EXTINF:-1, [COLOR olivedrab]SINEMA 3 HD[/COLOR]
+mms://yayin7.canliyayin.org/sinema3
+#EXTINF:-1, [COLOR olivedrab]SINEMA 4 HD[/COLOR]
+mms://yayin7.canliyayin.org/sinema4
+#EXTINF:-1, [COLOR olivedrab]SINEMA 5 HD[/COLOR]
+mms://yayin7.canliyayin.org/sinema5
+#EXTINF:-1, [COLOR olivedrab]SINEMA 6 HD[/COLOR]
+mms://yayin7.canliyayin.org/sinema6
 #EXTINF:-1, [COLOR olivedrab]CIZGI FILM TV[/COLOR]
 mms://yayin.networkbil.com/cizgifilmtv
 #EXTINF:0,TRT cocuk Kid
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:-1,PLANET ÇOCUK
-http://origin.live.web.tv.streamprovider.net/live/852843e69184bd2c2146ae50e7aba5c3_live_0_0/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://origin.live.web.tv.streamprovider.net/live/e0abd0b3943ae7bbcff8e3b570ef4612_live_0_0/index.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",4 Karamel
 http://trt-i.mncdn.com:1935/karamel/karamel/chunklist_w59601545.m3u8
 
 #EXTINF:-1,[I][B][COLOR green]--- Deneme.  ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
 
-
-#EXTM3U
-
-#EXTINF:-1,DE: Sky Select 9 HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/7625.m3u8
-#EXTINF:-1,DE: Sky Select 8 HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/7626.m3u8
-#EXTINF:-1,DE: Sky Select 7 HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/7627.m3u8
-#EXTINF:-1,DE: Sky Select 6 HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/7628.m3u8
-#EXTINF:-1,DE: Sky select 5 HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/7629.m3u8
-#EXTINF:-1,DE: Sky select 4 HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/7630.m3u8
-#EXTINF:-1,DE: Sky select 3 HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/7631.m3u8
-#EXTINF:-1,DE: Sky select 2 HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/7632.m3u8
-#EXTINF:-1,DE: Sky select 1 HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/7633.m3u8
-#EXTINF:-1,DE: Sport DigiTal HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3841.m3u8
-#EXTINF:-1,DE: RTL II
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3826.m3u8
-#EXTINF:-1,DE: RTL I
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3825.m3u8
-#EXTINF:-1,DE: BR
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3828.m3u8
-#EXTINF:-1,DE: Arte
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3827.m3u8
-#EXTINF:-1,DE: Spiegel Geschichte HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3621.m3u8
-#EXTINF:-1,DE: Disney Channel
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3622.m3u8
-#EXTINF:-1,DE: ZDF Info HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3438.m3u8
-#EXTINF:-1,DE: ZDF NEO HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3453.m3u8
-#EXTINF:-1,DE: Wdr HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3442.m3u8
-#EXTINF:-1,DE: SWR HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3439.m3u8
-#EXTINF:-1,DE: Super RTL
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3456.m3u8
-#EXTINF:-1,DE: EuroSport
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3435.m3u8
-#EXTINF:-1,DE: Sky TNT Serie HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3421.m3u8
-#EXTINF:-1,DE: Sky TNT Film HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3422.m3u8
-#EXTINF:-1,DE: National Geographic HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3419.m3u8
-#EXTINF:-1,DE: Sky NatGeo Wild HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3433.m3u8
-#EXTINF:-1,DE: Sky MGM HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3423.m3u8
-#EXTINF:-1,DE: Sky Krimi
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3429.m3u8
-#EXTINF:-1,DE: Sky Hits
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3203.m3u8
-#EXTINF:-1,DE: Sky History Channel
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3424.m3u8
-#EXTINF:-1,DE: Sky Fox HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3425.m3u8
-#EXTINF:-1,DE: Sky Discovery Channel HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3426.m3u8
-#EXTINF:-1,DE: Sky Comedy
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3430.m3u8
-#EXTINF:-1,DE: Sky Cinema HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3420.m3u8
-#EXTINF:-1,DE: Sky DMAX
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3431.m3u8
-#EXTINF:-1,DE: Sky Cinema Plus 1 HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3434.m3u8
-#EXTINF:-1,DE: Sky BundesLiga 1 HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3436.m3u8
-#EXTINF:-1,DE: Sky Action HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3432.m3u8
-#EXTINF:-1,DE: Sky 13 Street HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3428.m3u8
-#EXTINF:-1,DE: RTL Crime
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3202.m3u8
-#EXTINF:-1,DE: ProSieben
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3455.m3u8
-#EXTINF:-1,DE: 4 Plus HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3437.m3u8
-#EXTINF:-1,DE: Blizz HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3447.m3u8
-#EXTINF:-1,DE: SRF1
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3446.m3u8
-#EXTINF:-1,DE: Ndr HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3443.m3u8
-#EXTINF:-1,DE: SYFY
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3204.m3u8
-#EXTINF:-1,DE: N24 HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3448.m3u8
-#EXTINF:-1,DE: N-TV
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3449.m3u8
-#EXTINF:-1,DE: SRF2
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3440.m3u8
-#EXTINF:-1,DE: Sky Sport 1 US HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3450.m3u8
-#EXTINF:-1,DE: Phoenix
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3454.m3u8
-#EXTINF:-1,DE: PRO7 MAXX
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3444.m3u8
-#EXTINF:-1,DE: ANIXE HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3445.m3u8
-#EXTINF:-1,DE: ARD HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3451.m3u8
-#EXTINF:-1,DE: FOX HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/3452.m3u8
-#EXTINF:-1,DE: ZDF
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1629.m3u8
-#EXTINF:-1,DE: VOX
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1630.m3u8
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1480.m3u8
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1479.m3u8
-#EXTINF:-1,DE: Sky Emotion
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1631.m3u8
-#EXTINF:-1,DE: Sky Cinema Plus 24
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1633.m3u8
-#EXTINF:-1,DE: Sky Cinema
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1634.m3u8
-#EXTINF:-1,DE: Sky Atlantic
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1635.m3u8
-#EXTINF:-1,DE: Sat 1
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1637.m3u8
-#EXTINF:-1,DE: RTL Nitro
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1639.m3u8
-#EXTINF:-1,DE: Pro 7
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1642.m3u8
-#EXTINF:-1,DE: ORF Eins
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1643.m3u8
-#EXTINF:-1,DE: ORF 2
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1644.m3u8
-#EXTINF:-1,DE: Atlantic HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1645.m3u8
-#EXTINF:-1,DE: Nat Geo Wild
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1646.m3u8
-#EXTINF:-1,DE: Kika
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1648.m3u8
-#EXTINF:-1,DE: Kabel 1
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1649.m3u8
-#EXTINF:-1,DE: Servus TV HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1650.m3u8
-#EXTINF:-1,DE: Discovery
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/1651.m3u8
-
-#EXTINF:-1,TR: TRT Bugun TV
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5990.m3u8
-#EXTINF:-1,TR: Tivibu Spor 2 HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5988.m3u8
-#EXTINF:-1,TR: Tivibu Spor 1 HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5987.m3u8
-#EXTINF:-1,TR: Fashion
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5981.m3u8
-#EXTINF:-1,TR: Loca 3
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5984.m3u8
-#EXTINF:-1,TR: Loca 2
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5983.m3u8
-#EXTINF:-1,TR: Loca 1
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5982.m3u8
-#EXTINF:-1,TR: Smart Sport 2
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5210.m3u8
-#EXTINF:-1,TR: Smart Sport 1
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5209.m3u8
-#EXTINF:-1,TR: Planet Mutfak
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5170.m3u8
-#EXTINF:-1,TR: National Geographic Wild
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5166.m3u8
-#EXTINF:-1,TR: National Geographic Channel
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5165.m3u8
-#EXTINF:-1,TR: Nat Geo People
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5167.m3u8
-#EXTINF:-1,TR: Disney Channel HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5172.m3u8
-#EXTINF:-1,TR: TRT Muzik
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5171.m3u8
-#EXTINF:-1,TR: Discovery Science
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5163.m3u8
-#EXTINF:-1,TR: Discovery Channel
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5164.m3u8
-#EXTINF:-1,TR: KRAL
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5112.m3u8
-#EXTINF:-1,TR: ULKE TV HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5144.m3u8
-#EXTINF:-1,TR: TV 8
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5129.m3u8
-#EXTINF:-1,TR: TRT 1 HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5121.m3u8
-#EXTINF:-1,TR: TRT TÜRK
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5161.m3u8
-#EXTINF:-1,TR: TRT SPOR SD/HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5122.m3u8
-#EXTINF:-1,TR: TRT DIYANET
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5156.m3u8
-#EXTINF:-1,TR: TRT BELGESEL
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5145.m3u8
-#EXTINF:-1,TR: TRT ÇOCUK
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5123.m3u8
-#EXTINF:-1,TR: Vizyon tv1
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5154.m3u8
-#EXTINF:-1,TR: Vuzion tv2
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5152.m3u8
-#EXTINF:-1,TR: TV2
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5146.m3u8
-#EXTINF:-1,TR: STAR TV
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5126.m3u8
-#EXTINF:-1,TR: Beyaz TV
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5137.m3u8
-#EXTINF:-1,TR: TURKMAX
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5116.m3u8
-#EXTINF:-1,TR: SHOW TV
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5127.m3u8
-#EXTINF:-1,TR: SEMERKAND HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5147.m3u8
-#EXTINF:-1,TR: SAMANYOLU
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5132.m3u8
-#EXTINF:-1,TR: SALON 3
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5120.m3u8
-#EXTINF:-1,TR: SALON 2
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5119.m3u8
-#EXTINF:-1,TR: SALON 1
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5118.m3u8
-#EXTINF:-1,TR: NTVSPOR
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5135.m3u8
-#EXTINF:-1,TR: NTV
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5134.m3u8
-#EXTINF:-1,TR: MİNİKA GO
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5139.m3u8
-#EXTINF:-1,TR: MOViESMART_PREMIUM
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5117.m3u8
-#EXTINF:-1,TR: KRAL POP
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5113.m3u8
-#EXTINF:-1,TR: SKYTURK 360
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5114.m3u8
-#EXTINF:-1,TR: MOViEMAX FESTİFAL HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5115.m3u8
-#EXTINF:-1,TR: Planet Cocuk
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5140.m3u8
-#EXTINF:-1,TR: KANALTURK
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5143.m3u8
-#EXTINF:-1,TR: KANAL D HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5124.m3u8
-#EXTINF:-1,TR: KANAL A
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5148.m3u8
-#EXTINF:-1,TR: KANAL 7 SD/HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5131.m3u8
-#EXTINF:-1,TR: History Channel
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5162.m3u8
-#EXTINF:-1,TR: FOX
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5128.m3u8
-#EXTINF:-1,TR: E2
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5136.m3u8
-#EXTINF:-1,TR: Disney Junior
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5141.m3u8
-#EXTINF:-1,TR: DREAM TURK
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5142.m3u8
-#EXTINF:-1,TR: CNNTURK
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5149.m3u8
-#EXTINF:-1,TR: CINE 5
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5130.m3u8
-#EXTINF:-1,TR: CARTONNETWORK
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5138.m3u8
-#EXTINF:-1,TR: ATV HD
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5125.m3u8
-#EXTINF:-1,TR: A HABER
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5150.m3u8
-#EXTINF:-1,TR: A SPOR
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5133.m3u8
-
-#EXTINF:-1,VIP: LIG TV HD 1 TR
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/6412.m3u8
-#EXTINF:-1,VIP: LIG TV HD 2 TR
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/6413.m3u8
-#EXTINF:-1,VIP: LIG TV HD 3 TR
-http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/6414.m3u8
 
 
 
@@ -756,10 +445,6 @@ http://63.237.48.23/ios/MBC2/MBC2.m3u8
 http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
 
 #EXTINF:-1,[COLOR yellow]Portugal TV [/COLOR]
-http://0.0.0.0:1234
-
-
-#EXTINF:-1,[COLOR yellow]GENERALISTAS [/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="RTP 1" tvg-logo="RTP1.png" group-title="Canais Portugal",[I][B]RTP 1[/B][/I]

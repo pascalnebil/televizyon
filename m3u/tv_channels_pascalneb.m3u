@@ -3,6 +3,8 @@
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
+#EXTINF:-1,DHA
+http://live.netd.com.tr/S1/HLS_LIVE/dha1/index.m3u8
 #EXTINF:0,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:0834 tvg-id="trtspor.tr" group-title="TR Spor Kanalları" tvg-logo="371098.png", [COLOR orangered]TRT SPOR HD[/COLOR]
@@ -21,17 +23,17 @@ http://live-ciner.mncdn.net/showtv/showtv2/master.m3u8
 http://www.iptvsaga.com/play/tv3/0045.m3u8
 #EXTINF:-1,SHOW TURK
 http://mn-l.mncdn.com:1935/showturktv/showturktv1/playlist.m3u8
-#EXTINF:0,ATV HD
+#EXTINF:0,XX ATV HD
 http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5125.m3u8
-#EXTINF:-1,A HABER HD
+#EXTINF:-1,XX A HABER HD
 http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5150.m3u8
-#EXTINF:0,Star TV
+#EXTINF:0,XX Star TV
 http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5126.m3u8
-#EXTINF:0,Star TV HD
+#EXTINF:0,XX Star TV HD
 http://188.72.131.226/star.m3u8
-#EXTINF:-1,TV 8 HD
+#EXTINF:-1,XX TV 8 HD
 http://portal.rapidiptv.com:8080/live/pascalnebil@gmail.com1/qy8hN7YubC/5129.m3u8
-#EXTINF:-1,TV 8
+#EXTINF:-1,XX TV 8
 http://iptv-supplier.com:8000/live/henri/henri/397.m3u8
 #EXTINF:0,CNN TuRK HD News
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
@@ -45,6 +47,17 @@ http://live-ciner.mncdn.net/haberturk/haberturk2/master.m3u8
 http://livetr.gostream.nl/ulketvhq/ulketvhq/master.m3u8
 #EXTINF:0,KANAL 7 HD
 http://livetr.gostream.nl/kanal7hq/kanal7hq/ratus42.m3u8
+#EXTINF:-1,BLOOMBERG HT m3u8
+http://mn-l.mncdn.com/bloomberght/bloomberght2/HasBahCa.m3u8
+#EXTINF:-1,BUGÜN 1280*738
+http://buguntv-live.ercdn.com/buguntv1.m3u8
+#EXTINF:-1,IRMAK TV 1280*720
+http://cds.z2q7i5m7.hwcdn.net/asset/7uDFqi51/chunklist_720.m3u8
+#EXTINF:-1,MEDENIYET TV 1280*720
+http://nl-1-ms-origin.noccdn.com/cdn/53bf0671059c1/playlist.m3u8
+#EXTINF:-1,SEMERKAND HD
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/radyodelisi.m3u8
+
 #EXTINF:0,POWER TV HD Music
 http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
 #EXTINF:-1,BURSASPOR TV
@@ -53,8 +66,6 @@ http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
 http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
 #EXTINF:0,MAVI KARADENIZ TV
 rtmp://stream.taksimbilisim.com/mavikaradeniz//bant1
-#EXTINF:0,NUMBER ONE TURK
-rtmp://mn-l.mncdn.com/birnumaramedya_live//nr1_turk.sdp
 #EXTINF:0,VATAN TV
 rtmp://188.124.1.135/vatan//vatan
 #EXTINF:-1,HILAL TV
@@ -91,6 +102,8 @@ mms://yayin.networkbil.com/cizgifilmtv
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",4 Karamel
 http://trt-i.mncdn.com:1935/karamel/karamel/chunklist_w59601545.m3u8
+#EXTINF:-1,PLANET ÇOCUK rtmp
+rtmp://77.223.146.117/live/planetc
 
 #EXTINF:-1,[I][B][COLOR green]--- Deneme.  ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
@@ -502,6 +515,18 @@ http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
 
 #EXTINF:-1,[I][B]TVI[/B][/I]
 http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
-
+#EXTM3U
+#EXTINF:-1 channelId="-1" group-title="iCurvo Filmes" aspect-ratio="16:9" , ´
+#EXTSIZE: Big
+#EXTBG:http://icurvo.xpg.uol.com.br/icurvo_filmes.jpg
+http://0.0.0.0
+ 
+#EXTINF:-1 channelId="-1" group-title="iCurvo Filmes" aspect-ratio="16:9" , A Estrada 47 (Nacional) - 2015
+#EXTBG:http://icurvo.xpg.com.br/filmes/imagens/aestrada47.jpg
+http://server.redecanais.com/RedeCanais/RedeCanais2/RCFServer1/ondemand/AESTD47.mp4
+ 
+#EXTINF:-1 channelId="-1" group-title="iCurvo Filmes" aspect-ratio="16:9" , A Teoria De Tudo - 2015
+#EXTBG:http://icurvo.xpg.com.br/filmes/imagens/ateoriadetudo.jpg
+http://server.redecanais.com/RedeCanais/RedeCanais2/RCFServer1/ondemand/ATORIDTD.mp4
 
 

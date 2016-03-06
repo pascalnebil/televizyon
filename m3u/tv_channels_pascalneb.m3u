@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red]Admin (Can Toprakalti) 05.03.2016 Seyirtürk sorunsuz calismakta burada temizlik yapilacaktir .   [/COLOR]
+#EXTINF:-1,[COLOR red]Admin (Can Toprakalti) 06.03.2016 Seyirtürk sorunsuz calismakta burada temizlik yapilacaktir .   [/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
@@ -24,17 +24,19 @@ http://www.iptvsaga.com/play/tv3/0045.m3u8
 #EXTINF:-1,SHOW TURK
 http://mn-l.mncdn.com:1935/showturktv/showturktv1/playlist.m3u8
 #EXTINF:0,XX ATV HD
-xxxxxxxxxxxxxxx
+http://iptv-supplier.com:8000/live/houssem1/houssem1/415.m3u8
 #EXTINF:-1,XX A HABER HD
-xxxxxxxxxxxxxxx
+http://iptv-supplier.com:8000/live/houssem1/houssem1/415.m3u8
 #EXTINF:0,XX Star TV
-xxxxxxxxxxxxxxx
+http://iptv-supplier.com:8000/live/houssem1/houssem1/407.m3u8
 #EXTINF:0,XX Star TV HD
-xxxxxxxxxxxxxxx
+http://iptv-supplier.com:8000/live/houssem1/houssem1/407.m3u8
 #EXTINF:-1,XX TV 8 HD
-xxxxxxxxxxxxxxx
+http://iptv-supplier.com:8000/live/houssem1/houssem1/397.m3u8
 #EXTINF:-1,XX TV 8
-xxxxxxxxxxxxxxx
+http://iptv-supplier.com:8000/live/houssem1/houssem1/397.m3u8
+#EXTINF:-1,FOX_HD
+http://iptv-supplier.com:8000/live/houssem1/houssem1/1834.m3u8
 #EXTINF:0,CNN TuRK HD News
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:0828 tvg-id="beyazittv.tr" group-title="TR Haber Kanalları" tvg-logo="536958.png", [COLOR olivedrab]Beyaz TV[/COLOR]

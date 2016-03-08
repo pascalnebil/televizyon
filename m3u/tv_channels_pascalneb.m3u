@@ -111,35 +111,337 @@ rtmp://77.223.146.117/live/planett
 http://0.0.0.0:1234
 
 
-#EXTINF:-1,GERMAN:ZDF
-rtmp://s1.stream-server.org:1935/live/zdf.stream
-#EXTINF:-1,GERMAN:SAT 1
-rtmp://s2.stream-server.org:1935/live/sat1.stream
-#EXTINF:-1,GERMAN:RTL
-rtmp://s2.stream-server.org:1935/live/rtl.stream
-#EXTINF:-1,GERMAN:RTL 2
-rtmp://s4.stream-server.org:1935/live/rtl2.stream
-#EXTINF:-1,GERMAN:PRO 7
-rtmp://s1.stream-server.org:1935/live/pro7.stream
-#EXTINF:-1,GERMAN:VOX
-rtmp://s5.stream-server.org:1935/live/vox.stream
-#EXTINF:-1,GERMAN:DMAX
-rtmp://s1.stream-server.org:1935/live/dmax.stream
-#EXTINF:-1,GERMAN:SUPER RTL
-rtmp://s4.stream-server.org:1935/live/superrtl.stream
-#EXTINF:-1,GERMAN:RTL NITRO
-rtmp://s4.stream-server.org:1935/live/rtlnitro.stream
-#EXTINF:-1,GERMAN:3 SAT
-rtmp://s1.stream-server.org:1935/live/3sat.stream
-#EXTINF:-1,GERMAN:ZDF NEO
-rtmp://server.az1.stream-server.org:1935/live/zdfneo.stream
-#EXTINF:-1,GERMAN:EUROSPORT
-rtmp://s1.stream-server.org:1935/live/eurosport.stream
-#EXTINF:-1,GERMAN: ARTE
-rtmp://s4.stream-server.org:1935/live/arte.stream
-#EXTINF:-1,GERMAN:KIKA
-rtmp://s5.stream-server.org:1935/live/kika.stream
-
+#EXTM3U
+#EXTINF:-1,TR: *********** TURKIYE KANALLARI ***********
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/191.ch
+#EXTINF:-1,TR: LIG TV HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/1.ch
+#EXTINF:-1,TR: LIG TV 1 YEDEK
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/124.ch
+#EXTINF:-1,TR: LIG TV 2 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/2.ch
+#EXTINF:-1,TR: LIG TV 2 YEDEK
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/121.ch
+#EXTINF:-1,TR: LIG TV 3 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/3.ch
+#EXTINF:-1,TR: LIG TV 3 YEDEK
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/122.ch
+#EXTINF:-1,TR: LIG TV 4
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/123.ch
+#EXTINF:-1,TR: LIG TV 397. KANAL [OZEL]
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/244.ch
+#EXTINF:-1,TR: SMART SPOR    NBA TV
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/4.ch
+#EXTINF:-1,TR: SMART SPOR 2 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/5.ch
+#EXTINF:-1,TR: TIVIBU SPOR HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/6.ch
+#EXTINF:-1,TR: TIVIBU SPOR 2 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/7.ch
+#EXTINF:-1,TR: TRT 1 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/36.ch
+#EXTINF:-1,TR: STAR TV HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/17.ch
+#EXTINF:-1,TR: STAR SD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/18.ch
+#EXTINF:-1,TR: KANAL D SD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/20.ch
+#EXTINF:-1,TR: KANAL D HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/19.ch
+#EXTINF:-1,TR: ATV SD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/22.ch
+#EXTINF:-1,TR: ATV HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/21.ch
+#EXTINF:-1,TR: SHOW SD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/24.ch
+#EXTINF:-1,TR: SHOW HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/23.ch
+#EXTINF:-1,TR: TV 8
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/25.ch
+#EXTINF:-1,TR: KANAL 7 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/35.ch
+#EXTINF:-1,TR: KANALTURK HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/26.ch
+#EXTINF:-1,TR: FOX TV HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/28.ch
+#EXTINF:-1,TR: NTV
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/29.ch
+#EXTINF:-1,TR: CNN TURK HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/30.ch
+#EXTINF:-1,TR: A HABER HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/31.ch
+#EXTINF:-1,TR: TRT HABER HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/37.ch
+#EXTINF:-1,TR: HABER TURK
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/32.ch
+#EXTINF:-1,TR: SKY TURK 360
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/27.ch
+#EXTINF:-1,TR: A SPOR HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/14.ch
+#EXTINF:-1,TR: NTV SPOR HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/11.ch
+#EXTINF:-1,TR: TRT SPOR HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/12.ch
+#EXTINF:-1,TR: BEYAZ TV
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/33.ch
+#EXTINF:-1,TR: SPORTS TV
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/13.ch
+#EXTINF:-1,TR: TRT COCUK
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/43.ch
+#EXTINF:-1,TR: DISNEY CHANNEL
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/46.ch
+#EXTINF:-1,TR: SALON 1
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/48.ch
+#EXTINF:-1,TR: SALON 2
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/49.ch
+#EXTINF:-1,TR: SALON 3
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/50.ch
+#EXTINF:-1,TR: SALON 4
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/51.ch
+#EXTINF:-1,TR: SALON 5
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/52.ch
+#EXTINF:-1,TR: SALON 6
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/53.ch
+#EXTINF:-1,TR: SALON 7
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/54.ch
+#EXTINF:-1,TR: SALON 8
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/55.ch
+#EXTINF:-1,TR: OZEL SALON KANALLARI YAYIN AKIŞI
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/211.ch
+#EXTINF:-1,TR: OZEL SALON 1 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/212.ch
+#EXTINF:-1,TR: OZEL SALON 2 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/213.ch
+#EXTINF:-1,TR: OZEL SALON 3 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/214.ch
+#EXTINF:-1,TR: OZEL SALON 4 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/215.ch
+#EXTINF:-1,TR: OZEL SALON 5 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/216.ch
+#EXTINF:-1,TR: OZEL SALON 6 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/217.ch
+#EXTINF:-1,TR: OZEL SALON 7 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/218.ch
+#EXTINF:-1,TR: OZEL SALON 8 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/219.ch
+#EXTINF:-1,TR: OZEL SALON 9 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/220.ch
+#EXTINF:-1,TR: OZEL SALON 10 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/221.ch
+#EXTINF:-1,TR: CINEBOX
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/152.ch
+#EXTINF:-1,TR: CINEBOX 2
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/153.ch
+#EXTINF:-1,TR: CINEBOX 3
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/154.ch
+#EXTINF:-1,TR: CINEBOX 4
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/155.ch
+#EXTINF:-1,TR: CINEBOX 5
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/156.ch
+#EXTINF:-1,TR: CINEBOX 6
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/157.ch
+#EXTINF:-1,TR: MULTI VIZYON
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/149.ch
+#EXTINF:-1,TR: MULTI VIZYON 2
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/150.ch
+#EXTINF:-1,TR: MULTI VIZYON 3
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/151.ch
+#EXTINF:-1,TR: SINE KORKU
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/148.ch
+#EXTINF:-1,TR: SINE VIZYON
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/47.ch
+#EXTINF:-1,TR: SINE ANIMASYON
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/147.ch
+#EXTINF:-1,TR: FILMBOX TURK
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/245.ch
+#EXTINF:-1,TR: MOVIESMART ACTION HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/253.ch
+#EXTINF:-1,TR: MOVIESMART FAMILY HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/252.ch
+#EXTINF:-1,TR: MOVIESMART FESTIVAL HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/251.ch
+#EXTINF:-1,TR: MOVIESMART GOLD HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/250.ch
+#EXTINF:-1,TR: MOVIESMART OSCAR HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/249.ch
+#EXTINF:-1,TR: MOVIESMART PREMIER HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/248.ch
+#EXTINF:-1,TR: MOVIESMART STAR HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/247.ch
+#EXTINF:-1,TR: MOVIESMART TURK HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/246.ch
+#EXTINF:-1,TR: TRT BELGESEL HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/38.ch
+#EXTINF:-1,TR: DISCOVERY CHANNEL
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/40.ch
+#EXTINF:-1,TR: DISCOVERY SCIENCE
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/39.ch
+#EXTINF:-1,TR: NATIONAL GEOGRAPHIC CHANNEL
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/41.ch
+#EXTINF:-1,TR: NATIONAL GEOGRAPHIC WILD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/42.ch
+#EXTINF:-1,TR: VIP BELGESEL
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/222.ch
+#EXTINF:-1,TR: VIP BELGESEL 2
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/223.ch
+#EXTINF:-1,TR: VIP BELGESEL 3
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/224.ch
+#EXTINF:-1,TR: VIP BELGESEL 4
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/225.ch
+#EXTINF:-1,TR: NR1 TURK
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/90.ch
+#EXTINF:-1,TR: POWER TURK TV HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/91.ch
+#EXTINF:-1,DE: *********** ALMANYA KANALLARI ***********
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/192.ch
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/56.ch
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/57.ch
+#EXTINF:-1,DE: SKY BUNDESLIGA
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/169.ch
+#EXTINF:-1,DE: SKY BUNDESLIGA 2
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/170.ch
+#EXTINF:-1,DE: SKY SPORTDIGITAL +
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/243.ch
+#EXTINF:-1,DE: SKY BL 1 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/232.ch
+#EXTINF:-1,DE: SKY BL 2 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/233.ch
+#EXTINF:-1,DE: ORF 1 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/206.ch
+#EXTINF:-1,DE:ORF 2 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/207.ch
+#EXTINF:-1,DE: ZDF HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/234.ch
+#EXTINF:-1,DE: SKY ATLANTIC HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/231.ch
+#EXTINF:-1,DE: Sky Cinema
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/167.ch
+#EXTINF:-1,DE: SKY ACTION HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/163.ch
+#EXTINF:-1,DE: SKY MGM HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/165.ch
+#EXTINF:-1,DE: Sky Cinema 1
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/166.ch
+#EXTINF:-1,DE: Sky Select 1 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/202.ch
+#EXTINF:-1,DE: Sky Select 2 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/203.ch
+#EXTINF:-1,DE: Sky Select 3 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/204.ch
+#EXTINF:-1,DE: SKY SELECT 4 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/226.ch
+#EXTINF:-1,DE: SKY SELECT 5 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/227.ch
+#EXTINF:-1,DE: SKY SELECT 6 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/228.ch
+#EXTINF:-1,DE: SKY SELECT 7 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/229.ch
+#EXTINF:-1,DE: SKY SELECT 8 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/230.ch
+#EXTINF:-1,DE: NatGeo Wild HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/201.ch
+#EXTINF:-1,DE National Geo HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/200.ch
+#EXTINF:-1,UK: *********** UNITED KINGDOM KANALLARI ***********
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/196.ch
+#EXTINF:-1,UK: ESPN HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/176.ch
+#EXTINF:-1,UK: BT SPORT 1 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/62.ch
+#EXTINF:-1,UK: BT SPORT 2 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/63.ch
+#EXTINF:-1,UK: EURO SPORT
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/74.ch
+#EXTINF:-1,UK: EURO SPORT 2
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/75.ch
+#EXTINF:-1,AR: *********** ARABISTAN KANALLARI ***********
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/193.ch
+#EXTINF:-1,AR: BEINSPORT 1 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/80.ch
+#EXTINF:-1,AR: BEINSPORT 2 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/81.ch
+#EXTINF:-1,AR: BEINSPORT 3 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/82.ch
+#EXTINF:-1,AR: BEINSPORT 4 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/83.ch
+#EXTINF:-1,AR: BEINSPORT 5 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/84.ch
+#EXTINF:-1,AR: BEINSPORT 6 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/85.ch
+#EXTINF:-1,AR: BEINSPORT 7 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/86.ch
+#EXTINF:-1,AR: BEINSPORT 8 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/87.ch
+#EXTINF:-1,AR: BEINSPORT 9 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/88.ch
+#EXTINF:-1,AR: BEINSPORT 10 HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/89.ch
+#EXTINF:-1,EXYU: *** EKSTRA SPOR KANALLARI **
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/199.ch
+#EXTINF:-1,EXYU: SPORT KLUB 1
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/71.ch
+#EXTINF:-1,EXYU: SPORT KLUB 2
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/72.ch
+#EXTINF:-1,EXYU: SPORT KLUB 3
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/73.ch
+#EXTINF:-1,CTH: STADIUM 1
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/237.ch
+#EXTINF:-1,CTH: STADIUM 2
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/238.ch
+#EXTINF:-1,CTH: STADIUM 3
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/239.ch
+#EXTINF:-1,CTH: STADIUM 4
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/240.ch
+#EXTINF:-1,CTH: STADIUM 5
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/241.ch
+#EXTINF:-1,CTH: STADIUM 6
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/242.ch
+#EXTINF:-1,PT: *********** PORTEKİZ KANALLARI ***********
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/197.ch
+#EXTINF:-1,PT: SPORT TV 1
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/67.ch
+#EXTINF:-1,PT: SPORT TV 2
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/68.ch
+#EXTINF:-1,PT: SPORT TV 3
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/69.ch
+#EXTINF:-1,PT: SPORT TV 4
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/70.ch
+#EXTINF:-1,FR: *********** FRANSA KANALLARI ***********
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/194.ch
+#EXTINF:-1,FR: BEIN SPORT 1
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/145.ch
+#EXTINF:-1,FR: BEIN SPORT 2
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/146.ch
+#EXTINF:-1,NL: *********** HOLLANDA KANALLARI ***********
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/198.ch
+#EXTINF:-1,NL: FOX SPORTS 1 EREDIVISIE HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/128.ch
+#EXTINF:-1,NL: FOX SPORTS 2 INTERNATIONAAL HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/129.ch
+#EXTINF:-1,NL: FOX SPORTS 3 EREDIVISIE HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/130.ch
+#EXTINF:-1,NL: FOX SPORTS 4 INTERNATIONAAL HD
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/131.ch
+#EXTINF:-1,NL: ZIGGO SPORT EXTRA
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/126.ch
+#EXTINF:-1,NL: ZIGGO SPORT EXTRA 2
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/127.ch
+#EXTINF:-1,NL: ZIGGO SPORT VOETBAL
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/125.ch
+#EXTINF:-1,XXX: *********** ADULT KANALLAR ***********
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/195.ch
+#EXTINF:-1,XXX: HOT CLUB 1
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/93.ch
+#EXTINF:-1,XXX HOT CLUB 2
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/94.ch
+#EXTINF:-1,XXX: HOT CLUB 3
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/95.ch
+#EXTINF:-1,XXX: HOT CLUB 4
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/96.ch
+#EXTINF:-1,XXX HOT CLUB 5
+http://atlasiptv.dynu.net:8000/1Aypascalnebil324rfG345dfgG3ghdfh/324edGwd54145rfs45Fgsdhhdf/97.ch
 
 
 

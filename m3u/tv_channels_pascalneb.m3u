@@ -109,8 +109,14 @@ rtmp://77.223.146.117/live/planett
 
 #EXTINF:-1,[I][B][COLOR green]--- Deneme.  ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
-
-
+#EXTINF:-1,PLANET TÜRK 1
+http://149.6.42.122:8080/hls/streama42496/index.m3u8
+#EXTINF:-1,PLANET TÜRK 2
+http://149.6.42.122:8080/hls/streama42025/index.m3u8
+#EXTINF:-1,PLANET TÜRK 3
+http://149.6.42.122:8080/hls/streama42188/index.m3u8
+#EXTINF:-1,PLANET TÜRK 4
+http://149.6.42.122:8080/hls/streama42478/index.m3u8
 
 
 

@@ -107,16 +107,311 @@ rtmp://77.223.146.117/live/planetc
 #EXTINF:-1,PLANET TÜRK
 rtmp://77.223.146.117/live/planett
 
-#EXTINF:-1,[I][B][COLOR green]--- Deneme.  ---[/COLOR][/B][/I]
+#EXTINF:-1,[I][B][COLOR green]--- Deutsch.  ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
-#EXTINF:-1,PLANET TÜRK 1
-http://149.6.42.122:8080/hls/streama42496/index.m3u8
-#EXTINF:-1,PLANET TÜRK 2
-http://149.6.42.122:8080/hls/streama42025/index.m3u8
-#EXTINF:-1,PLANET TÜRK 3
-http://149.6.42.122:8080/hls/streama42188/index.m3u8
-#EXTINF:-1,PLANET TÜRK 4
-http://149.6.42.122:8080/hls/streama42478/index.m3u8
+#EXTINF:-1,DE: Sky Cinema HD
+http://cielonline.proff.co:15004/live/anna/anna/988.m3u8
+#EXTINF:-1,DE: Sky Cinema  1
+http://cielonline.proff.co:15004/live/anna/anna/989.m3u8
+#EXTINF:-1,DE: Cinema  24 HD
+http://cielonline.proff.co:15004/live/anna/anna/1023.m3u8
+#EXTINF:-1,DE: Sky H.m3u8
+http://cielonline.proff.co:15004/live/anna/anna/985.m3u8
+#EXTINF:-1,DE: Sky Emotion
+http://cielonline.proff.co:15004/live/anna/anna/986.m3u8
+#EXTINF:-1,DE: Sky Comedy
+http://cielonline.proff.co:15004/live/anna/anna/987.m3u8
+#EXTINF:-1,DE:Fox Serie
+http://cielonline.proff.co:15004/live/anna/anna/970.m3u8
+#EXTINF:-1,DE: ZDF Kultur
+http://cielonline.proff.co:15004/live/anna/anna/971.m3u8
+#EXTINF:-1,DE: ZDF Info
+http://cielonline.proff.co:15004/live/anna/anna/972.m3u8
+#EXTINF:-1,DE: ZDF
+http://cielonline.proff.co:15004/live/anna/anna/973.m3u8
+#EXTINF:-1,DE: VOX
+http://cielonline.proff.co:15004/live/anna/anna/974.m3u8
+#EXTINF:-1,DE: TNT Serie
+http://cielonline.proff.co:15004/live/anna/anna/975.m3u8
+#EXTINF:-1,DE: TLC
+http://cielonline.proff.co:15004/live/anna/anna/976.m3u8
+#EXTINF:-1,DE: SYFY
+http://cielonline.proff.co:15004/live/anna/anna/977.m3u8
+#EXTINF:-1,DE: Super RTL
+http://cielonline.proff.co:15004/live/anna/anna/978.m3u8
+#EXTINF:-1,DE: Sport News HD
+http://cielonline.proff.co:15004/live/anna/anna/979.m3u8
+#EXTINF:-1,DE: Spiegel Geschichte
+http://cielonline.proff.co:15004/live/anna/anna/980.m3u8
+#EXTINF:-1,DE: Sky Nostalgie
+http://cielonline.proff.co:15004/live/anna/anna/983.m3u8
+#EXTINF:-1,DE: Sky Krimi
+http://cielonline.proff.co:15004/live/anna/anna/984.m3u8
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://cielonline.proff.co:15004/live/anna/anna/982.m3u8
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://cielonline.proff.co:15004/live/anna/anna/981.m3u8
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://cielonline.proff.co:15004/live/anna/anna/991.m3u8
+#EXTINF:-1,DE: Bundesliga 2
+http://cielonline.proff.co:15004/live/anna/anna/1030.m3u8
+#EXTINF:-1,DE: Bundesliga 3
+http://cielonline.proff.co:15004/live/anna/anna/1029.m3u8
+#EXTINF:-1,DE: Sky Bundesliga 4
+http://cielonline.proff.co:15004/live/anna/anna/990.m3u8
+#EXTINF:-1,DE: Bundesliga 5
+http://cielonline.proff.co:15004/live/anna/anna/1028.m3u8
+#EXTINF:-1,DE: Bundesliga 6
+http://cielonline.proff.co:15004/live/anna/anna/1027.m3u8
+#EXTINF:-1,DE: Bundesliga 7
+http://cielonline.proff.co:15004/live/anna/anna/1026.m3u8
+#EXTINF:-1,DE: Bundesliga 8
+http://cielonline.proff.co:15004/live/anna/anna/1025.m3u8
+#EXTINF:-1,DE: Bundesliga 9
+http://cielonline.proff.co:15004/live/anna/anna/1024.m3u8
+#EXTINF:-1,DE: Sky Atlantic
+http://cielonline.proff.co:15004/live/anna/anna/992.m3u8
+#EXTINF:-1,DE: Sky Action HD
+http://cielonline.proff.co:15004/live/anna/anna/993.m3u8
+#EXTINF:-1,DE: Sixx
+http://cielonline.proff.co:15004/live/anna/anna/994.m3u8
+#EXTINF:-1,DE: Sat 1 Gold
+http://cielonline.proff.co:15004/live/anna/anna/995.m3u8
+#EXTINF:-1,DE: Sat 1 Emotions
+http://cielonline.proff.co:15004/live/anna/anna/996.m3u8
+#EXTINF:-1,DE: Sat 1
+http://cielonline.proff.co:15004/live/anna/anna/997.m3u8
+#EXTINF:-1,DE: RTL Television
+http://cielonline.proff.co:15004/live/anna/anna/998.m3u8
+#EXTINF:-1,DE: RTL Passion
+http://cielonline.proff.co:15004/live/anna/anna/999.m3u8
+#EXTINF:-1,DE: RTL Nitro
+http://cielonline.proff.co:15004/live/anna/anna/1000.m3u8
+#EXTINF:-1,DE: RTL Living
+http://cielonline.proff.co:15004/live/anna/anna/1001.m3u8
+#EXTINF:-1,DE: RTL Crime
+http://cielonline.proff.co:15004/live/anna/anna/1002.m3u8
+#EXTINF:-1,DE: RTL 2
+http://cielonline.proff.co:15004/live/anna/anna/1003.m3u8
+#EXTINF:-1,DE: Romance TV
+http://cielonline.proff.co:15004/live/anna/anna/1004.m3u8
+#EXTINF:-1,DE: Pro Sieben Maxx
+http://cielonline.proff.co:15004/live/anna/anna/1005.m3u8
+#EXTINF:-1,DE: Pro 7 HD
+http://cielonline.proff.co:15004/live/anna/anna/1006.m3u8
+#EXTINF:-1,DE: National Geographic
+http://cielonline.proff.co:15004/live/anna/anna/1007.m3u8
+#EXTINF:-1,DE: Nat Geo Wild
+http://cielonline.proff.co:15004/live/anna/anna/1008.m3u8
+#EXTINF:-1,DE: N24
+http://cielonline.proff.co:15004/live/anna/anna/1009.m3u8
+#EXTINF:-1,DE: N-TV
+http://cielonline.proff.co:15004/live/anna/anna/1010.m3u8
+#EXTINF:-1,DE: MGM
+http://cielonline.proff.co:15004/live/anna/anna/1011.m3u8
+#EXTINF:-1,DE: Kinowelt TV
+http://cielonline.proff.co:15004/live/anna/anna/1012.m3u8
+#EXTINF:-1,DE: KIKA
+http://cielonline.proff.co:15004/live/anna/anna/1013.m3u8
+#EXTINF:-1,DE: Kabel Eins
+http://cielonline.proff.co:15004/live/anna/anna/1014.m3u8
+#EXTINF:-1,DE: Junior
+http://cielonline.proff.co:15004/live/anna/anna/1015.m3u8
+#EXTINF:-1,DE: History HD
+http://cielonline.proff.co:15004/live/anna/anna/1016.m3u8
+#EXTINF:-1,DE: HeimatKanal
+http://cielonline.proff.co:15004/live/anna/anna/1017.m3u8
+#EXTINF:-1,DE: DMAX
+http://cielonline.proff.co:15004/live/anna/anna/1018.m3u8
+#EXTINF:-1,DE: Disney XD
+http://cielonline.proff.co:15004/live/anna/anna/1019.m3u8
+#EXTINF:-1,DE: Disney Cinemagic
+http://cielonline.proff.co:15004/live/anna/anna/1020.m3u8
+#EXTINF:-1,DE: Disney Channel
+http://cielonline.proff.co:15004/live/anna/anna/1021.m3u8
+#EXTINF:-1,DE: Discovery Channel
+http://cielonline.proff.co:15004/live/anna/anna/1022.m3u8
+#EXTINF:-1,DE: AXN Action
+http://cielonline.proff.co:15004/live/anna/anna/1031.m3u8
+#EXTINF:-1,DE: ARD
+http://cielonline.proff.co:15004/live/anna/anna/1032.m3u8
+#EXTINF:-1,DE: 3Sat
+http://cielonline.proff.co:15004/live/anna/anna/1033.m3u8
+#EXTINF:-1,DE: 13th Street
+http://cielonline.proff.co:15004/live/anna/anna/1034.m3u8
+#EXTINF:-1,DE: 1-2-3.TV
+http://cielonline.proff.co:15004/live/anna/anna/1035.m3u8
+#EXTINF:-1,Selekt 1
+http://cielonline.proff.co:15004/live/anna/anna/1112.m3u8
+#EXTINF:-1,Selekt 2
+http://cielonline.proff.co:15004/live/anna/anna/1111.m3u8
+#EXTINF:-1,Selekt 3
+http://cielonline.proff.co:15004/live/anna/anna/1110.m3u8
+#EXTINF:-1,Selekt 4
+http://cielonline.proff.co:15004/live/anna/anna/1109.m3u8
+#EXTINF:-1,Selekt 5
+http://cielonline.proff.co:15004/live/anna/anna/1108.m3u8
+#EXTINF:-1,Selekt 6
+http://cielonline.proff.co:15004/live/anna/anna/1107.m3u8
+#EXTINF:-1,Selekt 7
+http://cielonline.proff.co:15004/live/anna/anna/1106.m3u8
+#EXTINF:-1,Selekt 8
+http://cielonline.proff.co:15004/live/anna/anna/1105.m3u8
+#EXTINF:-1,Selekt 9
+http://cielonline.proff.co:15004/live/anna/anna/1104.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,DE: DAS ERSTE HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2221.m3u8
+#EXTINF:-1,DE: ZDF HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2152.m3u8
+#EXTINF:-1,DE: RTL HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2207.m3u8
+#EXTINF:-1,DE: RTL 2 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2208.m3u8
+#EXTINF:-1,DE: SUPER RTL HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2156.m3u8
+#EXTINF:-1,DE: PRO 7 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2211.m3u8
+#EXTINF:-1,DE: SAT 1 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2205.m3u8
+#EXTINF:-1,DE: VOX HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2155.m3u8
+#EXTINF:-1,DE: WDR HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2154.m3u8
+#EXTINF:-1,DE: KABEL 1 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2218.m3u8
+#EXTINF:-1,DE: HSE 24
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2219.m3u8
+#EXTINF:-1,DE: ARTE
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2223.m3u8
+#EXTINF:-1,DE: ARD HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2224.m3u8
+#EXTINF:-1,DE: NDR HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2212.m3u8
+#EXTINF:-1,DE: RBW
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2210.m3u8
+#EXTINF:-1,DE: N24 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2213.m3u8
+#EXTINF:-1,DE: MDF 1
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2214.m3u8
+#EXTINF:-1,DE: LIGT CHANNEL
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2215.m3u8
+#EXTINF:-1,DE: KANAL MAGDEBURG
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2217.m3u8
+#EXTINF:-1,DE: WELT DER WUNDER
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2153.m3u8
+#EXTINF:-1,DE: SERVUS TV HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2204.m3u8
+#EXTINF:-1,DE: DAF IOS LIVE
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2222.m3u8
+#EXTINF:-1,DE: ALEXLIVE TV
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2225.m3u8
+#EXTINF:-1,DE: STENDAL TV
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2157.m3u8
+#EXTINF:-1,----- SKY DE -----
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/248.m3u8
+#EXTINF:-1,DE: SKY CINEMA HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2186.m3u8
+#EXTINF:-1,DE: SKY CINEMA 1 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2188.m3u8
+#EXTINF:-1,DE: SKY CINEMA 24 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2187.m3u8
+#EXTINF:-1,DE: SKY AXN ACTION HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2199.m3u8
+#EXTINF:-1,DE: SKY ACTION HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2202.m3u8
+#EXTINF:-1,DE: SKY ATLANTIC HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2200.m3u8
+#EXTINF:-1,DE: SKY ANIXE HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2201.m3u8
+#EXTINF:-1,DE: SKY KRIMI HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2178.m3u8
+#EXTINF:-1,DE: SKY 13 STREET HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2203.m3u8
+#EXTINF:-1,DE: SKY H.m3u8 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2179.m3u8
+#EXTINF:-1,DE: SKY FOX HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2181.m3u8
+#EXTINF:-1,DE: SKY COMEDY HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2185.m3u8
+#EXTINF:-1,DE: SKY MGM HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2177.m3u8
+#EXTINF:-1,DE: RTL PASSION
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2206.m3u8
+#EXTINF:-1,DE: SKY TNT SERIES HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2159.m3u8
+#EXTINF:-1,DE: SKY TNT FILME HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2160.m3u8
+#EXTINF:-1,DE: SKY SYFY HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2161.m3u8
+#EXTINF:-1,DE: SKY NATIONAL GEOGRAPHIC HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2175.m3u8
+#EXTINF:-1,DE: SKY NATGEO WILD HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2176.m3u8
+#EXTINF:-1,DE: SKY DMAX HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2182.m3u8
+#EXTINF:-1,DE: SKY HISTORY CHANNEL HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2180.m3u8
+#EXTINF:-1,DE: SKY DISCOVERY CHANNEL HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2184.m3u8
+#EXTINF:-1,DE: SKY SELECT 1 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2165.m3u8
+#EXTINF:-1,DE: SKY SELECT 2 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2166.m3u8
+#EXTINF:-1,DE: SKY SELECT 3 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2167.m3u8
+#EXTINF:-1,DE: SKY SELECT 4 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2168.m3u8
+#EXTINF:-1,DE: SKY SELECT 5 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2169.m3u8
+#EXTINF:-1,DE: SKY SELECT 6 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2170.m3u8
+#EXTINF:-1,DE: SKY SELECT 7 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2171.m3u8
+#EXTINF:-1,DE: SKY SELECT 8 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2172.m3u8
+#EXTINF:-1,DE: SKY SELECT 9 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2173.m3u8
+#EXTINF:-1,DE: SKY SELECT 10 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2174.m3u8
+#EXTINF:-1,----- SKY SPORT DE -----
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/1072.m3u8
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2163.m3u8
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2164.m3u8
+#EXTINF:-1,DE: EURONEWS HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2220.m3u8
+#EXTINF:-1,DE: SPORT TIME MUSIC HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2158.m3u8
+#EXTINF:-1,DE: SKY SPORT NEWS HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2162.m3u8
+#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2189.m3u8
+#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2190.m3u8
+#EXTINF:-1,DE: SKY BUNDESLIGA 3 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2191.m3u8
+#EXTINF:-1,DE: SKY BUNDESLIGA 4 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2192.m3u8
+#EXTINF:-1,DE: SKY BUNDESLIGA 5 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2195.m3u8
+#EXTINF:-1,DE: SKY BUNDESLIGA 6 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2193.m3u8
+#EXTINF:-1,DE: SKY BUNDESLIGA 7 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2194.m3u8
+#EXTINF:-1,DE: SKY BUNDESLIGA 8 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2197.m3u8
+#EXTINF:-1,DE: SKY BUNDESLIGA 9 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2196.m3u8
+#EXTINF:-1,DE: SKY BUNDESLIGA 10 HD
+http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2198.m3u8
+
+
 
 
 

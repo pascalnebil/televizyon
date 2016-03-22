@@ -1,8 +1,14 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red]Admin (Can Toprakalti) 06.03.2016 Seyirtürk sorunsuz calismakta burada temizlik yapilacaktir .   [/COLOR]
+#EXTINF:-1,[COLOR red]Admin (Can Toprakalti) 22.03.2016 Seyirtürk sorunsuz calismakta burada temizlik yapilacaktir .   [/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
+#EXTINF:-1,Lig 1 TV
+http://calcaterraiptv.dyndns.tv:8877/live/nick/nick/633.m3u8
+#EXTINF:-1,Lig 2 TV
+http://calcaterraiptv.dyndns.tv:8877/live/nick/nick/661.m3u8
+#EXTINF:-1,Lig 3 TV
+http://calcaterraiptv.dyndns.tv:8877/live/nick/nick/2814.m3u8
 #EXTINF:-1,DHA
 http://live.netd.com.tr/S1/HLS_LIVE/dha1/index.m3u8
 #EXTINF:0,TRT 1 HD
@@ -24,15 +30,15 @@ http://www.iptvsaga.com/play/tv3/0045.m3u8
 #EXTINF:-1,SHOW TURK
 http://mn-l.mncdn.com:1935/showturktv/showturktv1/playlist.m3u8
 #EXTINF:0,XX ATV HD
-http://iptv-supplier.com:8000/live/houssem1/houssem1/415.m3u8
+http://calcaterraiptv.dyndns.tv:8877/live/nick/nick/663.m3u8
 #EXTINF:-1,XX A HABER HD
 http://iptv-supplier.com:8000/live/houssem1/houssem1/415.m3u8
 #EXTINF:0,XX Star TV
-http://iptv-supplier.com:8000/live/houssem1/houssem1/407.m3u8
+http://calcaterraiptv.dyndns.tv:8877/live/nick/nick/660.m3u8
 #EXTINF:0,XX Star TV HD
 http://iptv-supplier.com:8000/live/houssem1/houssem1/407.m3u8
 #EXTINF:-1,XX TV 8 HD
-http://iptv-supplier.com:8000/live/houssem1/houssem1/397.m3u8
+http://calcaterraiptv.dyndns.tv:8877/live/nick/nick/624.m3u8
 #EXTINF:-1,XX TV 8
 http://iptv-supplier.com:8000/live/houssem1/houssem1/397.m3u8
 #EXTINF:-1,FOX_HD
@@ -109,160 +115,6 @@ rtmp://77.223.146.117/live/planett
 
 #EXTINF:-1,[I][B][COLOR green]--- Deutsch.  ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
-#EXTINF:-1,DE: Sky Cinema HD
-http://cielonline.proff.co:15004/live/anna/anna/988.m3u8
-#EXTINF:-1,DE: Sky Cinema  1
-http://cielonline.proff.co:15004/live/anna/anna/989.m3u8
-#EXTINF:-1,DE: Cinema  24 HD
-http://cielonline.proff.co:15004/live/anna/anna/1023.m3u8
-#EXTINF:-1,DE: Sky H.m3u8
-http://cielonline.proff.co:15004/live/anna/anna/985.m3u8
-#EXTINF:-1,DE: Sky Emotion
-http://cielonline.proff.co:15004/live/anna/anna/986.m3u8
-#EXTINF:-1,DE: Sky Comedy
-http://cielonline.proff.co:15004/live/anna/anna/987.m3u8
-#EXTINF:-1,DE:Fox Serie
-http://cielonline.proff.co:15004/live/anna/anna/970.m3u8
-#EXTINF:-1,DE: ZDF Kultur
-http://cielonline.proff.co:15004/live/anna/anna/971.m3u8
-#EXTINF:-1,DE: ZDF Info
-http://cielonline.proff.co:15004/live/anna/anna/972.m3u8
-#EXTINF:-1,DE: ZDF
-http://cielonline.proff.co:15004/live/anna/anna/973.m3u8
-#EXTINF:-1,DE: VOX
-http://cielonline.proff.co:15004/live/anna/anna/974.m3u8
-#EXTINF:-1,DE: TNT Serie
-http://cielonline.proff.co:15004/live/anna/anna/975.m3u8
-#EXTINF:-1,DE: TLC
-http://cielonline.proff.co:15004/live/anna/anna/976.m3u8
-#EXTINF:-1,DE: SYFY
-http://cielonline.proff.co:15004/live/anna/anna/977.m3u8
-#EXTINF:-1,DE: Super RTL
-http://cielonline.proff.co:15004/live/anna/anna/978.m3u8
-#EXTINF:-1,DE: Sport News HD
-http://cielonline.proff.co:15004/live/anna/anna/979.m3u8
-#EXTINF:-1,DE: Spiegel Geschichte
-http://cielonline.proff.co:15004/live/anna/anna/980.m3u8
-#EXTINF:-1,DE: Sky Nostalgie
-http://cielonline.proff.co:15004/live/anna/anna/983.m3u8
-#EXTINF:-1,DE: Sky Krimi
-http://cielonline.proff.co:15004/live/anna/anna/984.m3u8
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://cielonline.proff.co:15004/live/anna/anna/982.m3u8
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://cielonline.proff.co:15004/live/anna/anna/981.m3u8
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://cielonline.proff.co:15004/live/anna/anna/991.m3u8
-#EXTINF:-1,DE: Bundesliga 2
-http://cielonline.proff.co:15004/live/anna/anna/1030.m3u8
-#EXTINF:-1,DE: Bundesliga 3
-http://cielonline.proff.co:15004/live/anna/anna/1029.m3u8
-#EXTINF:-1,DE: Sky Bundesliga 4
-http://cielonline.proff.co:15004/live/anna/anna/990.m3u8
-#EXTINF:-1,DE: Bundesliga 5
-http://cielonline.proff.co:15004/live/anna/anna/1028.m3u8
-#EXTINF:-1,DE: Bundesliga 6
-http://cielonline.proff.co:15004/live/anna/anna/1027.m3u8
-#EXTINF:-1,DE: Bundesliga 7
-http://cielonline.proff.co:15004/live/anna/anna/1026.m3u8
-#EXTINF:-1,DE: Bundesliga 8
-http://cielonline.proff.co:15004/live/anna/anna/1025.m3u8
-#EXTINF:-1,DE: Bundesliga 9
-http://cielonline.proff.co:15004/live/anna/anna/1024.m3u8
-#EXTINF:-1,DE: Sky Atlantic
-http://cielonline.proff.co:15004/live/anna/anna/992.m3u8
-#EXTINF:-1,DE: Sky Action HD
-http://cielonline.proff.co:15004/live/anna/anna/993.m3u8
-#EXTINF:-1,DE: Sixx
-http://cielonline.proff.co:15004/live/anna/anna/994.m3u8
-#EXTINF:-1,DE: Sat 1 Gold
-http://cielonline.proff.co:15004/live/anna/anna/995.m3u8
-#EXTINF:-1,DE: Sat 1 Emotions
-http://cielonline.proff.co:15004/live/anna/anna/996.m3u8
-#EXTINF:-1,DE: Sat 1
-http://cielonline.proff.co:15004/live/anna/anna/997.m3u8
-#EXTINF:-1,DE: RTL Television
-http://cielonline.proff.co:15004/live/anna/anna/998.m3u8
-#EXTINF:-1,DE: RTL Passion
-http://cielonline.proff.co:15004/live/anna/anna/999.m3u8
-#EXTINF:-1,DE: RTL Nitro
-http://cielonline.proff.co:15004/live/anna/anna/1000.m3u8
-#EXTINF:-1,DE: RTL Living
-http://cielonline.proff.co:15004/live/anna/anna/1001.m3u8
-#EXTINF:-1,DE: RTL Crime
-http://cielonline.proff.co:15004/live/anna/anna/1002.m3u8
-#EXTINF:-1,DE: RTL 2
-http://cielonline.proff.co:15004/live/anna/anna/1003.m3u8
-#EXTINF:-1,DE: Romance TV
-http://cielonline.proff.co:15004/live/anna/anna/1004.m3u8
-#EXTINF:-1,DE: Pro Sieben Maxx
-http://cielonline.proff.co:15004/live/anna/anna/1005.m3u8
-#EXTINF:-1,DE: Pro 7 HD
-http://cielonline.proff.co:15004/live/anna/anna/1006.m3u8
-#EXTINF:-1,DE: National Geographic
-http://cielonline.proff.co:15004/live/anna/anna/1007.m3u8
-#EXTINF:-1,DE: Nat Geo Wild
-http://cielonline.proff.co:15004/live/anna/anna/1008.m3u8
-#EXTINF:-1,DE: N24
-http://cielonline.proff.co:15004/live/anna/anna/1009.m3u8
-#EXTINF:-1,DE: N-TV
-http://cielonline.proff.co:15004/live/anna/anna/1010.m3u8
-#EXTINF:-1,DE: MGM
-http://cielonline.proff.co:15004/live/anna/anna/1011.m3u8
-#EXTINF:-1,DE: Kinowelt TV
-http://cielonline.proff.co:15004/live/anna/anna/1012.m3u8
-#EXTINF:-1,DE: KIKA
-http://cielonline.proff.co:15004/live/anna/anna/1013.m3u8
-#EXTINF:-1,DE: Kabel Eins
-http://cielonline.proff.co:15004/live/anna/anna/1014.m3u8
-#EXTINF:-1,DE: Junior
-http://cielonline.proff.co:15004/live/anna/anna/1015.m3u8
-#EXTINF:-1,DE: History HD
-http://cielonline.proff.co:15004/live/anna/anna/1016.m3u8
-#EXTINF:-1,DE: HeimatKanal
-http://cielonline.proff.co:15004/live/anna/anna/1017.m3u8
-#EXTINF:-1,DE: DMAX
-http://cielonline.proff.co:15004/live/anna/anna/1018.m3u8
-#EXTINF:-1,DE: Disney XD
-http://cielonline.proff.co:15004/live/anna/anna/1019.m3u8
-#EXTINF:-1,DE: Disney Cinemagic
-http://cielonline.proff.co:15004/live/anna/anna/1020.m3u8
-#EXTINF:-1,DE: Disney Channel
-http://cielonline.proff.co:15004/live/anna/anna/1021.m3u8
-#EXTINF:-1,DE: Discovery Channel
-http://cielonline.proff.co:15004/live/anna/anna/1022.m3u8
-#EXTINF:-1,DE: AXN Action
-http://cielonline.proff.co:15004/live/anna/anna/1031.m3u8
-#EXTINF:-1,DE: ARD
-http://cielonline.proff.co:15004/live/anna/anna/1032.m3u8
-#EXTINF:-1,DE: 3Sat
-http://cielonline.proff.co:15004/live/anna/anna/1033.m3u8
-#EXTINF:-1,DE: 13th Street
-http://cielonline.proff.co:15004/live/anna/anna/1034.m3u8
-#EXTINF:-1,DE: 1-2-3.TV
-http://cielonline.proff.co:15004/live/anna/anna/1035.m3u8
-#EXTINF:-1,Selekt 1
-http://cielonline.proff.co:15004/live/anna/anna/1112.m3u8
-#EXTINF:-1,Selekt 2
-http://cielonline.proff.co:15004/live/anna/anna/1111.m3u8
-#EXTINF:-1,Selekt 3
-http://cielonline.proff.co:15004/live/anna/anna/1110.m3u8
-#EXTINF:-1,Selekt 4
-http://cielonline.proff.co:15004/live/anna/anna/1109.m3u8
-#EXTINF:-1,Selekt 5
-http://cielonline.proff.co:15004/live/anna/anna/1108.m3u8
-#EXTINF:-1,Selekt 6
-http://cielonline.proff.co:15004/live/anna/anna/1107.m3u8
-#EXTINF:-1,Selekt 7
-http://cielonline.proff.co:15004/live/anna/anna/1106.m3u8
-#EXTINF:-1,Selekt 8
-http://cielonline.proff.co:15004/live/anna/anna/1105.m3u8
-#EXTINF:-1,Selekt 9
-http://cielonline.proff.co:15004/live/anna/anna/1104.m3u8
-
-
-#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
-
 
 #EXTINF:-1,DE: DAS ERSTE HD
 http://pciptv.blogdns.com:34505/live/ermanno/ermanno/2221.m3u8

@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red]Admin (Can Toprakalti) 22.03.2016 Seyirtürk sorunsuz calismakta burada temizlik yapilacaktir .   [/COLOR]
+#EXTINF:-1,[COLOR red]Seyirtürk sorunsuz calismakta burada temizlik yapilacaktir .   [/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1,Lig 1 TV
-http://calcaterraiptv.dyndns.tv:8877/live/nick/nick/633.m3u8
-#EXTINF:-1,Lig 2 TV
-http://calcaterraiptv.dyndns.tv:8877/live/nick/nick/661.m3u8
-#EXTINF:-1,Lig 3 TV
-http://calcaterraiptv.dyndns.tv:8877/live/nick/nick/2814.m3u8
 #EXTINF:-1,DHA
 http://live.netd.com.tr/S1/HLS_LIVE/dha1/index.m3u8
 #EXTINF:0,TRT 1 HD
@@ -29,20 +23,6 @@ http://live-ciner.mncdn.net/showtv/showtv2/master.m3u8
 http://www.iptvsaga.com/play/tv3/0045.m3u8
 #EXTINF:-1,SHOW TURK
 http://mn-l.mncdn.com:1935/showturktv/showturktv1/playlist.m3u8
-#EXTINF:0,XX ATV HD
-http://calcaterraiptv.dyndns.tv:8877/live/nick/nick/663.m3u8
-#EXTINF:-1,XX A HABER HD
-http://iptv-supplier.com:8000/live/houssem1/houssem1/415.m3u8
-#EXTINF:0,XX Star TV
-http://calcaterraiptv.dyndns.tv:8877/live/nick/nick/660.m3u8
-#EXTINF:0,XX Star TV HD
-http://iptv-supplier.com:8000/live/houssem1/houssem1/407.m3u8
-#EXTINF:-1,XX TV 8 HD
-http://calcaterraiptv.dyndns.tv:8877/live/nick/nick/624.m3u8
-#EXTINF:-1,XX TV 8
-http://iptv-supplier.com:8000/live/houssem1/houssem1/397.m3u8
-#EXTINF:-1,FOX_HD
-http://iptv-supplier.com:8000/live/houssem1/houssem1/1834.m3u8
 #EXTINF:0,CNN TuRK HD News
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:0828 tvg-id="beyazittv.tr" group-title="TR Haber Kanalları" tvg-logo="536958.png", [COLOR olivedrab]Beyaz TV[/COLOR]
@@ -90,8 +70,6 @@ http://livetr.gostream.nl/mekke/mekke/HasBahCa.m3u8
 http://livede.gostream.nl/medine/medine/playlist.m3u8
 #EXTINF:-1, [COLOR olivedrab]SINEMA HD[/COLOR]
 mms://yayin7.canliyayin.org/sinema
-#EXTINF:-1, [COLOR olivedrab]SINEMA Turk HD[/COLOR]
-mms://yayin7.canliyayin.org/sinematurk
 #EXTINF:-1, [COLOR olivedrab]Kanal M[/COLOR]
 mms://yayin.networkbil.com/kanalm
 #EXTINF:-1, [COLOR olivedrab]SINEMA 3 HD[/COLOR]
@@ -108,8 +86,6 @@ mms://yayin.networkbil.com/cizgifilmtv
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:-1 group-title="TURK_ULUSAL",4 Karamel
 http://trt-i.mncdn.com:1935/karamel/karamel/chunklist_w59601545.m3u8
-#EXTINF:-1,PLANET ÇOCUK
-rtmp://77.223.146.117/live/planetc
 #EXTINF:-1,PLANET TÜRK
 rtmp://77.223.146.117/live/planett
 

@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1,▄▅▆▇█ TÜRKİYE Ulusal Kanallar  █▇▆▅▄ HasBahCa IPTV ▄▅▆▇█
+#EXTINF:-1,▄▅▆▇█ TÜRKİYE Ulusal Kanallar  █▇▆▅▄
 http://hasbahcaiptv.com/m3u/turkiye.mp4
 #EXTINF:-1,24 TV
 http://mn-l.mncdn.com:1935/kanal24/kanal243/playlist.m3u8
 #EXTINF:-1,4 Karamel
 http://trt-i.mncdn.com:1935/karamel/karamel/master.m3u8
-#EXTINF:-1,ATV
-http://95.0.135.144:8000/play/a002
 #EXTINF:-1,BAHARTURK
 http://stream.taksimbilisim.com:1935/baharturk/bant1/BAHARTURK.m3u8
 #EXTINF:-1,BEYAZ TV
@@ -19,92 +17,24 @@ http://212.224.108.80/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 http://live.netd.com.tr/S1/HLS_LIVE/dha1/index.m3u8
 #EXTINF:-1,DOCUMANTARY TR
 http://188.165.239.200:7088/
-#EXTINF:-1,DOST TV
-rtmp://yayin.dosttv.com/dosttv//dosttv2
-#EXTINF:-1,DREAM TÜRK TV m3u8 -720*576
-http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
-#EXTINF:-1,DREAM TV m3u8 -720*576
-http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:-1,FANATİK TV
 http://fanatik.hls.cubecdn.net/fanatiktv/stream_720.m3u8
-#EXTINF:-1,FLASH TV
-http://184.173.181.2:1935/8158/8158/chunklist_w1108112917.m3u8
-#EXTINF:-1,FOX TV
-http://95.0.135.144:8000/play/a005
 #EXTINF:-1,HABERTÜRK m3u8
 http://mn-l.mncdn.com/haberturk/haberturk2/HasBahCa.m3u8
 #EXTINF:-1,HALK TV
 http://yayin3.canlitv.com:1935/live/halktv/playlist.m3u8
-#EXTINF:-1,imc
-http://stream-02.sv6.dailymotion.com/04/dm/1/x1l65xy/live.isml/events(live-1460014780)/live-audio=128000-video=700000.m3u8
-#EXTINF:-1,Kanal 12 TEST
+#EXTINF:-1,Kanal 12
 http://yayin.netradyom.com:1935/live/kanal12/playist.m3u8
 #EXTINF:-1,KANAL 7 AVRUPA
 http://livetr.gostream.nl/kanal7int/kanal7int/playlist.m3u8
-#EXTINF:-1,Kanal D
-http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
-#EXTINF:-1,KANAL D
-http://95.0.135.144:8000/play/a008
-#EXTINF:-1,NTV
-http://95.0.135.144:8000/play/a00b
 #EXTINF:-1,OLAY TV
 http://canli.olaytv.com.tr:1935/olaytv/olaytv/master.m3u8
-#EXTINF:-1,PLANET PEMBE rtmp
-rtmp://77.223.146.117/live/planetp
-#EXTINF:-1,PLANET TURK rtmp
-rtmp://77.223.146.117/live/planett
 #EXTINF:-1,POWER TV HD 1280*738
 http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/chunklist_w29105981_b1328000.m3u8
 #EXTINF:-1,POWERTURK HD 1280*738
 http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/chunklist_w274236643_b1328000.m3u8
 #EXTINF:-1,REHBER TV
 rtmp://yayin5.canliyayin.org:1935/live/rehbertv
-#EXTINF:-1,SHOW HD
-http://95.0.135.144:8000/play/a00v
-#EXTINF:-1,SHOW TV HD 960*546
-http://live-ciner.mncdn.net/showtv/showtv2/HasBahCa.m3u8
-#EXTINF:-1,SPORTS TV
-http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u8
-#EXTINF:-1,STAR TV
-http://95.0.135.144:8000/play/a00a
-#EXTINF:-1,TGRT BELGESEL
-http://tgrtbelgesel.mediatriple.net:1935/tgrtbliveedge/smil:tgrtb.smil/HasBahCa.m3u8
-#EXTINF:-1,TRT 1
-http://95.0.135.144:8000/play/a00p
-#EXTINF:-1,TRT 1 HD  1280*738
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,TRT ARAPCA
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_1000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,TRT AVAZ
-http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_1000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,TRT BELGESEL
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,TRT BELGESEL
-http://95.0.135.144:8000/play/a00s
-#EXTINF:-1,TRT ÇOCUK 1024*578
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,TRT HABER
-http://95.0.135.144:8000/play/a00q
-#EXTINF:-1,TRT HABER 1280*738
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,TRT MUZIK
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_1200_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,TRT OKUL
-http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_1000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,TRT TÜRK 1024*578
-http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1200_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,TRT WORLD 1280*738
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,TRT-3 SPOR
-http://95.0.135.144:8000/play/a00r
-#EXTINF:-1,TV 100
-http://livetr.gostream.nl/tv100/tv100/radyodelisi.m3u8
-#EXTINF:-1,TV 2
-http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
-#EXTINF:-1,TV NET
-http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b850000.m3u8
-#EXTINF:-1,Tv8
-http://95.0.135.144:8000/play/a00e
 #EXTINF:-1,ÜLKE TV HD m3u8 -720*500
 http://livetr.gostream.nl/ulketvhq/ulketvhq/HasBahCa.m3u8
 #EXTINF:-1,ULUSAL

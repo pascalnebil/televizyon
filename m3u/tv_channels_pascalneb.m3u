@@ -1110,4 +1110,85 @@ http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:VSB.smil/playlis
 #EXTINF:-1 tvg-logo="bigpond-sport.png" group-title=“SPORT”, BIGPOND SPORTS (AUS)  
 mms://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpsport_high
 
+#EXTM3U
+#EXTINF:-1,tv100 Canlı Yayın
+rtmp://livetr.gostream.nl:80/tv100/tv100?sd=10&rebase=on
+#EXTINF:-1,Kanal 7 Avrupa
+http://stream.gostream.nl/kanal7int/kanal7int.m3u8
+#EXTINF:-1,Ulke TV Yuksek Kalite
+http://stream.gostream.nl/ulketvhq/ulketvhq.m3u8
+#EXTINF:-1,Kanal 7 HQ
+http://stream.gostream.nl/kanal7hq/kanal7hq.m3u8
+#EXTINF:-1, Az Tv
+http://149.255.152.72/hls-live/livepkgr/aztv/aztv/aztv.m3u8
+#EXTINF:-1, Space Tv
+http://149.255.152.72/hls-live/livepkgr/space/space/space.m3u8
+#EXTINF:-1, Lider Tv
+http://149.255.152.72/hls-live/livepkgr/lider/lider/lider.m3u8
+#EXTINF:-1,Akillitv
+http://149.255.152.69/hls-live/livepkgr/akillitv/akillitv/akillitv.m3u8
+#EXTINF:-1,Kanal7
+http://149.255.152.69/hls-live/livepkgr/kanal7/kanal7/kanal7.m3u8
+#EXTINF:-1,Kanal24
+http://149.255.152.69/hls-live/livepkgr/kanal24/kanal24/kanal24.m3u8
+#EXTINF:-1,Trtturk
+http://149.255.152.69/hls-live/livepkgr/trtturk/trtturk/trtturk.m3u8
+#EXTINF:-1,trt1
+http://149.255.152.69/hls-live/livepkgr/trt1/trt1/trt1.m3u8
+#EXTINF:-1,Civilization
+http://149.255.152.69/hls-live/livepkgr/medeniyet/medeniyet/medeniyet.m3u8
+#EXTINF:-1,Foxturk
+http://149.255.152.69/hls-live/livepkgr/foxturk/foxturk/foxturk.m3u8
+#EXTINF:-1,Alors
+http://149.255.152.69/hls-live/livepkgr/showtv/showtv/showtv.m3u8
+#EXTINF:-1,KanalD
+http://149.255.152.69/hls-live/livepkgr/canald/canald/canald.m3u8
+#EXTINF:-1,StarTV
+http://149.255.152.69/hls-live/livepkgr/startv/startv/startv.m3u8
+#EXTINF:-1,TRT 1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8
+#EXTINF:-1,TRT ÇOCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8
+#EXTINF:-1,TRT HABER 
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
+#EXTINF:-1,TRT TÜRK
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1200_av-p.m3u8
+#EXTINF:-1,TRT WORLD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1500_av-p.m3u8
+#â€EXTINFâ€¬:-1,ASPOR HD
+http://tinyurl.com/hdstcwz
+#EXTINF:-1,KANAL D HD
+http://tinyurl.com/h3yqror
+#EXTINF:-1,SHOW TV HD
+http://tinyurl.com/jp62ala
+#EXTINF:-1,TRT 1 HD
+http://tinyurl.com/jqs2j4b
+#EXTINF:-1,TRT ÇOCUK
+http://tinyurl.com/zzdnkej
+#EXTINF:-1,ATV HD
+http://tinyurl.com/zwj3unw
+#EXTINF:-1,STAR HD
+http://tinyurl.com/j39j3zm
+#EXTINF:-1,TV8 HD
+http://tinyurl.com/jk5n3ym
+#EXTINF:-1,AHABER HD
+http://tinyurl.com/zpuy9vb
+
+#EXTINF:-1,Kika
+http://93.189.144.154:8085/media/hls_154/kika/index.m3u8
+#EXTINF:-1,DMAX
+http://93.189.144.154:8085/media/hls_154/dmax/index.m3u8
+#EXTINF:-1,Kabel 1
+http://93.189.144.154:8085/media/hls_154/kabel1/index.m3u8
+#EXTINF:-1,ZDF
+http://93.189.144.154:8085/media/hls_154/zdf/index.m3u8
+#EXTINF:-1,ARD
+http://93.189.144.154:8085/media/hls_154/ard/index.m3u8
+#EXTINF:-1,Vox
+http://93.189.144.154:8085/media/hls_154/vox/index.m3u8
+#EXTINF:-1,RTL 2
+http://93.189.144.154:8085/media/hls_154/rtl2/index.m3u8
+#EXTINF:-1,NTV
+http://93.189.144.154:8085/media/hls_154/n_tv/index.m3u8
+
 

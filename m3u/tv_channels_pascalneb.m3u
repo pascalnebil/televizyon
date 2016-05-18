@@ -1,67 +1,5 @@
 #EXTM3U
-#EXTINF:-1,▄▅▆▇█ TÜRKİYE Ulusal Kanallar  █▇▆▅▄
-http://hasbahcaiptv.com/m3u/turkiye.mp4
-#EXTINF:-1,24 TV
-http://mn-l.mncdn.com:1935/kanal24/kanal243/playlist.m3u8
-#EXTINF:-1,4 Karamel
-http://trt-i.mncdn.com:1935/karamel/karamel/master.m3u8
-#EXTINF:-1,BAHARTURK
-http://stream.taksimbilisim.com:1935/baharturk/bant1/BAHARTURK.m3u8
-#EXTINF:-1,BEYAZ TV
-http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
-#EXTINF:-1,BLOOMBERG HT m3u8
-http://mn-l.mncdn.com/bloomberght/bloomberght2/HasBahCa.m3u8
-#EXTINF:-1,CNN TURK HD
-http://212.224.108.80/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1,DHA
-http://live.netd.com.tr/S1/HLS_LIVE/dha1/index.m3u8
-#EXTINF:-1,DOCUMANTARY TR
-http://188.165.239.200:7088/
-#EXTINF:-1,FANATİK TV
-http://fanatik.hls.cubecdn.net/fanatiktv/stream_720.m3u8
-#EXTINF:-1,HABERTÜRK m3u8
-http://mn-l.mncdn.com/haberturk/haberturk2/HasBahCa.m3u8
-#EXTINF:-1,HALK TV
-http://yayin3.canlitv.com:1935/live/halktv/playlist.m3u8
-#EXTINF:-1,Kanal 12
-http://yayin.netradyom.com:1935/live/kanal12/playist.m3u8
-#EXTINF:-1,KANAL 7 AVRUPA
-http://livetr.gostream.nl/kanal7int/kanal7int/playlist.m3u8
-#EXTINF:-1,OLAY TV
-http://canli.olaytv.com.tr:1935/olaytv/olaytv/master.m3u8
-#EXTINF:-1,POWER TV HD 1280*738
-http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/chunklist_w29105981_b1328000.m3u8
-#EXTINF:-1,POWERTURK HD 1280*738
-http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/chunklist_w274236643_b1328000.m3u8
-#EXTINF:-1,REHBER TV
-rtmp://yayin5.canliyayin.org:1935/live/rehbertv
-#EXTINF:-1,ÜLKE TV HD m3u8 -720*500
-http://livetr.gostream.nl/ulketvhq/ulketvhq/HasBahCa.m3u8
-#EXTINF:-1,ULUSAL
-http://184.173.181.2:1935/8132/8132/master.m3u8
-#EXTINF:-1,VUSLAT TV
-http://yayin3.canlitv.com:1935/live/vuslattv/HasBahCa.m3u8
-#EXTINF:-1,Y Akit TV
-http://yayin3.canlitv.com.tr:1935/live/akittv/chunklist_w1526497265.m3u8
-#EXTINF:-1,YABAN TV
-http://yayin3.sanaltv.com:1935/live1/yabantv/master.m3u8
-#EXTINF:-1,YASiN TV m3u8
-http://sr1.netmedya.org:1935/yasintv/live.sdp/HasBahCa.m3u8
-#EXTINF:-1,YOL
-rtmp://yol.dyndns.tv:2100/yol//yolstream
-#EXTINF:-1,zzz A9 TV  rtmp 640*360 rtmp
-rtmp://live.harunyahya.tv/harunyahyalive/hytest1
-#EXTINF:-1,zzz HiLAL TV m3u8 720*576
-http://yayin8.canliyayin.org:1935/hilaltv/hilaltv/HasBahCa.m3u8
-#EXTINF:-1,zzz KANAL 7 HD
-http://livetr.gostream.nl/kanal7hq/kanal7hq/media_w65933969.m3u8
-#EXTINF:-1,zzz PLANET ÇOCUK rtmp
-rtmp://77.223.146.117/live/planetc
-#EXTINF:-1,zzz TRT HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/index_1500_av-b.m3u8?sd=10&rebase=on
-
-#EXTM3U
-#EXTINF:-1,[COLOR red]Seyirtürk sorunsuz calismakta burada temizlik yapilacaktir .   [/COLOR]
+#EXTINF:-1,[COLOR red]Seyirtürk sorunsuz calismakta .   [/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
@@ -1102,93 +1040,10 @@ http://st02.brn03.iptv.czechbone.net:8083/rel/pc/901/83/0.k.m3u8
 http://178.165.0.14:4022/udp/239.0.0.219:1234
 
 #EXTINF:-1, Lig TV TUR
-http://92.222.205.40:8080/superlig
-
+http://195.12.170.150:8000/play/trsamanyoluhaber
 #EXTINF:-1, Viasat Sport Baltic
-http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:VSB.smil/playlist.m3u8
+http://195.12.170.150:8000/play/trsamanyolu
 
 #EXTINF:-1 tvg-logo="bigpond-sport.png" group-title=“SPORT”, BIGPOND SPORTS (AUS)  
 mms://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpsport_high
-
-#EXTM3U
-#EXTINF:-1,tv100 Canlı Yayın
-rtmp://livetr.gostream.nl:80/tv100/tv100?sd=10&rebase=on
-#EXTINF:-1,Kanal 7 Avrupa
-http://stream.gostream.nl/kanal7int/kanal7int.m3u8
-#EXTINF:-1,Ulke TV Yuksek Kalite
-http://stream.gostream.nl/ulketvhq/ulketvhq.m3u8
-#EXTINF:-1,Kanal 7 HQ
-http://stream.gostream.nl/kanal7hq/kanal7hq.m3u8
-#EXTINF:-1, Az Tv
-http://149.255.152.72/hls-live/livepkgr/aztv/aztv/aztv.m3u8
-#EXTINF:-1, Space Tv
-http://149.255.152.72/hls-live/livepkgr/space/space/space.m3u8
-#EXTINF:-1, Lider Tv
-http://149.255.152.72/hls-live/livepkgr/lider/lider/lider.m3u8
-#EXTINF:-1,Akillitv
-http://149.255.152.69/hls-live/livepkgr/akillitv/akillitv/akillitv.m3u8
-#EXTINF:-1,Kanal7
-http://149.255.152.69/hls-live/livepkgr/kanal7/kanal7/kanal7.m3u8
-#EXTINF:-1,Kanal24
-http://149.255.152.69/hls-live/livepkgr/kanal24/kanal24/kanal24.m3u8
-#EXTINF:-1,Trtturk
-http://149.255.152.69/hls-live/livepkgr/trtturk/trtturk/trtturk.m3u8
-#EXTINF:-1,trt1
-http://149.255.152.69/hls-live/livepkgr/trt1/trt1/trt1.m3u8
-#EXTINF:-1,Civilization
-http://149.255.152.69/hls-live/livepkgr/medeniyet/medeniyet/medeniyet.m3u8
-#EXTINF:-1,Foxturk
-http://149.255.152.69/hls-live/livepkgr/foxturk/foxturk/foxturk.m3u8
-#EXTINF:-1,Alors
-http://149.255.152.69/hls-live/livepkgr/showtv/showtv/showtv.m3u8
-#EXTINF:-1,KanalD
-http://149.255.152.69/hls-live/livepkgr/canald/canald/canald.m3u8
-#EXTINF:-1,StarTV
-http://149.255.152.69/hls-live/livepkgr/startv/startv/startv.m3u8
-#EXTINF:-1,TRT 1 HD
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8
-#EXTINF:-1,TRT ÇOCUK
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8
-#EXTINF:-1,TRT HABER 
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
-#EXTINF:-1,TRT TÜRK
-http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1200_av-p.m3u8
-#EXTINF:-1,TRT WORLD
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1500_av-p.m3u8
-#â€EXTINFâ€¬:-1,ASPOR HD
-http://tinyurl.com/hdstcwz
-#EXTINF:-1,KANAL D HD
-http://tinyurl.com/h3yqror
-#EXTINF:-1,SHOW TV HD
-http://tinyurl.com/jp62ala
-#EXTINF:-1,TRT 1 HD
-http://tinyurl.com/jqs2j4b
-#EXTINF:-1,TRT ÇOCUK
-http://tinyurl.com/zzdnkej
-#EXTINF:-1,ATV HD
-http://tinyurl.com/zwj3unw
-#EXTINF:-1,STAR HD
-http://tinyurl.com/j39j3zm
-#EXTINF:-1,TV8 HD
-http://tinyurl.com/jk5n3ym
-#EXTINF:-1,AHABER HD
-http://tinyurl.com/zpuy9vb
-
-#EXTINF:-1,Kika
-http://93.189.144.154:8085/media/hls_154/kika/index.m3u8
-#EXTINF:-1,DMAX
-http://93.189.144.154:8085/media/hls_154/dmax/index.m3u8
-#EXTINF:-1,Kabel 1
-http://93.189.144.154:8085/media/hls_154/kabel1/index.m3u8
-#EXTINF:-1,ZDF
-http://93.189.144.154:8085/media/hls_154/zdf/index.m3u8
-#EXTINF:-1,ARD
-http://93.189.144.154:8085/media/hls_154/ard/index.m3u8
-#EXTINF:-1,Vox
-http://93.189.144.154:8085/media/hls_154/vox/index.m3u8
-#EXTINF:-1,RTL 2
-http://93.189.144.154:8085/media/hls_154/rtl2/index.m3u8
-#EXTINF:-1,NTV
-http://93.189.144.154:8085/media/hls_154/n_tv/index.m3u8
-
 

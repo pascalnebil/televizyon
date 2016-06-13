@@ -1,20 +1,18 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red]Seyirtürk sorunsuz calismakta .   [/COLOR]
+#EXTINF:-1,[COLOR red]13.06.2016 Kanalkar eklenmis ve Güncellenmistir .   [/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1,DHA
-http://live.netd.com.tr/S1/HLS_LIVE/dha1/index.m3u8
 #EXTINF:0,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:0834 tvg-id="trtspor.tr" group-title="TR Spor Kanalları" tvg-logo="371098.png", [COLOR orangered]TRT SPOR HD[/COLOR]
-http://hls.tv.iptv.ink/trtsportr@371098.m3u8|X-Forwarded-For=37.34.18.55
-#EXTINF:0,TRT HABER HD News
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-#EXTINF:0,[COLOR blue]TRT BELGESEL HD Documentary[/COLOR]
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
-#EXTINF:0,[COLOR blue]TRT Muzik HD[/COLOR]
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:-1, Star TV
+http://live01.tvnet.doracdn.com/live/smil:startv.smil/byahmet.m3u8
+#EXTINF:-1, ATV Full HD
+http://195.250.60.89:8000/udp/239.203.1.127:3301?pf=20160604
+#EXTINF:-1,ATV 2
+http://195.250.60.89:8000/udp/239.203.1.122:3301?pf=20160604
+#EXTINF:-1, TV8
+http://149.255.152.110/tv8/index.m3u8
 #EXTINF:-1,KANAL D HD
 http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
 #EXTINF:0,SHOW TV HD
@@ -23,6 +21,58 @@ http://live-ciner.mncdn.net/showtv/showtv2/master.m3u8
 http://www.iptvsaga.com/play/tv3/0045.m3u8
 #EXTINF:-1,SHOW TURK
 http://mn-l.mncdn.com:1935/showturktv/showturktv1/playlist.m3u8
+#EXTINF:-1,FOX TV
+http://195.250.60.89:8000/udp/239.203.1.130:3301?pf=20160604
+#EXTINF:-1,FOX TV 2
+http://149.255.152.110/foxturk/index.m3u8
+#EXTINF:-1,YENI SINEMA TV
+http://188.120.135.218:8888/play/a07p
+#EXTINF:-1,NTV
+http://149.255.152.110/ntvtr/index.m3u8
+#EXTINF:-1,A Haber
+http://195.250.60.89:8000/udp/239.203.1.128:3301?pf=20160604
+#EXTM3U
+    #EXTINF:-1,BeinSport-HD1
+    http://195.154.207.145:8000/play/beins1hd
+    #EXTINF:-1,BeinSport-HD2
+    http://195.154.207.145:8000/play/beinshd2
+    #EXTINF:-1,BeinSportHD-3
+    http://195.154.207.145:8000/play/beinshd3
+    #EXTINF:-1,BeinSportHD-4
+    http://195.154.207.145:8000/play/beinshd4
+    #EXTINF:-1,BeinSportHD-5
+    http://195.154.207.145:8000/play/beinshd5
+    #EXTINF:-1,BeinSportHD-6
+    http://195.154.207.145:8000/play/beinshd6
+    #EXTINF:-1,BeinSportHD-7
+    http://195.154.207.145:8000/play/beinshd7
+    #EXTINF:-1,BeinSportHD-8
+    http://195.154.207.145:8000/play/beinshd7
+    #EXTINF:-1,BeinSportHD-9
+    http://195.154.207.145:8000/play/beinshd9
+    #EXTINF:-1,Bein Sport HD10
+    http://195.154.207.145:8000/play/beinshd10
+    #EXTINF:-1,BeinSportHD-11
+    http://195.154.207.145:8000/play/beinshd11
+    #EXTINF:-1,Bein-SportHD-12
+    http://195.154.207.145:8000/play/beinshd12
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://3.bp.blogspot.com/-gm6jQJ53lqA/VDWFJ8EWZWI/AAAAAAAAJkQ/smdtDJAzFWA/s1600/Trt1yenilogo.png" tvg-name="TRT1 HD"  group-title="Group N/A",TRT1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://3.bp.blogspot.com/-gm6jQJ53lqA/VDWFJ8EWZWI/AAAAAAAAJkQ/smdtDJAzFWA/s1600/Trt1yenilogo.png" tvg-name="TRT1 HD SECENEK 2"  group-title="Group N/A",TRT1 HD SECENEK 2
+http://si.trtcdn.com/tv/trt1/mp4:trt1_3/chunklist_w1427451232.m3u8
+
+#EXTINF:0834 tvg-id="trtspor.tr" group-title="TR Spor Kanalları" tvg-logo="371098.png", [COLOR orangered]TRT SPOR HD[/COLOR]
+http://hls.tv.iptv.ink/trtsportr@371098.m3u8|X-Forwarded-For=37.34.18.55
+#EXTINF:0,TRT HABER HD News
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:0,[COLOR blue]TRT BELGESEL HD Documentary[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+#EXTINF:0,[COLOR blue]TRT Muzik HD[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+
+#EXTINF:-1,DHA
+http://live.netd.com.tr/S1/HLS_LIVE/dha1/index.m3u8
 #EXTINF:0,CNN TuRK HD News
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:0828 tvg-id="beyazittv.tr" group-title="TR Haber Kanalları" tvg-logo="536958.png", [COLOR olivedrab]Beyaz TV[/COLOR]
@@ -1038,13 +1088,6 @@ http://st02.brn03.iptv.czechbone.net:8083/rel/pc/901/83/0.k.m3u8
 
 #EXTINF:0, Eurosport News RU
 http://185.56.28.73/live/star.m3u8
-#EXTINF:-1, star
-http://live01.tvnet.doracdn.com/live/smil:startv.smil/byahmet.m3u8
-#EXTINF:-1, atv
-http://195.250.60.89:8000/udp/239.203.1.127:3301?pf=20160604
-
-#EXTINF:-1, tv8  
-http://149.255.152.110/tv8/index.m3u8
 #EXTINF:-1, tvg-logo="bigpond-sport.png" group-title=“SPORT”, BIGPOND SPORTS (AUS)  
 http://38.117.88.253:7777/TV8_HD.m3u8
 

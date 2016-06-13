@@ -21,15 +21,13 @@ http://live-ciner.mncdn.net/showtv/showtv2/master.m3u8
 http://www.iptvsaga.com/play/tv3/0045.m3u8
 #EXTINF:-1,SHOW TURK
 http://mn-l.mncdn.com:1935/showturktv/showturktv1/playlist.m3u8
-#EXTINF:-1,FOX TV
+#EXTINF:-1,FOX TV Full HD
 http://195.250.60.89:8000/udp/239.203.1.130:3301?pf=20160604
 #EXTINF:-1,FOX TV 2
 http://149.255.152.110/foxturk/index.m3u8
-#EXTINF:-1,YENI SINEMA TV
-http://188.120.135.218:8888/play/a07p
 #EXTINF:-1,NTV
 http://149.255.152.110/ntvtr/index.m3u8
-#EXTINF:-1,A Haber
+#EXTINF:-1,A Haber Full HD
 http://195.250.60.89:8000/udp/239.203.1.128:3301?pf=20160604
 #EXTM3U
     #EXTINF:-1,BeinSport-HD1
@@ -59,8 +57,6 @@ http://195.250.60.89:8000/udp/239.203.1.128:3301?pf=20160604
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://3.bp.blogspot.com/-gm6jQJ53lqA/VDWFJ8EWZWI/AAAAAAAAJkQ/smdtDJAzFWA/s1600/Trt1yenilogo.png" tvg-name="TRT1 HD"  group-title="Group N/A",TRT1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://3.bp.blogspot.com/-gm6jQJ53lqA/VDWFJ8EWZWI/AAAAAAAAJkQ/smdtDJAzFWA/s1600/Trt1yenilogo.png" tvg-name="TRT1 HD SECENEK 2"  group-title="Group N/A",TRT1 HD SECENEK 2
-http://si.trtcdn.com/tv/trt1/mp4:trt1_3/chunklist_w1427451232.m3u8
 
 #EXTINF:0834 tvg-id="trtspor.tr" group-title="TR Spor Kanalları" tvg-logo="371098.png", [COLOR orangered]TRT SPOR HD[/COLOR]
 http://hls.tv.iptv.ink/trtsportr@371098.m3u8|X-Forwarded-For=37.34.18.55

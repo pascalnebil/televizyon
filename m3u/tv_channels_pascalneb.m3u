@@ -3,6 +3,10 @@
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]•••TÜRK KANALLARI•••[/COLOR]
 http://0.0.0.0:1234
+#EXTINF:0,24 saat Belgesel Kanali NUH BABA
+http://46.4.68.85/liveevent.m3u8?version=2
+#EXTINF:0,Sinema Kanali
+http://195.154.181.242:1935/live/myStream/chunklist_w101477862.m3u8
 #EXTINF:0,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:-1, Star TV

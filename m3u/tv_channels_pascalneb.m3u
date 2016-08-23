@@ -10,29 +10,23 @@ http://195.154.181.242:1935/live/myStream/chunklist_w101477862.m3u8
 #EXTINF:0,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:-1, Star TV
-http://live01.tvnet.doracdn.com/live/smil:startv.smil/byahmet.m3u8
+http://yayin8.canlitv.com:1935/live/startv/chunklist_w137182591.m3u8?hash=003bef297f10ca67dfa8498795d934ce
 #EXTINF:-1, ATV Full HD
-http://195.250.60.89:8000/udp/239.203.1.127:3301?pf=20160604
-#EXTINF:-1,ATV 2
-http://195.250.60.89:8000/udp/239.203.1.122:3301?pf=20160604
+http://yayin8.canlitv.com:1935/live/atv/chunklist_w1930779730.m3u8?hash=003bef297f10ca67dfa8498795d934ce
 #EXTINF:-1, TV8
 http://149.255.152.110/tv8/index.m3u8
 #EXTINF:-1,KANAL D HD
 http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
 #EXTINF:0,SHOW TV HD
-http://live-ciner.mncdn.net/showtv/showtv2/master.m3u8
-#EXTINF:0815 tvg-id="showtv.tr" group-title="TR Genel Kanallar" tvg-logo="442251.png", [COLOR olivedrab]SHOW TV HD2[/COLOR]
-http://www.iptvsaga.com/play/tv3/0045.m3u8
+HD,http://mn-i.mncdn.com/showtv_ios/smil:showtv.smil/chunklist_w1429711584_b848000.m3u8
 #EXTINF:-1,SHOW TURK
 http://mn-l.mncdn.com:1935/showturktv/showturktv1/playlist.m3u8
-#EXTINF:-1,FOX TV Full HD
-http://195.250.60.89:8000/udp/239.203.1.130:3301?pf=20160604
 #EXTINF:-1,FOX TV 2
 http://149.255.152.110/foxturk/index.m3u8
 #EXTINF:-1,NTV
 http://149.255.152.110/ntvtr/index.m3u8
 #EXTINF:-1,A Haber Full HD
-http://195.250.60.89:8000/udp/239.203.1.128:3301?pf=20160604
+http://yayin8.canlitv.com:1935/live/ahaber/chunklist_w1863403112.m3u8?hash=003bef297f10ca67dfa8498795d934ce
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://3.bp.blogspot.com/-gm6jQJ53lqA/VDWFJ8EWZWI/AAAAAAAAJkQ/smdtDJAzFWA/s1600/Trt1yenilogo.png" tvg-name="TRT1 HD"  group-title="Group N/A",TRT1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
 

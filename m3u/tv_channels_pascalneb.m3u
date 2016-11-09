@@ -111,8 +111,3959 @@ rtmp://77.223.146.117/live/planett
 #EXTINF:-1,[I][B][COLOR green]--- Deutsch.  ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
 
-#EXTINF:-1,LIG TV 4 HD
-http://vip.tuguj.net:8000/live/XGxOnURQg4/52xohGCsV3/637.ts
+#EXTM3U
+#EXTINF:-1,Nick Jr Peppa
+http://5.255.90.224:5000/play/a04d
+#EXTINF:-1,RT. News Now
+http://5.255.90.224:5000/play/a07m
+#EXTINF:-1,Nickelodeon+1
+http://5.255.90.224:5000/play/a07i
+#EXTINF:-1,History +1 hour
+http://5.255.90.224:5000/play/a06s
+#EXTINF:-1,Sky Comedy
+http://5.255.90.224:5000/play/a096
+#EXTINF:-1,BabyTV
+http://5.255.90.224:5000/play/a07o
+#EXTINF:-1,Lifetime
+http://5.255.90.224:5000/play/a08b
+#EXTINF:-1,FOX News
+http://5.255.90.224:5000/play/a06i
+#EXTINF:-1,Sky News
+http://5.255.90.224:5000/play/a084
+#EXTINF:-1,RT. One
+http://5.255.90.224:5000/play/a079
+#EXTINF:-1,RT.jr
+http://5.255.90.224:5000/play/a07c
+#EXTINF:-1,Sky Sports Mix
+http://5.255.90.224:5000/play/a07q
+#EXTINF:-1,Sky Pixar
+http://5.255.90.224:5000/play/a099
+#EXTINF:-1,Nick Jr.
+http://5.255.90.224:5000/play/a04c
+#EXTINF:-1,Sky Living
+http://5.255.90.224:5000/play/a061
+#EXTINF:-1,Sky Sports 1
+http://5.255.90.224:5000/play/a05u
+#EXTINF:-1,Home & Health
+http://5.255.90.224:5000/play/a04p
+#EXTINF:-1,Discovery+1
+http://5.255.90.224:5000/play/a04l
+#EXTINF:-1,YESTERDAY
+http://5.255.90.224:5000/play/a09u
+#EXTINF:-1,Sky Sports 5
+http://5.255.90.224:5000/play/a07w
+#EXTINF:-1,History
+http://5.255.90.224:5000/play/a06q
+#EXTINF:-1,BET:BlackEntTv
+http://5.255.90.224:5000/play/a045
+#EXTINF:-1,Nicktoons
+http://5.255.90.224:5000/play/a046
+#EXTINF:-1,Sky Sports 3
+http://5.255.90.224:5000/play/a05t
+#EXTINF:-1,Nickelodeon
+http://5.255.90.224:5000/play/a04f
+#EXTINF:-1,Pick+1
+http://5.255.90.224:5000/play/a088
+#EXTINF:-1,Good Food
+http://5.255.90.224:5000/play/a09w
+#EXTINF:-1,TLC
+http://5.255.90.224:5000/play/a051
+#EXTINF:-1,Sky Sports F1
+http://5.255.90.224:5000/play/a08n
+#EXTINF:-1,Pick
+http://5.255.90.224:5000/play/a086
+#EXTINF:-1,RT. 2FM
+http://5.255.90.224:5000/play/a07f
+#EXTINF:-1,Sky1 +1
+http://5.255.90.224:5000/play/a05w
+#EXTINF:-1,Sky Arts 
+http://5.255.90.224:5000/play/a05y
+#EXTINF:-1,Home
+http://5.255.90.224:5000/play/a09r
+#EXTINF:-1,H2
+http://5.255.90.224:5000/play/a06r
+#EXTINF:-1,Sky Disney 
+http://5.255.90.224:5000/play/a09f
+#EXTINF:-1,alibi
+http://5.255.90.224:5000/play/a09y
+#EXTINF:-1,Nat Geo+1hr
+http://5.255.90.224:5000/play/a06n
+#EXTINF:-1,RT.2
+http://5.255.90.224:5000/play/a07a
+#EXTINF:-1,Discovery
+http://5.255.90.224:5000/play/a04j
+#EXTINF:-1,Sky2
+http://5.255.90.224:5000/play/a087
+#EXTINF:-1,SkyNws Arabia
+http://5.255.90.224:5000/play/a07s
+#EXTINF:-1,TG4
+http://5.255.90.224:5000/play/a07b
+#EXTINF:-1,GOLD
+http://5.255.90.224:5000/play/a09t
+#EXTINF:-1,Eden
+http://5.255.90.224:5000/play/a09s
+#EXTINF:-1,RT. One +1
+http://5.255.90.224:5000/play/a07n
+#EXTINF:-1,Dave
+http://5.255.90.224:5000/play/a09v
+#EXTINF:-1,W
+http://5.255.90.224:5000/play/a09x
+#EXTINF:-1,Nat Geo Wild
+http://5.255.90.224:5000/play/a06p
+#EXTINF:-1,Really
+http://5.255.90.224:5000/play/a0a0
+#EXTINF:-1,Sky Spts F1
+http://5.255.90.224:5000/play/a05r
+#EXTINF:-1,SkyDramaRom
+http://5.255.90.224:5000/play/a09c
+#EXTINF:-1,Sky Musicals
+http://5.255.90.224:5000/play/a09b
+#EXTINF:-1,Sky Select
+http://5.255.90.224:5000/play/a09a
+#EXTINF:-1,Sky ScFi/Horror
+http://5.255.90.224:5000/play/a098
+#EXTINF:-1,Sky Thriller
+http://5.255.90.224:5000/play/a09d
+#EXTINF:-1,Disc.Turbo
+http://5.255.90.224:5000/play/a04x
+#EXTINF:-1,Sky Prem+1
+http://5.255.90.224:5000/play/a09e
+#EXTINF:-1,Sky Action
+http://5.255.90.224:5000/play/a095
+#EXTINF:-1,Crime+Inv
+http://5.255.90.224:5000/play/a06j
+#EXTINF:-1,UTV Ireland
+http://5.255.90.224:5000/play/a06u
+#EXTINF:-1,Cartoonito
+http://5.255.90.224:5000/play/a05v
+#EXTINF:-1,Sky Sports 4
+http://5.255.90.224:5000/play/a0a1
+#EXTINF:-1,Nat Geo
+http://5.255.90.224:5000/play/a06m
+#EXTINF:-1,FOX
+http://5.255.90.224:5000/play/a05q
+#EXTINF:-1,Sky Premiere
+http://5.255.90.224:5000/play/a097
+#EXTINF:-1,ComedyXtra
+http://5.255.90.224:5000/play/a04a
+#EXTINF:-1,MUTV
+http://5.255.90.224:5000/play/a06o
+#EXTINF:-1,ID
+http://5.255.90.224:5000/play/a050
+#EXTINF:-1,Drama
+http://5.255.90.224:5000/play/a09z
+#EXTINF:-1,RT. Radio 1
+http://5.255.90.224:5000/play/a07e
+#EXTINF:-1,Oireachtas TV
+http://5.255.90.224:5000/play/a07d
+#EXTINF:-1,Sky Shop
+http://5.255.90.224:5000/play/a075
+#EXTINF:-1,Disc.Science
+http://5.255.90.224:5000/play/a04n
+#EXTINF:-1,Sky Sp NewsHQ
+http://5.255.90.224:5000/play/a07z
+#EXTINF:-1,Real Lives
+http://5.255.90.224:5000/play/a06t
+#EXTINF:-1,ComedyXtra+1
+http://5.255.90.224:5000/play/a04b
+#EXTINF:-1,QUEST
+http://5.255.90.224:5000/play/a04z
+#EXTINF:-1,RT. Lyric fm
+http://5.255.90.224:5000/play/a07h
+#EXTINF:-1,Sky Living+1
+http://5.255.90.224:5000/play/a07r
+#EXTINF:-1,Disc.History
+http://5.255.90.224:5000/play/a057
+#EXTINF:-1,Nick Jr+1
+http://5.255.90.224:5000/play/a04e
+#EXTINF:-1,ComedyCent+1
+http://5.255.90.224:5000/play/a047
+#EXTINF:-1,At The Races
+http://5.255.90.224:5000/play/a06g
+#EXTINF:-1,MTV MUSIC
+http://5.255.90.224:5000/play/a04h
+#EXTINF:-1,ComedyCentral
+http://5.255.90.224:5000/play/a048
+#EXTINF:-1,TV3
+http://5.255.90.224:5000/play/a05o
+#EXTINF:-1,Chelsea TV
+http://5.255.90.224:5000/play/a085
+#EXTINF:-1,Sky Sports 2
+http://5.255.90.224:5000/play/a081
+#EXTINF:-1,RT. R na G
+http://5.255.90.224:5000/play/a07g
+#EXTINF:-1,Animal Planet
+http://5.255.90.224:5000/play/a053
+#EXTINF:-1,Community
+http://5.255.90.224:5000/play/a089
+#EXTM3U
+#EXTINF:-1,***** ITALIAN *****
+http://149.202.78.137:8080/live/5454/5454/1233.ts
+#EXTINF:-1,IT | RaiPremium
+http://149.202.78.137:8080/live/5454/5454/1392.ts
+#EXTINF:-1,IT | Rai2
+http://149.202.78.137:8080/live/5454/5454/1397.ts
+#EXTINF:-1,IT | Rai3
+http://149.202.78.137:8080/live/5454/5454/1396.ts
+#EXTINF:-1,IT | Rai4
+http://149.202.78.137:8080/live/5454/5454/1395.ts
+#EXTINF:-1,IT | Rai5
+http://149.202.78.137:8080/live/5454/5454/1394.ts
+#EXTINF:-1,IT | RaiGulp
+http://149.202.78.137:8080/live/5454/5454/1367.ts
+#EXTINF:-1,IT | Rai Yoyo
+http://149.202.78.137:8080/live/5454/5454/1368.ts
+#EXTINF:-1,IT | Italia1
+http://149.202.78.137:8080/live/5454/5454/1388.ts
+#EXTINF:-1,IT | Rai sport1
+http://149.202.78.137:8080/live/5454/5454/1391.ts
+#EXTINF:-1,IT | AXN HD
+http://149.202.78.137:8080/live/5454/5454/1373.ts
+#EXTINF:-1,IT | Alice
+http://149.202.78.137:8080/live/5454/5454/1374.ts
+#EXTINF:-1,IT | Cielo
+http://149.202.78.137:8080/live/5454/5454/1375.ts
+#EXTINF:-1,IT | SkyCinema Passion
+http://149.202.78.137:8080/live/5454/5454/1381.ts
+#EXTINF:-1,IT | Sky Cinema Family HD
+http://149.202.78.137:8080/live/5454/5454/1380.ts
+#EXTINF:-1,IT | SkyCinema+24
+http://149.202.78.137:8080/live/5454/5454/1382.ts
+#EXTINF:-1,IT | SkyCinema Comedy
+http://149.202.78.137:8080/live/5454/5454/1379.ts
+#EXTINF:-1,IT | Dmax.
+http://149.202.78.137:8080/live/5454/5454/1376.ts
+#EXTINF:-1,IT | SkyUno
+http://149.202.78.137:8080/live/5454/5454/1377.ts
+#EXTINF:-1,IT | RaiMovie
+http://149.202.78.137:8080/live/5454/5454/1393.ts
+#EXTINF:-1,IT | Premium Cinema HD
+http://149.202.78.137:8080/live/5454/5454/1366.ts
+#EXTINF:-1,IT | FoxComedyHD
+http://149.202.78.137:8080/live/5454/5454/1370.ts
+#EXTINF:-1,IT | Fox.
+http://149.202.78.137:8080/live/5454/5454/1372.ts
+#EXTINF:-1,IT | SkyCinema Max
+http://149.202.78.137:8080/live/5454/5454/1383.ts
+#EXTINF:-1,IT | PremiumAction
+http://149.202.78.137:8080/live/5454/5454/1362.ts
+#EXTINF:-1,IT | Premium Cinema2+24
+http://149.202.78.137:8080/live/5454/5454/1363.ts
+#EXTINF:-1,IT | Premium Cinema2 HD
+http://149.202.78.137:8080/live/5454/5454/1365.ts
+#EXTINF:-1,IT | Premium Cinema+24
+http://149.202.78.137:8080/live/5454/5454/1364.ts
+#EXTINF:-1,IT | PremiumJoi
+http://149.202.78.137:8080/live/5454/5454/1361.ts
+#EXTINF:-1,IT | PremiumCrimeHD
+http://149.202.78.137:8080/live/5454/5454/1360.ts
+#EXTINF:-1,IT | PremiumEnergy
+http://149.202.78.137:8080/live/5454/5454/1359.ts
+#EXTINF:-1,IT | SkyCinema Hits
+http://149.202.78.137:8080/live/5454/5454/1384.ts
+#EXTINF:-1,IT | Sky Cinema Cult HD
+http://149.202.78.137:8080/live/5454/5454/1378.ts
+#EXTINF:-1,IT | Rai1
+http://149.202.78.137:8080/live/5454/5454/1398.ts
+#EXTINF:-1,IT | SkyCinema1HD
+http://149.202.78.137:8080/live/5454/5454/1385.ts
+#EXTINF:-1,IT | Canale5 HD
+http://149.202.78.137:8080/live/5454/5454/1386.ts
+#EXTINF:-1,IT | MediasatExtra
+http://149.202.78.137:8080/live/5454/5454/1389.ts
+#EXTINF:-1,IT | Rai Sport2
+http://149.202.78.137:8080/live/5454/5454/1390.ts
+#EXTINF:-1,IT | RETE 4 HD
+http://149.202.78.137:8080/live/5454/5454/1387.ts
+#EXTINF:-1,IT | PremiumCrime24
+http://149.202.78.137:8080/live/5454/5454/1356.ts
+#EXTINF:-1,IT | PremiumCinemaEmotion
+http://149.202.78.137:8080/live/5454/5454/1357.ts
+#EXTINF:-1,IT | PremiumComedy
+http://149.202.78.137:8080/live/5454/5454/1358.ts
+#EXTINF:-1,IT | PremiumStories
+http://149.202.78.137:8080/live/5454/5454/1355.ts
+#EXTINF:-1,IT | DiscoveryFocus
+http://149.202.78.137:8080/live/5454/5454/1353.ts
+#EXTINF:-1,IT | Premium Studio Universal
+http://149.202.78.137:8080/live/5454/5454/1354.ts
+#EXTINF:-1,IT | Caccia e Pesca
+http://149.202.78.137:8080/live/5454/5454/1352.ts
+#EXTINF:-1,IT | NatGeoWild
+http://149.202.78.137:8080/live/5454/5454/1351.ts
+#EXTINF:-1,IT | AnimalPlanet
+http://149.202.78.137:8080/live/5454/5454/1350.ts
+#EXTINF:-1,IT | DiscoverySci HD
+http://149.202.78.137:8080/live/5454/5454/1349.ts
+#EXTINF:-1,IT | RSI La1
+http://149.202.78.137:8080/live/5454/5454/1321.ts
+#EXTINF:-1,IT | SkySport1HD
+http://149.202.78.137:8080/live/5454/5454/1336.ts
+#EXTINF:-1,IT | SkySport2HD
+http://149.202.78.137:8080/live/5454/5454/1335.ts
+#EXTINF:-1,IT | SkySport3HD
+http://149.202.78.137:8080/live/5454/5454/1334.ts
+#EXTINF:-1,IT | SkySport24HD
+http://149.202.78.137:8080/live/5454/5454/1333.ts
+#EXTINF:-1,IT | SkySportF1HD
+http://149.202.78.137:8080/live/5454/5454/1332.ts
+#EXTINF:-1,IT | SkyCinema 3D
+http://149.202.78.137:8080/live/5454/5454/1337.ts
+#EXTINF:-1,IT | SkyCinema Classic
+http://149.202.78.137:8080/live/5454/5454/1338.ts
+#EXTINF:-1,IT | Super Tennis
+http://149.202.78.137:8080/live/5454/5454/1341.ts
+#EXTINF:-1,IT | FOX Sport HD
+http://149.202.78.137:8080/live/5454/5454/1340.ts
+#EXTINF:-1,IT | PremiumSport2
+http://149.202.78.137:8080/live/5454/5454/1342.ts
+#EXTINF:-1,IT | PremiumSport
+http://149.202.78.137:8080/live/5454/5454/1343.ts
+#EXTINF:-1,IT | PremiumDisneyJunior
+http://149.202.78.137:8080/live/5454/5454/1345.ts
+#EXTINF:-1,IT | PremiumDisneyChannel
+http://149.202.78.137:8080/live/5454/5454/1344.ts
+#EXTINF:-1,IT | CartoonNetwork
+http://149.202.78.137:8080/live/5454/5454/1346.ts
+#EXTINF:-1,IT | SkyTG24
+http://149.202.78.137:8080/live/5454/5454/1319.ts
+#EXTINF:-1,IT | RSI La2
+http://149.202.78.137:8080/live/5454/5454/1320.ts
+#EXTINF:-1,IT | SKY CINEMA MAX 1HD
+http://149.202.78.137:8080/live/5454/5454/2557.ts
+#EXTINF:-1,IT | SKY CINEMA HITS HD
+http://149.202.78.137:8080/live/5454/5454/2558.ts
+#EXTINF:-1,IT | SKY CINEMA FAMILY 1 HD
+http://149.202.78.137:8080/live/5454/5454/2559.ts
+#EXTINF:-1,IT | SKY CINEMA COMEDY HD
+http://149.202.78.137:8080/live/5454/5454/2560.ts
+#EXTINF:-1,IT | PREMIUM JOY
+http://149.202.78.137:8080/live/5454/5454/2574.ts
+#EXTINF:-1,IT | CARTOONITO
+http://149.202.78.137:8080/live/5454/5454/2599.ts
+#EXTINF:-1,IT | BOING
+http://149.202.78.137:8080/live/5454/5454/2600.ts
+#EXTINF:-1,IT | Videolina
+http://149.202.78.137:8080/live/5454/5454/3018.ts
+#EXTINF:-1,IT | TvGlobo
+http://149.202.78.137:8080/live/5454/5454/3017.ts
+#EXTINF:-1,IT | TopCrime
+http://149.202.78.137:8080/live/5454/5454/2999.ts
+#EXTINF:-1,IT | TG ARCHITETTURA
+http://149.202.78.137:8080/live/5454/5454/3022.ts
+#EXTINF:-1,IT | Teleticino
+http://149.202.78.137:8080/live/5454/5454/3021.ts
+#EXTINF:-1,IT | SPORT ITALIA
+http://149.202.78.137:8080/live/5454/5454/3010.ts
+#EXTINF:-1,IT | SkyPrimafila1
+http://149.202.78.137:8080/live/5454/5454/3000.ts
+#EXTINF:-1,IT | SkyPrimafila2
+http://149.202.78.137:8080/live/5454/5454/3001.ts
+#EXTINF:-1,IT | SkyPrimafila3
+http://149.202.78.137:8080/live/5454/5454/3002.ts
+#EXTINF:-1,IT | SkyPrimafila4
+http://149.202.78.137:8080/live/5454/5454/3003.ts
+#EXTINF:-1,IT | SkyPrimafila5
+http://149.202.78.137:8080/live/5454/5454/3004.ts
+#EXTINF:-1,IT | SkyPrimafila6
+http://149.202.78.137:8080/live/5454/5454/3005.ts
+#EXTINF:-1,IT | SkyPrimafila7
+http://149.202.78.137:8080/live/5454/5454/3006.ts
+#EXTINF:-1,IT | SkyPrimafila8
+http://149.202.78.137:8080/live/5454/5454/3007.ts
+#EXTINF:-1,IT | SkyPrimafila9
+http://149.202.78.137:8080/live/5454/5454/3008.ts
+#EXTINF:-1,IT | SkyPrimafila10
+http://149.202.78.137:8080/live/5454/5454/3009.ts
+#EXTINF:-1,IT | SkySuperCalcio
+http://149.202.78.137:8080/live/5454/5454/3023.ts
+#EXTINF:-1,IT | SkyCalcio1
+http://149.202.78.137:8080/live/5454/5454/3024.ts
+#EXTINF:-1,IT | SkyCalcio2
+http://149.202.78.137:8080/live/5454/5454/3025.ts
+#EXTINF:-1,IT | SkyCalcio3
+http://149.202.78.137:8080/live/5454/5454/3026.ts
+#EXTINF:-1,IT | SkyCalcio4
+http://149.202.78.137:8080/live/5454/5454/3027.ts
+#EXTINF:-1,IT | SkyCalcio5
+http://149.202.78.137:8080/live/5454/5454/3028.ts
+#EXTINF:-1,IT | SkyCalcio6
+http://149.202.78.137:8080/live/5454/5454/3029.ts
+#EXTINF:-1,IT | SKYCalcio7
+http://149.202.78.137:8080/live/5454/5454/3030.ts
+#EXTINF:-1,IT | SKYCalcio8
+http://149.202.78.137:8080/live/5454/5454/3031.ts
+#EXTINF:-1,IT | SKYCalcio9
+http://149.202.78.137:8080/live/5454/5454/3032.ts
+#EXTINF:-1,IT | SKYCalcio10
+http://149.202.78.137:8080/live/5454/5454/3033.ts
+#EXTINF:-1,IT | RaiNews24
+http://149.202.78.137:8080/live/5454/5454/2994.ts
+#EXTINF:-1,IT | PremiumEuroSport1
+http://149.202.78.137:8080/live/5454/5454/3011.ts
+#EXTINF:-1,IT | PremiumEuroSport2
+http://149.202.78.137:8080/live/5454/5454/3012.ts
+#EXTINF:-1,IT | PremiumCalcio
+http://149.202.78.137:8080/live/5454/5454/3034.ts
+#EXTINF:-1,IT | PremiumCalcioHD
+http://149.202.78.137:8080/live/5454/5454/3035.ts
+#EXTINF:-1,IT | PremiumCalcio1
+http://149.202.78.137:8080/live/5454/5454/3036.ts
+#EXTINF:-1,IT | PremiumCalcio2
+http://149.202.78.137:8080/live/5454/5454/3037.ts
+#EXTINF:-1,IT | PremiumCalcio3
+http://149.202.78.137:8080/live/5454/5454/3038.ts
+#EXTINF:-1,IT | PremiumCalcio4
+http://149.202.78.137:8080/live/5454/5454/3039.ts
+#EXTINF:-1,IT | PremiumCalcio5
+http://149.202.78.137:8080/live/5454/5454/3040.ts
+#EXTINF:-1,IT | PremiumCalcio6
+http://149.202.78.137:8080/live/5454/5454/3041.ts
+#EXTINF:-1,IT | PremiumCalcio7
+http://149.202.78.137:8080/live/5454/5454/3042.ts
+#EXTINF:-1,IT | Nuvolari
+http://149.202.78.137:8080/live/5454/5454/2996.ts
+#EXTINF:-1,IT | National Geo HD
+http://149.202.78.137:8080/live/5454/5454/3014.ts
+#EXTINF:-1,IT | MEDIASET TOP CRIME
+http://149.202.78.137:8080/live/5454/5454/3013.ts
+#EXTINF:-1,IT | Mediaset Iris
+http://149.202.78.137:8080/live/5454/5454/3020.ts
+#EXTINF:-1,IT | Lei
+http://149.202.78.137:8080/live/5454/5454/3019.ts
+#EXTINF:-1,IT | La7
+http://149.202.78.137:8080/live/5454/5454/2995.ts
+#EXTINF:-1,IT | InterChannel
+http://149.202.78.137:8080/live/5454/5454/3043.ts
+#EXTINF:-1,IT | History
+http://149.202.78.137:8080/live/5454/5454/2993.ts
+#EXTINF:-1,IT | Giallo
+http://149.202.78.137:8080/live/5454/5454/2997.ts
+#EXTINF:-1,IT | GamberoRosso
+http://149.202.78.137:8080/live/5454/5454/2998.ts
+#EXTINF:-1,IT | Fox Crime HD
+http://149.202.78.137:8080/live/5454/5454/3016.ts
+#EXTINF:-1,IT | DiscoveryChannelHD
+http://149.202.78.137:8080/live/5454/5454/3015.ts
+#EXTINF:-1,IT | Bike Channel
+http://149.202.78.137:8080/live/5454/5454/3044.ts
+#EXTINF:-1,IT VOD | Crimson Peak 2015
+http://149.202.78.137:8080/movie/5454/5454/1526.mkv
+#EXTINF:-1,IT VOD | Dove eravamo rimasti Ricki and the Flash 2015
+http://149.202.78.137:8080/movie/5454/5454/1527.mkv
+#EXTINF:-1,IT VOD | Extinction Sopravvissuti 2015
+http://149.202.78.137:8080/movie/5454/5454/1528.mkv
+#EXTINF:-1,IT VOD | Il.Caso.Spotlight.2015.iTALiAN.
+http://149.202.78.137:8080/movie/5454/5454/1529.mkv
+#EXTINF:-1,IT VOD | Joy.2015
+http://149.202.78.137:8080/movie/5454/5454/1533.mkv
+#EXTINF:-1,IT VOD | Macbeth.2015
+http://149.202.78.137:8080/movie/5454/5454/1534.mkv
+#EXTINF:-1,IT VOD | Noi e La Giulia 2015
+http://149.202.78.137:8080/movie/5454/5454/1535.mkv
+#EXTINF:-1,IT VOD | The.Hateful.Eight CD2 2015
+http://149.202.78.137:8080/movie/5454/5454/1547.mkv
+#EXTINF:-1,IT VOD | The.Hateful.Eight CD1 2015
+http://149.202.78.137:8080/movie/5454/5454/1545.mkv
+#EXTINF:-1,IT VOD | Piccoli.Brividi.2015
+http://149.202.78.137:8080/movie/5454/5454/1537.mkv
+#EXTINF:-1,IT VOD | Point.Break.2015.
+http://149.202.78.137:8080/movie/5454/5454/1538.mkv
+#EXTINF:-1,IT VOD | Pound of Flesh 2015
+http://149.202.78.137:8080/movie/5454/5454/1540.mkv
+#EXTINF:-1,IT VOD | Quo.Vado.2015
+http://149.202.78.137:8080/movie/5454/5454/1541.mkv
+#EXTINF:-1,IT VOD | Revenant.Redivivo.2015
+http://149.202.78.137:8080/movie/5454/5454/1542.mkv
+#EXTINF:-1,IT VOD | Sopravvissuto The Martian 2015
+http://149.202.78.137:8080/movie/5454/5454/1543.mkv
+#EXTINF:-1,IT VOD | The Green Inferno 2015
+http://149.202.78.137:8080/movie/5454/5454/1544.mkv
+#EXTINF:-1,IT VOD | The.Transporter.Legacy.2015
+http://149.202.78.137:8080/movie/5454/5454/1549.mkv
+#EXTINF:-1,IT VOD | Il.libro.della.giungla.2016
+http://149.202.78.137:8080/movie/5454/5454/1531.mkv
+#EXTINF:-1,IT VOD | Il.Mio.Grosso.Grasso.Matrimonio.Greco.2.2016
+http://149.202.78.137:8080/movie/5454/5454/1530.mkv
+#EXTINF:-1,IT VOD | PPZ.Pride.Prejudice.Zombies.2016
+http://149.202.78.137:8080/movie/5454/5454/1536.mkv
+#EXTINF:-1,IT VOD | Kingsman.Secret.Service.2015
+http://149.202.78.137:8080/movie/5454/5454/1640.mkv
+#EXTINF:-1,IT VOD | L Uomo Con I Pugni Di Ferro 2 2015
+http://149.202.78.137:8080/movie/5454/5454/1641.mkv
+#EXTINF:-1,IT VOD | L.A.S.S.O Nella manica  The Duff (2015
+http://149.202.78.137:8080/movie/5454/5454/1642.mkv
+#EXTINF:-1,IT VOD | La Risposta Ãˆ Nelle Stelle  The Longest Ride 2015
+http://149.202.78.137:8080/movie/5454/5454/1645.mkv
+#EXTINF:-1,IT VOD | La.Grande.Scommessa.2015
+http://149.202.78.137:8080/movie/5454/5454/1646.mkv
+#EXTINF:-1,IT VOD | La.Legge.Del.Mercato.2015.x
+http://149.202.78.137:8080/movie/5454/5454/1647.mkv
+#EXTINF:-1,IT VOD | Last Knights 2015
+http://149.202.78.137:8080/movie/5454/5454/1649.mkv
+#EXTINF:-1,IT VOD | Latin.Lover.2015
+http://149.202.78.137:8080/movie/5454/5454/1650.mkv
+#EXTINF:-1,IT VOD | Le Leggi Del Desiderio 2015
+http://149.202.78.137:8080/movie/5454/5454/1651.mkv
+#EXTINF:-1,IT VOD | Lo.Stagista.Inaspettato.2015
+http://149.202.78.137:8080/movie/5454/5454/1652.mkv
+#EXTINF:-1,IT VOD | Ma.Che.Bella.Sorpresa.2015
+http://149.202.78.137:8080/movie/5454/5454/1653.mkv
+#EXTINF:-1,IT VOD | Mad.Max.Fury.Road.2015
+http://149.202.78.137:8080/movie/5454/5454/1654.mkv
+#EXTINF:-1,IT VOD | Manuale scout per  l'apocalisse zombie 2015
+http://149.202.78.137:8080/movie/5454/5454/1655.mkv
+#EXTINF:-1,IT VOD | Masha.E.Orso.Amici.Per.Sempre.2015
+http://149.202.78.137:8080/movie/5454/5454/1656.mkv
+#EXTINF:-1,IT VOD | Matrimonio.Al.Sud.2015
+http://149.202.78.137:8080/movie/5454/5454/1659.mkv
+#EXTINF:-1,IT VOD | Matrimonio.Al.Sud.2015c
+http://149.202.78.137:8080/movie/5454/5454/1657.mkv
+#EXTINF:-1,IT VOD | Maze.Runner.La.Fuga.2015
+http://149.202.78.137:8080/movie/5454/5454/1660.mkv
+#EXTINF:-1,IT VOD | Mia madre (2015)
+http://149.202.78.137:8080/movie/5454/5454/1661.mkv
+#EXTINF:-1,IT VOD | Minions (2015)
+http://149.202.78.137:8080/movie/5454/5454/1662.mkv
+#EXTINF:-1,IT VOD | Mission Impossible  Rogue Nation (2015)
+http://149.202.78.137:8080/movie/5454/5454/1663.mkv
+#EXTINF:-1,IT VOD | Mission Impossible Rogue Nation 2015x
+http://149.202.78.137:8080/movie/5454/5454/1664.mkv
+#EXTINF:-1,IT VOD | Mission.Impossible.Rogue.Nation.2015
+http://149.202.78.137:8080/movie/5454/5454/1665.mkv
+#EXTINF:-1,IT VOD | Monkey.Kingdom.2015
+http://149.202.78.137:8080/movie/5454/5454/1666.mkv
+#EXTINF:-1,IT VOD | Monster.High.Boo.York.Boo.York.2015
+http://149.202.78.137:8080/movie/5454/5454/1667.mkv
+#EXTINF:-1,IT VOD | Mortdecai (2015)
+http://149.202.78.137:8080/movie/5454/5454/1668.mkv
+#EXTINF:-1,IT VOD | Mortdecai.2015.xx
+http://149.202.78.137:8080/movie/5454/5454/1669.mkv
+#EXTINF:-1,IT VOD | Mr.Holmes.2015
+http://149.202.78.137:8080/movie/5454/5454/1671.mkv
+#EXTINF:-1,IT VOD | Mustang.2015
+http://149.202.78.137:8080/movie/5454/5454/1672.mkv
+#EXTINF:-1,IT VOD | Natale.Col.Boss.2015
+http://149.202.78.137:8080/movie/5454/5454/1673.mkv
+#EXTINF:-1,IT VOD | No.Escape.Colpo.Di.Stato.2015
+http://149.202.78.137:8080/movie/5454/5454/1676.mkv
+#EXTINF:-1,IT VOD | No.Escape.Colpo.Di.Stato.2015xx
+http://149.202.78.137:8080/movie/5454/5454/1675.mkv
+#EXTINF:-1,IT VOD | Non ce 2 Senza Te 2015
+http://149.202.78.137:8080/movie/5454/5454/1677.mkv
+#EXTINF:-1,IT VOD | Non.C.E.2.Senza.Te.2015
+http://149.202.78.137:8080/movie/5454/5454/1678.mkv
+#EXTINF:-1,IT VOD | Non.essere.cattivo.2015
+http://149.202.78.137:8080/movie/5454/5454/1679.mkv
+#EXTINF:-1,IT VOD | Operazione.U.N.C.L.E.2015
+http://149.202.78.137:8080/movie/5454/5454/1681.mkv
+#EXTINF:-1,IT VOD | Padri.E.Figlie.2015
+http://149.202.78.137:8080/movie/5454/5454/1683.mkv
+#EXTINF:-1,IT VOD | Pan.Viaggio.Sull.Isola.Che.Non.C.E.2015
+http://149.202.78.137:8080/movie/5454/5454/1684.mkv
+#EXTINF:-1,IT VOD | Piccoli.Brividi.2015.
+http://149.202.78.137:8080/movie/5454/5454/1685.mkv
+#EXTINF:-1,IT VOD | Pitch Perfect 2
+http://149.202.78.137:8080/movie/5454/5454/1686.mkv
+#EXTINF:-1,IT VOD | Pitza E Datteri 2015
+http://149.202.78.137:8080/movie/5454/5454/1687.mkv
+#EXTINF:-1,IT VOD | Pixels (2015)
+http://149.202.78.137:8080/movie/5454/5454/1688.mkv
+#EXTINF:-1,IT VOD | Pixels.2015
+http://149.202.78.137:8080/movie/5454/5454/1689.mkv
+#EXTINF:-1,IT VOD | Poltergeist (2015)
+http://149.202.78.137:8080/movie/5454/5454/1690.mkv
+#EXTINF:-1,IT VOD | Poltergeist.2015
+http://149.202.78.137:8080/movie/5454/5454/1691.mkv
+#EXTINF:-1,IT VOD | Pound of Flesh 2015.
+http://149.202.78.137:8080/movie/5454/5454/1692.mkv
+#EXTINF:-1,IT VOD | Pressure..
+http://149.202.78.137:8080/movie/5454/5454/1693.mkv
+#EXTINF:-1,IT VOD | Pressure.2015
+http://149.202.78.137:8080/movie/5454/5454/1694.mkv
+#EXTINF:-1,IT VOD | Provaci Ancora Jose  No Way Jose 2015
+http://149.202.78.137:8080/movie/5454/5454/1695.mkv
+#EXTINF:-1,IT VOD | Quo.Vado.2015.
+http://149.202.78.137:8080/movie/5454/5454/1697.mkv
+#EXTINF:-1,IT VOD | Quo.Vado.2015x
+http://149.202.78.137:8080/movie/5454/5454/1696.mkv
+#EXTINF:-1,IT VOD | Revenant.Redivivo.2015.
+http://149.202.78.137:8080/movie/5454/5454/1698.mkv
+#EXTINF:-1,IT VOD | Run All Night  Una Notte Per Sopravvivere 2015
+http://149.202.78.137:8080/movie/5454/5454/1699.mkv
+#EXTINF:-1,IT VOD | Se.Dio.Vuole.2015.
+http://149.202.78.137:8080/movie/5454/5454/1700.mkv
+#EXTINF:-1,IT VOD | Self Less.2015
+http://149.202.78.137:8080/movie/5454/5454/1701.mkv
+#EXTINF:-1,IT VOD | Shaun Vita Da Pecora 2015
+http://149.202.78.137:8080/movie/5454/5454/1702.mkv
+#EXTINF:-1,IT VOD | Shaun Vita.Da.Pecora.Il.Film.2015
+http://149.202.78.137:8080/movie/5454/5454/1703.mkv
+#EXTINF:-1,IT VOD | Sicario (2015)
+http://149.202.78.137:8080/movie/5454/5454/1705.mkv
+#EXTINF:-1,IT VOD | Sicario.2015
+http://149.202.78.137:8080/movie/5454/5454/1707.mkv
+#EXTINF:-1,IT VOD | Sicario.2015.X
+http://149.202.78.137:8080/movie/5454/5454/1706.mkv
+#EXTINF:-1,IT VOD | Soldato Semplice 2015
+http://149.202.78.137:8080/movie/5454/5454/1709.mkv
+#EXTINF:-1,IT VOD | Sopravvissuto The Martian (2015)
+http://149.202.78.137:8080/movie/5454/5454/1710.mkv
+#EXTINF:-1,IT VOD | Sopravvissuto.The.Martian.2015..
+http://149.202.78.137:8080/movie/5454/5454/1712.mkv
+#EXTINF:-1,IT VOD | Sopravvissuto.The.Martian.2015.x
+http://149.202.78.137:8080/movie/5454/5454/1711.mkv
+#EXTINF:-1,IT VOD | SouthPaw L.Ultima.Sfida.2015..
+http://149.202.78.137:8080/movie/5454/5454/1714.mkv
+#EXTINF:-1,IT VOD | Southpaw.L.Ultima.Sfida.2015.
+http://149.202.78.137:8080/movie/5454/5454/1715.mkv
+#EXTINF:-1,IT VOD | Spectre.2015.
+http://149.202.78.137:8080/movie/5454/5454/1716.mkv
+#EXTINF:-1,IT VOD | SpongeBob Fuori Dall Acqua 2015
+http://149.202.78.137:8080/movie/5454/5454/1717.mkv
+#EXTINF:-1,IT VOD | SpongeBob.Fuori.Dall.Acqua.2015
+http://149.202.78.137:8080/movie/5454/5454/1718.mkv
+#EXTINF:-1,IT VOD | Spy.2015
+http://149.202.78.137:8080/movie/5454/5454/1719.mkv
+#EXTINF:-1,IT VOD | Star.Wars.Episodio.VII.Il.Risveglio.Della.Forza.2015
+http://149.202.78.137:8080/movie/5454/5454/1720.mkv
+#EXTINF:-1,IT VOD | Straight.Outta.Compton.2015
+http://149.202.78.137:8080/movie/5454/5454/1722.mkv
+#EXTINF:-1,IT VOD | Straight.Outta.Compton.2015..
+http://149.202.78.137:8080/movie/5454/5454/1721.mkv
+#EXTINF:-1,IT VOD | Suburra.2015
+http://149.202.78.137:8080/movie/5454/5454/1724.mkv
+#EXTINF:-1,IT VOD | Suburra.2015.
+http://149.202.78.137:8080/movie/5454/5454/1723.mkv
+#EXTINF:-1,IT VOD | Survivor 2015
+http://149.202.78.137:8080/movie/5454/5454/1725.mkv
+#EXTINF:-1,IT VOD | Ted 2 2015
+http://149.202.78.137:8080/movie/5454/5454/1726.mkv
+#EXTINF:-1,IT VOD | Tempo.Instabile.Con.Probabili.Schiarite.2015
+http://149.202.78.137:8080/movie/5454/5454/1727.mkv
+#EXTINF:-1,IT VOD | The Final Girls 2015..
+http://149.202.78.137:8080/movie/5454/5454/1728.mkv
+#EXTINF:-1,IT VOD | The Flintstones & WWE Stone Age SmackDown 2015
+http://149.202.78.137:8080/movie/5454/5454/1729.mkv
+#EXTINF:-1,IT VOD | The Marine 4 Moving Target 2015
+http://149.202.78.137:8080/movie/5454/5454/1731.mkv
+#EXTINF:-1,IT VOD | The Transporter Legacy (2015)
+http://149.202.78.137:8080/movie/5454/5454/1732.mkv
+#EXTINF:-1,IT VOD | The Visit 2015
+http://149.202.78.137:8080/movie/5454/5454/1733.mkv
+#EXTINF:-1,IT VOD | The.Divergent.Series Insurgent.2015
+http://149.202.78.137:8080/movie/5454/5454/1734.mkv
+#EXTINF:-1,IT VOD | The.Gallows L.Esecuzione.2015
+http://149.202.78.137:8080/movie/5454/5454/1736.mkv
+#EXTINF:-1,IT VOD | The.Gunman.2015
+http://149.202.78.137:8080/movie/5454/5454/1737.mkv
+#EXTINF:-1,IT VOD | The.Lazarus.Effect.2015
+http://149.202.78.137:8080/movie/5454/5454/1742.mkv
+#EXTINF:-1,IT VOD | The.Lobster.2015
+http://149.202.78.137:8080/movie/5454/5454/1744.mkv
+#EXTINF:-1,IT VOD | The.Walk.2015
+http://149.202.78.137:8080/movie/5454/5454/1746.mkv
+#EXTINF:-1,IT VOD | Tomorrowland 2015
+http://149.202.78.137:8080/movie/5454/5454/1747.mkv
+#EXTINF:-1,IT VOD | Tomorrowland.Il.Mondo.Di.Domani.2015
+http://149.202.78.137:8080/movie/5454/5454/1749.mkv
+#EXTINF:-1,IT VOD | Tomorrowland.Il.Mondo.Di.Domani.2015.
+http://149.202.78.137:8080/movie/5454/5454/1748.mkv
+#EXTINF:-1,IT VOD | Torno.Indietro.E.Cambio.Vita.2015
+http://149.202.78.137:8080/movie/5454/5454/1750.mkv
+#EXTINF:-1,IT VOD | Tracers.2015
+http://149.202.78.137:8080/movie/5454/5454/1751.mkv
+#EXTINF:-1,IT VOD | Trilli E La Creatura Leggendaria 2015
+http://149.202.78.137:8080/movie/5454/5454/1752.mkv
+#EXTINF:-1,IT VOD | Tutte lo vogliono 2015
+http://149.202.78.137:8080/movie/5454/5454/1753.mkv
+#EXTINF:-1,IT VOD | Un Occasione Da Dio 2015
+http://149.202.78.137:8080/movie/5454/5454/1754.mkv
+#EXTINF:-1,IT VOD | Un.Disastro.Di.Ragazza Trainwreck.2015
+http://149.202.78.137:8080/movie/5454/5454/1755.mkv
+#EXTINF:-1,IT VOD | Un.Occasione.Da.Dio.2015.
+http://149.202.78.137:8080/movie/5454/5454/1757.mkv
+#EXTINF:-1,IT VOD | Un.Occasione.Da.Dio.2015..
+http://149.202.78.137:8080/movie/5454/5454/1756.mkv
+#EXTINF:-1,IT VOD | Un.Tuffo.Nel.Passato.2.2015
+http://149.202.78.137:8080/movie/5454/5454/1759.mkv
+#EXTINF:-1,IT VOD | Una.Notte.Da.Matricole.2015
+http://149.202.78.137:8080/movie/5454/5454/1760.mkv
+#EXTINF:-1,IT VOD | Vacanze.Ai.Caraibi.2015
+http://149.202.78.137:8080/movie/5454/5454/1762.mkv
+#EXTINF:-1,IT VOD | Vacanze.Ai.Caraibi.2015.
+http://149.202.78.137:8080/movie/5454/5454/1761.mkv
+#EXTINF:-1,IT VOD | Absolution Le Regole Della Vendetta 2015
+http://149.202.78.137:8080/movie/5454/5454/1558.mkv
+#EXTINF:-1,IT VOD | Adaline L'eterna giovinezza  The Age of Adaline 2015
+http://149.202.78.137:8080/movie/5454/5454/1559.mkv
+#EXTINF:-1,IT VOD | Affare fatto Unfinished Business (2015)
+http://149.202.78.137:8080/movie/5454/5454/1560.mkv
+#EXTINF:-1,IT VOD | Alvin.Superstar.Nessuno.Ci.Puo.Fermare.2015
+http://149.202.78.137:8080/movie/5454/5454/1562.mkv
+#EXTINF:-1,IT VOD | Ant Man.2015x
+http://149.202.78.137:8080/movie/5454/5454/1563.mkv
+#EXTINF:-1,IT VOD | Avengers Age Of Ultron 2015
+http://149.202.78.137:8080/movie/5454/5454/1565.mkv
+#EXTINF:-1,IT VOD | Avengers Grimm 2015
+http://149.202.78.137:8080/movie/5454/5454/1566.mkv
+#EXTINF:-1,IT VOD | Babadook.2015
+http://149.202.78.137:8080/movie/5454/5454/1567.mkv
+#EXTINF:-1,IT VOD | Banana (2014)
+http://149.202.78.137:8080/movie/5454/5454/1568.mkv
+#EXTINF:-1,IT VOD | Barbie Principessa Rock  Barbieâ„¢ in Rock'n Royals (2015)
+http://149.202.78.137:8080/movie/5454/5454/1569.mkv
+#EXTINF:-1,IT VOD | Barely Lethal 16 anni e spia (2015)
+http://149.202.78.137:8080/movie/5454/5454/1570.mkv
+#EXTINF:-1,IT VOD | Belli.Di.Papa.2015xx
+http://149.202.78.137:8080/movie/5454/5454/1571.mkv
+#EXTINF:-1,IT VOD | Big.Game.Caccia.Al.Presidente.2015
+http://149.202.78.137:8080/movie/5454/5454/1574.mkv
+#EXTINF:-1,IT VOD | Big.Game.Caccia.Al.Presidente.2015.
+http://149.202.78.137:8080/movie/5454/5454/1573.mkv
+#EXTINF:-1,IT VOD | Black.Sea.2015
+http://149.202.78.137:8080/movie/5454/5454/1575.mkv
+#EXTINF:-1,IT VOD | Blackhat.2015
+http://149.202.78.137:8080/movie/5454/5454/1576.mkv
+#EXTINF:-1,IT VOD | Breaking Dance (2015)
+http://149.202.78.137:8080/movie/5454/5454/1577.mkv
+#EXTINF:-1,IT VOD | Breaking.Dance.2015
+http://149.202.78.137:8080/movie/5454/5454/1578.mkv
+#EXTINF:-1,IT VOD | Cenerentola  Cinderella (2015).
+http://149.202.78.137:8080/movie/5454/5454/1579.mkv
+#EXTINF:-1,IT VOD | Cenerentola Cinderella.2015
+http://149.202.78.137:8080/movie/5454/5454/1580.mkv
+#EXTINF:-1,IT VOD | Chiamatemi.Francesco.2015
+http://149.202.78.137:8080/movie/5454/5454/1582.mkv
+#EXTINF:-1,IT VOD | Chiamatemi.Francesco.2015.x
+http://149.202.78.137:8080/movie/5454/5454/1581.mkv
+#EXTINF:-1,IT VOD | Child 44 Il Bambino Numero 44
+http://149.202.78.137:8080/movie/5454/5454/1583.mkv
+#EXTINF:-1,IT VOD | Child 44 2015
+http://149.202.78.137:8080/movie/5454/5454/1584.mkv
+#EXTINF:-1,IT VOD | Citta Di Carta 2015
+http://149.202.78.137:8080/movie/5454/5454/1585.mkv
+#EXTINF:-1,IT VOD | Citta.Di.Carta Paper.Towns.2015
+http://149.202.78.137:8080/movie/5454/5454/1587.mkv
+#EXTINF:-1,IT VOD | Come.Ti.Rovino.Le.Vacanze.2015
+http://149.202.78.137:8080/movie/5454/5454/1589.mkv
+#EXTINF:-1,IT VOD | Come.Ti.Rovino.Le.Vacanze.2015.
+http://149.202.78.137:8080/movie/5454/5454/1588.mkv
+#EXTINF:-1,IT VOD | Contagious epidemia mortaleMaggie (2015)
+http://149.202.78.137:8080/movie/5454/5454/1590.mkv
+#EXTINF:-1,IT VOD | Contagious.2015
+http://149.202.78.137:8080/movie/5454/5454/1591.mkv
+#EXTINF:-1,IT VOD | Contagious.Epidemia.Mortale.2015
+http://149.202.78.137:8080/movie/5454/5454/1592.mkv
+#EXTINF:-1,IT VOD | Dead.Rising.Watchtower.2015
+http://149.202.78.137:8080/movie/5454/5454/1593.mkv
+#EXTINF:-1,IT VOD | Dove eravamo rimasti  Ricki and the Flash 2015
+http://149.202.78.137:8080/movie/5454/5454/1594.mkv
+#EXTINF:-1,IT VOD | Dove.Eravamo.Rimasti.2015
+http://149.202.78.137:8080/movie/5454/5454/1595.mkv
+#EXTINF:-1,IT VOD | Dragon.Ball.Z.La.Resurrezione.Di.F.2015
+http://149.202.78.137:8080/movie/5454/5454/1596.mkv
+#EXTINF:-1,IT VOD | Duri Si Diventa Get Hard (2015)
+http://149.202.78.137:8080/movie/5454/5454/1597.mkv
+#EXTINF:-1,IT VOD | Duri.Si.Diventa Get.Hard.2015
+http://149.202.78.137:8080/movie/5454/5454/1598.mkv
+#EXTINF:-1,IT VOD | Duri.Si.Diventa.2015
+http://149.202.78.137:8080/movie/5454/5454/1599.mkv
+#EXTINF:-1,IT VOD | Eva Braun 2015
+http://149.202.78.137:8080/movie/5454/5454/1600.mkv
+#EXTINF:-1,IT VOD | Everest.2015
+http://149.202.78.137:8080/movie/5454/5454/1601.mkv
+#EXTINF:-1,IT VOD | Fantastic.4.I.Fantastici.Quattro.2015
+http://149.202.78.137:8080/movie/5454/5454/1603.mkv
+#EXTINF:-1,IT VOD | Fast.And.Furious.7.2015x
+http://149.202.78.137:8080/movie/5454/5454/1604.mkv
+#EXTINF:-1,IT VOD | Fast.And.Furious.7.Ext.Ed.2015
+http://149.202.78.137:8080/movie/5454/5454/1605.mkv
+#EXTINF:-1,IT VOD | Fuga In tacchi a spillo  Hot Pursuit (2015)
+http://149.202.78.137:8080/movie/5454/5454/1606.mkv
+#EXTINF:-1,IT VOD | Hitman Agent 47 (2015).ix
+http://149.202.78.137:8080/movie/5454/5454/1608.mkv
+#EXTINF:-1,IT VOD | Hitman.Agent.47.2015.
+http://149.202.78.137:8080/movie/5454/5454/1609.mkv
+#EXTINF:-1,IT VOD | Ho ucciso Napoleone (2015).
+http://149.202.78.137:8080/movie/5454/5454/1610.mkv
+#EXTINF:-1,IT VOD | Ho.Ucciso.Napoleone.2015
+http://149.202.78.137:8080/movie/5454/5454/1611.mkv
+#EXTINF:-1,IT VOD | Home.A.Casa.2015
+http://149.202.78.137:8080/movie/5454/5454/1612.mkv
+#EXTINF:-1,IT VOD | Humandroid (2015
+http://149.202.78.137:8080/movie/5454/5454/1613.mkv
+#EXTINF:-1,IT VOD | Humandroid.2015xx
+http://149.202.78.137:8080/movie/5454/5454/1614.mkv
+#EXTINF:-1,IT VOD | I Custodi Del Risveglio 2015
+http://149.202.78.137:8080/movie/5454/5454/1616.mkv
+#EXTINF:-1,IT VOD | I Fantastici Quattro  Fantastic Four (2015
+http://149.202.78.137:8080/movie/5454/5454/1617.mkv
+#EXTINF:-1,IT VOD | Il Racconto Dei Racconti Tale of Tales (2015)
+http://149.202.78.137:8080/movie/5454/5454/1619.mkv
+#EXTINF:-1,IT VOD | Il Ragazzo Della Porta Accanto The Boy Next Door
+http://149.202.78.137:8080/movie/5454/5454/1620.mkv
+#EXTINF:-1,IT VOD | Il.Piccolo.Principe.2015
+http://149.202.78.137:8080/movie/5454/5454/1621.mkv
+#EXTINF:-1,IT VOD | Il.Ponte.Delle.Spie.2015.
+http://149.202.78.137:8080/movie/5454/5454/1622.mkv
+#EXTINF:-1,IT VOD | Il.Professor.Cenerentolo.2015
+http://149.202.78.137:8080/movie/5454/5454/1623.mkv
+#EXTINF:-1,IT VOD | Il.Viaggio.Di.Arlo.2015
+http://149.202.78.137:8080/movie/5454/5454/1625.mkv
+#EXTINF:-1,IT VOD | Il.Viaggio.Di.Arlo.2015x
+http://149.202.78.137:8080/movie/5454/5454/1624.mkv
+#EXTINF:-1,IT VOD | Insidious 3 L Inizio (2015).
+http://149.202.78.137:8080/movie/5454/5454/1628.mkv
+#EXTINF:-1,IT VOD | Io.E.Lei.2015.iTALiANx
+http://149.202.78.137:8080/movie/5454/5454/1632.mkv
+#EXTINF:-1,IT VOD | Irrational.Man.2015
+http://149.202.78.137:8080/movie/5454/5454/1634.mkv
+#EXTINF:-1,IT VOD | Joker  Wild Card (2015)
+http://149.202.78.137:8080/movie/5454/5454/1637.mkv
+#EXTINF:-1,IT VOD | Humandroid.2015
+http://149.202.78.137:8080/movie/5454/5454/1615.mkv
+#EXTINF:-1,IT VOD | I Racconti Del Brivido  L Armadio Delle Anime
+http://149.202.78.137:8080/movie/5454/5454/1618.mkv
+#EXTINF:-1,IT VOD | Inside.Out.2015.x
+http://149.202.78.137:8080/movie/5454/5454/1626.mkv
+#EXTINF:-1,IT VOD | Insidious.3.L.Inizio.2015
+http://149.202.78.137:8080/movie/5454/5454/1629.mkv
+#EXTINF:-1,IT VOD | Insurgent (2015)
+http://149.202.78.137:8080/movie/5454/5454/1630.mkv
+#EXTINF:-1,IT VOD | Io.Che.Amo.Solo.Te.2015.
+http://149.202.78.137:8080/movie/5454/5454/1631.mkv
+#EXTINF:-1,IT VOD | Io.E.Lei.201
+http://149.202.78.137:8080/movie/5454/5454/1633.mkv
+#EXTINF:-1,IT VOD | Italiano Medio (2015)
+http://149.202.78.137:8080/movie/5454/5454/1635.mkv
+#EXTINF:-1,IT VOD | Joker.Wild.Card.2015
+http://149.202.78.137:8080/movie/5454/5454/1638.mkv
+#EXTINF:-1,IT VOD | Jurassic.World.2015
+http://149.202.78.137:8080/movie/5454/5454/1639.mkv
+#EXTINF:-1,IT VOD | Si accettano miracoli 2015
+http://149.202.78.137:8080/movie/5454/5454/1704.mkv
+#EXTINF:-1,IT VOD | Youth.La.Giovinezza.2015
+http://149.202.78.137:8080/movie/5454/5454/1763.mkv
+#EXTINF:-1,IT VOD | Barbie.Squadra.Speciale.2016
+http://149.202.78.137:8080/movie/5454/5454/1524.mkv
+#EXTINF:-1,IT VOD | Batman.V.Superman.Dawn.Of.Justice.2016
+http://149.202.78.137:8080/movie/5454/5454/1525.mkv
+#EXTINF:-1,***** GERMANY *****
+http://149.202.78.137:8080/live/5454/5454/1147.ts
+#EXTINF:-1,DE | SKY MGM HD
+http://149.202.78.137:8080/live/5454/5454/1399.ts
+#EXTINF:-1,DE | SKY SPORT NEWS HD uuu
+http://149.202.78.137:8080/live/5454/5454/1431.ts
+#EXTINF:-1,DE | ATV-A
+http://149.202.78.137:8080/live/5454/5454/1430.ts
+#EXTINF:-1,DE | Kika.
+http://149.202.78.137:8080/live/5454/5454/1429.ts
+#EXTINF:-1,DE | PRO7_MAXX
+http://149.202.78.137:8080/live/5454/5454/1506.ts
+#EXTINF:-1,DE | Pro7
+http://149.202.78.137:8080/live/5454/5454/1507.ts
+#EXTINF:-1,DE | SKY KRIMI HD
+http://149.202.78.137:8080/live/5454/5454/1400.ts
+#EXTINF:-1,DE | RTL_LIVING
+http://149.202.78.137:8080/live/5454/5454/1508.ts
+#EXTINF:-1,DE | SkyHits
+http://149.202.78.137:8080/live/5454/5454/1401.ts
+#EXTINF:-1,DE | NatGeo Wild
+http://149.202.78.137:8080/live/5454/5454/1411.ts
+#EXTINF:-1,DE | SKY CINEMA1 HD
+http://149.202.78.137:8080/live/5454/5454/1406.ts
+#EXTINF:-1,DE | SKY COMEDY HD
+http://149.202.78.137:8080/live/5454/5454/1407.ts
+#EXTINF:-1,DE | SKY CINEMA HD
+http://149.202.78.137:8080/live/5454/5454/1408.ts
+#EXTINF:-1,DE | SkyAction
+http://149.202.78.137:8080/live/5454/5454/1404.ts
+#EXTINF:-1,DE | SkyAtlantic
+http://149.202.78.137:8080/live/5454/5454/1403.ts
+#EXTINF:-1,DE | SkyCinema24
+http://149.202.78.137:8080/live/5454/5454/1405.ts
+#EXTINF:-1,DE | 13Street
+http://149.202.78.137:8080/live/5454/5454/1402.ts
+#EXTINF:-1,DE | Sat1
+http://149.202.78.137:8080/live/5454/5454/1426.ts
+#EXTINF:-1,DE | EURO SPORT
+http://149.202.78.137:8080/live/5454/5454/1412.ts
+#EXTINF:-1,DE | EUROSPORT2
+http://149.202.78.137:8080/live/5454/5454/1413.ts
+#EXTINF:-1,DE | SKY SPORT1 HD uuu
+http://149.202.78.137:8080/live/5454/5454/1417.ts
+#EXTINF:-1,DE | ORF1
+http://149.202.78.137:8080/live/5454/5454/1421.ts
+#EXTINF:-1,DE | VOX.
+http://149.202.78.137:8080/live/5454/5454/1423.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA  1
+http://149.202.78.137:8080/live/5454/5454/1416.ts
+#EXTINF:-1,DE | SKY SPORT 2HD
+http://149.202.78.137:8080/live/5454/5454/1415.ts
+#EXTINF:-1,DE | SAT 1.
+http://149.202.78.137:8080/live/5454/5454/1418.ts
+#EXTINF:-1,DE | PRO 7.
+http://149.202.78.137:8080/live/5454/5454/1428.ts
+#EXTINF:-1,DE | SuperRTL
+http://149.202.78.137:8080/live/5454/5454/1419.ts
+#EXTINF:-1,DE | RTL HD uuu
+http://149.202.78.137:8080/live/5454/5454/1420.ts
+#EXTINF:-1,DE | ZDF.
+http://149.202.78.137:8080/live/5454/5454/1422.ts
+#EXTINF:-1,DE | RTL II
+http://149.202.78.137:8080/live/5454/5454/1427.ts
+#EXTINF:-1,DE | Prosieben
+http://149.202.78.137:8080/live/5454/5454/1409.ts
+#EXTINF:-1,DE | SkyCinema
+http://149.202.78.137:8080/live/5454/5454/1425.ts
+#EXTINF:-1,DE | SKY Comedy one
+http://149.202.78.137:8080/live/5454/5454/1432.ts
+#EXTINF:-1,DE | SKY CINEMA +1
+http://149.202.78.137:8080/live/5454/5454/1410.ts
+#EXTINF:-1,DE | RTL HD
+http://149.202.78.137:8080/live/5454/5454/1513.ts
+#EXTINF:-1,DE | SKY EMOTION
+http://149.202.78.137:8080/live/5454/5454/1473.ts
+#EXTINF:-1,DE | NDR HD
+http://149.202.78.137:8080/live/5454/5454/1477.ts
+#EXTINF:-1,DE | RTL_CRIME
+http://149.202.78.137:8080/live/5454/5454/1509.ts
+#EXTINF:-1,DE | Fox hd uuu
+http://149.202.78.137:8080/live/5454/5454/1522.ts
+#EXTINF:-1,DE | AXN.
+http://149.202.78.137:8080/live/5454/5454/1523.ts
+#EXTINF:-1,DE | Sat1 HD
+http://149.202.78.137:8080/live/5454/5454/1510.ts
+#EXTINF:-1,DE | Srf1
+http://149.202.78.137:8080/live/5454/5454/1472.ts
+#EXTINF:-1,DE | N TV.
+http://149.202.78.137:8080/live/5454/5454/1474.ts
+#EXTINF:-1,DE | ROMANCE
+http://149.202.78.137:8080/live/5454/5454/1475.ts
+#EXTINF:-1,DE | SkyNostalgie
+http://149.202.78.137:8080/live/5454/5454/1476.ts
+#EXTINF:-1,DE | Eurosport HD
+http://149.202.78.137:8080/live/5454/5454/1478.ts
+#EXTINF:-1,DE | WDRHD
+http://149.202.78.137:8080/live/5454/5454/1480.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 1HD
+http://149.202.78.137:8080/live/5454/5454/1481.ts
+#EXTINF:-1,DE | VOX
+http://149.202.78.137:8080/live/5454/5454/1514.ts
+#EXTINF:-1,DE | SKY SPORT NEWS HD
+http://149.202.78.137:8080/live/5454/5454/1482.ts
+#EXTINF:-1,DE | SKYSPORT AUSTRIA
+http://149.202.78.137:8080/live/5454/5454/1483.ts
+#EXTINF:-1,DE | SKY SPORT 2 HD
+http://149.202.78.137:8080/live/5454/5454/1484.ts
+#EXTINF:-1,DE | SPORT1 US HD
+http://149.202.78.137:8080/live/5454/5454/1485.ts
+#EXTINF:-1,DE | SPORT +1 HD
+http://149.202.78.137:8080/live/5454/5454/1486.ts
+#EXTINF:-1,DE | SPORT 1  HD
+http://149.202.78.137:8080/live/5454/5454/1487.ts
+#EXTINF:-1,DE | SKY SELECT 1
+http://149.202.78.137:8080/live/5454/5454/1495.ts
+#EXTINF:-1,DE | SKY SELECT 2HD
+http://149.202.78.137:8080/live/5454/5454/1494.ts
+#EXTINF:-1,DE | Sky Select 3 HD
+http://149.202.78.137:8080/live/5454/5454/1493.ts
+#EXTINF:-1,DE | Sky Select 4 HD
+http://149.202.78.137:8080/live/5454/5454/1492.ts
+#EXTINF:-1,DE | Sky Select 5 HD
+http://149.202.78.137:8080/live/5454/5454/1491.ts
+#EXTINF:-1,DE | Sky Select 6 HD
+http://149.202.78.137:8080/live/5454/5454/1490.ts
+#EXTINF:-1,DE | Sky Select 7HD
+http://149.202.78.137:8080/live/5454/5454/1489.ts
+#EXTINF:-1,DE | Sky Select 8HD
+http://149.202.78.137:8080/live/5454/5454/1488.ts
+#EXTINF:-1,DE | ZDF
+http://149.202.78.137:8080/live/5454/5454/1515.ts
+#EXTINF:-1,DE | ORF2
+http://149.202.78.137:8080/live/5454/5454/1517.ts
+#EXTINF:-1,DE | D MAX HD
+http://149.202.78.137:8080/live/5454/5454/1518.ts
+#EXTINF:-1,DE | HISTORY CHANNEL HD
+http://149.202.78.137:8080/live/5454/5454/1497.ts
+#EXTINF:-1,DE | NATIONAL GEOGRAPHIC
+http://149.202.78.137:8080/live/5454/5454/1498.ts
+#EXTINF:-1,DE | RTL2 HD
+http://149.202.78.137:8080/live/5454/5454/1512.ts
+#EXTINF:-1,DE | TNT Serie HD
+http://149.202.78.137:8080/live/5454/5454/1520.ts
+#EXTINF:-1,DE | NATGEOWILD HD
+http://149.202.78.137:8080/live/5454/5454/1499.ts
+#EXTINF:-1,DE | ARD HD
+http://149.202.78.137:8080/live/5454/5454/1500.ts
+#EXTINF:-1,DE | ARD TV
+http://149.202.78.137:8080/live/5454/5454/1516.ts
+#EXTINF:-1,DE | Disney_Junior
+http://149.202.78.137:8080/live/5454/5454/1501.ts
+#EXTINF:-1,DE | Disney_XD
+http://149.202.78.137:8080/live/5454/5454/1502.ts
+#EXTINF:-1,DE | NICK_JR
+http://149.202.78.137:8080/live/5454/5454/1504.ts
+#EXTINF:-1,DE | SYFY
+http://149.202.78.137:8080/live/5454/5454/1521.ts
+#EXTINF:-1,DE | WDR.
+http://149.202.78.137:8080/live/5454/5454/1505.ts
+#EXTINF:-1,DE | RTL_NITRO
+http://149.202.78.137:8080/live/5454/5454/1511.ts
+#EXTINF:-1,DE | SIXX.
+http://149.202.78.137:8080/live/5454/5454/1519.ts
+#EXTINF:-1,DE | SKY TNT SERIES HD
+http://149.202.78.137:8080/live/5454/5454/2625.ts
+#EXTINF:-1,DE | SKY TNT FILME HD
+http://149.202.78.137:8080/live/5454/5454/2624.ts
+#EXTINF:-1,DE | SKY NATGEO WILD HD
+http://149.202.78.137:8080/live/5454/5454/2633.ts
+#EXTINF:-1,DE | RTL PASSÄ°ON
+http://149.202.78.137:8080/live/5454/5454/2626.ts
+#EXTINF:-1,DE | KINO WELT TV
+http://149.202.78.137:8080/live/5454/5454/2630.ts
+#EXTINF:-1,DE | KabelEins
+http://149.202.78.137:8080/live/5454/5454/2627.ts
+#EXTINF:-1,DE | HEIMAT KANAL
+http://149.202.78.137:8080/live/5454/5454/2631.ts
+#EXTINF:-1,DE | DISNEY CINEMAGIC
+http://149.202.78.137:8080/live/5454/5454/2632.ts
+#EXTINF:-1,DE | A&E
+http://149.202.78.137:8080/live/5454/5454/2628.ts
+#EXTINF:-1,DE VOD | 10.Cloverfield.Lane.2016
+http://149.202.78.137:8080/movie/5454/5454/1764.mkv
+#EXTINF:-1,DE VOD | 69.Tage.Hoffnung.2015
+http://149.202.78.137:8080/movie/5454/5454/1765.mkv
+#EXTINF:-1,DE VOD | A.Perfect.Day.2015
+http://149.202.78.137:8080/movie/5454/5454/1766.mkv
+#EXTINF:-1,DE VOD | Baskin  2015
+http://149.202.78.137:8080/movie/5454/5454/1768.mkv
+#EXTINF:-1,DE VOD | Batman.v.Superman.Dawn.of.Justice.2016
+http://149.202.78.137:8080/movie/5454/5454/1770.mkv
+#EXTINF:-1,DE VOD | Bruder vor Lude 2015
+http://149.202.78.137:8080/movie/5454/5454/1771.mkv
+#EXTINF:-1,DE VOD | Burnt.Im.Rausch.der.Sterne.2015
+http://149.202.78.137:8080/movie/5454/5454/1772.mkv
+#EXTINF:-1,DE VOD | Carol.2015
+http://149.202.78.137:8080/movie/5454/5454/1773.mkv
+#EXTINF:-1,DE VOD | Chroniken.der.Unterwelt.City.of.Bones.2013
+http://149.202.78.137:8080/movie/5454/5454/1774.mkv
+#EXTINF:-1,DE VOD | Creed Rockys Legacy German 2015
+http://149.202.78.137:8080/movie/5454/5454/1775.mkv
+#EXTINF:-1,DE VOD | Deadpool.2016
+http://149.202.78.137:8080/movie/5454/5454/1776.mkv
+#EXTINF:-1,DE VOD | Der.8.Kontinent.2015
+http://149.202.78.137:8080/movie/5454/5454/1777.mkv
+#EXTINF:-1,DE VOD | Die.5.Welle.2016
+http://149.202.78.137:8080/movie/5454/5454/1778.mkv
+#EXTINF:-1,DE VOD | Eddie the Eagle Alles ist mÃ¶glich  2016
+http://149.202.78.137:8080/movie/5454/5454/1779.mkv
+#EXTINF:-1,DE VOD | Eisenstein in Guanajuato 2015
+http://149.202.78.137:8080/movie/5454/5454/1780.mkv
+#EXTINF:-1,DE VOD | Honig.im.Kopf.2014
+http://149.202.78.137:8080/movie/5454/5454/1781.mkv
+#EXTINF:-1,DE VOD | Jane.Got.a.Gun.2016
+http://149.202.78.137:8080/movie/5454/5454/1782.mkv
+#EXTINF:-1,DE VOD | Jarhead.3 Die.Belagerung.2016
+http://149.202.78.137:8080/movie/5454/5454/1783.mkv
+#EXTINF:-1,DE VOD | Joy.Alles.ausser.gewoehnlich.2015
+http://149.202.78.137:8080/movie/5454/5454/1784.mkv
+#EXTINF:-1,DE VOD | Jurassic Park 01 1993
+http://149.202.78.137:8080/movie/5454/5454/1785.mkv
+#EXTINF:-1,DE VOD | Jurassic Park 02 1997
+http://149.202.78.137:8080/movie/5454/5454/1786.mkv
+#EXTINF:-1,DE VOD | Jurassic Park 03 2001
+http://149.202.78.137:8080/movie/5454/5454/1787.mkv
+#EXTINF:-1,DE VOD | Jurassic Park 04 2015
+http://149.202.78.137:8080/movie/5454/5454/1788.mkv
+#EXTINF:-1,DE VOD | Killer.Laugh.2015
+http://149.202.78.137:8080/movie/5454/5454/1789.mkv
+#EXTINF:-1,DE VOD | Legend German.2015
+http://149.202.78.137:8080/movie/5454/5454/1790.mkv
+#EXTINF:-1,DE VOD | lmxjanegun
+http://149.202.78.137:8080/movie/5454/5454/1819.mkv
+#EXTINF:-1,DE VOD | Lord.of War 2005
+http://149.202.78.137:8080/movie/5454/5454/1791.mkv
+#EXTINF:-1,DE VOD | Memories.of.the.Sword.2015
+http://149.202.78.137:8080/movie/5454/5454/1792.mkv
+#EXTINF:-1,DE VOD | Pandemic Fear the Dead 2016
+http://149.202.78.137:8080/movie/5454/5454/1794.mkv
+#EXTINF:-1,DE VOD | POD 2015
+http://149.202.78.137:8080/movie/5454/5454/1793.mkv
+#EXTINF:-1,DE VOD | Remember Vergiss nicht dich zu erinnern  2016
+http://149.202.78.137:8080/movie/5454/5454/1795.mkv
+#EXTINF:-1,DE VOD | Russell Wahnsinn Im Ring ist er der King  2015
+http://149.202.78.137:8080/movie/5454/5454/1796.mkv
+#EXTINF:-1,DE VOD | Sherlock Die.Braut.des Grauens.2016
+http://149.202.78.137:8080/movie/5454/5454/1797.mkv
+#EXTINF:-1,DE VOD | Starwars7
+http://149.202.78.137:8080/movie/5454/5454/1798.mkv
+#EXTINF:-1,DE VOD | Synchronicity  2015
+http://149.202.78.137:8080/movie/5454/5454/1800.mkv
+#EXTINF:-1,DE VOD | The First Avenger Civil War 2016
+http://149.202.78.137:8080/movie/5454/5454/1801.mkv
+#EXTINF:-1,DE VOD | The Hospital 2 2015
+http://149.202.78.137:8080/movie/5454/5454/1802.mkv
+#EXTINF:-1,DE VOD | The.Big.Short.2015
+http://149.202.78.137:8080/movie/5454/5454/1804.mkv
+#EXTINF:-1,DE VOD | The.Dressmaker.Die.Schneiderin.2015
+http://149.202.78.137:8080/movie/5454/5454/1805.mkv
+#EXTINF:-1,DE VOD | The.Huntsman.and.the.Ice.Queen.2016
+http://149.202.78.137:8080/movie/5454/5454/1806.mkv
+#EXTINF:-1,DE VOD | The.Jungle.Book.2016
+http://149.202.78.137:8080/movie/5454/5454/1807.mkv
+#EXTINF:-1,DE VOD | The.Lobster.Hummer.sind.auch.nur.Menschen.2015
+http://149.202.78.137:8080/movie/5454/5454/1808.mkv
+#EXTINF:-1,DE VOD | The.Night.Crew.2015
+http://149.202.78.137:8080/movie/5454/5454/1809.mkv
+#EXTINF:-1,DE VOD | The.Revenant.Der.Rueckkehrer.2015
+http://149.202.78.137:8080/movie/5454/5454/1810.mkv
+#EXTINF:-1,DE VOD | Time.Rush.2016
+http://149.202.78.137:8080/movie/5454/5454/1811.mkv
+#EXTINF:-1,DE VOD | Trumbo 2015
+http://149.202.78.137:8080/movie/5454/5454/1812.mkv
+#EXTINF:-1,DE VOD | Und taeglich gruesst der Braeutigam 2015
+http://149.202.78.137:8080/movie/5454/5454/1813.mkv
+#EXTINF:-1,DE VOD | Unter dem Sand 2015
+http://149.202.78.137:8080/movie/5454/5454/1814.mkv
+#EXTINF:-1,DE VOD | Wilde Hunde Rabid Dogs2015
+http://149.202.78.137:8080/movie/5454/5454/1815.mkv
+#EXTINF:-1,DE VOD | Zombie Shark The Swimming Dead 2015
+http://149.202.78.137:8080/movie/5454/5454/1816.mkv
+#EXTINF:-1,DE VOD | Zorniges Land  2015
+http://149.202.78.137:8080/movie/5454/5454/1818.mkv
+#EXTINF:-1,DE VOD | Zoomania - 2016 - German - AC3 BDRiP x264 - KW
+http://149.202.78.137:8080/movie/5454/5454/3265.mp4
+#EXTINF:-1,DE VOD | Zoolander.2.2016.German.BDRiP.AC3.XViD-CRG
+http://149.202.78.137:8080/movie/5454/5454/3264.mp4
+#EXTINF:-1,DE VOD | X Men Apocalypse - 2016 - German - TS AC3 LD XViD - PS
+http://149.202.78.137:8080/movie/5454/5454/3263.mp4
+#EXTINF:-1,DE VOD | Warcraft.The.Beginning.2016.GERMAN.AC3.LiNE.DUBBED.HDTC.x264-GOT
+http://149.202.78.137:8080/movie/5454/5454/3262.mp4
+#EXTINF:-1,DE VOD | Tschiller Off Duty
+http://149.202.78.137:8080/movie/5454/5454/3261.mp4
+#EXTINF:-1,DE VOD | trust-xvid
+http://149.202.78.137:8080/movie/5454/5454/3274.mp4
+#EXTINF:-1,DE VOD | The Survivalist
+http://149.202.78.137:8080/movie/5454/5454/3260.mp4
+#EXTINF:-1,DE VOD | The Shallows Gefahr aus der Tiefe - 2016 - German - TS MD x264 - NSane
+http://149.202.78.137:8080/movie/5454/5454/3259.mp4
+#EXTINF:-1,DE VOD | The Purge 3 Election Year - German - 2016 - AC3 MD BDRiP x264 - ABC
+http://149.202.78.137:8080/movie/5454/5454/3258.mp4
+#EXTINF:-1,DE VOD | The Other Side of the Door - German - AC3D BDRiP x264 - PsO
+http://149.202.78.137:8080/movie/5454/5454/3257.mp4
+#EXTINF:-1,DE VOD | The Nice Guys
+http://149.202.78.137:8080/movie/5454/5454/3256.mp4
+#EXTINF:-1,DE VOD | The Mechanic 2 Resurrection - 2016 - German - TS MD x264 - PS
+http://149.202.78.137:8080/movie/5454/5454/3255.mp4
+#EXTINF:-1,DE VOD | The First Avenger Civil War720p
+http://149.202.78.137:8080/movie/5454/5454/3254.mp4
+#EXTINF:-1,DE VOD | thco2.ts.md.xvd-abc
+http://149.202.78.137:8080/movie/5454/5454/3273.mp4
+#EXTINF:-1,DE VOD | Suicide Squad - 2016 - German - WEBHCRiP AC3 LD BLURRED x264 - PS
+http://149.202.78.137:8080/movie/5454/5454/3253.mp4
+#EXTINF:-1,DE VOD | Star Trek Beyond - 2016
+http://149.202.78.137:8080/movie/5454/5454/3252.mp4
+#EXTINF:-1,DE VOD | sisters-2016
+http://149.202.78.137:8080/movie/5454/5454/3272.mp4
+#EXTINF:-1,DE VOD | Ruf der Macht Im Sumpf der Korruption - German - 2016 - AC3 BDRiP x264 - CiNEViSiON
+http://149.202.78.137:8080/movie/5454/5454/3251.mp4
+#EXTINF:-1,DE VOD | Robinson Crusoe - 2016 - German - BDRiP XViD - DETAiLS
+http://149.202.78.137:8080/movie/5454/5454/3250.mp4
+#EXTINF:-1,DE VOD | Ride Along 2 Next Level Miami2016
+http://149.202.78.137:8080/movie/5454/5454/3249.mp4
+#EXTINF:-1,DE VOD | Rage Tage der Vergeltung - German - 2016 - AC3 BDRiP x264 - XF
+http://149.202.78.137:8080/movie/5454/5454/3248.mp4
+#EXTINF:-1,DE VOD | pso-the.huntsman.and.the.ice.queen_web.720p
+http://149.202.78.137:8080/movie/5454/5454/3271.mp4
+#EXTINF:-1,DE VOD | ps-king.webmd.xv
+http://149.202.78.137:8080/movie/5454/5454/3270.mp4
+#EXTINF:-1,DE VOD | Pets - 2016 - German - TS LD XViD - PsO
+http://149.202.78.137:8080/movie/5454/5454/3247.mp4
+#EXTINF:-1,DE VOD | otherside.720-gersubbed
+http://149.202.78.137:8080/movie/5454/5454/3269.mp4
+#EXTINF:-1,DE VOD | Nerve - 2016 - German - WEBRiP LD x264 - PsO
+http://149.202.78.137:8080/movie/5454/5454/3246.mp4
+#EXTINF:-1,DE VOD | mp-midnight-xsd
+http://149.202.78.137:8080/movie/5454/5454/3268.mp4
+#EXTINF:-1,DE VOD | Monsieur Chocolat - German - 2015 - AC3 BDRiP x264 - XF
+http://149.202.78.137:8080/movie/5454/5454/3245.mp4
+#EXTINF:-1,DE VOD | Money Monster - 2016 - German - AC3D 5.1 BDRiP x264 - MULTiPLEX
+http://149.202.78.137:8080/movie/5454/5454/3244.mp4
+#EXTINF:-1,DE VOD | Mikro und Sprit Auf und davon und niemals zur und niemals zur
+http://149.202.78.137:8080/movie/5454/5454/3243.mp4
+#EXTINF:-1,DE VOD | Manhattan Nocturne Tattan Nocturne
+http://149.202.78.137:8080/movie/5454/5454/3242.mp4
+#EXTINF:-1,DE VOD | Legend of Tarzan - 2016 - German - TS MD XViD PROPER - JANE
+http://149.202.78.137:8080/movie/5454/5454/3241.mp4
+#EXTINF:-1,DE VOD | Kung.Fu.Panda.3
+http://149.202.78.137:8080/movie/5454/5454/3240.mp4
+#EXTINF:-1,DE VOD | Jimmy Vestvood Amerikan Hero - German - 2016 - BDRiP x264 - MORTAL
+http://149.202.78.137:8080/movie/5454/5454/3239.mp4
+#EXTINF:-1,DE VOD | Jason Bourne - 2016 - GErman - TS LD x264 - PsO
+http://149.202.78.137:8080/movie/5454/5454/3238.mp4
+#EXTINF:-1,DE VOD | Independence Day 2 Wiederkehr
+http://149.202.78.137:8080/movie/5454/5454/3236.mp4
+#EXTINF:-1,DE VOD | Ice Age Kollision voraus - 2016 - German - AC3D BDRiP x264 - PsO
+http://149.202.78.137:8080/movie/5454/5454/3235.mp4
+#EXTINF:-1,DE VOD | Hardcore - German - 2015 - DL BDRiP x264 - CiNEViSiON
+http://149.202.78.137:8080/movie/5454/5454/3234.mp4
+#EXTINF:-1,DE VOD | Guernica - German - 2016 - AC3 DVDRiP x264 - SAViOUR
+http://149.202.78.137:8080/movie/5454/5454/3233.mp4
+#EXTINF:-1,DE VOD | Green Room - 2015 - German - AC3D 5.1 BDRiP x264 - MULTiPLEX
+http://149.202.78.137:8080/movie/5454/5454/3232.mp4
+#EXTINF:-1,DE VOD | Gods of Egypt - 2016 - German - BDRiP AC3D XViD - CRG
+http://149.202.78.137:8080/movie/5454/5454/3231.mp4
+#EXTINF:-1,DE VOD | Ghostbusters - 2016 - German - BDRiP LD x264 - PsO
+http://149.202.78.137:8080/movie/5454/5454/3230.mp4
+#EXTINF:-1,DE VOD | Free State of Jones - 2016 - German - AC3D BDRiP x264 - MULTiPLEX
+http://149.202.78.137:8080/movie/5454/5454/3229.mp4
+#EXTINF:-1,DE VOD | Excess Flesh - German - 2015 - BDRiP x264 - MORTAL
+http://149.202.78.137:8080/movie/5454/5454/3228.mp4
+#EXTINF:-1,DE VOD | Erschutternde wahrheit
+http://149.202.78.137:8080/movie/5454/5454/3227.mp4
+#EXTINF:-1,DE VOD | enticement-unfriend.webhd.720p
+http://149.202.78.137:8080/movie/5454/5454/3267.mp4
+#EXTINF:-1,DE VOD | Ein ganzes halbes Jahr - 2016 - German - AC3D BDRiP XViD - LameXD
+http://149.202.78.137:8080/movie/5454/5454/3226.mp4
+#EXTINF:-1,DE VOD | Dragon Love Is A Scary Tale - 2015 - German - AC3 BDRiP XViD - CRG
+http://149.202.78.137:8080/movie/5454/5454/3225.mp4
+#EXTINF:-1,DE VOD | Dirty Grandpa - 2016 - German - AC3D 5.1 BDRiP XViD - MULTiPLEX
+http://149.202.78.137:8080/movie/5454/5454/3224.mp4
+#EXTINF:-1,DE VOD | Die Unfassbaren 2 - 2016 - German - BDRiP LD x264 - PsO
+http://149.202.78.137:8080/movie/5454/5454/3223.mp4
+#EXTINF:-1,DE VOD | Die 5. Welle_720p
+http://149.202.78.137:8080/movie/5454/5454/3222.mp4
+#EXTINF:-1,DE VOD | Desierto Tödliche Hetzjagd
+http://149.202.78.137:8080/movie/5454/5454/3221.mp4
+#EXTINF:-1,DE VOD | Der lange Weg - 2016 - German - AC3D BDRiP x264 - MULTiPLEX
+http://149.202.78.137:8080/movie/5454/5454/3220.mp4
+#EXTINF:-1,DE VOD | Der Junge und das Biest - German - 2015 - ANiME DL BDRiP x264 - STARS
+http://149.202.78.137:8080/movie/5454/5454/3218.mp4
+#EXTINF:-1,DE VOD | Der geilste Tag - 2016 - German - BDRiP x264 - DETAiLS
+http://149.202.78.137:8080/movie/5454/5454/3219.mp4
+#EXTINF:-1,DE VOD | Deadpool_720p
+http://149.202.78.137:8080/movie/5454/5454/3217.mp4
+#EXTINF:-1,DE VOD | Das Jerico Projekt Im Kopf des Killers - 2016 - German - AC3D 5.1 BDRiP x264 - MULTiPLEX
+http://149.202.78.137:8080/movie/5454/5454/3215.mp4
+#EXTINF:-1,DE VOD | Das fehlende Grau - German - 2015 - AC3 DVDRiP x264 - KNT
+http://149.202.78.137:8080/movie/5454/5454/3216.mp4
+#EXTINF:-1,DE VOD | Dads.Army.2016.German.AC3D.BDRiP.x264-iND
+http://149.202.78.137:8080/movie/5454/5454/3214.mp4
+#EXTINF:-1,DE VOD | Conjuring 2 - 2016 - German - AC3 DVDRiP x264 - HP
+http://149.202.78.137:8080/movie/5454/5454/3213.mp4
+#EXTINF:-1,DE VOD | Central inteligent-720p
+http://149.202.78.137:8080/movie/5454/5454/3211.mp4
+#EXTINF:-1,DE VOD | Blood Father - 2016 - German - AC3D 5.1 BDRiP x264 - MULTiPLEX
+http://149.202.78.137:8080/movie/5454/5454/3210.mp4
+#EXTINF:-1,DE VOD | Batman v Superman Dawn of Justice - 2016 - German - WEBRiP LD XViD - MULTiPLEX
+http://149.202.78.137:8080/movie/5454/5454/3209.mp4
+#EXTINF:-1,DE VOD | Baskin - 2015 - German - AC3 BDRiP XviD - FIJ
+http://149.202.78.137:8080/movie/5454/5454/3208.mp4
+#EXTINF:-1,DE VOD | Barbie in Das Sternenlicht Abenteuer - 2016 - German - AC3 DVDRiP x264 - CRG
+http://149.202.78.137:8080/movie/5454/5454/3207.mp4
+#EXTINF:-1,DE VOD | Bad Neighbors 2 - 2016 - German - AC3D BDRiP x264 - CRG
+http://149.202.78.137:8080/movie/5454/5454/3206.mp4
+#EXTINF:-1,DE VOD | ARQ - 2016 - German - AC3D WEBRiP x264 - MULTiPLEX
+http://149.202.78.137:8080/movie/5454/5454/3200.mp4
+#EXTINF:-1,DE VOD | Angry Birds Der Film
+http://149.202.78.137:8080/movie/5454/5454/3205.mp4
+#EXTINF:-1,DE VOD | AmericanHistory1998
+http://149.202.78.137:8080/movie/5454/5454/3204.mp4
+#EXTINF:-1,DE VOD | allegiant-webdl1080p
+http://149.202.78.137:8080/movie/5454/5454/3266.mp4
+#EXTINF:-1,DE VOD | Alice im Wunderland Hinter den Spiegeln - 2016 - German - TS AC3 LD XViD - PS
+http://149.202.78.137:8080/movie/5454/5454/3203.mp4
+#EXTINF:-1,DE VOD | Agoraphobia Der Tod lauert uberall
+http://149.202.78.137:8080/movie/5454/5454/3202.mp4
+#EXTINF:-1,DE VOD | Ab in den Dschungel - 2015 - German - BDRiP MD x264 - MULTiPLEX
+http://149.202.78.137:8080/movie/5454/5454/3201.mp4
+#EXTINF:-1,DE VOD | A War - German
+http://149.202.78.137:8080/movie/5454/5454/3199.mp4
+#EXTINF:-1,DE VOD | 13 Hours The Secret Soldiers of Benghazi - 2016 - German - AC3 BDRip x264 - MULTiPLEX
+http://149.202.78.137:8080/movie/5454/5454/3197.mp4
+#EXTINF:-1,DE VOD | 13 Hours The Secret Soldiers of Benghazi - 2016 - German
+http://149.202.78.137:8080/movie/5454/5454/3198.mp4
+#EXTINF:-1,***** TURKISH *****
+http://149.202.78.137:8080/live/5454/5454/3194.ts
+#EXTINF:-1,TR I LIG TV HD
+http://149.202.78.137:8080/live/5454/5454/49.ts
+#EXTINF:-1,TR | DISCOVERY CHANNEL HD - D-ssmart
+http://149.202.78.137:8080/live/5454/5454/1825.ts
+#EXTINF:-1,TR | EUROSPORT HD (FILBOX )
+http://149.202.78.137:8080/live/5454/5454/1824.ts
+#EXTINF:-1,TR | FILMBOX HD-D-Smart
+http://149.202.78.137:8080/live/5454/5454/1821.ts
+#EXTINF:-1,TR | FIL TV(FILBOX)
+http://149.202.78.137:8080/live/5454/5454/1827.ts
+#EXTINF:-1,TR | MOVIE PREMIUM 2 HD - D-Smart
+http://149.202.78.137:8080/live/5454/5454/1820.ts
+#EXTINF:-1,TR | Movies Platin 2 HD - D-Smart
+http://149.202.78.137:8080/live/5454/5454/1823.ts
+#EXTINF:-1,TR | SINEMA TV ( FILBOX)
+http://149.202.78.137:8080/live/5454/5454/1826.ts
+#EXTINF:-1,TR | ID Xtra Europe HD-digiturk-KDM
+http://149.202.78.137:8080/live/5454/5454/1822.ts
+#EXTINF:-1,TR | YESILCAM 1 HD
+http://149.202.78.137:8080/live/5454/5454/123.ts
+#EXTINF:-1,TR | YESILCAM 2 HD
+http://149.202.78.137:8080/live/5454/5454/122.ts
+#EXTINF:-1,TR | A HABER
+http://149.202.78.137:8080/live/5454/5454/96.m3u8
+#EXTINF:-1,TR | A HABER HD
+http://149.202.78.137:8080/live/5454/5454/67.ts
+#EXTINF:-1,TR | A SPOR
+http://149.202.78.137:8080/live/5454/5454/58.ts
+#EXTINF:-1,TR | A SPOR HD
+http://149.202.78.137:8080/live/5454/5454/95.ts
+#EXTINF:-1,TR | ANIMASYON HD
+http://149.202.78.137:8080/live/5454/5454/114.ts
+#EXTINF:-1,TR | ATV
+http://149.202.78.137:8080/live/5454/5454/93.ts
+#EXTINF:-1,TR | ATV HD
+http://149.202.78.137:8080/live/5454/5454/66.ts
+#EXTINF:-1,TR | BEYAZ TV
+http://149.202.78.137:8080/live/5454/5454/56.ts
+#EXTINF:-1,TR | BEYAZ TV HD
+http://149.202.78.137:8080/live/5454/5454/65.ts
+#EXTINF:-1,TR | BLOOMBERG TV HD
+http://149.202.78.137:8080/live/5454/5454/83.ts
+#EXTINF:-1,TR | CAY TV
+http://149.202.78.137:8080/live/5454/5454/53.ts
+#EXTINF:-1,TR | CNN TURK HABER
+http://149.202.78.137:8080/live/5454/5454/84.ts
+#EXTINF:-1,TR | HABER TURK
+http://149.202.78.137:8080/live/5454/5454/2786.ts
+#EXTINF:-1,TR | DIZISMART PLATIN DSMART
+http://149.202.78.137:8080/live/5454/5454/107.ts
+#EXTINF:-1,TR | EGE TV
+http://149.202.78.137:8080/live/5454/5454/54.ts
+#EXTINF:-1,TR | FILM TV HD
+http://149.202.78.137:8080/live/5454/5454/116.ts
+#EXTINF:-1,TR | FLASH TV
+http://149.202.78.137:8080/live/5454/5454/55.ts
+#EXTINF:-1,TR | FOX HD
+http://149.202.78.137:8080/live/5454/5454/64.ts
+#EXTINF:-1,TR | FOX TV
+http://149.202.78.137:8080/live/5454/5454/80.ts
+#EXTINF:-1,TR | HALK TV
+http://149.202.78.137:8080/live/5454/5454/99.ts
+#EXTINF:-1,TR | VIASAT NATURE/HISTORY CH HD Filbox
+http://149.202.78.137:8080/live/5454/5454/102.ts
+#EXTINF:-1,TR | KANAL 7
+http://149.202.78.137:8080/live/5454/5454/70.ts
+#EXTINF:-1,TR | KANAL 7 HD
+http://149.202.78.137:8080/live/5454/5454/69.ts
+#EXTINF:-1,TR | KANAL D
+http://149.202.78.137:8080/live/5454/5454/79.ts
+#EXTINF:-1,TR | KANAL D HD
+http://149.202.78.137:8080/live/5454/5454/68.ts
+#EXTINF:-1,TR | LIGTV 1 H.265.HVEC
+http://149.202.78.137:8080/live/5454/5454/2785.ts
+#EXTINF:-1,TR I LIG TV 1  HD
+http://149.202.78.137:8080/live/5454/5454/3150.ts
+#EXTINF:-1,TR | LIGTV 1 HD
+http://149.202.78.137:8080/live/5454/5454/135.ts
+#EXTINF:-1,TR | LIG TV 2 HD
+http://149.202.78.137:8080/live/5454/5454/134.ts
+#EXTINF:-1,TR | LIG TV 3 HD
+http://149.202.78.137:8080/live/5454/5454/133.ts
+#EXTINF:-1,TR | LIGTV 4 HD
+http://149.202.78.137:8080/live/5454/5454/132.ts
+#EXTINF:-1,TR | LOCA 1 HD
+http://149.202.78.137:8080/live/5454/5454/121.ts
+#EXTINF:-1,TR | LOCA 2 HD
+http://149.202.78.137:8080/live/5454/5454/120.ts
+#EXTINF:-1,TR | LOCA 3 HD
+http://149.202.78.137:8080/live/5454/5454/119.ts
+#EXTINF:-1,TR | DIZI PREMIUM HD DSMART
+http://149.202.78.137:8080/live/5454/5454/109.ts
+#EXTINF:-1,TR | MINIKA COCUK
+http://149.202.78.137:8080/live/5454/5454/82.ts
+#EXTINF:-1,TR | BOOMERANG COCUK DSMART
+http://149.202.78.137:8080/live/5454/5454/3105.ts
+#EXTINF:-1,TR | SMART COCUK DSMART
+http://149.202.78.137:8080/live/5454/5454/3106.ts
+#EXTINF:-1,TR | MINIKA GO
+http://149.202.78.137:8080/live/5454/5454/81.ts
+#EXTINF:-1,TR | MOVIEMAX ACTION 2 HD
+http://149.202.78.137:8080/live/5454/5454/108.ts
+#EXTINF:-1,TR | DIZI TV HD FILBOX
+http://149.202.78.137:8080/live/5454/5454/106.ts
+#EXTINF:-1,TR | MOVIEMAX COMEDY HD
+http://149.202.78.137:8080/live/5454/5454/104.ts
+#EXTINF:-1,TR | MOVIEMAX FAMILY HD
+http://149.202.78.137:8080/live/5454/5454/111.ts
+#EXTINF:-1,TR | MOVIEMAX FESTIVAL HD
+http://149.202.78.137:8080/live/5454/5454/105.ts
+#EXTINF:-1,TR | MOVIEMAX PREMIER 2 HD
+http://149.202.78.137:8080/live/5454/5454/110.ts
+#EXTINF:-1,TR | MOVIEMAX PREMIER HD
+http://149.202.78.137:8080/live/5454/5454/130.ts
+#EXTINF:-1,TR | MOVIEMAX STARS HD
+http://149.202.78.137:8080/live/5454/5454/112.ts
+#EXTINF:-1,TR | MOVIEMAX TURK HD
+http://149.202.78.137:8080/live/5454/5454/117.ts
+#EXTINF:-1,TR | MOVIESMART TURK HD ( DSMART )
+http://149.202.78.137:8080/live/5454/5454/118.ts
+#EXTINF:-1,TR | SINEMATV AKSIYON HD ( FILBOX )
+http://149.202.78.137:8080/live/5454/5454/2787.ts
+#EXTINF:-1,TR I History HD TR ( DIGITURK )
+http://149.202.78.137:8080/live/5454/5454/101.ts
+#EXTINF:-1,TR | BBC Earth HD-dsmart
+http://149.202.78.137:8080/live/5454/5454/100.ts
+#EXTINF:-1,TR | NBA TV HD
+http://149.202.78.137:8080/live/5454/5454/89.ts
+#EXTINF:-1,TR | NTV
+http://149.202.78.137:8080/live/5454/5454/98.ts
+#EXTINF:-1,TR | NTV SPOR
+http://149.202.78.137:8080/live/5454/5454/78.ts
+#EXTINF:-1,TR | NTV SPOR HD
+http://149.202.78.137:8080/live/5454/5454/97.ts
+#EXTINF:-1,TR | NUMBER ONE
+http://149.202.78.137:8080/live/5454/5454/51.ts
+#EXTINF:-1,TR | SALON 1 HD
+http://149.202.78.137:8080/live/5454/5454/129.ts
+#EXTINF:-1,TR | SALON 2  HD
+http://149.202.78.137:8080/live/5454/5454/128.ts
+#EXTINF:-1,TR | SALON 3 HD
+http://149.202.78.137:8080/live/5454/5454/127.ts
+#EXTINF:-1,TR I SALON 3D HD
+http://149.202.78.137:8080/live/5454/5454/3108.ts
+#EXTINF:-1,TR | EUROSPORT 2 HD ( DSMART )
+http://149.202.78.137:8080/live/5454/5454/103.ts
+#EXTINF:-1,TR | SHOW TV
+http://149.202.78.137:8080/live/5454/5454/90.ts
+#EXTINF:-1,TR | SHOW TV HD
+http://149.202.78.137:8080/live/5454/5454/63.ts
+#EXTINF:-1,TR | SINE TV HD ( TIVIBU )
+http://149.202.78.137:8080/live/5454/5454/113.ts
+#EXTINF:-1,TR | SMART SPOR 1 ( DSMART )
+http://149.202.78.137:8080/live/5454/5454/85.ts
+#EXTINF:-1,TR | SMART SPOR 2 ( DSMART )
+http://149.202.78.137:8080/live/5454/5454/86.ts
+#EXTINF:-1,TR | STAR TV
+http://149.202.78.137:8080/live/5454/5454/91.ts
+#EXTINF:-1,TR | STAR TV HD
+http://149.202.78.137:8080/live/5454/5454/62.ts
+#EXTINF:-1,TR | TIVIBU SPOR 1 HD
+http://149.202.78.137:8080/live/5454/5454/87.ts
+#EXTINF:-1,TR | TIVIBU SPOR 3 HD
+http://149.202.78.137:8080/live/5454/5454/126.ts
+#EXTINF:-1,TR | TIVIBU SPOR 4 HD
+http://149.202.78.137:8080/live/5454/5454/125.ts
+#EXTINF:-1,TR | TIVIBU SPOR HD 2
+http://149.202.78.137:8080/live/5454/5454/88.ts
+#EXTINF:-1,AR | BEIN SPORT 1 HD
+http://149.202.78.137:8080/live/5454/5454/3195.ts
+#EXTINF:-1,AR | BEIN SPORT 2 HD
+http://149.202.78.137:8080/live/5454/5454/3196.ts
+#EXTINF:-1,TR | TLC
+http://149.202.78.137:8080/live/5454/5454/74.ts
+#EXTINF:-1,TR | TRT 1
+http://149.202.78.137:8080/live/5454/5454/94.ts
+#EXTINF:-1,TR | TRT 1 HD
+http://149.202.78.137:8080/live/5454/5454/77.ts
+#EXTINF:-1,TR | TRT 3 SPOR
+http://149.202.78.137:8080/live/5454/5454/61.ts
+#EXTINF:-1,TR | TRT BELGESEL HD
+http://149.202.78.137:8080/live/5454/5454/71.ts
+#EXTINF:-1,TR | TRT COCUK
+http://149.202.78.137:8080/live/5454/5454/73.ts
+#EXTINF:-1,TR | TRT HABER
+http://149.202.78.137:8080/live/5454/5454/72.ts
+#EXTINF:-1,TR | TRT MUZIK
+http://149.202.78.137:8080/live/5454/5454/57.ts
+#EXTINF:-1,TR | TRT SPOR
+http://149.202.78.137:8080/live/5454/5454/76.ts
+#EXTINF:-1,TR | TRT SPOR HD
+http://149.202.78.137:8080/live/5454/5454/60.ts
+#EXTINF:-1,TR | TV 2
+http://149.202.78.137:8080/live/5454/5454/75.ts
+#EXTINF:-1,TR | TV8
+http://149.202.78.137:8080/live/5454/5454/92.ts
+#EXTINF:-1,TR | TV8 HD
+http://149.202.78.137:8080/live/5454/5454/59.ts
+#EXTINF:-1,TR | TV8.5
+http://149.202.78.137:8080/live/5454/5454/3107.ts
+#EXTINF:-1,TR | VIP CHANNEL 2 HD
+http://149.202.78.137:8080/live/5454/5454/115.ts
+#EXTINF:-1,TR | VIP CHANNEL HD
+http://149.202.78.137:8080/live/5454/5454/131.ts
+#EXTINF:-1,TR | VIP CHANNEL TURK HD
+http://149.202.78.137:8080/live/5454/5454/124.ts
+#EXTINF:-1,TR | YABAN TV
+http://149.202.78.137:8080/live/5454/5454/50.ts
+#EXTINF:-1,TR | VIVA TV
+http://149.202.78.137:8080/live/5454/5454/1841.ts
+#EXTINF:-1,TR | SPORTS TV
+http://149.202.78.137:8080/live/5454/5454/1834.ts
+#EXTINF:-1,TR | Sinetivi Karnaval HD FILBOX
+http://149.202.78.137:8080/live/5454/5454/1831.ts
+#EXTINF:-1,TR | Sinetivi HD FILBOX
+http://149.202.78.137:8080/live/5454/5454/1832.ts
+#EXTINF:-1,TR | DIZIMAX SCI-FI ( DIGITURK ) u
+http://149.202.78.137:8080/live/5454/5454/1842.ts
+#EXTINF:-1,TR | SEMERKAND TV HD
+http://149.202.78.137:8080/live/5454/5454/1843.ts
+#EXTINF:-1,TR | PLANET TURK
+http://149.202.78.137:8080/live/5454/5454/1844.ts
+#EXTINF:-1,TR | PLANET PEMBE
+http://149.202.78.137:8080/live/5454/5454/1845.ts
+#EXTINF:-1,TR | PLANET MUTFAK
+http://149.202.78.137:8080/live/5454/5454/1846.ts
+#EXTINF:-1,TR | PLANET COCUK
+http://149.202.78.137:8080/live/5454/5454/1847.ts
+#EXTINF:-1,TR | NUMBER ONE TURK
+http://149.202.78.137:8080/live/5454/5454/1849.ts
+#EXTINF:-1,TR | National Geographic Wild
+http://149.202.78.137:8080/live/5454/5454/1837.ts
+#EXTINF:-1,TR | MOVIE PREMIUM HD DSMART
+http://149.202.78.137:8080/live/5454/5454/1833.ts
+#EXTINF:-1,TR | Movie Platin 2 HD DSMART
+http://149.202.78.137:8080/live/5454/5454/1838.ts
+#EXTINF:-1,TR | MOVIE GOLD DSMART
+http://149.202.78.137:8080/live/5454/5454/1830.ts
+#EXTINF:-1,TR | MOVIE FAMILY DSMART
+http://149.202.78.137:8080/live/5454/5454/1829.ts
+#EXTINF:-1,TR | KANAL CAY
+http://149.202.78.137:8080/live/5454/5454/1848.ts
+#EXTINF:-1,TR | GS TV
+http://149.202.78.137:8080/live/5454/5454/1840.ts
+#EXTINF:-1,TR | FB TV
+http://149.202.78.137:8080/live/5454/5454/1835.ts
+#EXTINF:-1,TR | BJK TV uuu
+http://149.202.78.137:8080/live/5454/5454/2775.ts
+#EXTINF:-1,TR | MOVIE PREMIUM 2 HD ( DSMART )
+http://149.202.78.137:8080/live/5454/5454/1839.ts
+#EXTINF:-1,TR | BABY TV
+http://149.202.78.137:8080/live/5454/5454/1828.ts
+#EXTINF:-1,TR | Animal Planet
+http://149.202.78.137:8080/live/5454/5454/1836.ts
+#EXTINF:-1,TR | YUNUS EMRE
+http://149.202.78.137:8080/live/5454/5454/3123.ts
+#EXTINF:-1,TR | YETER
+http://149.202.78.137:8080/live/5454/5454/3131.ts
+#EXTINF:-1,TR | YESIL DENIZ
+http://149.202.78.137:8080/live/5454/5454/3114.ts
+#EXTINF:-1,TR | TATLI INTIKAM
+http://149.202.78.137:8080/live/5454/5454/3117.ts
+#EXTINF:-1,TR | SURVIVOR
+http://149.202.78.137:8080/live/5454/5454/3122.ts
+#EXTINF:-1,TR | SEVDA KUSUN KANADINDA
+http://149.202.78.137:8080/live/5454/5454/3142.ts
+#EXTINF:-1,TR | SEKSENLER
+http://149.202.78.137:8080/live/5454/5454/3124.ts
+#EXTINF:-1,TR | POYRAZ KARAYEL
+http://149.202.78.137:8080/live/5454/5454/3135.ts
+#EXTINF:-1,TR | PARAMPARCA
+http://149.202.78.137:8080/live/5454/5454/3111.ts
+#EXTINF:-1,TR | OYUN BOZAN
+http://149.202.78.137:8080/live/5454/5454/3112.ts
+#EXTINF:-1,TR | O SES TURKIYE
+http://149.202.78.137:8080/live/5454/5454/3137.ts
+#EXTINF:-1,TR | O HAYAT BEN?M
+http://149.202.78.137:8080/live/5454/5454/3125.ts
+#EXTINF:-1,TR | NE MUNASABET
+http://149.202.78.137:8080/live/5454/5454/3138.ts
+#EXTINF:-1,TR | MÜDÜR NE YAPTIN
+http://149.202.78.137:8080/live/5454/5454/3127.ts
+#EXTINF:-1,TR | MUHTESEM YUZYIL KOSEM
+http://149.202.78.137:8080/live/5454/5454/3148.ts
+#EXTINF:-1,TR | KURTLAR VADISI
+http://149.202.78.137:8080/live/5454/5454/3144.ts
+#EXTINF:-1,TR | KORDUGUM
+http://149.202.78.137:8080/live/5454/5454/3129.ts
+#EXTINF:-1,TR | KIRGIN CICEKLER
+http://149.202.78.137:8080/live/5454/5454/3146.ts
+#EXTINF:-1,TR | KIRALIK ASK
+http://149.202.78.137:8080/live/5454/5454/3109.ts
+#EXTINF:-1,TR | KERTENKELE
+http://149.202.78.137:8080/live/5454/5454/3140.ts
+#EXTINF:-1,TR | KEHRIBAR
+http://149.202.78.137:8080/live/5454/5454/3139.ts
+#EXTINF:-1,TR | KARAGUL
+http://149.202.78.137:8080/live/5454/5454/3132.ts
+#EXTINF:-1,TR | ISTANBUL SOKAKLARI
+http://149.202.78.137:8080/live/5454/5454/3116.ts
+#EXTINF:-1,TR | HAYAT SARKISI
+http://149.202.78.137:8080/live/5454/5454/3115.ts
+#EXTINF:-1,TR | HANIM KÖYLÜ
+http://149.202.78.137:8080/live/5454/5454/3141.ts
+#EXTINF:-1,TR | GULDUR GULDUR
+http://149.202.78.137:8080/live/5454/5454/3133.ts
+#EXTINF:-1,TR | GOC ZAMANI
+http://149.202.78.137:8080/live/5454/5454/3118.ts
+#EXTINF:-1,TR | FILINTA
+http://149.202.78.137:8080/live/5454/5454/3121.ts
+#EXTINF:-1,TR | EVLI VE OFKELI
+http://149.202.78.137:8080/live/5454/5454/3128.ts
+#EXTINF:-1,TR | ESKIYA DUNYAYA HUKUMDAR OLMAZ
+http://149.202.78.137:8080/live/5454/5454/3143.ts
+#EXTINF:-1,TR | DIRILIS ERTUGRUL
+http://149.202.78.137:8080/live/5454/5454/3136.ts
+#EXTINF:-1,TR | DADA
+http://149.202.78.137:8080/live/5454/5454/3149.ts
+#EXTINF:-1,TR | BEYAZ SHOW
+http://149.202.78.137:8080/live/5454/5454/3126.ts
+#EXTINF:-1,TR | BABA CANDIR
+http://149.202.78.137:8080/live/5454/5454/3130.ts
+#EXTINF:-1,TR | ASLA VAZGECMEM
+http://149.202.78.137:8080/live/5454/5454/3134.ts
+#EXTINF:-1,TR | ASK YENIDEN
+http://149.202.78.137:8080/live/5454/5454/3120.ts
+#EXTINF:-1,TR | ASK YALANI SEVER
+http://149.202.78.137:8080/live/5454/5454/3113.ts
+#EXTINF:-1,TR | ARKA SOKAKLAR
+http://149.202.78.137:8080/live/5454/5454/3119.ts
+#EXTINF:-1,TR | AILE
+http://149.202.78.137:8080/live/5454/5454/3145.ts
+#EXTINF:-1,TR | 46. YOK OLAN
+http://149.202.78.137:8080/live/5454/5454/3110.ts
+#EXTINF:-1,TR- Nahid 2015
+http://149.202.78.137:8080/movie/5454/5454/2255.mkv
+#EXTINF:-1,TR- Ben Kimim 2014
+http://149.202.78.137:8080/movie/5454/5454/2254.mkv
+#EXTINF:-1,TR- Adderall GÃ¼nlÃ¼kleri 2015
+http://149.202.78.137:8080/movie/5454/5454/2253.mkv
+#EXTINF:-1,TR - Ä°nsanÄ±n DeÄŸeri 2015
+http://149.202.78.137:8080/movie/5454/5454/2251.mkv
+#EXTINF:-1,TR - Ä°lk Mahsul 2015
+http://149.202.78.137:8080/movie/5454/5454/2250.mkv
+#EXTINF:-1,TR - Ä°kinci Bahar 2015
+http://149.202.78.137:8080/movie/5454/5454/2249.mkv
+#EXTINF:-1,TR - Ä°ki KadÄ±n Bir Ä°nek 2015
+http://149.202.78.137:8080/movie/5454/5454/2248.mkv
+#EXTINF:-1,TR - Åžampiyon Miekkailijia 2015
+http://149.202.78.137:8080/movie/5454/5454/2252.mkv
+#EXTINF:-1,TR - Zoraki KomÅŸu 2015
+http://149.202.78.137:8080/movie/5454/5454/2235.mkv
+#EXTINF:-1,TR - Zoraki Hedef 2015
+http://149.202.78.137:8080/movie/5454/5454/2234.mkv
+#EXTINF:-1,TR - Ziyaret 2015
+http://149.202.78.137:8080/movie/5454/5454/2233.mkv
+#EXTINF:-1,TR - YÄ±ldÄ±z SavaÅŸlarÄ± GÃ¼Ã§ UyanÄ±yor 2015
+http://149.202.78.137:8080/movie/5454/5454/2232.mkv
+#EXTINF:-1,TR - YÄ±lbaÅŸÄ± Kabusu 2015
+http://149.202.78.137:8080/movie/5454/5454/2231.mkv
+#EXTINF:-1,TR - Yolun Sonu 2015
+http://149.202.78.137:8080/movie/5454/5454/2230.mkv
+#EXTINF:-1,TR - Yeniden Yirmi 2015
+http://149.202.78.137:8080/movie/5454/5454/2229.mkv
+#EXTINF:-1,TR - Yaz KÃ¶peÄŸi 2015
+http://149.202.78.137:8080/movie/5454/5454/2228.mkv
+#EXTINF:-1,TR - Yaramaz Bebek 2015
+http://149.202.78.137:8080/movie/5454/5454/2227.mkv
+#EXTINF:-1,TR - YanlÄ±ÅŸ KapÄ± 2015
+http://149.202.78.137:8080/movie/5454/5454/2226.mkv
+#EXTINF:-1,TR - YakÄ±n Tehdit 2015
+http://149.202.78.137:8080/movie/5454/5454/2225.mkv
+#EXTINF:-1,TR - Woodlawn 2015
+http://149.202.78.137:8080/movie/5454/5454/2224.mkv
+#EXTINF:-1,TR - VahÅŸi DeÄŸiÅŸim 2015
+http://149.202.78.137:8080/movie/5454/5454/2223.mkv
+#EXTINF:-1,TR - UÄŸursuz 2015
+http://149.202.78.137:8080/movie/5454/5454/2222.mkv
+#EXTINF:-1,TR - Umudun Tarifi 2015
+http://149.202.78.137:8080/movie/5454/5454/2221.mkv
+#EXTINF:-1,TR - TÄ±marhanede 10 GÃ¼n 2015
+http://149.202.78.137:8080/movie/5454/5454/2220.mkv
+#EXTINF:-1,TR - Turuncu Ceketli Adam 2015
+http://149.202.78.137:8080/movie/5454/5454/2219.mkv
+#EXTINF:-1,TR - Turnuva 2015
+http://149.202.78.137:8080/movie/5454/5454/2218.mkv
+#EXTINF:-1,TR - Turbo Ã‡ocuk 2015
+http://149.202.78.137:8080/movie/5454/5454/2217.mkv
+#EXTINF:-1,TR - Tuhaf Ä°liÅŸki 2015
+http://149.202.78.137:8080/movie/5454/5454/2216.mkv
+#EXTINF:-1,TR - TopraÄŸÄ±n GÃ¶lgesinde 2015
+http://149.202.78.137:8080/movie/5454/5454/2215.mkv
+#EXTINF:-1,TR - Tilki Perisi Liza 2015
+http://149.202.78.137:8080/movie/5454/5454/2214.mkv
+#EXTINF:-1,TR - The Hateful Height 2015
+http://149.202.78.137:8080/movie/5454/5454/2213.mkv
+#EXTINF:-1,TR - TerkedilmiÅŸ 2015
+http://149.202.78.137:8080/movie/5454/5454/2212.mkv
+#EXTINF:-1,TR - Tehlikeli YÃ¼rÃ¼yÃ¼ÅŸ 2015
+http://149.202.78.137:8080/movie/5454/5454/2211.mkv
+#EXTINF:-1,TR - Tehlikeli Planlama 2015
+http://149.202.78.137:8080/movie/5454/5454/2210.mkv
+#EXTINF:-1,TR - TaÅŸÄ±yÄ±cÄ± Son HÄ±z 2015
+http://149.202.78.137:8080/movie/5454/5454/2209.mkv
+#EXTINF:-1,TR - Taksi 2015
+http://149.202.78.137:8080/movie/5454/5454/2208.mkv
+#EXTINF:-1,TR - Taklub 2015
+http://149.202.78.137:8080/movie/5454/5454/2207.mkv
+#EXTINF:-1,TR - Taj Mahal 2015
+http://149.202.78.137:8080/movie/5454/5454/2206.mkv
+#EXTINF:-1,TR - SÄ±rlar BÃ¶lgesi 2015
+http://149.202.78.137:8080/movie/5454/5454/2205.mkv
+#EXTINF:-1,TR - Suyun HaritasÄ± 2015
+http://149.202.78.137:8080/movie/5454/5454/2204.mkv
+#EXTINF:-1,TR - Suikast 2015
+http://149.202.78.137:8080/movie/5454/5454/2203.mkv
+#EXTINF:-1,TR - Steve Jobs 2015
+http://149.202.78.137:8080/movie/5454/5454/2202.mkv
+#EXTINF:-1,TR - Stanford Hapishane Deneyi 2015
+http://149.202.78.137:8080/movie/5454/5454/2201.mkv
+#EXTINF:-1,TR - Stajyer 2015
+http://149.202.78.137:8080/movie/5454/5454/2200.mkv
+#EXTINF:-1,TR - Spotlight 2015
+http://149.202.78.137:8080/movie/5454/5454/2199.mkv
+#EXTINF:-1,TR - Spectre 2015
+http://149.202.78.137:8080/movie/5454/5454/2198.mkv
+#EXTINF:-1,TR - Soygun 2015
+http://149.202.78.137:8080/movie/5454/5454/2197.mkv
+#EXTINF:-1,TR - Southpaw 2015
+http://149.202.78.137:8080/movie/5454/5454/2196.mkv
+#EXTINF:-1,TR - Son Miras 2015
+http://149.202.78.137:8080/movie/5454/5454/2195.mkv
+#EXTINF:-1,TR - Son CadÄ± AvcÄ±sÄ± 2015
+http://149.202.78.137:8080/movie/5454/5454/2194.mkv
+#EXTINF:-1,TR - Solace 2015
+http://149.202.78.137:8080/movie/5454/5454/2193.mkv
+#EXTINF:-1,TR - Sihirbaz 2015
+http://149.202.78.137:8080/movie/5454/5454/2192.mkv
+#EXTINF:-1,TR - Sicario 2015
+http://149.202.78.137:8080/movie/5454/5454/2191.mkv
+#EXTINF:-1,TR - Siber ZorbalÄ±k 2015
+http://149.202.78.137:8080/movie/5454/5454/2190.mkv
+#EXTINF:-1,TR - Sessiz Ã‡Ä±ÄŸlÄ±k 2015
+http://149.202.78.137:8080/movie/5454/5454/2189.mkv
+#EXTINF:-1,TR - SavaÅŸÄ±n Ä°Ã§inde 2015
+http://149.202.78.137:8080/movie/5454/5454/2188.mkv
+#EXTINF:-1,TR - Saul'un OÄŸlu 2015
+http://149.202.78.137:8080/movie/5454/5454/2187.mkv
+#EXTINF:-1,TR - SakÄ±n BÃ¼yÃ¼me 2015
+http://149.202.78.137:8080/movie/5454/5454/2186.mkv
+#EXTINF:-1,TR - Ronaldo 2015
+http://149.202.78.137:8080/movie/5454/5454/2185.mkv
+#EXTINF:-1,TR - Rider Jack 2015
+http://149.202.78.137:8080/movie/5454/5454/2183.mkv
+#EXTINF:-1,TR - Randevu 2015
+http://149.202.78.137:8080/movie/5454/5454/2182.mkv
+#EXTINF:-1,TR - Partizan 2015
+http://149.202.78.137:8080/movie/5454/5454/2181.mkv
+#EXTINF:-1,TR - Paris KadÄ±nÄ± 2015
+http://149.202.78.137:8080/movie/5454/5454/2180.mkv
+#EXTINF:-1,TR - OrmanÄ±n Ä°Ã§inde 2015
+http://149.202.78.137:8080/movie/5454/5454/2179.mkv
+#EXTINF:-1,TR - OperatÃ¶r 2015
+http://149.202.78.137:8080/movie/5454/5454/2178.mkv
+#EXTINF:-1,TR - On Bin Aziz 2015
+http://149.202.78.137:8080/movie/5454/5454/2177.mkv
+#EXTINF:-1,TR - OlaÄŸanÃ¼stÃ¼ DÃ¼nya 2015
+http://149.202.78.137:8080/movie/5454/5454/2176.mkv
+#EXTINF:-1,TR - Noel Baba'nÄ±n KÃ¶peÄŸi 2015
+http://149.202.78.137:8080/movie/5454/5454/2175.mkv
+#EXTINF:-1,TR - Nehir 2015
+http://149.202.78.137:8080/movie/5454/5454/2174.mkv
+#EXTINF:-1,TR - Ne Yerde Ne GÃ¶kte 2015
+http://149.202.78.137:8080/movie/5454/5454/2173.mkv
+#EXTINF:-1,TR - Mutlu YÄ±llar 2015
+http://149.202.78.137:8080/movie/5454/5454/2171.mkv
+#EXTINF:-1,TR - MuhteÅŸem Boccaccio 2015
+http://149.202.78.137:8080/movie/5454/5454/2170.mkv
+#EXTINF:-1,TR - Mucize ve Matematik 2015
+http://149.202.78.137:8080/movie/5454/5454/2169.mkv
+#EXTINF:-1,TR - Molly Moon ve Sihirli Kitap 2015
+http://149.202.78.137:8080/movie/5454/5454/2168.mkv
+#EXTINF:-1,TR - Mississippi AteÅŸi 2015
+http://149.202.78.137:8080/movie/5454/5454/2167.mkv
+#EXTINF:-1,TR - Merhaba Benim AdÄ±m Doris 2015
+http://149.202.78.137:8080/movie/5454/5454/2166.mkv
+#EXTINF:-1,TR - MÃ¼kemmel Bir Adam 2015
+http://149.202.78.137:8080/movie/5454/5454/2172.mkv
+#EXTINF:-1,TR - MayÄ±sÄ±n Sevgili Ã‡iÃ§ekleri 2015
+http://149.202.78.137:8080/movie/5454/5454/2165.mkv
+#EXTINF:-1,TR - Max 2015
+http://149.202.78.137:8080/movie/5454/5454/2164.mkv
+#EXTINF:-1,TR - Maskenin ArdÄ±nda 2015
+http://149.202.78.137:8080/movie/5454/5454/2163.mkv
+#EXTINF:-1,TR - Mara DÃ¼nyanÄ±n KurtarÄ±cÄ±sÄ± 2015
+http://149.202.78.137:8080/movie/5454/5454/2162.mkv
+#EXTINF:-1,TR - Maggie 2015
+http://149.202.78.137:8080/movie/5454/5454/2161.mkv
+#EXTINF:-1,TR - Macbeth 2015
+http://149.202.78.137:8080/movie/5454/5454/2160.mkv
+#EXTINF:-1,TR - Ma Ma 2015
+http://149.202.78.137:8080/movie/5454/5454/2159.mkv
+#EXTINF:-1,TR - Lolo 2015
+http://149.202.78.137:8080/movie/5454/5454/2158.mkv
+#EXTINF:-1,TR - KÄ±z KardeÅŸler 2015
+http://149.202.78.137:8080/movie/5454/5454/2156.mkv
+#EXTINF:-1,TR - KÄ±rÄ±lma NoktasÄ± 2015
+http://149.202.78.137:8080/movie/5454/5454/2155.mkv
+#EXTINF:-1,TR - KÄ±rmÄ±zÄ± Elbise 2015
+http://149.202.78.137:8080/movie/5454/5454/2154.mkv
+#EXTINF:-1,TR - Kuzu 2015
+http://149.202.78.137:8080/movie/5454/5454/2152.mkv
+#EXTINF:-1,TR - Kutsal 2015
+http://149.202.78.137:8080/movie/5454/5454/2151.mkv
+#EXTINF:-1,TR - KuralsÄ±z 2015
+http://149.202.78.137:8080/movie/5454/5454/2150.mkv
+#EXTINF:-1,TR - Kung Fu KeÅŸiÅŸ 2015
+http://149.202.78.137:8080/movie/5454/5454/2149.mkv
+#EXTINF:-1,TR - Korku Terapisi 2015
+http://149.202.78.137:8080/movie/5454/5454/2148.mkv
+#EXTINF:-1,TR - Korku KliniÄŸi 2015
+http://149.202.78.137:8080/movie/5454/5454/2147.mkv
+#EXTINF:-1,TR - Komandolar Zombilere KarÅŸÄ± 2015
+http://149.202.78.137:8080/movie/5454/5454/2146.mkv
+#EXTINF:-1,TR - Kod AdÄ± UNCLE 2015
+http://149.202.78.137:8080/movie/5454/5454/2145.mkv
+#EXTINF:-1,TR - KlÃ¼p 2015
+http://149.202.78.137:8080/movie/5454/5454/2144.mkv
+#EXTINF:-1,TR - KiralÄ±k Aile 2015
+http://149.202.78.137:8080/movie/5454/5454/2143.mkv
+#EXTINF:-1,TR - Kemik Balta 2015
+http://149.202.78.137:8080/movie/5454/5454/2142.mkv
+#EXTINF:-1,TR - KÃ¼Ã§Ã¼k KÄ±z KardeÅŸim 2015
+http://149.202.78.137:8080/movie/5454/5454/2153.mkv
+#EXTINF:-1,TR - KaÄŸÄ±ttan Kentler 2015
+http://149.202.78.137:8080/movie/5454/5454/2141.mkv
+#EXTINF:-1,TR - KasÄ±rga 2 2015
+http://149.202.78.137:8080/movie/5454/5454/2139.mkv
+#EXTINF:-1,TR - KasabanÄ±n EsrarÄ± 2015
+http://149.202.78.137:8080/movie/5454/5454/2138.mkv
+#EXTINF:-1,TR - Karnaval 2015
+http://149.202.78.137:8080/movie/5454/5454/2137.mkv
+#EXTINF:-1,TR - Kardaki Palmiyeler 2015
+http://149.202.78.137:8080/movie/5454/5454/2136.mkv
+#EXTINF:-1,TR - KaranlÄ±k Yerler 2015
+http://149.202.78.137:8080/movie/5454/5454/2135.mkv
+#EXTINF:-1,TR - KanlÄ± Deney 2015
+http://149.202.78.137:8080/movie/5454/5454/2134.mkv
+#EXTINF:-1,TR - KanlÄ± Adalet 2015
+http://149.202.78.137:8080/movie/5454/5454/2133.mkv
+#EXTINF:-1,TR - Kanayan YÃ¼rek 2015
+http://149.202.78.137:8080/movie/5454/5454/2132.mkv
+#EXTINF:-1,TR - KampÃ¼s Kodu 2015
+http://149.202.78.137:8080/movie/5454/5454/2131.mkv
+#EXTINF:-1,TR - KaÃ§Ä±rÄ±lan Ã‡ocuk 2015
+http://149.202.78.137:8080/movie/5454/5454/2140.mkv
+#EXTINF:-1,TR - Joy 2015
+http://149.202.78.137:8080/movie/5454/5454/2130.mkv
+#EXTINF:-1,TR - Jeruzalem 2015
+http://149.202.78.137:8080/movie/5454/5454/2129.mkv
+#EXTINF:-1,TR - Jem ve Hologramlar 2015
+http://149.202.78.137:8080/movie/5454/5454/2128.mkv
+#EXTINF:-1,TR - Istakoz 2015
+http://149.202.78.137:8080/movie/5454/5454/2127.mkv
+#EXTINF:-1,TR - Hyena GeÃ§idi 2015
+http://149.202.78.137:8080/movie/5454/5454/2126.mkv
+#EXTINF:-1,TR - Himalayalar 2015
+http://149.202.78.137:8080/movie/5454/5454/2125.mkv
+#EXTINF:-1,TR - Her Åžey Onlar Ä°Ã§in 2015
+http://149.202.78.137:8080/movie/5454/5454/2124.mkv
+#EXTINF:-1,TR - Heidi 2015
+http://149.202.78.137:8080/movie/5454/5454/2123.mkv
+#EXTINF:-1,TR - Hazine 2015.
+http://149.202.78.137:8080/movie/5454/5454/2122.mkv
+#EXTINF:-1,TR - HayatÄ±mÄ±n YolculuÄŸu 2015
+http://149.202.78.137:8080/movie/5454/5454/2121.mkv
+#EXTINF:-1,TR - Hayalet DaÄŸcÄ± 2015
+http://149.202.78.137:8080/movie/5454/5454/2120.mkv
+#EXTINF:-1,TR - Grace'i Aramak 2015
+http://149.202.78.137:8080/movie/5454/5454/2116.mkv
+#EXTINF:-1,TR - Gizli Dosya 2015
+http://149.202.78.137:8080/movie/5454/5454/2114.mkv
+#EXTINF:-1,TR - Gizli DÃ¼nya 2015
+http://149.202.78.137:8080/movie/5454/5454/2115.mkv
+#EXTINF:-1,TR - Gizemli GerÃ§ek 2015
+http://149.202.78.137:8080/movie/5454/5454/2113.mkv
+#EXTINF:-1,TR - GerÃ§ek Hikaye 2015
+http://149.202.78.137:8080/movie/5454/5454/2110.mkv
+#EXTINF:-1,TR - Gelin 2015
+http://149.202.78.137:8080/movie/5454/5454/2109.mkv
+#EXTINF:-1,TR - GeleceÄŸimiz 2015
+http://149.202.78.137:8080/movie/5454/5454/2108.mkv
+#EXTINF:-1,TR - GeÃ§miÅŸten Gelen 2015
+http://149.202.78.137:8080/movie/5454/5454/2112.mkv
+#EXTINF:-1,TR - GeÃ§miÅŸin GÃ¶lgesinde 2015
+http://149.202.78.137:8080/movie/5454/5454/2111.mkv
+#EXTINF:-1,TR - GÃ¼neÅŸte KaybolmuÅŸ 2015
+http://149.202.78.137:8080/movie/5454/5454/2119.mkv
+#EXTINF:-1,TR - GÃ¶nderilmemiÅŸ Mektup 2015
+http://149.202.78.137:8080/movie/5454/5454/2118.mkv
+#EXTINF:-1,TR - GÃ¶lgeler ArasÄ±nda 2015
+http://149.202.78.137:8080/movie/5454/5454/2117.mkv
+#EXTINF:-1,TR - Gangnam Ã‡eteleri 2015
+http://149.202.78.137:8080/movie/5454/5454/2107.mkv
+#EXTINF:-1,TR - FransÄ±z MutfaÄŸÄ± 2015
+http://149.202.78.137:8080/movie/5454/5454/2106.mkv
+#EXTINF:-1,TR - Frankenstein 2015
+http://149.202.78.137:8080/movie/5454/5454/2105.mkv
+#EXTINF:-1,TR - Fatima 2015
+http://149.202.78.137:8080/movie/5454/5454/2104.mkv
+#EXTINF:-1,TR - Ex Machina 2015
+http://149.202.78.137:8080/movie/5454/5454/2103.mkv
+#EXTINF:-1,TR - Everest 2015
+http://149.202.78.137:8080/movie/5454/5454/2102.mkv
+#EXTINF:-1,TR - Esrarengiz 2015
+http://149.202.78.137:8080/movie/5454/5454/2101.mkv
+#EXTINF:-1,TR - Emelie 2015
+http://149.202.78.137:8080/movie/5454/5454/2100.mkv
+#EXTINF:-1,TR - Ejder YÃ¼rek 3 2015
+http://149.202.78.137:8080/movie/5454/5454/2099.mkv
+#EXTINF:-1,TR - Ejder KÄ±lÄ±cÄ± 2015
+http://149.202.78.137:8080/movie/5454/5454/2098.mkv
+#EXTINF:-1,TR - Dua Servisi 2015
+http://149.202.78.137:8080/movie/5454/5454/2097.mkv
+#EXTINF:-1,TR - DoÄŸruyu SÃ¶yle 2015
+http://149.202.78.137:8080/movie/5454/5454/2096.mkv
+#EXTINF:-1,TR - DoÄŸru Zaman 2015
+http://149.202.78.137:8080/movie/5454/5454/2095.mkv
+#EXTINF:-1,TR - DiriliÅŸ 2015
+http://149.202.78.137:8080/movie/5454/5454/2094.mkv
+#EXTINF:-1,TR - Dheepan 2015
+http://149.202.78.137:8080/movie/5454/5454/2093.mkv
+#EXTINF:-1,TR - DeÄŸiÅŸen Hayatlar 2015
+http://149.202.78.137:8080/movie/5454/5454/2092.mkv
+#EXTINF:-1,TR - Derin KaranlÄ±k 2015
+http://149.202.78.137:8080/movie/5454/5454/2091.mkv
+#EXTINF:-1,TR - Demir Yumruklu Adam 2.
+http://149.202.78.137:8080/movie/5454/5454/2090.mkv
+#EXTINF:-1,TR - Demek Evet Diyorsun 2015
+http://149.202.78.137:8080/movie/5454/5454/2089.mkv
+#EXTINF:-1,TR - Davet 2015
+http://149.202.78.137:8080/movie/5454/5454/2088.mkv
+#EXTINF:-1,TR - Dans Tutkusu 2015
+http://149.202.78.137:8080/movie/5454/5454/2087.mkv
+#EXTINF:-1,TR - DanimarkalÄ± KÄ±z 2015
+http://149.202.78.137:8080/movie/5454/5454/2086.mkv
+#EXTINF:-1,TR - Dalga 2015
+http://149.202.78.137:8080/movie/5454/5454/2085.mkv
+#EXTINF:-1,TR - DadÄ±nÄ±n BÃ¶ylesi 2015
+http://149.202.78.137:8080/movie/5454/5454/2084.mkv
+#EXTINF:-1,TR - Creed 2015
+http://149.202.78.137:8080/movie/5454/5454/2083.mkv
+#EXTINF:-1,TR - Chloe ve Theo 2015
+http://149.202.78.137:8080/movie/5454/5454/2082.mkv
+#EXTINF:-1,TR - Chasuke'nin YolculuÄŸu 2015
+http://149.202.78.137:8080/movie/5454/5454/2081.mkv
+#EXTINF:-1,TR - Cevap 2015
+http://149.202.78.137:8080/movie/5454/5454/2080.mkv
+#EXTINF:-1,TR - Cennette 90 Dakika 2015
+http://149.202.78.137:8080/movie/5454/5454/2079.mkv
+#EXTINF:-1,TR - Carol 2015
+http://149.202.78.137:8080/movie/5454/5454/2078.mkv
+#EXTINF:-1,TR - Canavarlar Firarda 2015
+http://149.202.78.137:8080/movie/5454/5454/2077.mkv
+#EXTINF:-1,TR - CadÄ± 2015
+http://149.202.78.137:8080/movie/5454/5454/2076.mkv
+#EXTINF:-1,TR - Brooklyn 2015
+http://149.202.78.137:8080/movie/5454/5454/2074.mkv
+#EXTINF:-1,TR - Bir ve Ä°ki 2015
+http://149.202.78.137:8080/movie/5454/5454/2073.mkv
+#EXTINF:-1,TR - Bir Asinin Efsanevi HayatÄ± 2015
+http://149.202.78.137:8080/movie/5454/5454/2072.mkv
+#EXTINF:-1,TR - BÃ¼yÃ¼k AÃ§Ä±k 2015
+http://149.202.78.137:8080/movie/5454/5454/2075.mkv
+#EXTINF:-1,TR - Bayan Amerika 2015
+http://149.202.78.137:8080/movie/5454/5454/2071.mkv
+#EXTINF:-1,TR - Barselona'da Bir YÄ±lbaÅŸÄ± Gecesi 2015
+http://149.202.78.137:8080/movie/5454/5454/2070.mkv
+#EXTINF:-1,TR - Barney Thomson Efsanesi 2015
+http://149.202.78.137:8080/movie/5454/5454/2069.mkv
+#EXTINF:-1,TR - BakÄ±p GÃ¼lÃ¼mserim 2015
+http://149.202.78.137:8080/movie/5454/5454/2068.mkv
+#EXTINF:-1,TR - Babalar ve KÄ±zlarÄ± 2015
+http://149.202.78.137:8080/movie/5454/5454/2067.mkv
+#EXTINF:-1,TR - Babalar SavaÅŸÄ±yor 2015
+http://149.202.78.137:8080/movie/5454/5454/2066.mkv
+#EXTINF:-1,TR - ÃœÃ§Ã¼mÃ¼z 2015
+http://149.202.78.137:8080/movie/5454/5454/2247.mkv
+#EXTINF:-1,TR - Ã–zgÃ¼rlÃ¼k UÄŸruna 2015
+http://149.202.78.137:8080/movie/5454/5454/2246.mkv
+#EXTINF:-1,TR Dublaj - YÃ¼zleÅŸme - 2011
+http://149.202.78.137:8080/movie/5454/5454/1932.mkv
+#EXTINF:-1,TR Dublaj - Ghajini - 2008
+http://149.202.78.137:8080/movie/5454/5454/1931.mkv
+#EXTINF:-1,TR Dublaj - Gelinim Olur Musun - 2004
+http://149.202.78.137:8080/movie/5454/5454/1930.mkv
+#EXTINF:-1,TR Dublaj - Cennetin Ã‡ocuklarÄ± - 1997
+http://149.202.78.137:8080/movie/5454/5454/1929.mkv
+#EXTINF:-1,TR Dublaj - Benim AdÄ±m Khan - 2010
+http://149.202.78.137:8080/movie/5454/5454/1928.mkv
+#EXTINF:-1,TR Dublaj - Bahubali BaÅŸlangÄ±Ã§ - 2015
+http://149.202.78.137:8080/movie/5454/5454/1927.mkv
+#EXTINF:-1,TR Dublaj - AÅŸk Treni - 2013
+http://149.202.78.137:8080/movie/5454/5454/1926.mkv
+#EXTINF:-1,TR Dublaj - Asoka - 2001
+http://149.202.78.137:8080/movie/5454/5454/1925.mkv
+#EXTINF:-1,TR Dublaj - Aladin - 2009.
+http://149.202.78.137:8080/movie/5454/5454/1924.mkv
+#EXTINF:-1,TR Dublaj  - Harry Evlenmeyi Deneyince - 2011
+http://149.202.78.137:8080/movie/5454/5454/1923.mkv
+#EXTINF:-1,TR -Jane'in Ä°ntikamÄ± - 2016
+http://149.202.78.137:8080/movie/5454/5454/1970.mkv
+#EXTINF:-1,TR - ÅžeytanÄ±n Evi - 2016
+http://149.202.78.137:8080/movie/5454/5454/1969.mkv
+#EXTINF:-1,TR - Zor Saatler - 2016
+http://149.202.78.137:8080/movie/5454/5454/1967.mkv
+#EXTINF:-1,TR - Zor Biraderler 2 - 2016
+http://149.202.78.137:8080/movie/5454/5454/1966.mkv
+#EXTINF:-1,TR - YÄ±ldÄ±z SavaÅŸlarÄ± 6
+http://149.202.78.137:8080/movie/5454/5454/2046.mkv
+#EXTINF:-1,TR - YÄ±ldÄ±z SavaÅŸlarÄ± 5
+http://149.202.78.137:8080/movie/5454/5454/2045.mkv
+#EXTINF:-1,TR - YÄ±ldÄ±z SavaÅŸlarÄ± 4
+http://149.202.78.137:8080/movie/5454/5454/2044.mkv
+#EXTINF:-1,TR - YÄ±ldÄ±z SavaÅŸlarÄ± 3
+http://149.202.78.137:8080/movie/5454/5454/2043.mkv
+#EXTINF:-1,TR - YÄ±ldÄ±z SavaÅŸlarÄ± 2
+http://149.202.78.137:8080/movie/5454/5454/2042.mkv
+#EXTINF:-1,TR - YÄ±ldÄ±z SavaÅŸlarÄ± 1
+http://149.202.78.137:8080/movie/5454/5454/2041.mkv
+#EXTINF:-1,TR - Yeniden DiriliÅŸ - 2016
+http://149.202.78.137:8080/movie/5454/5454/1964.mkv
+#EXTINF:-1,TR - Yeni Nesil AÅŸklar - 2016
+http://149.202.78.137:8080/movie/5454/5454/1963.mkv
+#EXTINF:-1,TR - YÃ¼zÃ¼klerin Efendisi 3
+http://149.202.78.137:8080/movie/5454/5454/2040.mkv
+#EXTINF:-1,TR - YÃ¼zÃ¼klerin Efendisi 2
+http://149.202.78.137:8080/movie/5454/5454/2039.mkv
+#EXTINF:-1,TR - YÃ¼zÃ¼klerin Efendisi 1
+http://149.202.78.137:8080/movie/5454/5454/2038.mkv
+#EXTINF:-1,TR - YÃ¼ce Sezar - 2016
+http://149.202.78.137:8080/movie/5454/5454/1965.mkv
+#EXTINF:-1,TR - Vadeli Hayat - 2016
+http://149.202.78.137:8080/movie/5454/5454/1962.mkv
+#EXTINF:-1,TR - The Do Over - 2016
+http://149.202.78.137:8080/movie/5454/5454/1961.mkv
+#EXTINF:-1,TR - TaÅŸÄ±yÄ±cÄ± 3
+http://149.202.78.137:8080/movie/5454/5454/2037.mkv
+#EXTINF:-1,TR - TaÅŸÄ±yÄ±cÄ± 2.
+http://149.202.78.137:8080/movie/5454/5454/2036.mkv
+#EXTINF:-1,TR - TaÅŸÄ±yÄ±cÄ± 1
+http://149.202.78.137:8080/movie/5454/5454/2035.mkv
+#EXTINF:-1,TR - Star Trek 1
+http://149.202.78.137:8080/movie/5454/5454/2024.mkv
+#EXTINF:-1,TR - Star Trek 2
+http://149.202.78.137:8080/movie/5454/5454/2027.mkv
+#EXTINF:-1,TR - Star Trek 3
+http://149.202.78.137:8080/movie/5454/5454/2028.mkv
+#EXTINF:-1,TR - Star Trek 4
+http://149.202.78.137:8080/movie/5454/5454/2029.mkv
+#EXTINF:-1,TR - Star Trek 5
+http://149.202.78.137:8080/movie/5454/5454/2030.mkv
+#EXTINF:-1,TR - Star Trek 6
+http://149.202.78.137:8080/movie/5454/5454/2031.mkv
+#EXTINF:-1,TR - Star Trek 7
+http://149.202.78.137:8080/movie/5454/5454/2032.mkv
+#EXTINF:-1,TR - Star Trek 8
+http://149.202.78.137:8080/movie/5454/5454/2033.mkv
+#EXTINF:-1,TR - Star Trek 9
+http://149.202.78.137:8080/movie/5454/5454/2034.mkv
+#EXTINF:-1,TR - Star Trek 10
+http://149.202.78.137:8080/movie/5454/5454/2025.mkv
+#EXTINF:-1,TR - Star Trek 11
+http://149.202.78.137:8080/movie/5454/5454/2026.mkv
+#EXTINF:-1,TR - Sosyete Polisi 1
+http://149.202.78.137:8080/movie/5454/5454/2021.mkv
+#EXTINF:-1,TR - Sosyete Polisi 2
+http://149.202.78.137:8080/movie/5454/5454/2022.mkv
+#EXTINF:-1,TR - Sosyete Polisi 3
+http://149.202.78.137:8080/movie/5454/5454/2023.mkv
+#EXTINF:-1,TR - Son Kral - 2016
+http://149.202.78.137:8080/movie/5454/5454/1960.mkv
+#EXTINF:-1,TR - Siyah Giyen Adamlar 1
+http://149.202.78.137:8080/movie/5454/5454/2019.mkv
+#EXTINF:-1,TR - Siyah Giyen Adamlar 2
+http://149.202.78.137:8080/movie/5454/5454/2020.mkv
+#EXTINF:-1,TR - Sandra Brown'dan Beyaz SÄ±cak - 2016
+http://149.202.78.137:8080/movie/5454/5454/1959.mkv
+#EXTINF:-1,TR - SalgÄ±n - 2016
+http://149.202.78.137:8080/movie/5454/5454/1958.mkv
+#EXTINF:-1,TR - Robot KÃ¶pek Archie - 2016
+http://149.202.78.137:8080/movie/5454/5454/1957.mkv
+#EXTINF:-1,TR - Paradox - 2016
+http://149.202.78.137:8080/movie/5454/5454/1956.mkv
+#EXTINF:-1,TR - MÄ±sÄ±r'Ä±n TanrÄ±larÄ± - 2016
+http://149.202.78.137:8080/movie/5454/5454/1955.mkv
+#EXTINF:-1,TR - MÃ¼zede Bir Gece 2
+http://149.202.78.137:8080/movie/5454/5454/2018.mkv
+#EXTINF:-1,TR - MÃ¼zede Bir Gece 1
+http://149.202.78.137:8080/movie/5454/5454/2017.mkv
+#EXTINF:-1,TR - Maigret Tuzak Labirent - 2016
+http://149.202.78.137:8080/movie/5454/5454/1954.mkv
+#EXTINF:-1,TR - Lanetli CÃ¼ce 1
+http://149.202.78.137:8080/movie/5454/5454/2012.mkv
+#EXTINF:-1,TR - Lanetli CÃ¼ce 2
+http://149.202.78.137:8080/movie/5454/5454/2013.mkv
+#EXTINF:-1,TR - Lanetli CÃ¼ce 3
+http://149.202.78.137:8080/movie/5454/5454/2014.mkv
+#EXTINF:-1,TR - Lanetli CÃ¼ce 4
+http://149.202.78.137:8080/movie/5454/5454/2015.mkv
+#EXTINF:-1,TR - Lanetli CÃ¼ce 5
+http://149.202.78.137:8080/movie/5454/5454/2016.mkv
+#EXTINF:-1,TR - Kung Fu Panda 3 - 2016
+http://149.202.78.137:8080/movie/5454/5454/1953.mkv
+#EXTINF:-1,TR - Kral Ä°Ã§in Hologram - 2016
+http://149.202.78.137:8080/movie/5454/5454/1952.mkv
+#EXTINF:-1,TR - Kod 999 - 2016
+http://149.202.78.137:8080/movie/5454/5454/1951.mkv
+#EXTINF:-1,TR - KayÄ±t AltÄ±nda - 2016
+http://149.202.78.137:8080/movie/5454/5454/1950.mkv
+#EXTINF:-1,TR - Kaplan ve Ejderha 2 - 2016
+http://149.202.78.137:8080/movie/5454/5454/1949.mkv
+#EXTINF:-1,TR - Kafesin DÄ±ÅŸÄ±nda - 2016
+http://149.202.78.137:8080/movie/5454/5454/1948.mkv
+#EXTINF:-1,TR - Jurassic Park 3
+http://149.202.78.137:8080/movie/5454/5454/2011.mkv
+#EXTINF:-1,TR - Jurassic Park 2
+http://149.202.78.137:8080/movie/5454/5454/2010.mkv
+#EXTINF:-1,TR - Jurassic Park-1
+http://149.202.78.137:8080/movie/5454/5454/2009.mkv
+#EXTINF:-1,TR - Jason Bourne 3
+http://149.202.78.137:8080/movie/5454/5454/2008.mkv
+#EXTINF:-1,TR - Jason Bourne 2
+http://149.202.78.137:8080/movie/5454/5454/2007.mkv
+#EXTINF:-1,TR - Jason Bourne-1
+http://149.202.78.137:8080/movie/5454/5454/2006.mkv
+#EXTINF:-1,TR - Hush - 2016.
+http://149.202.78.137:8080/movie/5454/5454/1947.mkv
+#EXTINF:-1,TR - HayatÄ±n KÄ±yÄ±sÄ±nda - 2016
+http://149.202.78.137:8080/movie/5454/5454/1946.mkv
+#EXTINF:-1,TR - Harry Potter 8
+http://149.202.78.137:8080/movie/5454/5454/2005.mkv
+#EXTINF:-1,TR - Harry Potter 7
+http://149.202.78.137:8080/movie/5454/5454/2004.mkv
+#EXTINF:-1,TR - Harry Potter 6
+http://149.202.78.137:8080/movie/5454/5454/2003.mkv
+#EXTINF:-1,TR - Harry Potter 5
+http://149.202.78.137:8080/movie/5454/5454/2002.mkv
+#EXTINF:-1,TR - Harry Potter 4
+http://149.202.78.137:8080/movie/5454/5454/2001.mkv
+#EXTINF:-1,TR - Harry Potter 3
+http://149.202.78.137:8080/movie/5454/5454/2000.mkv
+#EXTINF:-1,TR - Harry Potter-2
+http://149.202.78.137:8080/movie/5454/5454/1999.mkv
+#EXTINF:-1,TR - Harry Potter 1
+http://149.202.78.137:8080/movie/5454/5454/1998.mkv
+#EXTINF:-1,TR - GeÃ§miÅŸin Ä°zinde - 2016
+http://149.202.78.137:8080/movie/5454/5454/1944.mkv
+#EXTINF:-1,TR - GeÃ§iÅŸ NoktasÄ± - 2016
+http://149.202.78.137:8080/movie/5454/5454/1933.mkv
+#EXTINF:-1,TR - GÃ¶revimiz Tehlike 3
+http://149.202.78.137:8080/movie/5454/5454/1997.mkv
+#EXTINF:-1,TR - GÃ¶revimiz Tehlike-2
+http://149.202.78.137:8080/movie/5454/5454/1996.mkv
+#EXTINF:-1,TR - GÃ¶revimiz Tehlike 1
+http://149.202.78.137:8080/movie/5454/5454/1995.mkv
+#EXTINF:-1,TR - GÃ¶rev UÄŸruna - 2016
+http://149.202.78.137:8080/movie/5454/5454/1945.mkv
+#EXTINF:-1,TR - Garez 3
+http://149.202.78.137:8080/movie/5454/5454/1994.mkv
+#EXTINF:-1,TR - Garez-2
+http://149.202.78.137:8080/movie/5454/5454/1993.mkv
+#EXTINF:-1,TR - Garez 1
+http://149.202.78.137:8080/movie/5454/5454/1992.mkv
+#EXTINF:-1,TR - Elm SokaÄŸÄ±nda Kabus 9
+http://149.202.78.137:8080/movie/5454/5454/1991.mkv
+#EXTINF:-1,TR - Elm SokaÄŸÄ±nda Kabus 8
+http://149.202.78.137:8080/movie/5454/5454/1990.mkv
+#EXTINF:-1,TR - Elm SokaÄŸÄ±nda Kabus 7
+http://149.202.78.137:8080/movie/5454/5454/1989.mkv
+#EXTINF:-1,TR - Elm SokaÄŸÄ±nda Kabus 6
+http://149.202.78.137:8080/movie/5454/5454/1988.mkv
+#EXTINF:-1,TR - Elm SokaÄŸÄ±nda Kabus 5
+http://149.202.78.137:8080/movie/5454/5454/1987.mkv
+#EXTINF:-1,TR - Elm SokaÄŸÄ±nda Kabus 4
+http://149.202.78.137:8080/movie/5454/5454/1986.mkv
+#EXTINF:-1,TR - Elm SokaÄŸÄ±nda Kabus 3
+http://149.202.78.137:8080/movie/5454/5454/1985.mkv
+#EXTINF:-1,TR - Elm SokaÄŸÄ±nda Kabus 2
+http://149.202.78.137:8080/movie/5454/5454/1984.mkv
+#EXTINF:-1,TR - Elm SokaÄŸÄ±nda Kabus 10
+http://149.202.78.137:8080/movie/5454/5454/1983.mkv
+#EXTINF:-1,TR - Elm SokaÄŸÄ±nda Kabus 1
+http://149.202.78.137:8080/movie/5454/5454/1982.mkv
+#EXTINF:-1,TR - Deadpool - 2016
+http://149.202.78.137:8080/movie/5454/5454/1943.mkv
+#EXTINF:-1,TR - Cloverfield Yolu No.10 - 2016
+http://149.202.78.137:8080/movie/5454/5454/1941.mkv
+#EXTINF:-1,TR - Brahman Naman - 2016
+http://149.202.78.137:8080/movie/5454/5454/1940.mkv
+#EXTINF:-1,TR - Bekar YaÅŸam Klavuzu - 2016
+http://149.202.78.137:8080/movie/5454/5454/1939.mkv
+#EXTINF:-1,TR - BATMAN 6
+http://149.202.78.137:8080/movie/5454/5454/1981.mkv
+#EXTINF:-1,TR - BATMAN 5
+http://149.202.78.137:8080/movie/5454/5454/1980.mkv
+#EXTINF:-1,TR - BATMAN 4
+http://149.202.78.137:8080/movie/5454/5454/1979.mkv
+#EXTINF:-1,TR - BATMAN 3
+http://149.202.78.137:8080/movie/5454/5454/1978.mkv
+#EXTINF:-1,TR - BATMAN 2
+http://149.202.78.137:8080/movie/5454/5454/1977.mkv
+#EXTINF:-1,TR - BATMAN 1
+http://149.202.78.137:8080/movie/5454/5454/1976.mkv
+#EXTINF:-1,TR - Baba OÄŸul - 2016
+http://149.202.78.137:8080/movie/5454/5454/1938.mkv
+#EXTINF:-1,TR - Ã‡Ä±ÄŸlÄ±k 4
+http://149.202.78.137:8080/movie/5454/5454/2050.mkv
+#EXTINF:-1,TR - Ã‡Ä±ÄŸlÄ±k 3
+http://149.202.78.137:8080/movie/5454/5454/2049.mkv
+#EXTINF:-1,TR - Ã‡Ä±ÄŸlÄ±k 2
+http://149.202.78.137:8080/movie/5454/5454/2048.mkv
+#EXTINF:-1,TR - Ã‡Ä±ÄŸlÄ±k 1
+http://149.202.78.137:8080/movie/5454/5454/2047.mkv
+#EXTINF:-1,TR - Ã‡Ä±lgÄ±n Ä°htiyar - 2016
+http://149.202.78.137:8080/movie/5454/5454/1968.mkv
+#EXTINF:-1,TR - AÅŸk ve Gurur ve Zombiler - 2016
+http://149.202.78.137:8080/movie/5454/5454/1937.mkv
+#EXTINF:-1,TR - Asla Pes Etme 3 - 2016
+http://149.202.78.137:8080/movie/5454/5454/1936.mkv
+#EXTINF:-1,TR - Anneler ve KÄ±zlarÄ± - 2016
+http://149.202.78.137:8080/movie/5454/5454/1935.mkv
+#EXTINF:-1,TR - AlacakaranlÄ±k 5
+http://149.202.78.137:8080/movie/5454/5454/1975.mkv
+#EXTINF:-1,TR - AlacakaranlÄ±k 4
+http://149.202.78.137:8080/movie/5454/5454/1974.mkv
+#EXTINF:-1,TR - AlacakaranlÄ±k 3
+http://149.202.78.137:8080/movie/5454/5454/1973.mkv
+#EXTINF:-1,TR - AlacakaranlÄ±k 2
+http://149.202.78.137:8080/movie/5454/5454/1972.mkv
+#EXTINF:-1,TR - AlacakaranlÄ±k 1
+http://149.202.78.137:8080/movie/5454/5454/1971.mkv
+#EXTINF:-1,TR - 13 Saat Bingazinin Gizli Askerleri - 2016
+http://149.202.78.137:8080/movie/5454/5454/1934.mkv
+#EXTINF:-1,TR - Ã–lÃ¼m Emri 2015
+http://149.202.78.137:8080/movie/5454/5454/2245.mkv
+#EXTINF:-1,TR - Ã–lÃ¼ler YÃ¼kseliyor 2015
+http://149.202.78.137:8080/movie/5454/5454/2244.mkv
+#EXTINF:-1,TR - Ã–lÃ¼ HafÄ±zasÄ± 2015
+http://149.202.78.137:8080/movie/5454/5454/2243.mkv
+#EXTINF:-1,TR - Ã‡Ä±lgÄ±n Tatil 2015
+http://149.202.78.137:8080/movie/5454/5454/2242.mkv
+#EXTINF:-1,TR - Ã‡Ä±lgÄ±n Bir Gece 2015
+http://149.202.78.137:8080/movie/5454/5454/2241.mkv
+#EXTINF:-1,TR - Ã‡Ä±lgÄ±n Bir An 2015
+http://149.202.78.137:8080/movie/5454/5454/2240.mkv
+#EXTINF:-1,TR - Ã‡Ä±kÄ±ÅŸ Yok 2015
+http://149.202.78.137:8080/movie/5454/5454/2239.mkv
+#EXTINF:-1,TR - Ã‡ok PiÅŸmiÅŸ 2015
+http://149.202.78.137:8080/movie/5454/5454/2238.mkv
+#EXTINF:-1,TR - Ã‡ocuklar Canavarlara KarÅŸÄ± 2015
+http://149.202.78.137:8080/movie/5454/5454/2237.mkv
+#EXTINF:-1,TR - Ã‡ete 2015
+http://149.202.78.137:8080/movie/5454/5454/2236.mkv
+#EXTINF:-1,TR - AÅŸka Ã–zgÃ¼rlÃ¼k 2015
+http://149.202.78.137:8080/movie/5454/5454/2065.mkv
+#EXTINF:-1,TR - AÅŸk Vadisi 2015
+http://149.202.78.137:8080/movie/5454/5454/2064.mkv
+#EXTINF:-1,TR - Az Ã‡ok KÃ¶rÃ¼ KÃ¶rÃ¼ne 2015
+http://149.202.78.137:8080/movie/5454/5454/2062.mkv
+#EXTINF:-1,TR - Asla BÄ±rakma 2015
+http://149.202.78.137:8080/movie/5454/5454/2061.mkv
+#EXTINF:-1,TR - Araba Ã‡almak ve Ã–tesi 2015
+http://149.202.78.137:8080/movie/5454/5454/2060.mkv
+#EXTINF:-1,TR - Anomalisa 2015
+http://149.202.78.137:8080/movie/5454/5454/2059.mkv
+#EXTINF:-1,TR - Annem 2015
+http://149.202.78.137:8080/movie/5454/5454/2058.mkv
+#EXTINF:-1,TR - Amiral 2015
+http://149.202.78.137:8080/movie/5454/5454/2057.mkv
+#EXTINF:-1,TR - American Ultra 2015
+http://149.202.78.137:8080/movie/5454/5454/2056.mkv
+#EXTINF:-1,TR - AltÄ±n AyakkabÄ±lar 2015
+http://149.202.78.137:8080/movie/5454/5454/2055.mkv
+#EXTINF:-1,TR - Alev Ã‡emberi 2015
+http://149.202.78.137:8080/movie/5454/5454/2054.mkv
+#EXTINF:-1,TR - Adama 2015
+http://149.202.78.137:8080/movie/5454/5454/2053.mkv
+#EXTINF:-1,TR - Acemi Casus 2015
+http://149.202.78.137:8080/movie/5454/5454/2052.mkv
+#EXTINF:-1,TR - AÃ§lÄ±k OyunlarÄ± AlaycÄ± KuÅŸ BÃ¶lÃ¼m 2 2015
+http://149.202.78.137:8080/movie/5454/5454/2063.mkv
+#EXTINF:-1,TR - 5. Dalga 2015
+http://149.202.78.137:8080/movie/5454/5454/2051.mkv
+#EXTINF:-1,TR Belgesel -Tower Recordsun YÃ¼kseliÅŸi ve Ã‡Ã¶kÃ¼ÅŸÃ¼
+http://149.202.78.137:8080/movie/5454/5454/2623.mkv
+#EXTINF:-1,TR Belgesel - SÄ±nÄ±rlarda YaÅŸamak..
+http://149.202.78.137:8080/movie/5454/5454/2622.mkv
+#EXTINF:-1,TR Belgesel - Racing Extinction
+http://149.202.78.137:8080/movie/5454/5454/2621.mkv
+#EXTINF:-1,TR Belgesel - Morgan Freeman ile Ä°nancÄ±n Hikayesi
+http://149.202.78.137:8080/movie/5454/5454/2620.mkv
+#EXTINF:-1,TR Belgesel - DoÄŸanÄ±n Senfonisi
+http://149.202.78.137:8080/movie/5454/5454/2619.mkv
+#EXTINF:-1,TR - Yolunda AS
+http://149.202.78.137:8080/movie/5454/5454/3313.mp4
+#EXTINF:-1,TR - Yola Geldik - 2016 - HDTVRiP XViD - Memoli1976x
+http://149.202.78.137:8080/movie/5454/5454/3312.mp4
+#EXTINF:-1,TR - Umut Apartmani
+http://149.202.78.137:8080/movie/5454/5454/3311.mp4
+#EXTINF:-1,TR - Temel ile Dursun Istanbulda
+http://149.202.78.137:8080/movie/5454/5454/3310.mp4
+#EXTINF:-1,TR - Somuncu Baba Askin Sirri
+http://149.202.78.137:8080/movie/5454/5454/3309.mp4
+#EXTINF:-1,TR - Sol Serit
+http://149.202.78.137:8080/movie/5454/5454/3308.mp4
+#EXTINF:-1,TR - Sivas - 2014 - HDTVRiP XViD
+http://149.202.78.137:8080/movie/5454/5454/3307.mp4
+#EXTINF:-1,TR - Siccin 2 - 2016 - HDTVRiP XViD
+http://149.202.78.137:8080/movie/5454/5454/3306.mp4
+#EXTINF:-1,TR - Senarist - 2016 - HDTVRiP XViD - Memoli1976x
+http://149.202.78.137:8080/movie/5454/5454/3305.mp4
+#EXTINF:-1,TR - Olur isallah
+http://149.202.78.137:8080/movie/5454/5454/3304.mp4
+#EXTINF:-1,TR - Olaylar.Olaylar.2016.HDTV.720p
+http://149.202.78.137:8080/movie/5454/5454/3303.mp4
+#EXTINF:-1,TR - Oflu.Hocanin.Sifresi.2.2016.DVDRip.XviD-Buzlas
+http://149.202.78.137:8080/movie/5454/5454/3302.mp4
+#EXTINF:-1,TR - Misafir - 2015 - HDTVRiP XViD - Memoli1976x
+http://149.202.78.137:8080/movie/5454/5454/3301.mp4
+#EXTINF:-1,TR - Magi - 2016 HDTVRiP XViD
+http://149.202.78.137:8080/movie/5454/5454/3300.mp4
+#EXTINF:-1,TR - Lokman ilyas
+http://149.202.78.137:8080/movie/5454/5454/3299.mp4
+#EXTINF:-1,TR - Leblebi Tozu - 2016 - WEBDL XViD
+http://149.202.78.137:8080/movie/5454/5454/3298.mp4
+#EXTINF:-1,TR - Kucuk.Esnaf.2016.720p.DVDRip.AC3.x264.DD5.1
+http://149.202.78.137:8080/movie/5454/5454/3297.mp4
+#EXTINF:-1,TR - Koyverdin Gittin Beni - 2016 - HDTVRiP XViD - Memoli1976x
+http://149.202.78.137:8080/movie/5454/5454/3296.mp4
+#EXTINF:-1,TR - Kotu Kedi Serafettin 2016 DVDRip XviD
+http://149.202.78.137:8080/movie/5454/5454/3295.mp4
+#EXTINF:-1,TR - Kolpa
+http://149.202.78.137:8080/movie/5454/5454/3294.mp4
+#EXTINF:-1,TR - Kocan kadar konus Dirilis
+http://149.202.78.137:8080/movie/5454/5454/3293.mp4
+#EXTINF:-1,TR - Kacma Birader
+http://149.202.78.137:8080/movie/5454/5454/3292.mp4
+#EXTINF:-1,TR - Hesapta Ask
+http://149.202.78.137:8080/movie/5454/5454/3291.mp4
+#EXTINF:-1,TR - Helak Kayip Koy
+http://149.202.78.137:8080/movie/5454/5454/3290.mp4
+#EXTINF:-1,TR - Hayat Cizgisi
+http://149.202.78.137:8080/movie/5454/5454/3289.mp4
+#EXTINF:-1,TR - Ertugrul1890
+http://149.202.78.137:8080/movie/5454/5454/3288.mp4
+#EXTINF:-1,TR - Ekisporter - 2016 - HDTVRiP XViD
+http://149.202.78.137:8080/movie/5454/5454/3287.mp4
+#EXTINF:-1,TR - Dunyaynin En Guzel kokusu
+http://149.202.78.137:8080/movie/5454/5454/3286.mp4
+#EXTINF:-1,TR - Deliormanli
+http://149.202.78.137:8080/movie/5454/5454/3285.mp4
+#EXTINF:-1,TR - Delibal - 2015 - DVDRiP XViD
+http://149.202.78.137:8080/movie/5454/5454/3284.mp4
+#EXTINF:-1,TR - Cin Kuyusu - 2015 - WEBDL XViD - Memoli1976x
+http://149.202.78.137:8080/movie/5454/5454/3283.mp4
+#EXTINF:-1,TR - Ceberrut - 2016 - HDTVRiP XViD
+http://149.202.78.137:8080/movie/5454/5454/3282.mp4
+#EXTINF:-1,TR - Biz.Bir.Dolasalim.2015.HDRip.XviD.Buzlas
+http://149.202.78.137:8080/movie/5454/5454/3281.mp4
+#EXTINF:-1,TR - Bir Sevda isi
+http://149.202.78.137:8080/movie/5454/5454/3280.mp4
+#EXTINF:-1,TR - Babalarin babasi
+http://149.202.78.137:8080/movie/5454/5454/3279.mp4
+#EXTINF:-1,TR - Azem 3 Cin Tohumu - 2016 - WEBDL XViD
+http://149.202.78.137:8080/movie/5454/5454/3278.mp4
+#EXTINF:-1,TR - Annemin Yarasi
+http://149.202.78.137:8080/movie/5454/5454/3277.mp4
+#EXTINF:-1,TR - Ali Kundilli 2 - 2016 - BRRiP XViD - Memoli1976x
+http://149.202.78.137:8080/movie/5454/5454/3276.mp4
+#EXTINF:-1,TR - Al Karisi cinnet
+http://149.202.78.137:8080/movie/5454/5454/3275.mp4
+#EXTINF:-1,***** UK *****
+http://149.202.78.137:8080/live/5454/5454/1028.ts
+#EXTINF:-1,UK | SkySportF1Uk
+http://149.202.78.137:8080/live/5454/5454/1073.ts
+#EXTINF:-1,UK | PremierSport
+http://149.202.78.137:8080/live/5454/5454/1074.ts
+#EXTINF:-1,UK | SetantaSport
+http://149.202.78.137:8080/live/5454/5454/1075.ts
+#EXTINF:-1,UK | Setanta
+http://149.202.78.137:8080/live/5454/5454/1076.ts
+#EXTINF:-1,UK | BTSportESPN
+http://149.202.78.137:8080/live/5454/5454/1077.ts
+#EXTINF:-1,UK | BTSport2
+http://149.202.78.137:8080/live/5454/5454/1078.ts
+#EXTINF:-1,UK | BTSport1
+http://149.202.78.137:8080/live/5454/5454/1079.ts
+#EXTINF:-1,UK | BTSportEurope
+http://149.202.78.137:8080/live/5454/5454/1085.ts
+#EXTINF:-1,UK | SkysportNews
+http://149.202.78.137:8080/live/5454/5454/1086.ts
+#EXTINF:-1,UK | SkySportNewsUk
+http://149.202.78.137:8080/live/5454/5454/1087.ts
+#EXTINF:-1,UK | SkysportF1
+http://149.202.78.137:8080/live/5454/5454/1088.ts
+#EXTINF:-1,UK | SkySport5 UK
+http://149.202.78.137:8080/live/5454/5454/1089.ts
+#EXTINF:-1,UK | SkySport4  UK
+http://149.202.78.137:8080/live/5454/5454/1090.ts
+#EXTINF:-1,UK | SkySport3 UK
+http://149.202.78.137:8080/live/5454/5454/1091.ts
+#EXTINF:-1,UK | SkySport2 UK
+http://149.202.78.137:8080/live/5454/5454/1092.ts
+#EXTINF:-1,UK | SkySport1 UK
+http://149.202.78.137:8080/live/5454/5454/1093.ts
+#EXTINF:-1,UK | EUROSPORT2
+http://149.202.78.137:8080/live/5454/5454/1094.ts
+#EXTINF:-1,UK | EUROSPORT1
+http://149.202.78.137:8080/live/5454/5454/1095.ts
+#EXTINF:-1,UK | MotorsTV
+http://149.202.78.137:8080/live/5454/5454/1097.ts
+#EXTINF:-1,UK | CNBC
+http://149.202.78.137:8080/live/5454/5454/1098.ts
+#EXTINF:-1,UK | CNN
+http://149.202.78.137:8080/live/5454/5454/1099.ts
+#EXTINF:-1,UK | Dmax.
+http://149.202.78.137:8080/live/5454/5454/1100.ts
+#EXTINF:-1,UK | Yesterday
+http://149.202.78.137:8080/live/5454/5454/1102.ts
+#EXTINF:-1,UK | RTE One
+http://149.202.78.137:8080/live/5454/5454/1104.ts
+#EXTINF:-1,UK | Rte Two
+http://149.202.78.137:8080/live/5454/5454/1103.ts
+#EXTINF:-1,UK | Sky Movies Premiere HD
+http://149.202.78.137:8080/live/5454/5454/1105.ts
+#EXTINF:-1,UK | Sky Movies Scifi / Horror HD
+http://149.202.78.137:8080/live/5454/5454/1106.ts
+#EXTINF:-1,UK | Sky Movies Family HD
+http://149.202.78.137:8080/live/5454/5454/1107.ts
+#EXTINF:-1,UK | Sky Movies Action
+http://149.202.78.137:8080/live/5454/5454/1108.ts
+#EXTINF:-1,UK | Sky Movies Comedy
+http://149.202.78.137:8080/live/5454/5454/1109.ts
+#EXTINF:-1,UK | SkyMTV Hits
+http://149.202.78.137:8080/live/5454/5454/1110.ts
+#EXTINF:-1,UK | Movies 4Men
+http://149.202.78.137:8080/live/5454/5454/1111.ts
+#EXTINF:-1,UK | More4+1
+http://149.202.78.137:8080/live/5454/5454/1112.ts
+#EXTINF:-1,UK | SkyOne HD
+http://149.202.78.137:8080/live/5454/5454/1113.ts
+#EXTINF:-1,UK | SkTrueMovies 2 HD
+http://149.202.78.137:8080/live/5454/5454/1114.ts
+#EXTINF:-1,UK | True Movies1 HD
+http://149.202.78.137:8080/live/5454/5454/1115.ts
+#EXTINF:-1,UK | Racing
+http://149.202.78.137:8080/live/5454/5454/1116.ts
+#EXTINF:-1,UK | Watch Ireland
+http://149.202.78.137:8080/live/5454/5454/1117.ts
+#EXTINF:-1,UK | FOX News
+http://149.202.78.137:8080/live/5454/5454/1118.ts
+#EXTINF:-1,UK | BBC News
+http://149.202.78.137:8080/live/5454/5454/1119.ts
+#EXTINF:-1,UK | 5USA
+http://149.202.78.137:8080/live/5454/5454/1120.ts
+#EXTINF:-1,UK | SkyMoviesDrama HD
+http://149.202.78.137:8080/live/5454/5454/1121.ts
+#EXTINF:-1,UK | SkyMoviesSelect HD
+http://149.202.78.137:8080/live/5454/5454/1122.ts
+#EXTINF:-1,UK | SkyMoviesThriller
+http://149.202.78.137:8080/live/5454/5454/1123.ts
+#EXTINF:-1,UK | NationalGeographic
+http://149.202.78.137:8080/live/5454/5454/1124.ts
+#EXTINF:-1,UK | Discovery Investigation HD
+http://149.202.78.137:8080/live/5454/5454/1125.ts
+#EXTINF:-1,UK | Discovery Turbo HD
+http://149.202.78.137:8080/live/5454/5454/1126.ts
+#EXTINF:-1,UK | Discovery Science HD
+http://149.202.78.137:8080/live/5454/5454/1127.ts
+#EXTINF:-1,UK | DiscoveryShed
+http://149.202.78.137:8080/live/5454/5454/1128.ts
+#EXTINF:-1,UK | DiscoveryHistory
+http://149.202.78.137:8080/live/5454/5454/1129.ts
+#EXTINF:-1,UK | DiscoveryChannelHD
+http://149.202.78.137:8080/live/5454/5454/1130.ts
+#EXTINF:-1,UK | DisneyChannel
+http://149.202.78.137:8080/live/5454/5454/1131.ts
+#EXTINF:-1,UK | DisneyJunior
+http://149.202.78.137:8080/live/5454/5454/1132.ts
+#EXTINF:-1,UK | ComedyCentral
+http://149.202.78.137:8080/live/5454/5454/1133.ts
+#EXTINF:-1,UK | Channel5
+http://149.202.78.137:8080/live/5454/5454/1134.ts
+#EXTINF:-1,UK | Channel4
+http://149.202.78.137:8080/live/5454/5454/1135.ts
+#EXTINF:-1,UK | CBSAction
+http://149.202.78.137:8080/live/5454/5454/1136.ts
+#EXTINF:-1,UK | CBSDrama
+http://149.202.78.137:8080/live/5454/5454/1137.ts
+#EXTINF:-1,UK | CBSReality
+http://149.202.78.137:8080/live/5454/5454/1138.ts
+#EXTINF:-1,UK | BBC4
+http://149.202.78.137:8080/live/5454/5454/1139.ts
+#EXTINF:-1,UK | BBC3
+http://149.202.78.137:8080/live/5454/5454/1140.ts
+#EXTINF:-1,UK | BBC2
+http://149.202.78.137:8080/live/5454/5454/1141.ts
+#EXTINF:-1,UK | BBC1
+http://149.202.78.137:8080/live/5454/5454/1142.ts
+#EXTINF:-1,UK | ITV4
+http://149.202.78.137:8080/live/5454/5454/1143.ts
+#EXTINF:-1,UK | ITV3
+http://149.202.78.137:8080/live/5454/5454/1144.ts
+#EXTINF:-1,UK | ITV2
+http://149.202.78.137:8080/live/5454/5454/1145.ts
+#EXTINF:-1,UK | ITV1
+http://149.202.78.137:8080/live/5454/5454/1146.ts
+#EXTINF:-1,EN - Zootopia 2016
+http://149.202.78.137:8080/movie/5454/5454/2462.mkv
+#EXTINF:-1,EN - Whiskey Tango Foxtrot 2016
+http://149.202.78.137:8080/movie/5454/5454/2461.mkv
+#EXTINF:-1,EN - Warcraft 2016
+http://149.202.78.137:8080/movie/5454/5454/2460.mkv
+#EXTINF:-1,EN - Traders 2015
+http://149.202.78.137:8080/movie/5454/5454/2459.mkv
+#EXTINF:-1,EN - The Young Messiah 2016
+http://149.202.78.137:8080/movie/5454/5454/2458.mkv
+#EXTINF:-1,EN - The Purge Election Year 2016
+http://149.202.78.137:8080/movie/5454/5454/2457.mkv
+#EXTINF:-1,EN - The Legend of Tarzan 2016
+http://149.202.78.137:8080/movie/5454/5454/2456.mkv
+#EXTINF:-1,EN - The Jungle Book 2016
+http://149.202.78.137:8080/movie/5454/5454/2455.mkv
+#EXTINF:-1,EN - The Huntsman Winters War 2016
+http://149.202.78.137:8080/movie/5454/5454/2454.mkv
+#EXTINF:-1,EN - The Answer 2016
+http://149.202.78.137:8080/movie/5454/5454/2453.mkv
+#EXTINF:-1,EN - Teenage Mutant Ninja Turtles Out of the Shadows 2016
+http://149.202.78.137:8080/movie/5454/5454/2452.mkv
+#EXTINF:-1,EN - Spectre 2015
+http://149.202.78.137:8080/movie/5454/5454/2451.mkv
+#EXTINF:-1,EN - Sosedi 2016
+http://149.202.78.137:8080/movie/5454/5454/2450.mkv
+#EXTINF:-1,EN - Sniper Special Ops 2016
+http://149.202.78.137:8080/movie/5454/5454/2449.mkv
+#EXTINF:-1,EN - PelÃ© Birth of a Legend 2016
+http://149.202.78.137:8080/movie/5454/5454/2448.mkv
+#EXTINF:-1,EN - Outlaws and Angels 2016
+http://149.202.78.137:8080/movie/5454/5454/2447.mkv
+#EXTINF:-1,EN - Me Before You 2016
+http://149.202.78.137:8080/movie/5454/5454/2446.mkv
+#EXTINF:-1,EN - Kung Fu Panda 3 2016
+http://149.202.78.137:8080/movie/5454/5454/2445.mkv
+#EXTINF:-1,EN - Independence Day Resurgence 2016
+http://149.202.78.137:8080/movie/5454/5454/2444.mkv
+#EXTINF:-1,EN - Ice Age Collision Course 2016
+http://149.202.78.137:8080/movie/5454/5454/2443.mkv
+#EXTINF:-1,EN - How t Be Single 2016
+http://149.202.78.137:8080/movie/5454/5454/2442.mkv
+#EXTINF:-1,EN - High Rise 2015
+http://149.202.78.137:8080/movie/5454/5454/2441.mkv
+#EXTINF:-1,EN - Hardcore Henry 2015
+http://149.202.78.137:8080/movie/5454/5454/2440.mkv
+#EXTINF:-1,EN - Finding Dory 2016
+http://149.202.78.137:8080/movie/5454/5454/2439.mkv
+#EXTINF:-1,EN - Demolition 2015
+http://149.202.78.137:8080/movie/5454/5454/2438.mkv
+#EXTINF:-1,EN - Central Inteligence 2016
+http://149.202.78.137:8080/movie/5454/5454/2437.mkv
+#EXTINF:-1,EN - Captain America Civil War 2016
+http://149.202.78.137:8080/movie/5454/5454/2436.mkv
+#EXTINF:-1,EN - Batman V Superman Dawn of Justice 2016
+http://149.202.78.137:8080/movie/5454/5454/2435.mkv
+#EXTINF:-1,EN - Barbershop The Next Cut 2016
+http://149.202.78.137:8080/movie/5454/5454/2434.mkv
+#EXTINF:-1,EN - 10 Cloverfield Lane 2016
+http://149.202.78.137:8080/movie/5454/5454/2433.mkv
+#EXTINF:-1,EN - Vigilante Diaries 2016
+http://149.202.78.137:8080/movie/5454/5454/2490.mkv
+#EXTINF:-1,EN - Traded 2016
+http://149.202.78.137:8080/movie/5454/5454/2489.mkv
+#EXTINF:-1,EN - To Live and Die in Amsterdam 2016
+http://149.202.78.137:8080/movie/5454/5454/2488.mkv
+#EXTINF:-1,EN - The Program 2015
+http://149.202.78.137:8080/movie/5454/5454/2487.mkv
+#EXTINF:-1,EN - The Phenom 2016
+http://149.202.78.137:8080/movie/5454/5454/2486.mkv
+#EXTINF:-1,EN - The Boss 2016
+http://149.202.78.137:8080/movie/5454/5454/2485.mkv
+#EXTINF:-1,EN - Sinister Squad 2016
+http://149.202.78.137:8080/movie/5454/5454/2484.mkv
+#EXTINF:-1,EN - Sing Street 2016
+http://149.202.78.137:8080/movie/5454/5454/2483.mkv
+#EXTINF:-1,EN - Septembers of Shiraz 2015
+http://149.202.78.137:8080/movie/5454/5454/2482.mkv
+#EXTINF:-1,EN - Mythica Necromancer 2015
+http://149.202.78.137:8080/movie/5454/5454/2481.mkv
+#EXTINF:-1,EN - Marauders 2016
+http://149.202.78.137:8080/movie/5454/5454/2480.mkv
+#EXTINF:-1,EN - Mansons Lost Girls 2016
+http://149.202.78.137:8080/movie/5454/5454/2479.mkv
+#EXTINF:-1,EN - Life on The Line 2015
+http://149.202.78.137:8080/movie/5454/5454/2478.mkv
+#EXTINF:-1,EN - Kali 2016
+http://149.202.78.137:8080/movie/5454/5454/2477.mkv
+#EXTINF:-1,EN - Gridlocked 2016
+http://149.202.78.137:8080/movie/5454/5454/2476.mkv
+#EXTINF:-1,EN - Green Room 2016
+http://149.202.78.137:8080/movie/5454/5454/2475.mkv
+#EXTINF:-1,EN - February 2016
+http://149.202.78.137:8080/movie/5454/5454/2474.mkv
+#EXTINF:-1,EN - Everybody Wants Some 2016
+http://149.202.78.137:8080/movie/5454/5454/2473.mkv
+#EXTINF:-1,EN - Elvis and Nixon 2016
+http://149.202.78.137:8080/movie/5454/5454/2472.mkv
+#EXTINF:-1,EN - Demolition 2016
+http://149.202.78.137:8080/movie/5454/5454/2471.mkv
+#EXTINF:-1,EN - Dead Rising Endgame 2016
+http://149.202.78.137:8080/movie/5454/5454/2470.mkv
+#EXTINF:-1,EN - Countdown 2016
+http://149.202.78.137:8080/movie/5454/5454/2469.mkv
+#EXTINF:-1,EN - Carnage Park 2016
+http://149.202.78.137:8080/movie/5454/5454/2468.mkv
+#EXTINF:-1,EN - Cardinal Matter 2016
+http://149.202.78.137:8080/movie/5454/5454/2467.mkv
+#EXTINF:-1,EN - All Girls Weekend 2016
+http://149.202.78.137:8080/movie/5454/5454/2466.mkv
+#EXTINF:-1,EN - A Conspiracy of Faith 2016
+http://149.202.78.137:8080/movie/5454/5454/2465.mkv
+#EXTINF:-1,EN - A Bigger Splash 2015
+http://149.202.78.137:8080/movie/5454/5454/2464.mkv
+#EXTINF:-1,EN - 600 Miles 2015
+http://149.202.78.137:8080/movie/5454/5454/2463.mkv
+#EXTINF:-1,***** NL NETHERLANDS *****
+http://149.202.78.137:8080/live/5454/5454/763.ts
+#EXTINF:-1,NL | FOX LIFE
+http://149.202.78.137:8080/live/5454/5454/781.ts
+#EXTINF:-1,NL | HBO 2
+http://149.202.78.137:8080/live/5454/5454/784.ts
+#EXTINF:-1,NL | HBO 3
+http://149.202.78.137:8080/live/5454/5454/783.ts
+#EXTINF:-1,NL | BOOMERANG
+http://149.202.78.137:8080/live/5454/5454/772.ts
+#EXTINF:-1,NL | FILM 1 SPOTLIGHT
+http://149.202.78.137:8080/live/5454/5454/776.ts
+#EXTINF:-1,NL | FILM 1 SUNDANCE
+http://149.202.78.137:8080/live/5454/5454/778.ts
+#EXTINF:-1,NL | FILM 1 ACTION
+http://149.202.78.137:8080/live/5454/5454/779.ts
+#EXTINF:-1,NL | CARTOON NETWORK
+http://149.202.78.137:8080/live/5454/5454/773.ts
+#EXTINF:-1,NL | COMEDY CENTRAL NEDERLAND
+http://149.202.78.137:8080/live/5454/5454/775.ts
+#EXTINF:-1,NL | DISNEY CHANNEL NEDERLAND
+http://149.202.78.137:8080/live/5454/5454/774.ts
+#EXTINF:-1,NL | EDGE SPORT
+http://149.202.78.137:8080/live/5454/5454/764.ts
+#EXTINF:-1,NL | EXTREME SPORTS
+http://149.202.78.137:8080/live/5454/5454/765.ts
+#EXTINF:-1,NL | FILM 1 COMEDY  KIDS
+http://149.202.78.137:8080/live/5454/5454/777.ts
+#EXTINF:-1,NL | FILM 1 PREMIER HD
+http://149.202.78.137:8080/live/5454/5454/780.ts
+#EXTINF:-1,NL | FOX CHANNEL
+http://149.202.78.137:8080/live/5454/5454/782.ts
+#EXTINF:-1,NL | FOX SPORT 1 EREDIVISIE HD
+http://149.202.78.137:8080/live/5454/5454/771.ts
+#EXTINF:-1,NL | FOX SPORTS 2 INTERNATIONAL
+http://149.202.78.137:8080/live/5454/5454/770.ts
+#EXTINF:-1,NL | FOX SPORTS 3 EREDIVISIE
+http://149.202.78.137:8080/live/5454/5454/769.ts
+#EXTINF:-1,NL | FOX SPORTS 4 INTERNATIONAL
+http://149.202.78.137:8080/live/5454/5454/768.ts
+#EXTINF:-1,NL | FOX SPORTS 5 EREDIVISIE HD
+http://149.202.78.137:8080/live/5454/5454/767.ts
+#EXTINF:-1,NL | FOX SPORTS 6 INTERNATIONAL
+http://149.202.78.137:8080/live/5454/5454/766.ts
+#EXTINF:-1,NL | ZIGGO SPORT VOETBAL
+http://149.202.78.137:8080/live/5454/5454/2814.ts
+#EXTINF:-1,NL | ZIGGO SPORT SELECT HD
+http://149.202.78.137:8080/live/5454/5454/737.ts
+#EXTINF:-1,NL | ZIGGO SPORT RACING
+http://149.202.78.137:8080/live/5454/5454/734.ts
+#EXTINF:-1,NL | ZIGGO SPORT GOLF
+http://149.202.78.137:8080/live/5454/5454/733.ts
+#EXTINF:-1,NL | ZIGGO SPORT EXTRA 2
+http://149.202.78.137:8080/live/5454/5454/735.ts
+#EXTINF:-1,NL | ZIGGO SPORT EXTRA 1
+http://149.202.78.137:8080/live/5454/5454/736.ts
+#EXTINF:-1,NL | HBO HD
+http://149.202.78.137:8080/live/5454/5454/785.ts
+#EXTINF:-1,NL | MOTORS TV
+http://149.202.78.137:8080/live/5454/5454/1852.ts
+#EXTINF:-1,NL | NET 5 HD
+http://149.202.78.137:8080/live/5454/5454/792.ts
+#EXTINF:-1,NL | NPO 1 HD
+http://149.202.78.137:8080/live/5454/5454/795.ts
+#EXTINF:-1,NL | NPO 2 HD
+http://149.202.78.137:8080/live/5454/5454/794.ts
+#EXTINF:-1,NL | NPO 3 HD
+http://149.202.78.137:8080/live/5454/5454/793.ts
+#EXTINF:-1,NL | RTL 4 HD
+http://149.202.78.137:8080/live/5454/5454/791.ts
+#EXTINF:-1,NL | RTL 5 HD
+http://149.202.78.137:8080/live/5454/5454/790.ts
+#EXTINF:-1,NL | RTL 7 HD
+http://149.202.78.137:8080/live/5454/5454/789.ts
+#EXTINF:-1,NL | RTL 8 HD
+http://149.202.78.137:8080/live/5454/5454/788.ts
+#EXTINF:-1,NL | SBS 6 HD
+http://149.202.78.137:8080/live/5454/5454/787.ts
+#EXTINF:-1,NL | SBS 9
+http://149.202.78.137:8080/live/5454/5454/786.ts
+#EXTINF:-1,NL | SPORT 1 RACING
+http://149.202.78.137:8080/live/5454/5454/1851.ts
+#EXTINF:-1,***** FR FRANCE *****
+http://149.202.78.137:8080/live/5454/5454/796.ts
+#EXTINF:-1,FR | A LA CARTE 10
+http://149.202.78.137:8080/live/5454/5454/889.ts
+#EXTINF:-1,FR | CINE CLASSIC
+http://149.202.78.137:8080/live/5454/5454/879.ts
+#EXTINF:-1,FR | Cine Polar
+http://149.202.78.137:8080/live/5454/5454/878.ts
+#EXTINF:-1,FR | TF1 HD
+http://149.202.78.137:8080/live/5454/5454/882.ts
+#EXTINF:-1,FR | A LA CARTE 9
+http://149.202.78.137:8080/live/5454/5454/890.ts
+#EXTINF:-1,FR | OCS MAX HD
+http://149.202.78.137:8080/live/5454/5454/888.ts
+#EXTINF:-1,FR | A LA CARTE 7
+http://149.202.78.137:8080/live/5454/5454/892.ts
+#EXTINF:-1,FR | InfoSport+
+http://149.202.78.137:8080/live/5454/5454/857.ts
+#EXTINF:-1,FR | M6 HD
+http://149.202.78.137:8080/live/5454/5454/858.ts
+#EXTINF:-1,FR | SERIE CLUB HD
+http://149.202.78.137:8080/live/5454/5454/859.ts
+#EXTINF:-1,FR | CANAL J
+http://149.202.78.137:8080/live/5454/5454/868.ts
+#EXTINF:-1,FR | FRANCE O HD
+http://149.202.78.137:8080/live/5454/5454/903.ts
+#EXTINF:-1,FR | FRANCE 2 HD
+http://149.202.78.137:8080/live/5454/5454/902.ts
+#EXTINF:-1,FR | FRANCE 3 HD
+http://149.202.78.137:8080/live/5454/5454/901.ts
+#EXTINF:-1,FR | FRANCE 4 HD
+http://149.202.78.137:8080/live/5454/5454/900.ts
+#EXTINF:-1,FR | FRANCE 5
+http://149.202.78.137:8080/live/5454/5454/899.ts
+#EXTINF:-1,FR | A LA CARTE 1
+http://149.202.78.137:8080/live/5454/5454/898.ts
+#EXTINF:-1,FR | A LA CARTE 2
+http://149.202.78.137:8080/live/5454/5454/897.ts
+#EXTINF:-1,FR | TMC
+http://149.202.78.137:8080/live/5454/5454/860.ts
+#EXTINF:-1,FR | CINE  FRISSON HD
+http://149.202.78.137:8080/live/5454/5454/873.ts
+#EXTINF:-1,FR | D17 HD
+http://149.202.78.137:8080/live/5454/5454/880.ts
+#EXTINF:-1,FR | A LA CARTE 3
+http://149.202.78.137:8080/live/5454/5454/896.ts
+#EXTINF:-1,FR | A LA CARTE 4
+http://149.202.78.137:8080/live/5454/5454/895.ts
+#EXTINF:-1,FR | A LA CARTE 5
+http://149.202.78.137:8080/live/5454/5454/894.ts
+#EXTINF:-1,FR | CINE+ FAMILY HD
+http://149.202.78.137:8080/live/5454/5454/874.ts
+#EXTINF:-1,FR | NRJ 12 HD
+http://149.202.78.137:8080/live/5454/5454/866.ts
+#EXTINF:-1,FR | Voyage
+http://149.202.78.137:8080/live/5454/5454/867.ts
+#EXTINF:-1,FR | Foot+ 24 HD
+http://149.202.78.137:8080/live/5454/5454/861.ts
+#EXTINF:-1,FR | NT 1
+http://149.202.78.137:8080/live/5454/5454/863.ts
+#EXTINF:-1,FR | DÄ°SCOVERY SCÄ°ENCE HD
+http://149.202.78.137:8080/live/5454/5454/884.ts
+#EXTINF:-1,FR | CINE FX
+http://149.202.78.137:8080/live/5454/5454/876.ts
+#EXTINF:-1,FR | ANIMAUX HD
+http://149.202.78.137:8080/live/5454/5454/862.ts
+#EXTINF:-1,FR | DISNEY JUNIOR
+http://149.202.78.137:8080/live/5454/5454/885.ts
+#EXTINF:-1,FR | CINE+ PREMIER HD
+http://149.202.78.137:8080/live/5454/5454/877.ts
+#EXTINF:-1,FR | RTL9
+http://149.202.78.137:8080/live/5454/5454/881.ts
+#EXTINF:-1,FR | ARTE HD
+http://149.202.78.137:8080/live/5454/5454/872.ts
+#EXTINF:-1,FR | CHERÄ°E 25
+http://149.202.78.137:8080/live/5454/5454/871.ts
+#EXTINF:-1,FR | OCS City
+http://149.202.78.137:8080/live/5454/5454/887.ts
+#EXTINF:-1,FR | OCS CHOC HD
+http://149.202.78.137:8080/live/5454/5454/886.ts
+#EXTINF:-1,FR | CINE+ Emotion HD
+http://149.202.78.137:8080/live/5454/5454/875.ts
+#EXTINF:-1,FR | A LA CARTE 8
+http://149.202.78.137:8080/live/5454/5454/891.ts
+#EXTINF:-1,FR | Cartoon NetWork
+http://149.202.78.137:8080/live/5454/5454/865.ts
+#EXTINF:-1,FR | Teva HD
+http://149.202.78.137:8080/live/5454/5454/855.ts
+#EXTINF:-1,FR | AB1 HD
+http://149.202.78.137:8080/live/5454/5454/856.ts
+#EXTINF:-1,FR | Discovery HD
+http://149.202.78.137:8080/live/5454/5454/854.ts
+#EXTINF:-1,FR | L'EQUIPE 21
+http://149.202.78.137:8080/live/5454/5454/883.ts
+#EXTINF:-1,FR | A LA CARTE 6
+http://149.202.78.137:8080/live/5454/5454/893.ts
+#EXTINF:-1,FR | HD1
+http://149.202.78.137:8080/live/5454/5454/835.ts
+#EXTINF:-1,FR | WEO
+http://149.202.78.137:8080/live/5454/5454/2523.ts
+#EXTINF:-1,FR | W9
+http://149.202.78.137:8080/live/5454/5454/2500.ts
+#EXTINF:-1,FR | USHUAIA HD
+http://149.202.78.137:8080/live/5454/5454/2519.ts
+#EXTINF:-1,FR | TV BREITZ
+http://149.202.78.137:8080/live/5454/5454/2521.ts
+#EXTINF:-1,FR | TELETOON HD
+http://149.202.78.137:8080/live/5454/5454/2515.ts
+#EXTINF:-1,FR | SYFY HD
+http://149.202.78.137:8080/live/5454/5454/2537.ts
+#EXTINF:-1,FR | RMC DECOUVERTE
+http://149.202.78.137:8080/live/5454/5454/2527.ts
+#EXTINF:-1,FR | PLANETE HD
+http://149.202.78.137:8080/live/5454/5454/2526.ts
+#EXTINF:-1,FR | PLANETE  CI HD
+http://149.202.78.137:8080/live/5454/5454/2525.ts
+#EXTINF:-1,FR | PIWI
+http://149.202.78.137:8080/live/5454/5454/2518.ts
+#EXTINF:-1,FR | NAT GEO WILD
+http://149.202.78.137:8080/live/5454/5454/2524.ts
+#EXTINF:-1,FR | MANGAS
+http://149.202.78.137:8080/live/5454/5454/2508.ts
+#EXTINF:-1,FR | M6 MUSIC
+http://149.202.78.137:8080/live/5454/5454/2502.ts
+#EXTINF:-1,FR | I TELE
+http://149.202.78.137:8080/live/5454/5454/2528.ts
+#EXTINF:-1,FR | GULLI HD
+http://149.202.78.137:8080/live/5454/5454/2511.ts
+#EXTINF:-1,FR | GONG
+http://149.202.78.137:8080/live/5454/5454/2514.ts
+#EXTINF:-1,FR | FRANCE 24
+http://149.202.78.137:8080/live/5454/5454/2529.ts
+#EXTINF:-1,FR | EQUIDIA LIVE HD
+http://149.202.78.137:8080/live/5454/5454/2532.ts
+#EXTINF:-1,FR | DISNEY XD
+http://149.202.78.137:8080/live/5454/5454/2513.ts
+#EXTINF:-1,FR | DISNEY Channel
+http://149.202.78.137:8080/live/5454/5454/2509.ts
+#EXTINF:-1,FR | D8
+http://149.202.78.137:8080/live/5454/5454/2501.ts
+#EXTINF:-1,FR | CHASSE ET PECHE
+http://149.202.78.137:8080/live/5454/5454/2504.ts
+#EXTINF:-1,FR | CANAL SPORT HD
+http://149.202.78.137:8080/live/5454/5454/2539.ts
+#EXTINF:-1,FR | CANAL PLAY 4
+http://149.202.78.137:8080/live/5454/5454/2550.ts
+#EXTINF:-1,FR | CANAL PLAY 3
+http://149.202.78.137:8080/live/5454/5454/2549.ts
+#EXTINF:-1,FR | CANAL PLAY 2
+http://149.202.78.137:8080/live/5454/5454/2548.ts
+#EXTINF:-1,FR | CANAL PLAY 1
+http://149.202.78.137:8080/live/5454/5454/2547.ts
+#EXTINF:-1,FR | CANAL HD
+http://149.202.78.137:8080/live/5454/5454/2540.ts
+#EXTINF:-1,FR | CANAL DECALE HD
+http://149.202.78.137:8080/live/5454/5454/2538.ts
+#EXTINF:-1,FR | BFM TV
+http://149.202.78.137:8080/live/5454/5454/2530.ts
+#EXTINF:-1,FR | ACTION
+http://149.202.78.137:8080/live/5454/5454/2536.ts
+#EXTINF:-1,FR | AB3
+http://149.202.78.137:8080/live/5454/5454/2544.ts
+#EXTINF:-1,FR | AB MOTEURS HD
+http://149.202.78.137:8080/live/5454/5454/2533.ts
+#EXTINF:-1,FR | 6TER HD
+http://149.202.78.137:8080/live/5454/5454/2546.ts
+#EXTINF:-1,FR | 13 EME RUE
+http://149.202.78.137:8080/live/5454/5454/2543.ts
+#EXTINF:-1,***** RS EX-YU *****
+http://149.202.78.137:8080/live/5454/5454/555.ts
+#EXTINF:-1,RS | TV 1000
+http://149.202.78.137:8080/live/5454/5454/1882.ts
+#EXTINF:-1,RS | RTS 2
+http://149.202.78.137:8080/live/5454/5454/1898.ts
+#EXTINF:-1,RS | RTS 1
+http://149.202.78.137:8080/live/5454/5454/1892.ts
+#EXTINF:-1,RS | RTL LIVING
+http://149.202.78.137:8080/live/5454/5454/1890.ts
+#EXTINF:-1,RS | RTL KOCKICA
+http://149.202.78.137:8080/live/5454/5454/1889.ts
+#EXTINF:-1,RS | RTL CRIME
+http://149.202.78.137:8080/live/5454/5454/1888.ts
+#EXTINF:-1,RS | RTL 2
+http://149.202.78.137:8080/live/5454/5454/1891.ts
+#EXTINF:-1,RS | RTL
+http://149.202.78.137:8080/live/5454/5454/1893.ts
+#EXTINF:-1,RS | PRVA PLUS
+http://149.202.78.137:8080/live/5454/5454/1887.ts
+#EXTINF:-1,RS | PINK ZABAVA
+http://149.202.78.137:8080/live/5454/5454/1905.ts
+#EXTINF:-1,RS | PINK WORLD
+http://149.202.78.137:8080/live/5454/5454/1909.ts
+#EXTINF:-1,RS | PINK WESTERN
+http://149.202.78.137:8080/live/5454/5454/1904.ts
+#EXTINF:-1,RS | PINK THRILLER
+http://149.202.78.137:8080/live/5454/5454/1903.ts
+#EXTINF:-1,RS | PINK STYLE
+http://149.202.78.137:8080/live/5454/5454/1916.ts
+#EXTINF:-1,RS | PINK SHOW
+http://149.202.78.137:8080/live/5454/5454/1915.ts
+#EXTINF:-1,RS | PINK SCI-FI FANTASY
+http://149.202.78.137:8080/live/5454/5454/1900.ts
+#EXTINF:-1,RS | PINK REALITY
+http://149.202.78.137:8080/live/5454/5454/1907.ts
+#EXTINF:-1,RS | PINK PREMIUM
+http://149.202.78.137:8080/live/5454/5454/1901.ts
+#EXTINF:-1,RS | PINK PEDIA
+http://149.202.78.137:8080/live/5454/5454/1913.ts
+#EXTINF:-1,RS | PINK M
+http://149.202.78.137:8080/live/5454/5454/1920.ts
+#EXTINF:-1,RS | PINK KIDS
+http://149.202.78.137:8080/live/5454/5454/1917.ts
+#EXTINF:-1,RS | PINK HORROR
+http://149.202.78.137:8080/live/5454/5454/1902.ts
+#EXTINF:-1,RS | PINK FILM
+http://149.202.78.137:8080/live/5454/5454/1918.ts
+#EXTINF:-1,RS | PINK CRIME MISTERY
+http://149.202.78.137:8080/live/5454/5454/1899.ts
+#EXTINF:-1,RS | PINK COMEDY
+http://149.202.78.137:8080/live/5454/5454/1906.ts
+#EXTINF:-1,RS | PINK BH
+http://149.202.78.137:8080/live/5454/5454/1919.ts
+#EXTINF:-1,RS | PINK ACTION
+http://149.202.78.137:8080/live/5454/5454/1908.ts
+#EXTINF:-1,RS | PINK 3
+http://149.202.78.137:8080/live/5454/5454/1921.ts
+#EXTINF:-1,RS | PINK 2
+http://149.202.78.137:8080/live/5454/5454/1922.ts
+#EXTINF:-1,RS | NOVA
+http://149.202.78.137:8080/live/5454/5454/1886.ts
+#EXTINF:-1,RS | HRT 4
+http://149.202.78.137:8080/live/5454/5454/1894.ts
+#EXTINF:-1,RS | HRT 3
+http://149.202.78.137:8080/live/5454/5454/1895.ts
+#EXTINF:-1,RS | HRT 2
+http://149.202.78.137:8080/live/5454/5454/1896.ts
+#EXTINF:-1,RS | HRT 1
+http://149.202.78.137:8080/live/5454/5454/1897.ts
+#EXTINF:-1,RS | HISTORY CHANNEL
+http://149.202.78.137:8080/live/5454/5454/1914.ts
+#EXTINF:-1,RS | HBO COMEDY
+http://149.202.78.137:8080/live/5454/5454/1874.ts
+#EXTINF:-1,RS | HBO ADRIA
+http://149.202.78.137:8080/live/5454/5454/1877.ts
+#EXTINF:-1,RS | FTV
+http://149.202.78.137:8080/live/5454/5454/1885.ts
+#EXTINF:-1,RS | FOX LIFE
+http://149.202.78.137:8080/live/5454/5454/1881.ts
+#EXTINF:-1,RS | FOX CRIME
+http://149.202.78.137:8080/live/5454/5454/1878.ts
+#EXTINF:-1,RS | FOX
+http://149.202.78.137:8080/live/5454/5454/1884.ts
+#EXTINF:-1,RS | DISCOVERY CHANNEL
+http://149.202.78.137:8080/live/5454/5454/1883.ts
+#EXTINF:-1,RS | CINESTAR PREMIERE 2
+http://149.202.78.137:8080/live/5454/5454/1910.ts
+#EXTINF:-1,RS | CINESTAR PREMIERE 1
+http://149.202.78.137:8080/live/5454/5454/1911.ts
+#EXTINF:-1,RS | CINESTAR ACTION
+http://149.202.78.137:8080/live/5454/5454/1912.ts
+#EXTINF:-1,RS | CINEMAX 2
+http://149.202.78.137:8080/live/5454/5454/1879.ts
+#EXTINF:-1,RS | CINEMAX
+http://149.202.78.137:8080/live/5454/5454/1880.ts
+#EXTINF:-1,RS | ANIMAL PLANET
+http://149.202.78.137:8080/live/5454/5454/1873.ts
+#EXTINF:-1,RS | 24 KITCHEN
+http://149.202.78.137:8080/live/5454/5454/1876.ts
+#EXTINF:-1,RS | FOX MOVIES
+http://149.202.78.137:8080/live/5454/5454/1875.ts
+#EXTINF:-1,***** ALB ALBANIAN *****
+http://149.202.78.137:8080/live/5454/5454/678.ts
+#EXTINF:-1,AL | TV Rrokum ALB
+http://149.202.78.137:8080/live/5454/5454/760.ts
+#EXTINF:-1,AL | TV Klan ALB
+http://149.202.78.137:8080/live/5454/5454/745.ts
+#EXTINF:-1,AL | TV Junior ALB
+http://149.202.78.137:8080/live/5454/5454/759.ts
+#EXTINF:-1,AL | TV Cufo ALB
+http://149.202.78.137:8080/live/5454/5454/758.ts
+#EXTINF:-1,AL | TOP Cannel
+http://149.202.78.137:8080/live/5454/5454/739.ts
+#EXTINF:-1,AL | Stinet HD ALB
+http://149.202.78.137:8080/live/5454/5454/762.ts
+#EXTINF:-1,AL | RTK 1 ALB
+http://149.202.78.137:8080/live/5454/5454/761.ts
+#EXTINF:-1,AL | KTV ALB
+http://149.202.78.137:8080/live/5454/5454/755.ts
+#EXTINF:-1,AL | Filme 2 HD
+http://149.202.78.137:8080/live/5454/5454/740.ts
+#EXTINF:-1,AL | Film Triller ALB
+http://149.202.78.137:8080/live/5454/5454/746.ts
+#EXTINF:-1,AL | Film Nje ALB
+http://149.202.78.137:8080/live/5454/5454/747.ts
+#EXTINF:-1,AL | Film Hits ALB
+http://149.202.78.137:8080/live/5454/5454/749.ts
+#EXTINF:-1,AL | Film Dy HD ALB
+http://149.202.78.137:8080/live/5454/5454/750.ts
+#EXTINF:-1,AL | Film Drama ALB
+http://149.202.78.137:8080/live/5454/5454/751.ts
+#EXTINF:-1,AL | Film Comedy ALB
+http://149.202.78.137:8080/live/5454/5454/748.ts
+#EXTINF:-1,AL | Film Aksion ALB
+http://149.202.78.137:8080/live/5454/5454/752.ts
+#EXTINF:-1,AL | EXP Natyra ALB
+http://149.202.78.137:8080/live/5454/5454/754.ts
+#EXTINF:-1,AL | EXP Histori ALB
+http://149.202.78.137:8080/live/5454/5454/753.ts
+#EXTINF:-1,AL | BBF Music ALB
+http://149.202.78.137:8080/live/5454/5454/757.ts
+#EXTINF:-1,AL | Bang Bang ALB
+http://149.202.78.137:8080/live/5454/5454/756.ts
+#EXTINF:-1,AL | Super Sport 4
+http://149.202.78.137:8080/live/5454/5454/741.ts
+#EXTINF:-1,AL | Super Sport 1
+http://149.202.78.137:8080/live/5454/5454/744.ts
+#EXTINF:-1,AL | Super Sport 2
+http://149.202.78.137:8080/live/5454/5454/743.ts
+#EXTINF:-1,AL | Super Sport 3
+http://149.202.78.137:8080/live/5454/5454/742.ts
+#EXTINF:-1,AL | Tring Comedy
+http://149.202.78.137:8080/live/5454/5454/2499.ts
+#EXTINF:-1,AL | Film Komedi
+http://149.202.78.137:8080/live/5454/5454/2498.ts
+#EXTINF:-1,AL | Film GOLD 4
+http://149.202.78.137:8080/live/5454/5454/2497.ts
+#EXTINF:-1,AL | Film GOLD 3
+http://149.202.78.137:8080/live/5454/5454/2496.ts
+#EXTINF:-1,AL | Film GOLD 2
+http://149.202.78.137:8080/live/5454/5454/2495.ts
+#EXTINF:-1,AL | Film GOLD 1
+http://149.202.78.137:8080/live/5454/5454/2494.ts
+#EXTINF:-1,***** GREEK *****
+http://149.202.78.137:8080/live/5454/5454/3151.ts
+#EXTINF:-1,GR | Zougla
+http://149.202.78.137:8080/live/5454/5454/3188.ts
+#EXTINF:-1,GR | Vouli
+http://149.202.78.137:8080/live/5454/5454/3153.ts
+#EXTINF:-1,GR | TV100
+http://149.202.78.137:8080/live/5454/5454/3154.ts
+#EXTINF:-1,GR | TV 4E
+http://149.202.78.137:8080/live/5454/5454/3155.ts
+#EXTINF:-1,GR | Sunny Channel
+http://149.202.78.137:8080/live/5454/5454/3162.ts
+#EXTINF:-1,GR | Star
+http://149.202.78.137:8080/live/5454/5454/3156.ts
+#EXTINF:-1,GR | Smile
+http://149.202.78.137:8080/live/5454/5454/3157.ts
+#EXTINF:-1,GR | Skai
+http://149.202.78.137:8080/live/5454/5454/3158.ts
+#EXTINF:-1,GR | Sigma Cy
+http://149.202.78.137:8080/live/5454/5454/3159.ts
+#EXTINF:-1,GR | SBC
+http://149.202.78.137:8080/live/5454/5454/3160.ts
+#EXTINF:-1,GR | Rise
+http://149.202.78.137:8080/live/5454/5454/3161.ts
+#EXTINF:-1,GR | Nickelodeon
+http://149.202.78.137:8080/live/5454/5454/3190.ts
+#EXTINF:-1,GR | Nea
+http://149.202.78.137:8080/live/5454/5454/3163.ts
+#EXTINF:-1,GR | National Geographic
+http://149.202.78.137:8080/live/5454/5454/3191.ts
+#EXTINF:-1,GR | Mega
+http://149.202.78.137:8080/live/5454/5454/3164.ts
+#EXTINF:-1,GR | Mad Cy
+http://149.202.78.137:8080/live/5454/5454/3175.ts
+#EXTINF:-1,GR | Mad
+http://149.202.78.137:8080/live/5454/5454/3165.ts
+#EXTINF:-1,GR | Lyxnoc
+http://149.202.78.137:8080/live/5454/5454/3166.ts
+#EXTINF:-1,GR | Krhth Tv
+http://149.202.78.137:8080/live/5454/5454/3167.ts
+#EXTINF:-1,GR | Kontra
+http://149.202.78.137:8080/live/5454/5454/3168.ts
+#EXTINF:-1,GR | Jazee
+http://149.202.78.137:8080/live/5454/5454/3193.ts
+#EXTINF:-1,GR | High
+http://149.202.78.137:8080/live/5454/5454/3169.ts
+#EXTINF:-1,GR | Extra
+http://149.202.78.137:8080/live/5454/5454/3170.ts
+#EXTINF:-1,GR | ERT HD
+http://149.202.78.137:8080/live/5454/5454/3173.ts
+#EXTINF:-1,GR | ERT 2
+http://149.202.78.137:8080/live/5454/5454/3171.ts
+#EXTINF:-1,GR | ERT 1
+http://149.202.78.137:8080/live/5454/5454/3172.ts
+#EXTINF:-1,GR | Epirus Tv1
+http://149.202.78.137:8080/live/5454/5454/3174.ts
+#EXTINF:-1,GR | E TV
+http://149.202.78.137:8080/live/5454/5454/3176.ts
+#EXTINF:-1,GR | Creta
+http://149.202.78.137:8080/live/5454/5454/3189.ts
+#EXTINF:-1,GR | Channel 9
+http://149.202.78.137:8080/live/5454/5454/3187.ts
+#EXTINF:-1,GR | Boyah
+http://149.202.78.137:8080/live/5454/5454/3177.ts
+#EXTINF:-1,GR | Blue Sky
+http://149.202.78.137:8080/live/5454/5454/3178.ts
+#EXTINF:-1,GR | Attica
+http://149.202.78.137:8080/live/5454/5454/3179.ts
+#EXTINF:-1,GR | Astra
+http://149.202.78.137:8080/live/5454/5454/3180.ts
+#EXTINF:-1,GR | APT
+http://149.202.78.137:8080/live/5454/5454/3181.ts
+#EXTINF:-1,GR | Ant1 Cy
+http://149.202.78.137:8080/live/5454/5454/3182.ts
+#EXTINF:-1,GR | Ant1
+http://149.202.78.137:8080/live/5454/5454/3183.ts
+#EXTINF:-1,GR | Animal Planet
+http://149.202.78.137:8080/live/5454/5454/3192.ts
+#EXTINF:-1,GR | Alpha
+http://149.202.78.137:8080/live/5454/5454/3184.ts
+#EXTINF:-1,GR | Aigaio TV
+http://149.202.78.137:8080/live/5454/5454/3152.ts
+#EXTINF:-1,GR | Action 24
+http://149.202.78.137:8080/live/5454/5454/3185.ts
+#EXTINF:-1,GR | AB Channel
+http://149.202.78.137:8080/live/5454/5454/3186.ts
+#EXTINF:-1,***** ARABIC *****
+http://149.202.78.137:8080/live/5454/5454/2364.ts
+#EXTINF:-1,AR | LDC
+http://149.202.78.137:8080/live/5454/5454/2355.ts
+#EXTINF:-1,AR | DW ARABIA
+http://149.202.78.137:8080/live/5454/5454/2351.ts
+#EXTINF:-1,AR | KUWAIT 1
+http://149.202.78.137:8080/live/5454/5454/2353.ts
+#EXTINF:-1,AR | FIRST TV
+http://149.202.78.137:8080/live/5454/5454/2352.ts
+#EXTINF:-1,AR | SAMA DUBAI
+http://149.202.78.137:8080/live/5454/5454/2360.ts
+#EXTINF:-1,AR | NESSMA TV
+http://149.202.78.137:8080/live/5454/5454/2330.ts
+#EXTINF:-1,AR | MBC MAX
+http://149.202.78.137:8080/live/5454/5454/2346.ts
+#EXTINF:-1,AR | AL JAZEERA KIDS
+http://149.202.78.137:8080/live/5454/5454/2345.ts
+#EXTINF:-1,AR | AL JAZEERA DOCU
+http://149.202.78.137:8080/live/5454/5454/2344.ts
+#EXTINF:-1,AR | AL JAZEERA
+http://149.202.78.137:8080/live/5454/5454/2343.ts
+#EXTINF:-1,AR | MBC ACTION
+http://149.202.78.137:8080/live/5454/5454/2342.ts
+#EXTINF:-1,AR | MBC 4
+http://149.202.78.137:8080/live/5454/5454/2341.ts
+#EXTINF:-1,AR | MBC 3
+http://149.202.78.137:8080/live/5454/5454/2340.ts
+#EXTINF:-1,AR | MBC 2
+http://149.202.78.137:8080/live/5454/5454/2339.ts
+#EXTINF:-1,AR | MBC 1
+http://149.202.78.137:8080/live/5454/5454/2338.ts
+#EXTINF:-1,AR | DUBAI TV
+http://149.202.78.137:8080/live/5454/5454/2350.ts
+#EXTINF:-1,AR | ROTANA CINEMA
+http://149.202.78.137:8080/live/5454/5454/2334.ts
+#EXTINF:-1,AR | ROTANA CLIP
+http://149.202.78.137:8080/live/5454/5454/2335.ts
+#EXTINF:-1,AR | 2M MAROC
+http://149.202.78.137:8080/live/5454/5454/2336.ts
+#EXTINF:-1,AR | ROTANA MASRIYA
+http://149.202.78.137:8080/live/5454/5454/2361.ts
+#EXTINF:-1,AR | SHARJAH
+http://149.202.78.137:8080/live/5454/5454/2362.ts
+#EXTINF:-1,AR | ROTANA KHALIJIAH
+http://149.202.78.137:8080/live/5454/5454/2359.ts
+#EXTINF:-1,AR | O TV
+http://149.202.78.137:8080/live/5454/5454/2357.ts
+#EXTINF:-1,AR | NOOR DUBAI
+http://149.202.78.137:8080/live/5454/5454/2356.ts
+#EXTINF:-1,AR | ROTANA
+http://149.202.78.137:8080/live/5454/5454/2358.ts
+#EXTINF:-1,AR | BEIN MOVIES 2 HD
+http://149.202.78.137:8080/live/5454/5454/2333.ts
+#EXTINF:-1,AR | AL ARABIYA
+http://149.202.78.137:8080/live/5454/5454/2337.ts
+#EXTINF:-1,AR | ALAAN
+http://149.202.78.137:8080/live/5454/5454/2347.ts
+#EXTINF:-1,AR | KUWAIT 2
+http://149.202.78.137:8080/live/5454/5454/2354.ts
+#EXTINF:-1,AR | BBC ARABIC
+http://149.202.78.137:8080/live/5454/5454/2348.ts
+#EXTINF:-1,AR | DUBAI ONE
+http://149.202.78.137:8080/live/5454/5454/2349.ts
+#EXTINF:-1,AR | AJYAL TV
+http://149.202.78.137:8080/live/5454/5454/2331.ts
+#EXTINF:-1,AR | ART CINEMA
+http://149.202.78.137:8080/live/5454/5454/2332.ts
+#EXTINF:-1,AR | LBC INT
+http://149.202.78.137:8080/live/5454/5454/2363.ts
+#EXTINF:-1,AR | OSN Star world
+http://149.202.78.137:8080/live/5454/5454/3074.ts
+#EXTINF:-1,AR | OSN STAR MOVIES HD
+http://149.202.78.137:8080/live/5454/5454/3075.ts
+#EXTINF:-1,AR | OSN ON DEMAND EXTRA 3HD
+http://149.202.78.137:8080/live/5454/5454/3066.ts
+#EXTINF:-1,AR | OSN ON DEMAND EXTRA 2HD
+http://149.202.78.137:8080/live/5454/5454/3065.ts
+#EXTINF:-1,AR | OSN ON DEMAND EXTRA 1HD
+http://149.202.78.137:8080/live/5454/5454/3064.ts
+#EXTINF:-1,AR | OSN ON DEMAND 3HD
+http://149.202.78.137:8080/live/5454/5454/3069.ts
+#EXTINF:-1,AR | OSN ON DEMAND 2HD
+http://149.202.78.137:8080/live/5454/5454/3068.ts
+#EXTINF:-1,AR | OSN ON DEMAND 1HD
+http://149.202.78.137:8080/live/5454/5454/3067.ts
+#EXTINF:-1,AR | OSN Movies Premiere plus 2
+http://149.202.78.137:8080/live/5454/5454/3055.ts
+#EXTINF:-1,AR | OSN Movies Premiere HD
+http://149.202.78.137:8080/live/5454/5454/3056.ts
+#EXTINF:-1,AR | OSN Movies Kids HD
+http://149.202.78.137:8080/live/5454/5454/3057.ts
+#EXTINF:-1,AR | OSN Movies Festival HD
+http://149.202.78.137:8080/live/5454/5454/3058.ts
+#EXTINF:-1,AR | OSN Movies Drama HD
+http://149.202.78.137:8080/live/5454/5454/3059.ts
+#EXTINF:-1,AR | OSN Movies Comedy Plus2 HD
+http://149.202.78.137:8080/live/5454/5454/3060.ts
+#EXTINF:-1,AR | OSN Movies Comedy HD
+http://149.202.78.137:8080/live/5454/5454/3061.ts
+#EXTINF:-1,AR | OSN Movies Box Office 3HD
+http://149.202.78.137:8080/live/5454/5454/3073.ts
+#EXTINF:-1,AR | OSN Movies Box Office 2HD
+http://149.202.78.137:8080/live/5454/5454/3072.ts
+#EXTINF:-1,AR | OSN Movies Box Office 1HD
+http://149.202.78.137:8080/live/5454/5454/3071.ts
+#EXTINF:-1,AR | OSN Movies Action2 HD
+http://149.202.78.137:8080/live/5454/5454/3062.ts
+#EXTINF:-1,AR | OSN Movies Action HD
+http://149.202.78.137:8080/live/5454/5454/3070.ts
+#EXTINF:-1,AR | OSN MOVIE HD
+http://149.202.78.137:8080/live/5454/5454/3063.ts
+#EXTINF:-1,***** SPAIN *****
+http://149.202.78.137:8080/live/5454/5454/2669.ts
+#EXTINF:-1,SP | FDF
+http://149.202.78.137:8080/live/5454/5454/2650.ts
+#EXTINF:-1,SP | La Sexta HD
+http://149.202.78.137:8080/live/5454/5454/2649.ts
+#EXTINF:-1,SP | DCINE
+http://149.202.78.137:8080/live/5454/5454/2651.ts
+#EXTINF:-1,SP | TV3 CAT
+http://149.202.78.137:8080/live/5454/5454/2645.ts
+#EXTINF:-1,SP | CANAL SERIES
+http://149.202.78.137:8080/live/5454/5454/2655.ts
+#EXTINF:-1,SP | CANAL HOLLYWOOD
+http://149.202.78.137:8080/live/5454/5454/2656.ts
+#EXTINF:-1,SP | CUATRO
+http://149.202.78.137:8080/live/5454/5454/2652.ts
+#EXTINF:-1,SP | TVE 2 HD
+http://149.202.78.137:8080/live/5454/5454/2660.ts
+#EXTINF:-1,SP | Antena 3 HD
+http://149.202.78.137:8080/live/5454/5454/2659.ts
+#EXTINF:-1,SP | MOVISTAR MOTO GP HD
+http://149.202.78.137:8080/live/5454/5454/2664.ts
+#EXTINF:-1,SP | Barca TV
+http://149.202.78.137:8080/live/5454/5454/2665.ts
+#EXTINF:-1,SP | TELEVISA HD
+http://149.202.78.137:8080/live/5454/5454/2646.ts
+#EXTINF:-1,SP | CANAL+ DEPORTES
+http://149.202.78.137:8080/live/5454/5454/2661.ts
+#EXTINF:-1,SP | Real Madrid tv
+http://149.202.78.137:8080/live/5454/5454/2648.ts
+#EXTINF:-1,SP | Teledeporte
+http://149.202.78.137:8080/live/5454/5454/2647.ts
+#EXTINF:-1,SP | CAZA Y PESCA
+http://149.202.78.137:8080/live/5454/5454/2653.ts
+#EXTINF:-1,SP | CANAL+ TOROS
+http://149.202.78.137:8080/live/5454/5454/2654.ts
+#EXTINF:-1,SP | CANAL ESTRENOS
+http://149.202.78.137:8080/live/5454/5454/2657.ts
+#EXTINF:-1,SP | CALLE 13
+http://149.202.78.137:8080/live/5454/5454/2658.ts
+#EXTINF:-1,SP | CANAL+ FUTBOL
+http://149.202.78.137:8080/live/5454/5454/2662.ts
+#EXTINF:-1,SP | CANAL+ COMEDIA HD
+http://149.202.78.137:8080/live/5454/5454/2640.ts
+#EXTINF:-1,SP | NEOX
+http://149.202.78.137:8080/live/5454/5454/2641.ts
+#EXTINF:-1,SP | NOVA
+http://149.202.78.137:8080/live/5454/5454/2642.ts
+#EXTINF:-1,SP | BEIN SPORT ES
+http://149.202.78.137:8080/live/5454/5454/2639.ts
+#EXTINF:-1,SP | TVE 1 HD
+http://149.202.78.137:8080/live/5454/5454/2666.ts
+#EXTINF:-1,SP | A&E
+http://149.202.78.137:8080/live/5454/5454/2667.ts
+#EXTINF:-1,SP | Canal+ Accion HD
+http://149.202.78.137:8080/live/5454/5454/2668.ts
+#EXTINF:-1,SP | CANAL+ LIGA HD
+http://149.202.78.137:8080/live/5454/5454/2663.ts
+#EXTINF:-1,SP | PARAMOUNT CH
+http://149.202.78.137:8080/live/5454/5454/2643.ts
+#EXTINF:-1,SP | CANAL+ DEPORTES 2
+http://149.202.78.137:8080/live/5454/5454/2644.ts
+#EXTINF:-1,***** PORTUGAL *****
+http://149.202.78.137:8080/live/5454/5454/2813.ts
+#EXTINF:-1,PT | TVI REALITY
+http://149.202.78.137:8080/live/5454/5454/2803.ts
+#EXTINF:-1,PT | TVI FICCAO
+http://149.202.78.137:8080/live/5454/5454/2804.ts
+#EXTINF:-1,PT | TVI HD
+http://149.202.78.137:8080/live/5454/5454/2793.ts
+#EXTINF:-1,PT | TVCINE 4
+http://149.202.78.137:8080/live/5454/5454/2791.ts
+#EXTINF:-1,PT | TVCINE 3
+http://149.202.78.137:8080/live/5454/5454/2790.ts
+#EXTINF:-1,PT | TVCINE 2
+http://149.202.78.137:8080/live/5454/5454/2789.ts
+#EXTINF:-1,PT | TVCINE 1
+http://149.202.78.137:8080/live/5454/5454/2788.ts
+#EXTINF:-1,PT | TV SERIES
+http://149.202.78.137:8080/live/5454/5454/2805.ts
+#EXTINF:-1,PT | SPORTING TV
+http://149.202.78.137:8080/live/5454/5454/2792.ts
+#EXTINF:-1,PT | SIC NOTICIAS
+http://149.202.78.137:8080/live/5454/5454/2807.ts
+#EXTINF:-1,PT | SIC MULHER
+http://149.202.78.137:8080/live/5454/5454/2808.ts
+#EXTINF:-1,PT | SIC Kids
+http://149.202.78.137:8080/live/5454/5454/2802.ts
+#EXTINF:-1,PT | SIC
+http://149.202.78.137:8080/live/5454/5454/2794.ts
+#EXTINF:-1,PT | RTP Madeira
+http://149.202.78.137:8080/live/5454/5454/2801.ts
+#EXTINF:-1,PT | RTP ÃƒÂfrica
+http://149.202.78.137:8080/live/5454/5454/2800.ts
+#EXTINF:-1,PT | RTP 3
+http://149.202.78.137:8080/live/5454/5454/2799.ts
+#EXTINF:-1,PT | RTP 2
+http://149.202.78.137:8080/live/5454/5454/2798.ts
+#EXTINF:-1,PT | RTP 1
+http://149.202.78.137:8080/live/5454/5454/2797.ts
+#EXTINF:-1,PT | PFC
+http://149.202.78.137:8080/live/5454/5454/2809.ts
+#EXTINF:-1,PT | MCM POP
+http://149.202.78.137:8080/live/5454/5454/2806.ts
+#EXTINF:-1,PT | FOX MOVIES HD
+http://149.202.78.137:8080/live/5454/5454/2810.ts
+#EXTINF:-1,PT | FOX COMEDY
+http://149.202.78.137:8080/live/5454/5454/2811.ts
+#EXTINF:-1,PT | BTV2 HD
+http://149.202.78.137:8080/live/5454/5454/2796.ts
+#EXTINF:-1,PT | BTV1 HD
+http://149.202.78.137:8080/live/5454/5454/2795.ts
+#EXTINF:-1,PT | AXN WHITE HD
+http://149.202.78.137:8080/live/5454/5454/2812.ts
+#EXTINF:-1,PT | SPORT TV 1 HD
+http://149.202.78.137:8080/live/5454/5454/2989.ts
+#EXTINF:-1,PT | SPORT TV 2 HD
+http://149.202.78.137:8080/live/5454/5454/2990.ts
+#EXTINF:-1,PT | SPORT TV 3 HD
+http://149.202.78.137:8080/live/5454/5454/2991.ts
+#EXTINF:-1,PT | SPORT TV 4 HD
+http://149.202.78.137:8080/live/5454/5454/2992.ts
+#EXTINF:-1,PT | VH1
+http://149.202.78.137:8080/live/5454/5454/3104.ts
+#EXTINF:-1,PT | TVI 24
+http://149.202.78.137:8080/live/5454/5454/3080.ts
+#EXTINF:-1,PT | SPORT TV+
+http://149.202.78.137:8080/live/5454/5454/3088.ts
+#EXTINF:-1,PT | SPORT TV 5 HD
+http://149.202.78.137:8080/live/5454/5454/3087.ts
+#EXTINF:-1,PT | SIC CARAS
+http://149.202.78.137:8080/live/5454/5454/3082.ts
+#EXTINF:-1,PT | PANDA BIGGS
+http://149.202.78.137:8080/live/5454/5454/3086.ts
+#EXTINF:-1,PT | Odisseia
+http://149.202.78.137:8080/live/5454/5454/3100.ts
+#EXTINF:-1,PT | NAT GEO WILD
+http://149.202.78.137:8080/live/5454/5454/3101.ts
+#EXTINF:-1,PT | MOV
+http://149.202.78.137:8080/live/5454/5454/3095.ts
+#EXTINF:-1,PT | MOTORVISION
+http://149.202.78.137:8080/live/5454/5454/3092.ts
+#EXTINF:-1,PT | JIM JAM
+http://149.202.78.137:8080/live/5454/5454/3085.ts
+#EXTINF:-1,PT | HOLLYWOOD
+http://149.202.78.137:8080/live/5454/5454/3093.ts
+#EXTINF:-1,PT | FOX HD
+http://149.202.78.137:8080/live/5454/5454/3098.ts
+#EXTINF:-1,PT | FOX CRIME HD
+http://149.202.78.137:8080/live/5454/5454/3099.ts
+#EXTINF:-1,PT | EUROSPORT 2 XTRA
+http://149.202.78.137:8080/live/5454/5454/3091.ts
+#EXTINF:-1,PT | DISNEY JUNIOR
+http://149.202.78.137:8080/live/5454/5454/3083.ts
+#EXTINF:-1,PT | DISCOVERY
+http://149.202.78.137:8080/live/5454/5454/3102.ts
+#EXTINF:-1,PT | CMTV
+http://149.202.78.137:8080/live/5454/5454/3081.ts
+#EXTINF:-1,PT | CINEMUNDO
+http://149.202.78.137:8080/live/5454/5454/3094.ts
+#EXTINF:-1,PT | CBS REALITY
+http://149.202.78.137:8080/live/5454/5454/3103.ts
+#EXTINF:-1,PT | CANAL PANDA
+http://149.202.78.137:8080/live/5454/5454/3084.ts
+#EXTINF:-1,PT | BTV HD
+http://149.202.78.137:8080/live/5454/5454/3089.ts
+#EXTINF:-1,PT | AXN HD
+http://149.202.78.137:8080/live/5454/5454/3096.ts
+#EXTINF:-1,PT | AXN BLACK HD
+http://149.202.78.137:8080/live/5454/5454/3097.ts
+#EXTINF:-1,PT | A BOLA TV
+http://149.202.78.137:8080/live/5454/5454/3090.ts
+#EXTINF:-1,***** WORLD SPORTS *****
+http://149.202.78.137:8080/live/5454/5454/904.ts
+#EXTINF:-1,STAR SPORTS 1HD
+http://149.202.78.137:8080/live/5454/5454/946.ts
+#EXTINF:-1,STAR SPORTS 2HD
+http://149.202.78.137:8080/live/5454/5454/945.ts
+#EXTINF:-1,STAR SPORTS 3HD
+http://149.202.78.137:8080/live/5454/5454/944.ts
+#EXTINF:-1,STAR SPORTS 4HD
+http://149.202.78.137:8080/live/5454/5454/943.ts
+#EXTINF:-1,MBC Pro Sports 1 HD
+http://149.202.78.137:8080/live/5454/5454/927.ts
+#EXTINF:-1,MBC Pro Sports 2 HD
+http://149.202.78.137:8080/live/5454/5454/926.ts
+#EXTINF:-1,MBC ProSports 3 HD
+http://149.202.78.137:8080/live/5454/5454/925.ts
+#EXTINF:-1,OLTV
+http://149.202.78.137:8080/live/5454/5454/955.ts
+#EXTINF:-1,AD Sports 1
+http://149.202.78.137:8080/live/5454/5454/957.ts
+#EXTINF:-1,AD Sports 2
+http://149.202.78.137:8080/live/5454/5454/956.ts
+#EXTINF:-1,Dubai Sports 1
+http://149.202.78.137:8080/live/5454/5454/959.ts
+#EXTINF:-1,Dubai Sports 3
+http://149.202.78.137:8080/live/5454/5454/958.ts
+#EXTINF:-1,Dubai Racing
+http://149.202.78.137:8080/live/5454/5454/974.ts
+#EXTINF:-1,CANAL SPORT
+http://149.202.78.137:8080/live/5454/5454/917.ts
+#EXTINF:-1,CANAL LIGA HD
+http://149.202.78.137:8080/live/5454/5454/921.ts
+#EXTINF:-1,CANAL GOLF HD
+http://149.202.78.137:8080/live/5454/5454/920.ts
+#EXTINF:-1,CANAL FUTBALL HD
+http://149.202.78.137:8080/live/5454/5454/919.ts
+#EXTINF:-1,CANAL DEPORTES HD
+http://149.202.78.137:8080/live/5454/5454/918.ts
+#EXTINF:-1,Real Madrid TV
+http://149.202.78.137:8080/live/5454/5454/947.ts
+#EXTINF:-1,EQUIDIA Life
+http://149.202.78.137:8080/live/5454/5454/948.ts
+#EXTINF:-1,EQUIDIA LIVE
+http://149.202.78.137:8080/live/5454/5454/949.ts
+#EXTINF:-1,BEIN SPORT 1 FR HD
+http://149.202.78.137:8080/live/5454/5454/954.ts
+#EXTINF:-1,BEIN SPORT 2 FR
+http://149.202.78.137:8080/live/5454/5454/953.ts
+#EXTINF:-1,BEIN SPORT 3 FR
+http://149.202.78.137:8080/live/5454/5454/952.ts
+#EXTINF:-1,FR Eurosport 1
+http://149.202.78.137:8080/live/5454/5454/951.ts
+#EXTINF:-1,FR Eurosport 2
+http://149.202.78.137:8080/live/5454/5454/950.ts
+#EXTINF:-1,BEIN 1 HD
+http://149.202.78.137:8080/live/5454/5454/942.ts
+#EXTINF:-1,BEIN 2 HD
+http://149.202.78.137:8080/live/5454/5454/941.ts
+#EXTINF:-1,BEIN 3 HD
+http://149.202.78.137:8080/live/5454/5454/940.ts
+#EXTINF:-1,BEIN 4 HD
+http://149.202.78.137:8080/live/5454/5454/939.ts
+#EXTINF:-1,BEIN 5 HD
+http://149.202.78.137:8080/live/5454/5454/938.ts
+#EXTINF:-1,BEIN 6 HD
+http://149.202.78.137:8080/live/5454/5454/937.ts
+#EXTINF:-1,BEIN 7 HD
+http://149.202.78.137:8080/live/5454/5454/936.ts
+#EXTINF:-1,BEIN 8 HD
+http://149.202.78.137:8080/live/5454/5454/935.ts
+#EXTINF:-1,BEIN 9 HD
+http://149.202.78.137:8080/live/5454/5454/934.ts
+#EXTINF:-1,BEIN 10 HD
+http://149.202.78.137:8080/live/5454/5454/933.ts
+#EXTINF:-1,BEIN 11 HD
+http://149.202.78.137:8080/live/5454/5454/932.ts
+#EXTINF:-1,BEIN 12 HD
+http://149.202.78.137:8080/live/5454/5454/931.ts
+#EXTINF:-1,BEIN 13 HD
+http://149.202.78.137:8080/live/5454/5454/930.ts
+#EXTINF:-1,BARCA TV
+http://149.202.78.137:8080/live/5454/5454/914.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 1 HD
+http://149.202.78.137:8080/live/5454/5454/3045.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 2 HD !!! weekend only !!!
+http://149.202.78.137:8080/live/5454/5454/3046.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 3 HD !!! weekend only !!!
+http://149.202.78.137:8080/live/5454/5454/3047.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 4 HD !!! weekend only !!!
+http://149.202.78.137:8080/live/5454/5454/3048.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 5 HD !!! weekend only !!!
+http://149.202.78.137:8080/live/5454/5454/3049.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 6 HD !!! weekend only !!!
+http://149.202.78.137:8080/live/5454/5454/3050.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 7 HD !!! weekend only !!!
+http://149.202.78.137:8080/live/5454/5454/3051.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 8 HD !!! weekend only !!!
+http://149.202.78.137:8080/live/5454/5454/3052.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 9 HD !!! weekend only !!!
+http://149.202.78.137:8080/live/5454/5454/3053.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 10 HD !!! weekend only !!!
+http://149.202.78.137:8080/live/5454/5454/3054.ts
+#EXTINF:-1,ARENA SPORT 1 HR
+http://149.202.78.137:8080/live/5454/5454/3076.ts
+#EXTINF:-1,ARENA SPORT 2 HR
+http://149.202.78.137:8080/live/5454/5454/3077.ts
+#EXTINF:-1,ARENA SPORT 3 HR
+http://149.202.78.137:8080/live/5454/5454/3078.ts
+#EXTINF:-1,ARENA SPORT 4 HR
+http://149.202.78.137:8080/live/5454/5454/3079.ts
+#EXTINF:-1,***** XXX ADULT *****
+http://149.202.78.137:8080/live/5454/5454/26.ts
+#EXTINF:-1,XXX | VÄ°P CHANNEL
+http://149.202.78.137:8080/live/5454/5454/48.ts
+#EXTINF:-1,XXX | VÄ°P CHANNEL 2
+http://149.202.78.137:8080/live/5454/5454/47.ts
+#EXTINF:-1,XXX | VÄ°P CHANNEL 3
+http://149.202.78.137:8080/live/5454/5454/46.ts
+#EXTINF:-1,XXX | PENTHOUSE HD
+http://149.202.78.137:8080/live/5454/5454/44.ts
+#EXTINF:-1,XXX | HUSTLER HD
+http://149.202.78.137:8080/live/5454/5454/43.ts
+#EXTINF:-1,XXX | BLUE HUSTLER TV
+http://149.202.78.137:8080/live/5454/5454/42.ts
+#EXTINF:-1,XXX | DORCEL TV HD
+http://149.202.78.137:8080/live/5454/5454/41.ts
+#EXTINF:-1,XXX | BRAZZERS HD
+http://149.202.78.137:8080/live/5454/5454/40.ts
+#EXTINF:-1,XXX | BRAZZERS EUROPE
+http://149.202.78.137:8080/live/5454/5454/2725.ts
+#EXTINF:-1,XXX | BLACKED
+http://149.202.78.137:8080/live/5454/5454/2727.ts
+#EXTINF:-1,XXX | RU
+http://149.202.78.137:8080/live/5454/5454/39.ts
+#EXTINF:-1,XXX | SCT HQ
+http://149.202.78.137:8080/live/5454/5454/38.ts
+#EXTINF:-1,XXX | SCT 1
+http://149.202.78.137:8080/live/5454/5454/37.ts
+#EXTINF:-1,XXX | SCT 2
+http://149.202.78.137:8080/live/5454/5454/36.ts
+#EXTINF:-1,XXX | SCT 3
+http://149.202.78.137:8080/live/5454/5454/35.ts
+#EXTINF:-1,XXX | PLAYBOY TV HD
+http://149.202.78.137:8080/live/5454/5454/34.ts
+#EXTINF:-1,XXX | YESILCAM ADULT
+http://149.202.78.137:8080/live/5454/5454/33.ts
+#EXTINF:-1,XXX | SEXTV
+http://149.202.78.137:8080/live/5454/5454/2981.ts
+#EXTINF:-1,XXX | SCT1
+http://149.202.78.137:8080/live/5454/5454/2982.ts
+#EXTINF:-1,XXX | REDHOTSEXTU
+http://149.202.78.137:8080/live/5454/5454/2983.ts
+#EXTINF:-1,XXX | PRIVATESPACE
+http://149.202.78.137:8080/live/5454/5454/2984.ts
+#EXTINF:-1,XXX | PORNOXHD
+http://149.202.78.137:8080/live/5454/5454/2988.ts
+#EXTINF:-1,XXX | PENTHOUSEHD
+http://149.202.78.137:8080/live/5454/5454/2979.ts
+#EXTINF:-1,XXX | PASSIONXXX
+http://149.202.78.137:8080/live/5454/5454/2987.ts
+#EXTINF:-1,XXX | MARCDORCELTV
+http://149.202.78.137:8080/live/5454/5454/2985.ts
+#EXTINF:-1,XXX | DARÄ°NGTV
+http://149.202.78.137:8080/live/5454/5454/2980.ts
+#EXTINF:-1,XXX | BABESTATIONXTREME
+http://149.202.78.137:8080/live/5454/5454/2986.ts
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 1
+http://149.202.78.137:8080/movie/5454/5454/2868.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 2
+http://149.202.78.137:8080/movie/5454/5454/2867.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 3
+http://149.202.78.137:8080/movie/5454/5454/2866.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 4
+http://149.202.78.137:8080/movie/5454/5454/2865.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 5
+http://149.202.78.137:8080/movie/5454/5454/2864.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 6
+http://149.202.78.137:8080/movie/5454/5454/2863.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 7
+http://149.202.78.137:8080/movie/5454/5454/2862.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 8
+http://149.202.78.137:8080/movie/5454/5454/2861.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 9
+http://149.202.78.137:8080/movie/5454/5454/2860.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 10
+http://149.202.78.137:8080/movie/5454/5454/2859.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 11
+http://149.202.78.137:8080/movie/5454/5454/2858.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 12
+http://149.202.78.137:8080/movie/5454/5454/2857.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 13
+http://149.202.78.137:8080/movie/5454/5454/2856.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 14
+http://149.202.78.137:8080/movie/5454/5454/2855.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 15
+http://149.202.78.137:8080/movie/5454/5454/2854.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 16
+http://149.202.78.137:8080/movie/5454/5454/2853.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 17
+http://149.202.78.137:8080/movie/5454/5454/2852.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 18
+http://149.202.78.137:8080/movie/5454/5454/2851.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 19
+http://149.202.78.137:8080/movie/5454/5454/2850.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 20
+http://149.202.78.137:8080/movie/5454/5454/2849.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 21
+http://149.202.78.137:8080/movie/5454/5454/2848.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 22
+http://149.202.78.137:8080/movie/5454/5454/2847.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 23
+http://149.202.78.137:8080/movie/5454/5454/2846.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 24
+http://149.202.78.137:8080/movie/5454/5454/2845.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 25
+http://149.202.78.137:8080/movie/5454/5454/2844.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 26
+http://149.202.78.137:8080/movie/5454/5454/2843.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 27
+http://149.202.78.137:8080/movie/5454/5454/2842.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 28
+http://149.202.78.137:8080/movie/5454/5454/2841.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 29
+http://149.202.78.137:8080/movie/5454/5454/2840.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 30
+http://149.202.78.137:8080/movie/5454/5454/2839.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 31
+http://149.202.78.137:8080/movie/5454/5454/2838.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 32
+http://149.202.78.137:8080/movie/5454/5454/2837.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 33
+http://149.202.78.137:8080/movie/5454/5454/2836.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 34
+http://149.202.78.137:8080/movie/5454/5454/2835.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 35
+http://149.202.78.137:8080/movie/5454/5454/2834.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 36
+http://149.202.78.137:8080/movie/5454/5454/2833.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 37
+http://149.202.78.137:8080/movie/5454/5454/2832.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 38
+http://149.202.78.137:8080/movie/5454/5454/2831.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 39
+http://149.202.78.137:8080/movie/5454/5454/2830.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 40
+http://149.202.78.137:8080/movie/5454/5454/2829.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 41
+http://149.202.78.137:8080/movie/5454/5454/2828.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 42
+http://149.202.78.137:8080/movie/5454/5454/2827.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 43
+http://149.202.78.137:8080/movie/5454/5454/2826.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 44
+http://149.202.78.137:8080/movie/5454/5454/2825.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 45
+http://149.202.78.137:8080/movie/5454/5454/2824.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 46
+http://149.202.78.137:8080/movie/5454/5454/2823.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 47
+http://149.202.78.137:8080/movie/5454/5454/2822.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 48
+http://149.202.78.137:8080/movie/5454/5454/2821.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 49
+http://149.202.78.137:8080/movie/5454/5454/2820.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 50
+http://149.202.78.137:8080/movie/5454/5454/2819.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 51
+http://149.202.78.137:8080/movie/5454/5454/2818.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 52
+http://149.202.78.137:8080/movie/5454/5454/2817.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 53
+http://149.202.78.137:8080/movie/5454/5454/2816.mp4
+#EXTINF:-1,ADULT -TURKCE ALTYAZI 54
+http://149.202.78.137:8080/movie/5454/5454/2815.mp4
+#EXTINF:-1,ADULT - Va Va Voom_720p
+http://149.202.78.137:8080/movie/5454/5454/2936.mkv
+#EXTINF:-1,ADULT - Serious Curves_720p
+http://149.202.78.137:8080/movie/5454/5454/2935.mkv
+#EXTINF:-1,ADULT - Morning Moaner_720p
+http://149.202.78.137:8080/movie/5454/5454/2934.mkv
+#EXTINF:-1,ADULT -zzs_brazzers_house_ep005a_1080
+http://149.202.78.137:8080/movie/5454/5454/2978.mkv
+#EXTINF:-1,ADULT -zzs_brazzers_house_ep004a_1080
+http://149.202.78.137:8080/movie/5454/5454/2977.mkv
+#EXTINF:-1,ADULT -zzs_brazzers_house_ep003a_1080
+http://149.202.78.137:8080/movie/5454/5454/2976.mkv
+#EXTINF:-1,ADULT -zzs_brazzers_house_ep002a_1080
+http://149.202.78.137:8080/movie/5454/5454/2975.mkv
+#EXTINF:-1,ADULT -zzs_brazzers_house_ep001a_1080
+http://149.202.78.137:8080/movie/5454/5454/2974.mkv
+#EXTINF:-1,ADULT -Young.White.Booty.World.720
+http://149.202.78.137:8080/movie/5454/5454/2933.mkv
+#EXTINF:-1,ADULT -wetandpuffy.16.06.27.emily.thorne
+http://149.202.78.137:8080/movie/5454/5454/2973.mkv
+#EXTINF:-1,ADULT -viv.16.06.15.arian.and.eveline.dellai
+http://149.202.78.137:8080/movie/5454/5454/2972.mkv
+#EXTINF:-1,ADULT -Tushy.16.08.09.Adriana.Chechik.XXX
+http://149.202.78.137:8080/movie/5454/5454/2931.mkv
+#EXTINF:-1,ADULT -Tushy.16.07.10.Alaina.Dawson.XXX
+http://149.202.78.137:8080/movie/5454/5454/2930.mkv
+#EXTINF:-1,ADULT -Tushy.16.07.05.Jojo.Kiss.XXX
+http://149.202.78.137:8080/movie/5454/5454/2929.mkv
+#EXTINF:-1,ADULT -Tushy.16.06.25.Karly.Baker.XXX.2160
+http://149.202.78.137:8080/movie/5454/5454/2928.mkv
+#EXTINF:-1,ADULT -Theres.A.Black.In.My.Crack.XXX
+http://149.202.78.137:8080/movie/5454/5454/2927.mkv
+#EXTINF:-1,ADULT -The Perfect Maid 2016 1080
+http://149.202.78.137:8080/movie/5454/5454/2925.mkv
+#EXTINF:-1,ADULT -The Perfect Maid 2 2016 1080
+http://149.202.78.137:8080/movie/5454/5454/2924.mkv
+#EXTINF:-1,ADULT -teen-japan-10-suckee-fuckee-saipan
+http://149.202.78.137:8080/movie/5454/5454/2971.mkv
+#EXTINF:-1,ADULT -tds_Elsa Jean TDS 1080
+http://149.202.78.137:8080/movie/5454/5454/2970.mkv
+#EXTINF:-1,ADULT -t4k.16.06.16.amy.summers.wet
+http://149.202.78.137:8080/movie/5454/5454/2969.mkv
+#EXTINF:-1,ADULT -Super Duper_720p
+http://149.202.78.137:8080/movie/5454/5454/2920.mkv
+#EXTINF:-1,ADULT -Suicide Squad XXX A Porn Parody 2016
+http://149.202.78.137:8080/movie/5454/5454/2919.mkv
+#EXTINF:-1,ADULT -Sorority Sisters 2016 720
+http://149.202.78.137:8080/movie/5454/5454/2917.mkv
+#EXTINF:-1,ADULT -Sean Cody - Nathan and Lane Bareback
+http://149.202.78.137:8080/movie/5454/5454/2913.mkv
+#EXTINF:-1,ADULT -Russian Anal Teens 2015 1080
+http://149.202.78.137:8080/movie/5454/5454/2912.mkv
+#EXTINF:-1,ADULT -Russian Anal Teens 2 2016 1080
+http://149.202.78.137:8080/movie/5454/5454/2911.mkv
+#EXTINF:-1,ADULT -Road Head 2016 1080p WEB-DL
+http://149.202.78.137:8080/movie/5454/5454/2910.mkv
+#EXTINF:-1,ADULT -Road Head 2016 1080
+http://149.202.78.137:8080/movie/5454/5454/2909.mkv
+#EXTINF:-1,ADULT -Reunited 2016 1080
+http://149.202.78.137:8080/movie/5454/5454/2908.mkv
+#EXTINF:-1,ADULT -Public Penetration 2015 1080
+http://149.202.78.137:8080/movie/5454/5454/2907.mkv
+#EXTINF:-1,ADULT -Pornstar GO XXX A Porn Parody 2016
+http://149.202.78.137:8080/movie/5454/5454/2905.mkv
+#EXTINF:-1,ADULT -PornFidelity.16.07.27.Kacey.Quinn
+http://149.202.78.137:8080/movie/5454/5454/2904.mkv
+#EXTINF:-1,ADULT -PornFidelity.16.06.24.Lana.Rhoades
+http://149.202.78.137:8080/movie/5454/5454/2903.mkv
+#EXTINF:-1,ADULT -Part 3- zzs_veronica_avluv_vl052016_1080p_12000
+http://149.202.78.137:8080/movie/5454/5454/2901.mkv
+#EXTINF:-1,ADULT -Part 2- zzs_abigail_ana_monique_nikki
+http://149.202.78.137:8080/movie/5454/5454/2900.mkv
+#EXTINF:-1,ADULT -Part 1- zzs_monique_alexander_vl05191
+http://149.202.78.137:8080/movie/5454/5454/2899.mkv
+#EXTINF:-1,ADULT -nb.16.06.16.dolly.little.4k
+http://149.202.78.137:8080/movie/5454/5454/2968.mkv
+#EXTINF:-1,ADULT -mrsc.16.06.17.alexis.fawx.4k
+http://149.202.78.137:8080/movie/5454/5454/2967.mkv
+#EXTINF:-1,ADULT -Moving Day 2016 1080p WEB-DL AAC2
+http://149.202.78.137:8080/movie/5454/5454/2897.mkv
+#EXTINF:-1,ADULT -mfhm.16.06.25.alexis.fawx.4k
+http://149.202.78.137:8080/movie/5454/5454/2966.mkv
+#EXTINF:-1,ADULT -Melissa Got It All_720p
+http://149.202.78.137:8080/movie/5454/5454/2896.mkv
+#EXTINF:-1,ADULT -mda13396_3000
+http://149.202.78.137:8080/movie/5454/5454/2965.mkv
+#EXTINF:-1,ADULT -mc15183-720p
+http://149.202.78.137:8080/movie/5454/5454/2964.mkv
+#EXTINF:-1,ADULT -LynnPops1_Pleae_me
+http://149.202.78.137:8080/movie/5454/5454/2895.mkv
+#EXTINF:-1,ADULT -Lubed.16.07.08.Lucy.Doll.Oiled
+http://149.202.78.137:8080/movie/5454/5454/2894.mkv
+#EXTINF:-1,ADULT -lubed.16.05.27.elsa.jean.oiled.deep
+http://149.202.78.137:8080/movie/5454/5454/2963.mkv
+#EXTINF:-1,ADULT -lubed.16.05.20.skya.novea.wet.shower.sex.4k
+http://149.202.78.137:8080/movie/5454/5454/2962.mkv
+#EXTINF:-1,ADULT -julesjordan.16.06.20.morgan.lee.4k
+http://149.202.78.137:8080/movie/5454/5454/2958.mkv
+#EXTINF:-1,ADULT -Jacks_Back_Ep5_1080
+http://149.202.78.137:8080/movie/5454/5454/2893.mkv
+#EXTINF:-1,ADULT -Jacks_Back_Ep4_1080
+http://149.202.78.137:8080/movie/5454/5454/2892.mkv
+#EXTINF:-1,ADULT -Jacks_Back_Ep3_1080
+http://149.202.78.137:8080/movie/5454/5454/2891.mkv
+#EXTINF:-1,ADULT -Jacks_Back_Ep2_1080
+http://149.202.78.137:8080/movie/5454/5454/2890.mkv
+#EXTINF:-1,ADULT -Jacks_Back_Ep1_1080
+http://149.202.78.137:8080/movie/5454/5454/2889.mkv
+#EXTINF:-1,ADULT -ihaw.16.06.29.allie.haze.4k
+http://149.202.78.137:8080/movie/5454/5454/2955.mkv
+#EXTINF:-1,ADULT -Got It All_720p
+http://149.202.78.137:8080/movie/5454/5454/2885.mkv
+#EXTINF:-1,ADULT -Fantastic Ass_720p
+http://149.202.78.137:8080/movie/5454/5454/2883.mkv
+#EXTINF:-1,ADULT -famedigital.mommy.likes.to.watch.fullhd
+http://149.202.78.137:8080/movie/5454/5454/2954.mkv
+#EXTINF:-1,ADULT -Dirty Minds_720p
+http://149.202.78.137:8080/movie/5454/5454/2882.mkv
+#EXTINF:-1,ADULT -Corbin Fisher - ACM1656
+http://149.202.78.137:8080/movie/5454/5454/2881.mkv
+#EXTINF:-1,ADULT -Colette.16.06.27.Riley.Reid.Straight
+http://149.202.78.137:8080/movie/5454/5454/2880.mkv
+#EXTINF:-1,ADULT -Charlee Monroe - Hello Ass, Hello White
+http://149.202.78.137:8080/movie/5454/5454/2879.mkv
+#EXTINF:-1,ADULT -cff12911-1080p
+http://149.202.78.137:8080/movie/5454/5454/2953.mkv
+#EXTINF:-1,ADULT -btra15186-720p
+http://149.202.78.137:8080/movie/5454/5454/2952.mkv
+#EXTINF:-1,ADULT -Broke Straight Boys - Dan White Jerks
+http://149.202.78.137:8080/movie/5454/5454/2876.mkv
+#EXTINF:-1,ADULT -Broke Straight Boys
+http://149.202.78.137:8080/movie/5454/5454/2878.mkv
+#EXTINF:-1,ADULT -body_in_motion_big-720
+http://149.202.78.137:8080/movie/5454/5454/2950.mkv
+#EXTINF:-1,ADULT -Black.Anal.Virgins.On.The.Molly.2
+http://149.202.78.137:8080/movie/5454/5454/2875.mkv
+#EXTINF:-1,ADULT -bgb_christy_raven_rikki_romi
+http://149.202.78.137:8080/movie/5454/5454/2948.mkv
+#EXTINF:-1,ADULT -bex_elsa_jean_dd020816_1080
+http://149.202.78.137:8080/movie/5454/5454/2947.mkv
+#EXTINF:-1,ADULT -bex_chastity_katie_1080p_12000.
+http://149.202.78.137:8080/movie/5454/5454/2946.mkv
+#EXTINF:-1,ADULT -Beautiful.Girl.Non-stop.Shiofuki.Maomi
+http://149.202.78.137:8080/movie/5454/5454/2874.mkv
+#EXTINF:-1,ADULT -BangBros - Sara Jay , Spicy J, Sarah
+http://149.202.78.137:8080/movie/5454/5454/2873.mkv
+#EXTINF:-1,ADULT -Baked Booty_720p
+http://149.202.78.137:8080/movie/5454/5454/2872.mkv
+#EXTINF:-1,ADULT -Axel Brauns Inked 2 2016 1080p
+http://149.202.78.137:8080/movie/5454/5454/2871.mkv
+#EXTINF:-1,ADULT -atkgfs.16.06.29.cece.capella.4k
+http://149.202.78.137:8080/movie/5454/5454/2945.mkv
+#EXTINF:-1,ADULT -atkgfs.16.06.25.mackenzie.lohan.4k
+http://149.202.78.137:8080/movie/5454/5454/2944.mkv
+#EXTINF:-1,ADULT -atkgfs.16.06.17.elsa.jean.4k
+http://149.202.78.137:8080/movie/5454/5454/2943.mkv
+#EXTINF:-1,ADULT -atkgfs.16.06.125.mackenzie.lohan.4k
+http://149.202.78.137:8080/movie/5454/5454/2942.mkv
+#EXTINF:-1,ADULT -ap15280-720p
+http://149.202.78.137:8080/movie/5454/5454/2941.mkv
+#EXTINF:-1,ADULT -ap15263-720p
+http://149.202.78.137:8080/movie/5454/5454/2940.mkv
+#EXTINF:-1,ADULT -Anna DeVille InterracialPickups
+http://149.202.78.137:8080/movie/5454/5454/2870.mkv
+#EXTINF:-1,ADULT -alsangels.16.06.28.leah.gotti.masturbation
+http://149.202.78.137:8080/movie/5454/5454/2939.mkv
+#EXTINF:-1,ADULT -alsangels.16.06.14.dillion.harper
+http://149.202.78.137:8080/movie/5454/5454/2938.mkv
+#EXTINF:-1,ADULT -af.01.23.16.nikita.bellucci_720
+http://149.202.78.137:8080/movie/5454/5454/2937.mkv
+#EXTINF:-1,ADULT -XXX Neiro Suzuka
+http://149.202.78.137:8080/movie/5454/5454/2312.mkv
+#EXTINF:-1,ADULT -XXX - Yumi Kazama
+http://149.202.78.137:8080/movie/5454/5454/2311.mkv
+#EXTINF:-1,ADULT -XXX - Miku Hasegewa
+http://149.202.78.137:8080/movie/5454/5454/2310.mkv
+#EXTINF:-1,ADULT -XXX - Chinami Sakai
+http://149.202.78.137:8080/movie/5454/5454/2309.mkv
+#EXTINF:-1,ADULT -XXX - Cenusereasa - Porno romanesc
+http://149.202.78.137:8080/movie/5454/5454/2308.mkv
+#EXTINF:-1,ADULT -Videos Pornos Reais Especial Mulatas Peitudas XXX
+http://149.202.78.137:8080/movie/5454/5454/2307.mkv
+#EXTINF:-1,ADULT -Very hot teen blonde porno casting XXX
+http://149.202.78.137:8080/movie/5454/5454/2306.mkv
+#EXTINF:-1,ADULT -Triple extasis XXX
+http://149.202.78.137:8080/movie/5454/5454/2305.mkv
+#EXTINF:-1,ADULT -Torrente X 2 mision en torrelavega
+http://149.202.78.137:8080/movie/5454/5454/2304.mkv
+#EXTINF:-1,ADULT -Teens In Tight Jeans (Full), 2011, Gonzo, +18 Teen, Porno, XXX, DVDRip
+http://149.202.78.137:8080/movie/5454/5454/2303.mkv
+#EXTINF:-1,ADULT -Super picante leonie XXX
+http://149.202.78.137:8080/movie/5454/5454/2302.mkv
+#EXTINF:-1,ADULT -Spunk'd DVD quality by ITDcrew-il miglior film  porno della storia
+http://149.202.78.137:8080/movie/5454/5454/2301.mkv
+#EXTINF:-1,ADULT -Pornorama.2007 XXX
+http://149.202.78.137:8080/movie/5454/5454/2300.mkv
+#EXTINF:-1,ADULT -Pornography.The.Secret.History.Of.Civilization.Part6
+http://149.202.78.137:8080/movie/5454/5454/2299.mkv
+#EXTINF:-1,ADULT -Pornography.The.Secret.History.Of.Civilization.Part5
+http://149.202.78.137:8080/movie/5454/5454/2298.mkv
+#EXTINF:-1,ADULT -Pornography.The.Secret.History.Of.Civilization.Part4
+http://149.202.78.137:8080/movie/5454/5454/2297.mkv
+#EXTINF:-1,ADULT -Pornography.The.Secret.History.Of.Civilization.Part3
+http://149.202.78.137:8080/movie/5454/5454/2296.mkv
+#EXTINF:-1,ADULT -Pornography.The.Secret.History.Of.Civilization.Part2
+http://149.202.78.137:8080/movie/5454/5454/2295.mkv
+#EXTINF:-1,ADULT -Pornography.The.Secret.History.Of.Civilization.Part1
+http://149.202.78.137:8080/movie/5454/5454/2294.mkv
+#EXTINF:-1,ADULT -Porno,Blonde With Huge Black Cook,Anal,Deepthroath,Toys Dildo
+http://149.202.78.137:8080/movie/5454/5454/2293.mkv
+#EXTINF:-1,ADULT -Porno argentino--5 Sentidos XXX
+http://149.202.78.137:8080/movie/5454/5454/2292.mkv
+#EXTINF:-1,ADULT -Porno argentino Secretos De Familia XXX
+http://149.202.78.137:8080/movie/5454/5454/2291.mkv
+#EXTINF:-1,ADULT -Porno argentino Scary Sex Movie XXX
+http://149.202.78.137:8080/movie/5454/5454/2290.mkv
+#EXTINF:-1,ADULT -Porno argentino Reventando colas vol 2 XXX
+http://149.202.78.137:8080/movie/5454/5454/2289.mkv
+#EXTINF:-1,ADULT -Porno argentino Obsesion Sexual XXX
+http://149.202.78.137:8080/movie/5454/5454/2288.mkv
+#EXTINF:-1,ADULT -Porno argentino Comando sexual XXX
+http://149.202.78.137:8080/movie/5454/5454/2287.mkv
+#EXTINF:-1,ADULT -Porno argentino Cazador de Colegialas XXX
+http://149.202.78.137:8080/movie/5454/5454/2286.mkv
+#EXTINF:-1,ADULT -Porno argentino 5 Sentidos XXX
+http://149.202.78.137:8080/movie/5454/5454/2285.mkv
+#EXTINF:-1,ADULT -Pink'o â€“ Saro Una Pornostar
+http://149.202.78.137:8080/movie/5454/5454/2284.mkv
+#EXTINF:-1,ADULT -Neo Pornographia 3 2
+http://149.202.78.137:8080/movie/5454/5454/2282.mkv
+#EXTINF:-1,ADULT -Neo Pornographia 3 1
+http://149.202.78.137:8080/movie/5454/5454/2281.mkv
+#EXTINF:-1,ADULT -NÃ£o Tem Cara de Atriz Porno
+http://149.202.78.137:8080/movie/5454/5454/2283.mkv
+#EXTINF:-1,ADULT -Morbo 51 Porno casero espanyol
+http://149.202.78.137:8080/movie/5454/5454/2280.mkv
+#EXTINF:-1,ADULT -Monalee - 3 on 1 Monalee DAP Piss Porno
+http://149.202.78.137:8080/movie/5454/5454/2279.mkv
+#EXTINF:-1,ADULT -Maliciosa
+http://149.202.78.137:8080/movie/5454/5454/2278.mkv
+#EXTINF:-1,ADULT -Latinas calientes cubanas ardientes
+http://149.202.78.137:8080/movie/5454/5454/2277.mkv
+#EXTINF:-1,ADULT -La novia de mi hermano
+http://149.202.78.137:8080/movie/5454/5454/2276.mkv
+#EXTINF:-1,ADULT -Kim Hollands Porno Casting Night
+http://149.202.78.137:8080/movie/5454/5454/2275.mkv
+#EXTINF:-1,ADULT -John holmes mi lengua es rapida
+http://149.202.78.137:8080/movie/5454/5454/2274.mkv
+#EXTINF:-1,ADULT -Jana Bach - Ooops ich bin ein Porno-Girl
+http://149.202.78.137:8080/movie/5454/5454/2273.mkv
+#EXTINF:-1,ADULT -Iniciadas en el sexo duro
+http://149.202.78.137:8080/movie/5454/5454/2272.mkv
+#EXTINF:-1,ADULT -Hentai-Porno Cartoon Snow White
+http://149.202.78.137:8080/movie/5454/5454/2271.mkv
+#EXTINF:-1,ADULT -Hacemos Una Porno
+http://149.202.78.137:8080/movie/5454/5454/2270.mkv
+#EXTINF:-1,ADULT -Explicita - Videos Pornos Reais 60
+http://149.202.78.137:8080/movie/5454/5454/2269.mkv
+#EXTINF:-1,ADULT -Explicita - Videos Pornos Reais 51
+http://149.202.78.137:8080/movie/5454/5454/2268.mkv
+#EXTINF:-1,ADULT -En familia un hogar muy caliente
+http://149.202.78.137:8080/movie/5454/5454/2267.mkv
+#EXTINF:-1,ADULT -El Voyeur 3 Sexo
+http://149.202.78.137:8080/movie/5454/5454/2266.mkv
+#EXTINF:-1,ADULT -Big Tits Round Asses
+http://149.202.78.137:8080/movie/5454/5454/2265.mkv
+#EXTINF:-1,ADULT -Banyo De Semen
+http://149.202.78.137:8080/movie/5454/5454/2264.mkv
+#EXTINF:-1,ADULT -BangBros - Newbie Jumps On The BangBus
+http://149.202.78.137:8080/movie/5454/5454/2263.mkv
+#EXTINF:-1,ADULT - XXX Movie 7
+http://149.202.78.137:8080/movie/5454/5454/2262.mkv
+#EXTINF:-1,ADULT - XXX Movie 6
+http://149.202.78.137:8080/movie/5454/5454/2261.mkv
+#EXTINF:-1,ADULT - XXX Movie 5
+http://149.202.78.137:8080/movie/5454/5454/2260.mkv
+#EXTINF:-1,ADULT - XXX Movie 4
+http://149.202.78.137:8080/movie/5454/5454/2259.mkv
+#EXTINF:-1,ADULT - XXX Movie 3
+http://149.202.78.137:8080/movie/5454/5454/2258.mkv
+#EXTINF:-1,ADULT - XXX Movie 2
+http://149.202.78.137:8080/movie/5454/5454/2257.mkv
+#EXTINF:-1,ADULT - XXX Movie 1
+http://149.202.78.137:8080/movie/5454/5454/2256.mkv
+
 
 
 
